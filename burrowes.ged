@@ -23891,6 +23891,7 @@
 1 BIRT
 2 DATE 27 Jul 1957
 2 PLAC Feilding, NZL
+2 NOTE Time 14:50, Dr Broad. Discharge Weight 9Ibs
 2 NOTE Birth Index microfiche ref, 6989
 1 SEX F
 1 FAMC @F117@
@@ -23901,6 +23902,7 @@
 2 DATE 23 Jun 1962
 2 NOTE 1st Twin
 2 NOTE Birth Index microfiche ref, 8845
+2 NOTE Was called Mark, but changed to Mathew
 1 DEAT
 2 CAUS Undetected Blockage of the Uretha causing blood poisoning
 2 DATE 17 Jul 1962
@@ -23915,6 +23917,7 @@
 2 DATE 23 Jun 1962
 2 NOTE Birth Index microfiche ref, 8845
 2 NOTE 2nd Twin
+2 NOTE Was called Mathew, but changed to Mark
 1 SEX M
 1 FAMC @F117@
 1 FAMS @F246@
@@ -24123,19 +24126,19 @@
 1 FAMC @F219@
 1 FAMS @F253@
 0 @I222@ INDI
-1 NAME Shane /KING/
+1 NAME Shane Lance /KING/
 1 SEX M
 1 BIRT
 2 DATE 9 Feb 1971
 1 FAMC @F219@
 0 @I223@ INDI
-1 NAME Chad /KING/
+1 NAME Chad Matthew /KING/
 1 SEX M
 1 BIRT
 2 DATE 30 Nov 1973
 1 FAMC @F219@
 0 @I224@ INDI
-1 NAME Kylie /KING/
+1 NAME Kylie Marie /KING/
 1 SEX F
 1 BIRT
 2 DATE 6 Mar 1975
@@ -24174,18 +24177,21 @@
 2 DATE 20 Apr 1970
 1 SEX F
 1 FAMC @F229@
+1 FAMS @F416@
 0 @I232@ INDI
 1 NAME Michelle Kaye /HART/
 1 SEX F
 1 BIRT
 2 DATE 6 Oct 1972
 1 FAMC @F229@
+1 FAMS @F417@
 0 @I233@ INDI
 1 NAME Amanda Nadine /HART/
 1 SEX F
 1 BIRT
 2 DATE 25 Jun 1975
 1 FAMC @F229@
+1 FAMS @F418@
 0 @I234@ INDI
 1 NAME Daniel Richard /HART/
 1 SEX M
@@ -24268,8 +24274,10 @@
 1 SEX F
 1 FAMC @F249@
 0 @I251@ INDI
+1 NAME Graham Charles /BUTCHER/
 1 SEX M
-1 NAME Graham /BUTCHER/
+1 BIRT
+2 DATE 26 Jul 1968
 1 FAMS @F251@
 0 @I252@ INDI
 1 NAME Liam Alfred /BUTCHER/
@@ -24277,8 +24285,10 @@
 1 BIRT
 2 DATE 1 Oct 1995
 0 @I254@ INDI
-1 NAME Jason /TURNER/
+1 NAME Jason Edward /TURNER/
 1 SEX M
+1 BIRT
+2 DATE 31 Jul 1970
 1 FAMS @F253@
 0 @I255@ INDI
 1 NAME Kathleen /HAMILTON/
@@ -27068,6 +27078,30 @@
 2 PLAC Cuba
 1 FAMC @F415@
 1 SOUR Carlos /Burrowes/ @I725@
+0 @I737@ INDI
+1 NAME Kaleb Robert Edward /Turner/
+1 SEX M
+1 BIRT
+2 DATE 10 Aug 1997
+1 FAMC @F253@
+0 @I738@ INDI
+1 NAME Russel /Atkinson/
+1 SEX M
+1 BIRT
+2 DATE 10 Aug 1997
+1 FAMS @F406@
+0 @I739@ INDI
+1 NAME Peter /Gale/
+1 SEX M
+1 FAMS @F416@
+0 @I740@ INDI
+1 NAME Aaron /Worboys/
+1 SEX M
+1 FAMS @F417@
+0 @I741@ INDI
+1 NAME Malcolm /MacIntyre/
+1 SEX M
+1 FAMS @F418@
 0 @F1@ FAM
 1 HUSB @I1@
 1 WIFE @I2@
@@ -27292,6 +27326,11 @@
 3 CONT MOTH: Henrietta /Mason/
 3 CONT WITN: Henry /Herbert/, OCCU Gardener
 3 CONT WITN: ? ? /Herbert/
+2 NOTE NZ National Archives Intention To Marry Register BDM 20/32 Page 990 Entry 236<br>
+3 CONT Christchurch Entries: Dated 1 August 1887.<br> 
+3 CONT Edwin Fitzherbert Burrowes, Billard Marker Aged 34<br>
+3 CONT and Annie Maria GADFIELD, Servant, Aged 22,<br>
+3 CONT Resident CHCH 5 days.<br>
 1 NOTE <IMG SRC="http://www.cs.auckland.ac.nz/~rob/FamilyTree/pics/Stan-Emma-Wed-1920.jpg">
 0 @F104@ FAM
 1 HUSB @I102@
@@ -27586,6 +27625,15 @@
 1 HUSB @I237@
 1 WIFE @I168@
 1 CHIL @I238@
+1 MARR
+2 DATE 22 Mar 1975
+2 PLAC Anglican Church Fielding NZL
+2 NOTE Bridesmaids Lynette Burrowes, Gillian Price, Tracy Burrowes<br>
+2 CONT Flowergirl Justine Price<br>
+2 CONT Best Man Phil Sams<br>
+2 CONT Groomsman Dean Price<br>
+2 CONT Toastmaster Chris Lyon
+1 DIV Y
 0 @F239@ FAM
 1 HUSB @I240@
 1 WIFE @I168@
@@ -27610,8 +27658,9 @@
 0 @F253@ FAM
 1 HUSB @I254@
 1 WIFE @I221@
+1 CHIL @I737@
 1 MARR
-2 DATE 28 Nov 19??
+2 DATE 28 Nov 1993
 0 @F254@ FAM
 1 HUSB @I256@
 1 WIFE @I121@
@@ -28397,6 +28446,7 @@
 3 CONT who we are guessing is the father of our Thomas Fraser Burrowes
 0 @F406@ FAM
 1 WIFE @I238@
+1 HUSB @I738@
 1 CHIL @I708@
 0 @F407@ FAM
 1 HUSB @I715@
@@ -28451,6 +28501,18 @@
 1 WIFE @I735@
 1 CHIL @I736@
 1 SOUR Carlos /Burrowes/ @I725@
+0 @F416@ FAM
+1 HUSB @I739@
+1 WIFE @I231@
+1 MARR Y
+0 @F417@ FAM
+1 HUSB @I740@
+1 WIFE @I232@
+1 MARR Y
+0 @F418@ FAM
+1 HUSB @I741@
+1 WIFE @I233@
+1 MARR Y
 0 @N9@ NOTE ******* Start of Searson families from Paul Murphy UK**********
 0 @SIS1@ SOUR
 1 NAME Paul Murphy @IS84@
@@ -32228,7 +32290,8 @@
 2 DATE 4 Oct 1870
 2 PLAC Demerara, British Guiana.
 1 NOTE After the death of her mother in 1872, she was brought to England and lived with her
-2 CONT mother's relations and later took their name of Imrie.<p>On coming of age she became a
+2 CONT mother's relations and later took their name of Imrie (White Star Shipping Line).<p>
+2 CONT On coming of age she became a
 2 CONT Catholic and Joined the Franciscan Order of Poor Clares.<p>
 2 CONT As Sister Mary Clare, she was Foundress of Sclerder Abbey, near Polperro, Cornwell, and
 2 CONT became its first Mother Abbess. Sister Mary Clare also built the church of St. Mary
