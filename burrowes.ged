@@ -23672,6 +23672,7 @@
 0 @I94@ INDI
 1 SEX F
 1 NAME Annie Maria /GADFIELD/
+1 NOTE <img src="http://www.burrowes.org/FamilyTree/pics/AnnieMariaGadfield.png">
 1 BIRT
 2 DATE 22 Jul 1865
 2 PLAC Withington, Gloucester, ENG.
@@ -23706,6 +23707,7 @@
 0 @I95@ INDI
 1 SEX M
 1 NAME Edwin Fitzherbert (Ted) /BURROWES/
+1 NOTE <img src="http://www.burrowes.org/FamilyTree/pics/EdwinFitzherbertBurrowes.png">
 1 BIRT
 2 DATE 1853
 2 PLAC Georgetown Demerara British Guiana GUY
@@ -23866,10 +23868,12 @@
 1 SEX M
 1 NAME George /JONES/
 1 BIRT
-2 DATE ABT 1856
+2 DATE ABT 1857
 2 PLAC London, England.
-2 SOUR From Emma's Birth Certificate
+2 SOUR Marriage Cert 5th Jan 1882 gives age as 24
+3 NOTE Daughters Birth Cert 10th March 1898 gives age as 42
 1 FAMS @F104@
+1 FAMC @F575@
 0 @I103@ INDI
 1 SEX F
 1 NAME Emma Elizabeth /JONES/
@@ -23906,7 +23910,7 @@
 2 DATE 1921
 2 PLAC Napier, NZL
 2 NOTE Birth Index microfiche ref, 2484
-1 NOTE A picture of Dulcie as a Baby being held by Maude hangs in Parliment Buildings B.G.
+1 NOTE A picture of Dulcie as a Baby being held by Annie hangs in Parliment Buildings B.G.
 1 DEAT
 2 DATE 29 Jul 1996
 2 AGE 75
@@ -25252,6 +25256,9 @@
 2 DATE 6 Jun 1891
 2 PLAC Georgetown Demerara GUY
 2 SOUR The Journal of B.M.H.S. Article by William Pollard of Devon.
+2 NOTE The Argosy, BG, SATURDAY JUNE 13 1891 P 4 COL 1
+3 CONT Died
+3 CONT BURROWS - On the 6th of June, in Main Str., Sarah Maria, widow of the late Abel Alleyne Burrows, aged 75 years.
 1 FAMC @F290@
 1 FAMS @F268@
 0 @I356@ INDI
@@ -25503,6 +25510,7 @@
 1 FAMC @F100@
 0 @I396@ INDI
 1 NAME Nathaniel Weekes /POLLARD/
+1 NOTE <img src="http://www.burrowes.org/FamilyTree/pics/Nathaniel_Weeks_Pollard.jpg" size="50%">
 1 BIRT
 2 DATE 24 Aug 1792
 2 PLAC Barbados
@@ -25614,13 +25622,13 @@
 0 @I407@ INDI
 1 SEX F
 1 NAME Emma /GADFIELD/
+1 NOTE <img src="http://www.burrowes.org/FamilyTree/pics/EmmaGadfield.png">
 1 BIRT
 2 DATE ABT 1862
 2 PLAC Hampnett, GLS, ENG
 1 CHR
 2 DATE 8 Jun 1862
 2 PLAC Hampnett, Gloucestershire, England
-1 NOTE <img src="http://www.burrowes.org/FamilyTree/pics/EmmaPrice.png">
 1 NOTE Aged 19, Nursemaid Ship <a href="http://www.burrowes.org/FamilyTree/pics/OpawaPortChalmers.gif">Opawa</a>,
 2 CONC Sailed 5 Aug 1880 Eng. Arrived 25 Oct 1880 NZ (see White Wings)
 1 DEAT
@@ -25635,6 +25643,7 @@
 0 @I408@ INDI
 1 SEX F
 1 NAME Eliza Sophia (Lizzie) /GADFIELD/
+1 NOTE <img src="http://www.burrowes.org/FamilyTree/pics/ElizaSophiaGadfield.png">
 1 BIRT
 2 DATE 1857
 2 PLAC Hampnell, GLS, ENG
@@ -25671,6 +25680,7 @@
 0 @I411@ INDI
 1 SEX F
 1 NAME Mary Anne /GADFIELD/
+1 NOTE <img src="http://www.burrowes.org/FamilyTree/pics/MaryAnneGadfield.png">
 1 BIRT
 2 DATE 1855
 2 PLAC Hampnett, GLS, ENG
@@ -25797,6 +25807,7 @@
 1 FAMS @FP91@
 0 @I429@ INDI
 1 NAME Nathaniel Weekes /POLLARD/
+1 NOTE <img src="http://www.burrowes.org/FamilyTree/pics/nathaniel_weeks_pollard_ii.jpg" size="50%">
 1 SEX M
 1 BIRT
 2 DATE 6 Jun 1814
@@ -28938,8 +28949,8 @@
 1 SEX F
 1 BIRT
 2 DATE ABT 1838
-2 PLAC Cambridge Eng
-2 SOUR NSW BDM Web site. Mentioned in Childrens Birth records
+2 PLAC Haslingfield, Cambridgeshire, United Kingdom
+2 SOUR Death Cert, and Childrens' birth certs.
 1 IMMI
 2 DATE 22 Jan 1854
 2 SOUR Shipping records Melbourne State Library
@@ -28947,7 +28958,10 @@
 3 NOTE  Jan 22 1854, Wanata. f.r. Ship, 1443t, Capt. John Lee, Southhampton 25/10, Melb 17.9 with 341 Govt Migrants.
 4 CONT Crew in state of Mutiny, Some desert in Pilots boat, 21/1
 1 DEAT
-2 DATE 1894
+2 DATE 13 Jan 1894
+2 CAUS Diabetes, Duration 6 months.
+2 PLAC Reefton, NZL
+2 AGE 55
 1 BURI
 2 DATE 14 Jan 1894
 2 PLAC Reefton Old, NZL
@@ -28955,6 +28969,8 @@
 2 NOTE Cemetery records list Birth place as CAMBRIDGESHIRE
 3 CONT Surname at time of death was Lawson.
 1 FAMS @F489@
+1 FAMS @F577@
+1 FAMC @F576@
 0 @I935@ INDI
 1 NAME Eliza Anne /Dyer/
 1 SEX F
@@ -28975,7 +28991,7 @@
 1 BIRT
 2 DATE ABT 1835
 2 PLAC Southhampton Eng
-1 OCCU Mariner
+1 OCCU Master Mariner
 1 SOUR NSW BDM Web site. Mentioned in Childrens Birth records
 1 FAMS @F489@
 0 @I937@ INDI
@@ -28987,6 +29003,21 @@
 1 DEAT
 2 PLAC Reefton
 1 OCCU Mine Manager
+1 NOTE  From the Cyclopedia of New Zealand 1906.
+2 CONT McMaster, John, Mine Manager, Reefton. 
+2 CONT Mr. McMaster was born in Argyllshire, Scotland, in January, 1847. After he was educated, he was put to engineering
+2 CONC for a short time, and in the year 1567, came to New Zealand and landed at Port Chalmers, from the ship Peraboo.
+2 CONC  About nine months later, Mr. McMaster removed to Hokitika, and was afterwards attracted to Westport by the gold 
+2 CONC fields; while in that district, he was interested in one of the longest protecting tunnels on the field, the face 
+2 CONC of which had been extended the distance of 2,400 feet. Mr. McMaster arrived in Reefton in the year 1871, and was 
+2 CONC subsequently engaged in felling heavy timber, in Broadway, Reefton, and also had charge of the construction of the 
+2 CONC telegraph track, from Reefton to Greymouth; his work, however, was chiefly in connection with mining. Mr. McMaster 
+2 CONC was afterwards overseer of a shift, and mine manager of various claims, such as the Keep It Dark Company's claim 
+2 CONC (of which he was manager for seven years), the Inglewood, the Nil Desperandum, the Lone Star, at Boatman's, and the 
+2 CONC Rainy Creek, and he has managed the Golden Lead claim since the year 1896. As a Freemason, Mr. McMaster is a member 
+2 CONC of the Robert Burns Lodge, and is one of the oldest members of the Order of Oddfellows in the district. In June, 
+2 CONC 1875, he married a daughter of the late Captain Dyer, of the Isle of Wright, whose ship left Brishane, and was 
+2 CONC never heard of afterwards. Mr. McMaster has, surviving, five sons and six daughters.
 1 FAMS @F490@
 0 @I938@ INDI
 1 NAME Alan /McMaster/
@@ -30798,6 +30829,60 @@
 1 BIRT
 2 DATE 1758
 1 FAMC @F539@
+0 @I1182@ INDI
+1 NAME Thomas /Jones/
+1 SEX M
+1 OCCU Groom
+1 FAMS @F575@
+0 @I1183@ INDI
+1 NAME William /Robinson/
+1 SEX M
+1 OCCU Bricklayer
+1 FAMS @F576@
+0 @I1184@ INDI
+1 NAME Mary //
+1 SEX F
+1 FAMS @F576@
+0 @I1185@ INDI
+1 NAME John /Lawson/
+1 SEX M
+1 FAMS @F577@
+0 @I1186@ INDI
+1 NAME /Lawson/
+1 SEX M
+1 BIRT
+2 DATE ABT 1867
+1 FAMC @F577@
+0 @I1187@ INDI
+1 NAME /Lawson/
+1 SEX M
+1 BIRT
+2 DATE ABT 1869
+1 FAMC @F577@
+0 @I1188@ INDI
+1 NAME /Lawson/
+1 SEX M
+1 BIRT
+2 DATE ABT 1871
+1 FAMC @F577@
+0 @I1189@ INDI
+1 NAME /Lawson/
+1 SEX M
+1 BIRT
+2 DATE ABT 1874
+1 FAMC @F577@
+0 @I1190@ INDI
+1 NAME /Lawson/
+1 SEX F
+1 BIRT
+2 DATE ABT 1875
+1 FAMC @F577@
+0 @I1191@ INDI
+1 NAME /Lawson/
+1 SEX F
+1 BIRT
+2 DATE ABT 1877
+1 FAMC @F577@
 0 @F1@ FAM
 1 HUSB @I1@
 1 WIFE @I2@
@@ -30895,13 +30980,13 @@
 3 CONC OFFI: ? /?/
 3 CONC married in the church by banns
 2 SOUR @GAD_S12@
-1 CHIL @I94@
-1 CHIL @I407@
+1 CHIL @I556@
+1 CHIL @I411@
 1 CHIL @I408@
 1 CHIL @I409@
+1 CHIL @I407@
+1 CHIL @I94@
 1 CHIL @I410@
-1 CHIL @I411@
-1 CHIL @I556@
 1 CHIL @I557@
 0 @F21@ FAM
 1 HUSB @I8@
@@ -31134,8 +31219,14 @@
 1 CHIL @I103@
 1 MARR
 2 DATE 29 Jan 1882
-2 PLAC Reefton, NZL
-2 SOUR Birth Certificate of Emma Elizabeth Jones.
+2 PLAC Residence of Clara Louisa Lawson, Broadway Reefton, NZL.
+2 NOTE Witnesses, Clare L Lawson, Mother of Bride
+3 CONT Julia Allen, Dressmaker.
+3 CONT Joseph Lawson Draper.
+3 CONT Father Groom listed as Thomas Jones, Groom. 
+3 CONT Father of Bride, Robert Dyer, Master Moriner. Mother Clara Louisa Lawson, prev Dyer, prev Robinson. 
+3 CONT Bride, domestic servant Age 20 and Groom, Miner Age 24, both residents of Reefton.
+2 SOUR Marriage Cert.
 0 @F111@ FAM
 1 HUSB @I98@
 1 WIFE @I103@
@@ -31147,7 +31238,12 @@
 1 CHIL @I109@
 1 CHIL @I110@
 1 MARR
-2 DATE 1920
+2 DATE 16 Sep 1920
+2 PLAC St Thomas Church Sanson
+2 NOTE Groom 29, Painter, Res Hawera
+3 CONT Bride 22, Res. Hawera
+3 CONT Witnesses, Edwin Fitzherbert Burrowes, Drover Sanson
+3 CONT Lily Riley McCrabe, Domestic Duties, Sanson
 2 NOTE Marriage Index microfiche ref, 2278
 1 NOTE <IMG SRC="http://www.burrowes.org/FamilyTree/pics/Burrowes-Fam-1945.jpg">
 0 @F113@ FAM
@@ -33411,6 +33507,26 @@
 0 @F574@ FAM
 1 HUSB @I1173@
 1 WIFE @I1174@
+0 @F575@ FAM
+1 HUSB @I1182@
+1 CHIL @I102@
+0 @F576@ FAM
+1 HUSB @I1183@
+1 WIFE @I1184@
+1 CHIL @I934@
+0 @F577@ FAM
+1 HUSB @I1185@
+1 WIFE @I934@
+1 CHIL @I1186@
+1 CHIL @I1187@
+1 CHIL @I1188@
+1 CHIL @I1189@
+1 CHIL @I1190@
+1 CHIL @I1191@
+1 MARR
+2 PLAC NSW, Australia
+2 DATE ABT 1863
+2 NOTE Came to NZL about 1865
 0 @FK_S1@ SUBM
 1 NAME Frank William Finikin
 1 ADDR 66 Parson Str, New Plymouth, NZL
@@ -35847,6 +35963,7 @@
 1 SOUR @SIP1@
 1 NAME John /POLLARD/
 1 SEX M
+1 NOTE <img src="http://www.burrowes.org/FamilyTree/pics/john_pollard.jpg" size="50%">
 1 BAPM
 2 DATE 20 May 1765
 2 PLAC St. Philip, Barbados
