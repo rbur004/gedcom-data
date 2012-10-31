@@ -13001,7 +13001,7 @@
 1 BIRT
 2 DATE 21 Oct 1917
 2 PLAC Auckland, NZL
-1 DEATH
+1 DEAT
 2 DATE 16 Sep 1997
 0 @IWS26@ INDI
 1 SOUR @SIW1@
@@ -23349,6 +23349,138 @@
 0 @I64@ INDI
 1 NAME Annie (Nancy) /FINIKIN/
 1 SEX F
+1 NOTE Emigrated to NZL by Pinching Money sent by Sarah and Leo to
+2 CONT let her Mother Harriet and her Brothers Bill, Jack and Alf emigrate.
+1 FAMC @F71@
+1 FAMS @F161@
+0 @I65@ INDI
+1 NAME James (Jim) /FINIKIN/
+1 SEX M
+1 NOTE Stayed in England When Family Emigrated to NZL
+2 CONT Joined Grenadier Guards.
+1 FAMC @F71@
+0 @I66@ INDI
+1 NAME Frankie /FINIKIN/
+1 SEX M
+1 NOTE Stayed in England When Family Emigrated to NZL
+1 FAMC @F71@
+0 @I67@ INDI
+1 NAME William (Bill) /FINIKIN/
+1 SEX M
+1 NOTE Emigrated to NZL
+1 FAMC @F71@
+0 @I68@ INDI
+1 NAME Amy /FINIKIN/
+1 SEX F
+1 NOTE Stayed in England When Family Emigrated to NZL
+1 FAMC @F71@
+0 @I69@ INDI
+1 NAME Jack /FINIKIN/
+1 SEX M
+1 NOTE Emigrated to NZL
+1 FAMC @F71@
+0 @I70@ INDI
+1 NAME Alfred (Alf) /FINIKIN/
+1 SEX M
+1 NOTE Emigrated to NZL
+1 FAMC @F71@
+0 @I72@ INDI
+1 NAME Merinda /Ellis/
+1 SEX F
+1 BIRT
+2 DATE 17 Apr 1854
+2 PLAC Gosport, Isle of Wight, ENG
+1 DEAT
+2 DATE 9 Apr 1924
+2 PLAC Avenue Road (now Coronation Ave) New Plymouth, NZL
+1 BURI
+2 PLAC Te Henui New Plymouth
+2 NOTE <img src="http://www.burrowes.org/FamilyTree/pics/richards-grave.jpg">
+2 NOTE She shares a plot with her husband and son William
+3 CONT It is beside the Mosque. The headstone is an Angel on a Cross
+3 CONT (marble) One wing is broken. The plot is filled with a hebe.
+1 NOTE Emigrated to New Zealand with Husband both aged 21 (no Children).
+2 CONT on Howrah which left England 26 Aug 1874 bound for New Plymouth.
+2 CONT Passaged was payed for under the Assisted Emigration policy and cost £29.
+2 CONT (Source: Ships records held at New Plymouth Museum)
+1 FAMS @F84@
+0 @I73@ INDI
+1 NAME Francis (Frank) /RICHARDS/
+1 SEX M
+1 BIRT
+2 DATE 20 Oct 1875
+2 PLAC New Plymouth, NZL
+1 DEAT
+2 DATE 3 Oct 1944
+1 OCCU Platelayer (at time of marriage)
+1 FAMC @F84@
+1 FAMS @F141@
+0 @I74@ INDI
+1 NAME Catherine (Kate) /RICHARDS/
+1 SEX F
+1 BIRT
+2 DATE 26 Mar 1877
+2 PLAC New Plymouth, NZL
+1 DEAT
+2 DATE 3 May 1934
+1 FAMC @F84@
+1 FAMS @F147@
+0 @I75@ INDI
+1 NAME Grace /RICHARDS/
+1 SEX F
+1 BIRT
+2 PLAC New Plymouth, NZL
+1 FAMC @F84@
+1 FAMS @F151@
+0 @I76@ INDI
+1 NAME Thomas C. /RICHARDS/
+1 SEX M
+1 BIRT
+2 DATE 7 Mar 1879
+2 PLAC New Plymouth, NZL
+1 DEAT
+2 DATE 15 Jul 1948
+1 FAMC @F84@
+0 @I77@ INDI
+1 NAME James /RICHARDS/
+1 SEX M
+1 BIRT
+2 DATE 22 Aug 1880
+2 PLAC New Plymouth, NZL
+1 FAMC @F84@
+1 FAMS @F154@
+0 @I78@ INDI
+1 NAME William Edward /RICHARDS/
+1 SEX M
+1 BIRT
+2 DATE 18 Mar 1882
+2 PLAC New Plymouth, NZL
+1 DEAT
+2 DATE 13 Mar 1913
+2 PLAC Gisbourne Hospital, NZL
+2 CAUS Typhod Caught on Honeymoon
+2 NOTE They had known there was Typhod in the area when they went there on their
+3 CONT honeymoon but had dismissed the possibility that they could catch it.
+1 BURI
+2 PLAC Te Henui New Plymouth
+2 NOTE he shares a plot with his Parents
+3 CONT It is beside the Mosque. The headstone is an Angle on a Cross
+3 CONT (marble) One wing is broken. The plot is filled with a
+3 CONT hebe.
+2 NOTE <img src="http://www.burrowes.org/FamilyTree/pics/richards-grave.jpg">
+1 FAMC @F84@
+1 FAMS @F139@
+0 @I79@ INDI
+1 NAME Harold /RICHARDS/
+1 SEX M
+1 BIRT
+2 DATE 14 May 1883
+2 PLAC New Plymouth, NZL
+1 DEAT
+2 DATE 24 May 1968
+1 FAMC @F84@
+1 FAMS @F156@
+0 @I80@ INDI
 1 NAME Samuel /RICHARDS/
 1 SEX M
 1 BIRT
@@ -23469,17 +23601,24 @@
 2 SOUR Birth Cert from General Register Office London for Registration District Worthleach
 3 CONC 1865 in subdistrict of Chedworth in the county of Gloucester<br>
 3 CONC Registered 21 Aug 1865, by her Mother. Registrar John Gardner.
-1 NOTE <img src="http://www.burrowes.org/FamilyTree/pics/AnnieMariaGadfield150.jpg">
-1 NOTE Aged 17 (15 by my calculations), Nursemaid Gloucester Ship <a href="http://www.burrowes.org/FamilyTree/pics/OpawaPortChalmers.gif">Opawa</a>,
+1 NOTE Sister's pict? <img src="http://www.burrowes.org/FamilyTree/pics/AnnieMariaGadfield150.jpg">
+1 NOTE Aged 17 (15 by my calculations), Nursemaid Gloucester Ship 
+2 CONC <a href="http://www.burrowes.org/FamilyTree/pics/OpawaPortChalmers.gif">Opawa</a>,
 2 CONC Sailed 5 Aug 1880 Eng. Arrived 25 Oct 1880 NZ (see White Wings)
 1 DEAT
 2 DATE 29 Apr 1936
+2 AGE 70
 2 NOTE NZ Death Index microfiche ref, 1382
 2 PLAC Son Stanley's Home in New Plymouth, NZL
 1 BURI
 2 PLAC Te henui New Plymouth
 2 NOTE <a href="http://www.burrowes.org/FamilyTree/EdwinAndAnnie.html">Plot</a>
 3 CONC is just before the first bend on the first path on the left.
+2 DATE 1 May 1936
+2 NOTE Funeral director W Abraham Ltd., 374 Devon Street East, New Plymouth, NZL
+2 SOUR Cemetery Records.
+1 RESI
+2 ADDR Ballance Street, New Plymouth, NZL
 1 CHR
 2 DATE 12 Nov 1865
 2 PLAC Withington, Gloucester, ENG.
@@ -23493,15 +23632,23 @@
 2 DATE 1853
 2 PLAC Georgetown Demerara British Guiana GUY
 1 DEAT
+2 AGE 84
 2 DATE 12 Aug 1936
 2 PLAC Son Stanley's Home in New Plymouth, NZL
 2 NOTE Death Index microfiche ref, 2536
 1 BURI
+2 DATE 14 Aug 1937
+2 SOUR Cemetery Records.
 2 PLAC Te henui New Plymouth
 2 NOTE <a href="http://www.burrowes.org/FamilyTree/EdwinAndAnnie.html">Plot</a>
 3 CONC is just before the first bend on the first path on the left.
+2 NOTE Funeral Director W Abraham Ltd, New Plymouth, NZL
+1 NOTE Occupation at death listed as Drover.
 1 NOTE Emigrated to NZL from BG. He is said to have been a seaman and possibly jumped ship
 2 CONC in Christchurch (aged 16).
+1 RESI
+2 ADDR Ballance Street, New Plymouth, NZL
+2 NOTE At time of death.
 1 FAMC @F268@
 1 FAMS @F100@
 0 @I96@ INDI
@@ -23521,6 +23668,20 @@
 2 NOTE GODP: Emily Louisa Purdom
 2 SOUR Extract from the Register of Baptisms in the District of Blenheim New Zealand, in the Year
 3 CONC our Lord 1896 in the Diocese of Nelson (dated 29th March 1971)
+1 DEAT
+2 DATE 13 Apr 1987
+2 AGE 90
+1 BURI
+2 DATE 15 Apr 1987
+2 PLAC Kelvin Grove, Palmerston North, NZL
+2 NOTE Area B, Block 003, Plot 006 (With Husband)
+3 CONT PLOT Purchased by E M McConachie (Herself, at time of Husbands death in 1946)
+2 NOTE Funeral Director Griggs.
+2 SOUR Palmerston North City Council Cemetery Records.
+2 NOTE Record list Denomination as Salvation Army
+1 RESI
+2 ADDR 48 Buick Cres., Palmerston North, NZL
+2 NOTE At time of death
 1 FAMC @F100@
 1 FAMS @F113@
 0 @I97@ INDI
@@ -23554,12 +23715,15 @@
 2 NOTE Birth Index microfiche ref, 1539
 3 CONC Named after: Stanley is a surname, Gadfield is Mother's nee surname, Aglionby is a surname
 1 DEAT
+2 AGE 77
 2 DATE 28 Oct 1968
 2 PLAC NEW PLYMOUTH Public Hospital, NZL
 2 NOTE Death Index microfiche ref, 6216
 1 CREM
 2 PLAC New Plymouth
 2 DATE 31 Oct 1968
+2 NOTE Funeral Director W Abraham Ltd, New Plymouth, NZL
+2 SOUR Cemetery Records.
 1 NOTE 11/1296 Trooper 6th Wellington Mounted Rifles
 2 CONT Lance Cpl, NZ Mounted Field Ambulance
 2 CONC Army Record (microfiche of WWI nominal roles) shows Single,
@@ -23574,15 +23738,24 @@
 1 FAMC @F100@
 1 FAMS @F111@
 0 @I99@ INDI
-1 NAME Emmelie May (Emmie) /BURROWES/
+1 NAME Emmeline May (Emmie) /BURROWES/
 1 FAMC @F100@
 1 BIRT
 2 DATE 1900
 2 NOTE Birth Index microfiche ref, 3031
 1 DEAT
-2 DATE 1981
+2 DATE 5 Nov 1981
+2 AGE 81
 2 PLAC Palmerston North, NZL
 2 NOTE Death Index microfiche ref, 23503
+2 NOTE Address at Death Flat 24 Papaeoia Place, Palmerston North, NZL
+1 BURI
+2 DATE 6 Nov 1981
+2 PLAC Kelvin Grove Cemetery, Palmerston North, NZL
+2 NOTE Area R, Block 11, Plot 12 (6th in from end)
+2 SOUR Palmerston North City Council Cemetery Records.
+2 NOTE Funeral Director: Griggs.
+2 NOTE Plot Purchased by E Burrowes.
 1 NOTE Died unmarried.
 0 @I101@ INDI
 1 SEX F
@@ -23625,11 +23798,18 @@
 3 CONT The Informant was George Jones , Father, Reefton.
 1 DEAT
 2 DATE 6 Oct 1978
+2 AGE 80
 2 PLAC Palmerston North Hospital
 2 NOTE Death Index microfiche ref, 22635
 1 CREM
 2 PLAC New Plymouth
 2 DATE 9 Oct 1978
+2 NOTE Ashes scattered in garden of rememberance. 
+2 NOTE Funeral director Vospers Funeral Home, 257 Devon Street East, New Plymouth, NZL
+2 SOUR Cemetery Records.
+1 RESI
+2 ADDR 4 Drake Street, New Plymouth, NZL
+2 NOTE At time of death.
 1 FAMC @F104@
 1 FAMS @F111@
 0 @I105@ INDI
@@ -23640,6 +23820,17 @@
 2 PLAC Napier, NZL
 2 NOTE Birth Index microfiche ref, 2484
 1 NOTE A picture of Dulcie as a Baby being held by Maude hangs in Parliment Buildings B.G.
+1 DEAT
+2 DATE 29 Jul 1996
+2 AGE 75
+2 PLAC Palmerston North Public Hospital, NZL
+1 OCCU Enrolled Nurse (Retired)
+1 CREM
+2 DATE 31 Jul 1996
+2 PLAC Kelvin Grove, Palmerston North, NZL
+2 NOTE Ashes Scattered 
+2 NOTE Funeral Director R J Cotton
+2 SOUR Palmerston North City Council Cemetery Records.
 1 FAMC @F111@
 1 FAMS @F176@
 0 @I106@ INDI
@@ -23713,6 +23904,14 @@
 2 DATE 1928
 2 PLAC Bulls, NZL.
 2 NOTE Birth Index microfiche ref, 2701
+1 DEAT
+2 DATE 22 May 2005
+2 AGE 78
+1 CREM
+2 DATE 24 May 2005
+2 NOTE Ashes take away 25 May 2005
+2 NOTE Funeral Director W Abraham Ltd, New Plymouth, NZL
+2 SOUR Cemetery Records
 1 FAMC @F111@
 1 FAMS @F186@
 0 @I112@ INDI
@@ -23724,6 +23923,15 @@
 2 PLAC Bridge End Carradale, Saddell, Argyll, Scotland
 2 NOTE Registered 25 Sep 1880 at Saddell School House. Registrar Donald Carmichael
 2 SOUR Birth Cert.
+1 DEAT
+2 DATE 17 Oct 1946
+2 AGE 66
+1 OCCU Labourer Sanson
+1 BURI
+2 DATE 19 Oct 1946
+2 PLAC Kelvin Grove, Palmerston North, NZL
+2 NOTE Area B, Block 003, Plot 006
+2 NOTE Plot Purchased by Evelyn M McConnachie (Wife)
 1 FAMS @F113@
 1 FAMC @F281@
 0 @I114@ INDI
@@ -23733,6 +23941,7 @@
 2 DATE 28 Feb 1920
 1 DEAT
 2 DATE 11 Jan 1995
+2 NOTE <img src="http://www.burrowes.org/FamilyTree/pics/audreys-grave.jpg">
 1 FAMC @F116@
 1 FAMS @F173@
 0 @I115@ INDI
@@ -24982,8 +25191,20 @@
 1 DEAT
 2 NOTE Thelma said he died soon after Andrew and Audrey's Wedding (circa 1946)
 0 @I359@ INDI
-1 NAME Donald /McCONACHIE/
+1 NAME Donald Edwin /McCONACHIE/
 1 SEX M
+1 DEAT
+2 DATE 28 Mar 2002
+2 PLAC Palmerston North, NZL
+2 AGE 73
+1 CREM
+2 DATE 3 Apr 2002
+2 PLAC Kelvin Grove, Palmerston North
+2 SOUR Palmerston North City Council Cemetery Records
+2 NOTE Funeral Director: R J Cotton.
+2 NOTE Record states ashes taken away, but also has Area B, Block 003, Plot 006 (his parent's grave)
+1 RESI
+2 ADDR 48 Buick Cres., Palmerston North, NZL
 1 FAMC @F113@
 1 FAMS @F273@
 0 @I360@ INDI
@@ -25176,9 +25397,13 @@
 2 SOUR St Marks Opawa, NZL. Reg. 2 216A
 2 NOTE Father listed as Labourer, Sponsors Emma Gadfield and Parents.
 1 DEAT
-2 DATE 1909
-2 PLAC Hawera NZL
+2 DATE 22 Jun 1909
+2 AGE 20
+2 PLAC Hawera Hospital NZL
 2 NOTE Death Index microfiche ref 3848
+1 BURI
+2 PLAC Hawera Cemetery NZL
+2 NOTE Plot ID 469 Block X11 Plot 10 (No Grave Stone Remains)
 1 FAMC @F100@
 0 @I396@ INDI
 1 NAME Nathaniel Weekes /POLLARD/
@@ -30265,7 +30490,7 @@
 1 CHIL @I594@
 1 MARR
 2 DATE Nov 1988
-1 DIVO
+1 DIV
 2 SOUR Brighid
 0 @F372@ FAM
 1 HUSB @I596@
@@ -30563,7 +30788,7 @@
 2 DATE 6 Jan 2001
 2 PLAC Melbourne , Au
 1 SOUR Email from Ubaldino Mantelli (I753) 19 Jun 2001
-1 DIVO Y
+1 DIV Y
 2 SOUR Brighid
 0 @F425@ FAM
 1 HUSB @I756@
@@ -49334,6 +49559,463 @@
 1 FAMS @FR623@
 1 FAMC @FR435@
 0 @IR1163@ INDI
+1 SOUR @SIR1@
+1 NAME Charlotte Albertine //
+1 SEX F
+1 BIRT
+2 DATE 1713
+1 DEAT
+2 DATE 1714
+1 FAMC @FR435@
+0 @IR1164@ INDI
+1 SOUR @SIR1@
+1 NAME Frederica Louise //
+1 SEX F
+1 BIRT
+2 DATE 1714
+1 DEAT
+2 DATE 1784
+1 FAMC @FR435@
+0 @IR1165@ INDI
+1 SOUR @SIR1@
+1 NAME Philippine Charlotte //
+1 SEX F
+1 BIRT
+2 DATE 1716
+1 DEAT
+2 DATE 1801
+1 FAMC @FR435@
+0 @IR1166@ INDI
+1 SOUR @SIR1@
+1 NAME Louis Charles William //
+1 SEX M
+1 BIRT
+2 DATE 1717
+1 DEAT
+2 DATE 1719
+1 FAMC @FR435@
+0 @IR1167@ INDI
+1 SOUR @SIR1@
+1 NAME Sophia //
+1 SEX F
+1 BIRT
+2 DATE 1719
+1 DEAT
+2 DATE 1765
+1 FAMC @FR435@
+0 @IR1168@ INDI
+1 SOUR @SIR1@
+1 NAME Louise Ulrika //
+1 SEX F
+1 BIRT
+2 DATE 1720
+1 DEAT
+2 DATE 1782
+1 FAMC @FR435@
+0 @IR1169@ INDI
+1 SOUR @SIR1@
+1 NAME Anna Amelia //
+1 SEX F
+1 BIRT
+2 DATE 1725
+1 DEAT
+2 DATE 1787
+1 FAMC @FR435@
+0 @IR1170@ INDI
+1 SOUR @SIR1@
+1 NAME Henry //
+1 SEX M
+1 BIRT
+2 DATE 1726
+1 DEAT
+2 DATE 1802
+1 FAMC @FR435@
+0 @IR1171@ INDI
+1 SOUR @SIR1@
+1 NAME Ferdinand //
+1 SEX M
+1 BIRT
+2 DATE 1730
+1 DEAT
+2 DATE 1813
+1 FAMC @FR435@
+0 @IR1172@ INDI
+1 SOUR @SIR1@
+1 NAME Heinrich XXII /Reuss/
+1 TITL Prince
+1 SEX M
+1 FAMS @FR278@
+0 @IR1173@ INDI
+1 SOUR @SIR1@
+1 NAME Elizabeth Henrietta /of Hesse-Cassel/
+1 SEX F
+1 BIRT
+2 DATE 8 NOV 1661
+2 PLAC Cassel
+1 DEAT
+2 DATE 27 JUN 1683
+2 PLAC Coln au Der,Spree
+1 FAMS @FR436@
+0 @IR1174@ INDI
+1 SOUR @SIR1@
+1 NAME Louise //
+1 SEX F
+1 BIRT
+2 DATE 1680
+1 DEAT
+2 DATE 1705
+1 FAMC @FR436@
+0 @IR1175@ INDI
+1 SOUR @SIR1@
+1 NAME Frederick I //
+1 TITL King of Sweden
+1 SEX M
+1 FAMC @FR436@
+0 @IR1176@ INDI
+1 SOUR @SIR1@
+1 NAME Sophia Louise /of Mecklenburg-/
+1 SEX F
+1 BIRT
+2 DATE 16 MAY 1685
+1 DEAT
+2 DATE 29 JUL 1735
+2 PLAC Grabow
+1 FAMS @FR437@
+0 @IR1177@ INDI
+1 SOUR @SIR1@
+1 NAME Frederick Augustus //
+1 SEX M
+1 BIRT
+2 DATE 1685
+1 DEAT
+2 DATE 1686
+1 FAMC @FR267@
+0 @IR1178@ INDI
+1 SOUR @SIR1@
+1 NAME Son (stillborn) //
+1 SEX M
+1 FAMC @FR267@
+0 @IR1179@ INDI
+1 SOUR @SIR1@
+1 NAME Augusta /of Austria- Tuscany/
+1 TITL Archduchess
+1 SEX F
+1 BIRT
+2 DATE 1825
+1 DEAT
+2 DATE 1864
+1 FAMS @FR438@
+0 @IR1180@ INDI
+1 SOUR @SIR1@
+1 NAME Leopold //
+1 SEX M
+1 BIRT
+2 DATE 1846
+1 DEAT
+2 DATE 1930
+1 FAMC @FR438@
+0 @IR1181@ INDI
+1 SOUR @SIR1@
+1 NAME Therese //
+1 SEX F
+1 BIRT
+2 DATE 1850
+1 DEAT
+2 DATE 1925
+1 FAMC @FR438@
+0 @IR1182@ INDI
+1 SOUR @SIR1@
+1 NAME Amulf //
+1 SEX M
+1 BIRT
+2 DATE 1852
+1 DEAT
+2 DATE 1907
+1 FAMC @FR438@
+0 @IR1183@ INDI
+1 SOUR @SIR1@
+1 NAME Luitpold //
+1 SEX M
+1 BIRT
+2 DATE 1901
+1 DEAT
+2 DATE 1914
+1 FAMC @FR258@
+0 @IR1184@ INDI
+1 SOUR @SIR1@
+1 NAME Irmingard //
+1 SEX F
+1 BIRT
+2 DATE 1902
+1 DEAT
+2 DATE 1903
+1 FAMC @FR258@
+0 @IR1185@ INDI
+1 SOUR @SIR1@
+1 NAME Rudolf //
+1 SEX M
+1 BIRT
+2 DATE 1909
+1 DEAT
+2 DATE 1912
+1 FAMC @FR258@
+0 @IR1186@ INDI
+1 SOUR @SIR1@
+1 NAME Antoinette /of Luxembourg/
+1 SEX F
+1 BIRT
+2 DATE 1899
+1 DEAT
+2 DATE 1954
+1 FAMS @FR439@
+0 @IR1187@ INDI
+1 SOUR @SIR1@
+1 NAME Henry //
+1 SEX M
+1 BIRT
+2 DATE 1922
+1 DEAT
+2 DATE 1958
+1 FAMC @FR439@
+0 @IR1188@ INDI
+1 SOUR @SIR1@
+1 NAME Irmingard //
+1 SEX F
+1 BIRT
+2 DATE 1923
+1 FAMC @FR439@
+0 @IR1189@ INDI
+1 SOUR @SIR1@
+1 NAME Editha //
+1 SEX F
+1 BIRT
+2 DATE 1924
+1 FAMC @FR439@
+0 @IR1190@ INDI
+1 SOUR @SIR1@
+1 NAME Hilda //
+1 SEX F
+1 BIRT
+2 DATE 1926
+1 NOTE Have an unreadable note which suggests she married twice. M1 Christopher M2 ?
+1 FAMC @FR439@
+0 @IR1191@ INDI
+1 SOUR @SIR1@
+1 NAME Gabriele //
+1 SEX F
+1 BIRT
+2 DATE 1927
+1 FAMC @FR439@
+0 @IR1192@ INDI
+1 SOUR @SIR1@
+1 NAME Sophie //
+1 SEX F
+1 BIRT
+2 DATE 1935
+1 FAMC @FR439@
+0 @IR1193@ INDI
+1 SOUR @SIR1@
+1 NAME Maximilian Joseph //
+1 TITL Duke of Bavaria
+1 SEX M
+1 FAMS @FR440@
+0 @IR1194@ INDI
+1 SOUR @SIR1@
+1 NAME Ludwig //
+1 SEX M
+1 BIRT
+2 DATE 1831
+1 DEAT
+2 DATE 1920
+1 FAMC @FR440@
+0 @IR1195@ INDI
+1 SOUR @SIR1@
+1 NAME Helene //
+1 SEX F
+1 BIRT
+2 DATE 1834
+1 DEAT
+2 DATE 1858
+1 FAMC @FR440@
+0 @IR1196@ INDI
+1 SOUR @SIR1@
+1 NAME Elizabeth //
+1 TITL Empress
+1 SEX F
+1 BIRT
+2 DATE 1837
+1 DEAT
+2 DATE 1898
+1 FAMS @FR532@
+1 FAMC @FR440@
+0 @IR1197@ INDI
+1 SOUR @SIR1@
+1 NAME Karl Theodor (Gackl) //
+1 SEX M
+1 BIRT
+2 DATE 1839
+1 DEAT
+2 DATE 1909
+1 FAMS @FR441@
+1 FAMC @FR440@
+0 @IR1198@ INDI
+1 SOUR @SIR1@
+1 NAME Maria //
+1 SEX F
+1 BIRT
+2 DATE 1841
+1 DEAT
+2 DATE 1925
+1 FAMC @FR440@
+0 @IR1199@ INDI
+1 SOUR @SIR1@
+1 NAME Mathilde //
+1 SEX F
+1 BIRT
+2 DATE 1843
+1 DEAT
+2 DATE 1925
+1 FAMC @FR440@
+0 @IR1200@ INDI
+1 SOUR @SIR1@
+1 NAME Sophie //
+1 SEX F
+1 BIRT
+2 DATE 1847
+1 DEAT
+2 DATE 1897
+1 FAMS @FR533@
+1 FAMC @FR440@
+0 @IR1201@ INDI
+1 SOUR @SIR1@
+1 NAME Maximilian //
+1 SEX M
+1 BIRT
+2 DATE 1849
+1 DEAT
+2 DATE 1893
+1 FAMC @FR440@
+0 @IR1202@ INDI
+1 SOUR @SIR1@
+1 NAME Maria Josepha /of Portugal/
+1 SEX F
+1 BIRT
+2 DATE 1857
+1 DEAT
+2 DATE 1943
+1 FAMS @FR441@
+1 FAMC @FR1361@
+0 @IR1203@ INDI
+1 SOUR @SIR1@
+1 NAME Alexander /Zoubkoff/
+1 SEX M
+1 FAMS @FR442@
+0 @IR1204@ INDI
+1 SOUR @SIR1@
+1 NAME Irene //
+1 SEX F
+1 BIRT
+2 DATE 1939
+1 FAMS @FR657@
+1 FAMC @FR243@
+0 @IR1205@ INDI
+1 SOUR @SIR1@
+1 NAME Margaret //
+1 SEX F
+1 BIRT
+2 DATE 1943
+1 FAMS @FR658@
+1 FAMC @FR243@
+0 @IR1206@ INDI
+1 SOUR @SIR1@
+1 NAME Mary Christina //
+1 SEX F
+1 BIRT
+2 DATE 1947
+1 FAMS @FR659@
+1 FAMC @FR243@
+0 @IR1207@ INDI
+1 SOUR @SIR1@
+1 NAME Claus /von Amsberg/
+1 SEX M
+1 BIRT
+2 DATE 6 SEP 1926
+2 PLAC Dotzingen
+1 FAMS @FR443@
+1 FAMC @FR444@
+0 @IR1208@ INDI
+1 SOUR @SIR1@
+1 NAME William Alexander //
+1 TITL Prince of Orange
+1 SEX M
+1 BIRT
+2 DATE 1967
+1 FAMC @FR443@
+0 @IR1209@ INDI
+1 SOUR @SIR1@
+1 NAME John Friso //
+1 SEX M
+1 BIRT
+2 DATE 1968
+1 FAMC @FR443@
+0 @IR1210@ INDI
+1 SOUR @SIR1@
+1 NAME Constantine //
+1 SEX M
+1 BIRT
+2 DATE 1969
+1 FAMC @FR443@
+0 @IR1211@ INDI
+1 SOUR @SIR1@
+1 NAME Claus /von Amsberg/
+1 SEX M
+1 FAMS @FR444@
+0 @IR1212@ INDI
+1 SOUR @SIR1@
+1 NAME Gosta /von dem Bussche-/
+1 TITL Baroness
+1 SEX F
+1 FAMS @FR444@
+0 @IR1213@ INDI
+1 SOUR @SIR1@
+1 NAME Frederick Francis II /of Mecklenburg-/
+1 TITL Grand Duke
+1 SEX M
+1 BIRT
+2 DATE 1823
+1 DEAT
+2 DATE 1883
+1 FAMS @FR445@
+1 FAMC @FR183@
+0 @IR1214@ INDI
+1 SOUR @SIR1@
+1 NAME Marie /of Schwarzburg- Rudolstadt/
+1 SEX F
+1 FAMS @FR445@
+1 FAMC @FR1256@
+0 @IR1215@ INDI
+1 SOUR @SIR1@
+1 NAME Antoine /de Bourbon/
+1 SEX M
+1 NOTE of France
+1 FAMS @FR446@
+0 @IR1216@ INDI
+1 SOUR @SIR1@
+1 NAME Helene /of Nassau Henrietta/
+1 SEX F
+1 BIRT
+2 DATE 1831
+1 DEAT
+2 DATE 1888
+1 FAMS @FR67@
+0 @IR1217@ INDI
+1 SOUR @SIR1@
+1 NAME Henry VI //
+1 TITL King of England
+1 SEX M
+1 BIRT
+2 DATE 6 DEC 1421
+2 PLAC Windsor Castle,Berkshire,England
 1 DEAT
 2 DATE 21 MAY 1471
 2 PLAC Tower of London,London,England
@@ -81684,7 +82366,15 @@
 1 DEAT
 2 DATE 1923
 1 FAMC @FB1045@
+1 FAMS @FB1049@
 1 FAMS @FB310@
+0 @IB1086@ INDI
+1 SOUR @SIB3@
+1 NAME Henry ALLEYNE /PILE/
+1 SEX M
+1 RESI
+2 ADDR of Warleigh, Barbados.
+1 FAMS @FB1049@
 0 @IB1087@ INDI
 1 SOUR @SIB3@
 1 NAME Bouverie /ALLEYNE/
@@ -84601,6 +85291,12 @@
 1 SOUR @SIB3@
 1 HUSB @IB1083@
 1 CHIL @IB1082@
+0 @FB1049@ FAM
+1 SOUR @SIB3@
+1 HUSB @IB1086@
+1 WIFE @IB1085@
+1 MARR
+2 DATE 5 Jul 1876
 0 @FB1050@ FAM
 1 SOUR @SIB3@
 1 HUSB @IB1206@
@@ -85364,7 +86060,7 @@
 0 @FB1170@ FAM
 1 SOUR @SIB2@
 1 HUSB @IB1074@
-0 @SI_HL1@ SUBM
+0 @SIHL1@ SUBM
 1 NOTE ***************Harvey Linbacks Pollard ancestry*****************
 2 CONC hlineback@mail.smcps.k12.md.us
 1 CHAN
