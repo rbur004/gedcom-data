@@ -867,6 +867,9 @@
 1 BIRT
 2 DATE 25 Nov 1935
 2 PLAC Riverton, NZL
+1 DEAT
+2 DATE 25 May 2004
+1 NOTE Married name McCoubrey
 0 @IW92@ INDI
 1 SOUR @SIW1@
 1 FAMS @FW50@
@@ -11734,7 +11737,7 @@
 1 FAMC @FW725@
 1 NAME Elizabeth Gladys /ADAMS/
 1 BIRT
-2 DATE ABT 1903
+2 DATE 1905
 2 PLAC Otahuhu, NZL
 1 DEAT
 2 PLAC Hamilton, NZL
@@ -12998,6 +13001,8 @@
 1 BIRT
 2 DATE 21 Oct 1917
 2 PLAC Auckland, NZL
+1 DEATH
+2 DATE 16 Sep 1997
 0 @IWS26@ INDI
 1 SOUR @SIW1@
 1 FAMS @FW45@
@@ -16745,7 +16750,7 @@
 1 SOUR @SIW1@
 1 SEX M
 1 FAMS @FW728@
-1 NAME Herbert /SNOOKS/
+1 NAME Herbert /SNOOKES/
 1 DEAT
 2 DATE 1957
 0 @IWS668@ INDI
@@ -16956,13 +16961,13 @@
 1 SEX F
 1 FAMS @FW784@
 0 @IWS703@ INDI
-1 NAME Hugh /SNOOKS/
+1 NAME Hugh /SNOOKES/
 1 FAMC @FW728@
 0 @IWS704@ INDI
-1 NAME Arthur /SNOOKS/
+1 NAME Arthur /SNOOKES/
 1 FAMC @FW728@
 0 @IWS705@ INDI
-1 NAME Gladys Lorraine /SNOOKS/
+1 NAME Gladys Lorraine /SNOOKES/
 1 FAMC @FW728@
 0 @IWS706@ INDI
 1 NAME Jennifer /Adams/
@@ -24821,6 +24826,9 @@
 1 SEX M
 1 BIRT
 2 DATE 16 Dec 1906
+1 DEAT
+2 DATE 12 Nov 2006
+2 PLAC Colchester Hospital, Eng.
 1 SOUR 1996 Who's Who
 1 OCCU Colonial Secretariat BG 1924; Inspector of Labour 1940;
 1 OCCU Deputy Commissioner 
@@ -28952,6 +28960,81 @@
 1 BIRT
 2 DATE ABT 2003
 1 FAMC @F445@
+0 @I988@ INDI
+1 NAME Livia Susan /Mantelli/
+1 SEX F
+1 BIRT
+2 DATE 14 Aug 2004
+2 PLAC Geelong, Australia
+1 FAMC @F420@
+0 @I989@ INDI
+1 NAME Imogene Ruth /Tonks/
+1 SEX F
+1 BIRT
+2 DATE Mar 2002
+1 FAMC @F424@
+0 @I990@ INDI
+1 NAME Gabriel /Tonks/
+1 SEX M
+1 BIRT
+2 DATE Oct 2004
+1 FAMC @F424@
+0 @I991@ INDI
+1 NAME John Thomas /Burrowes/
+1 SEX M
+1 BIRT
+2 DATE 1 Jul 1922
+2 PLAC Antigua
+1 FAMS @F515@
+1 SOUR Daughter Joy
+0 @I992@ INDI
+1 NAME Irene /Huber/
+1 SEX F
+1 BIRT
+2 DATE 21 Jul 1927
+1 FAMS @F515@
+1 SOUR Daughter Joy
+0 @I993@ INDI
+1 NAME Joy Christa /Burrowes/
+1 SEX F
+1 BIRT
+2 DATE 8 Mar 1954
+2 PLAC London, England.
+1 FAMC @F515@
+1 FAMS @F516@
+1 SOUR Herself
+0 @I994@ INDI
+1 NAME Michael /Unterlander/
+1 SEX M
+1 BIRT
+2 DATE 26 Sep 1957
+2 PLAC Toronto, Canada
+1 FAMS @F516@
+1 SOUR Joy, his wife.
+0 @I995@ INDI
+1 NAME Christopher John /Burrowes/
+1 SEX M
+1 BIRT
+2 DATE 20 May 1977
+2 PLAC Toronto, Canada
+1 FAMC @F516@
+1 SOUR Mother
+0 @I996@ INDI
+1 NAME John Christian /Unterlander/
+1 SEX M
+1 BIRT
+2 DATE 21 Mar 1983
+2 PLAC Toronto, Canada
+1 FAMC @F516@
+1 SOUR Mother
+0 @I997@ INDI
+1 NAME James (Jamie) Francis /Unterlander/
+1 SEX M
+1 BIRT
+2 DATE 25 Nov 1984
+2 PLAC Toronto, Canada
+1 FAMC @F516@
+1 SOUR Mother
 0 @F1@ FAM
 1 HUSB @I1@
 1 WIFE @I2@
@@ -30182,6 +30265,8 @@
 1 CHIL @I594@
 1 MARR
 2 DATE Nov 1988
+1 DIVO
+2 SOUR Brighid
 0 @F372@ FAM
 1 HUSB @I596@
 1 WIFE @I584@
@@ -30448,6 +30533,7 @@
 1 WIFE @I592@
 1 CHIL @I754@
 1 CHIL @I801@
+1 CHIL @I988@
 1 MARR
 2 DATE 13 Dec 1997
 2 NOTE Married by the father of the Bride
@@ -30471,10 +30557,14 @@
 0 @F424@ FAM
 1 HUSB @I591@
 1 WIFE @I755@
+1 CHIL @I989@
+1 CHIL @I990@
 1 MARR
 2 DATE 6 Jan 2001
 2 PLAC Melbourne , Au
 1 SOUR Email from Ubaldino Mantelli (I753) 19 Jun 2001
+1 DIVO Y
+2 SOUR Brighid
 0 @F425@ FAM
 1 HUSB @I756@
 1 WIFE @I766@
@@ -31048,6 +31138,16 @@
 1 MARR
 2 NOTE Defacto Marriage Since Abt 1996
 3 CONT Where to be married 27 Dec 2003.
+0 @F515@ FAM
+1 HUSB @I991@
+1 WIFE @I992@
+1 CHIL @I993@
+0 @F516@ FAM
+1 HUSB @I994@
+1 WIFE @I993@
+1 CHIL @I995@
+1 CHIL @I996@
+1 CHIL @I997@
 0 @FK_S1@ SUBM
 1 NAME Frank William Finikin
 1 ADDR 66 Parson Str, New Plymouth, NZL
