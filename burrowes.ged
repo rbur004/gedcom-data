@@ -23404,6 +23404,7 @@
 2 CONT Passaged was payed for under the Assisted Emigration policy and cost £29.
 2 CONT (Source: Ships records held at New Plymouth Museum)
 1 FAMS @F84@
+1 FAMC @F518@
 0 @I73@ INDI
 1 NAME Francis (Frank) /RICHARDS/
 1 SEX M
@@ -23601,7 +23602,6 @@
 2 SOUR Birth Cert from General Register Office London for Registration District Worthleach
 3 CONC 1865 in subdistrict of Chedworth in the county of Gloucester<br>
 3 CONC Registered 21 Aug 1865, by her Mother. Registrar John Gardner.
-1 NOTE Sister's pict? <img src="http://www.burrowes.org/FamilyTree/pics/AnnieMariaGadfield150.jpg">
 1 NOTE Aged 17 (15 by my calculations), Nursemaid Gloucester Ship 
 2 CONC <a href="http://www.burrowes.org/FamilyTree/pics/OpawaPortChalmers.gif">Opawa</a>,
 2 CONC Sailed 5 Aug 1880 Eng. Arrived 25 Oct 1880 NZ (see White Wings)
@@ -23752,7 +23752,8 @@
 1 BURI
 2 DATE 6 Nov 1981
 2 PLAC Kelvin Grove Cemetery, Palmerston North, NZL
-2 NOTE Area R, Block 11, Plot 12 (6th in from end)
+2 NOTE <img src="http://www.burrowes.org/FamilyTree/pics/EmmelineBurrowesGrave.png">
+3 CONT Area R, Block 11, Plot 12 (6th in from end)
 2 SOUR Palmerston North City Council Cemetery Records.
 2 NOTE Funeral Director: Griggs.
 2 NOTE Plot Purchased by E Burrowes.
@@ -23853,15 +23854,15 @@
 1 FAMC @F111@
 1 FAMS @F117@
 1 NOTE Flying Officer 416194 RNZAF 489 Squadron WWII.
-2 CONC An accident while training in Saskatoon Canada saw his plane pulled
-2 CONC apart by the winds in a Cumulonimbus cloud. He parachuted to safety
-2 CONC but a bad landing compacted his spine and crushed several vertebrae
+2 CONT While training in Saskatoon Canada in a sudden storm forced Bert and
+2 CONC his instructor to have to parachuted to safety after they lost control of the plane.
+2 CONC A bad landing compacted his spine and crushed several vertebrae
 2 CONC in his neck, pinching nerves. He was never again able to move his head
 2 CONC without considerable pain (which grew worse with age). His rib cage was
 2 CONC fixed inhibiting his breathing (his
 2 CONC <a href="http://www.burrowes.org/FamilyTree/E.F.G.Burrowes_LogBook/">Pilot's Flying Log Book</a>
 2 CONC  gives the date of this event as July 8 1942). <br>
-2 CONC He continued flying, finished his training
+2 CONT He continued flying, finished his training
 2 CONC and flew 54 missions with the RAF No. 489 Squadron, six in Hampdens followed by
 2 CONC 48 as a Beaufighter pilot. He was awarded the
 2 CONC Distinguished Flying Cross by King George in 1945 just before his
@@ -24966,7 +24967,8 @@
 2 DATE 7 Aug 1896
 1 BURI
 2 DATE 10 Aug 1896
-2 PLAC Heathcote Cem., Christchurch
+2 PLAC Block F, Plot 44 Woolston Cem., Christchurch
+3 SOUR Christchurch City Council Cemetery records.
 2 NOTE Next of Kin listed as William Gadfield (husb.) Labourer.
 3 CONC Res. 27 Stanley Str., Sydenham, CHCH, NZL
 2 SOUR St. Johns Woollaston, 10 St Johns Str., Register SJW I 563
@@ -25521,8 +25523,16 @@
 1 CHR
 2 DATE 8 Jun 1862
 2 PLAC Hampnett, Gloucestershire, England
+1 NOTE <img src="http://www.burrowes.org/FamilyTree/pics/EmmaPrice.png">
 1 NOTE Aged 19, Nursemaid Ship <a href="http://www.burrowes.org/FamilyTree/pics/OpawaPortChalmers.gif">Opawa</a>,
 2 CONC Sailed 5 Aug 1880 Eng. Arrived 25 Oct 1880 NZ (see White Wings)
+1 DEAT
+2 DATE 24 Oct 1953
+2 AGE 91
+1 BURI
+2 DATE 27 Oct 1953
+2 PLAC Block 20, Plot 65 Ruru Lawn Cemetery
+2 NOTE Address 50 Disraeli St, CHCH, NZL. Widow.
 1 FAMS @F295@
 1 FAMC @F13@
 0 @I408@ INDI
@@ -25575,16 +25585,34 @@
 1 FAMC @F13@
 0 @I412@ INDI
 1 SEX M
-1 NAME Unknown /Price/
-1 NOTE Could be Henry W Price d. 1926 Aged 92 Row C Area 2 Sydenham Cemetry inscript. 1239
+1 NAME James Hunter /Price/
+1 BIRT
+2 DATE 7 August 1860
+2 PLAC Monmouth, England
+1 NOTE Emmigrated to NZ Probably with father and brother.
+1 DEAT
+2 DATE 20 May 1926
+1 BURI
+2 PLAC Block 7E, Plot 65 Sydenham Cemetary Christchurch NZL.
+2 NOTE Occupation listed as Secretary, Place of birth as Wales.
+1 NOTE Could be James listed in 1881 Electoral Role for Christchurch South, NZL
+2 CONT Residence St Asaph Str
+2 CONT Occupation Woodturner (which is a match)
+2 CONT A Henry Price is also listed at this address, which could be his father.
+1 FAMC @F520@
+1 FAMS @F521@
 1 FAMS @F295@
 0 @I413@ INDI
 1 SEX M
 1 NAME Henry /Herbert/
+1 NAME Henry Herbert /Ryall/
+1 NOTE Changed name to Herbert. Emmigrated to NZL.
 1 FAMS @F296@
 0 @I414@ INDI
 1 SEX M
 1 NAME Joseph /Herbert/
+1 NAME Joseph /Ryall/
+1 NOTE Changed name to Herbert. Emmigrated to NZL.
 1 FAMS @F297@
 0 @I415@ INDI
 1 SEX M
@@ -25592,7 +25620,7 @@
 1 FAMS @F298@
 0 @I416@ INDI
 1 SEX M
-1 NAME Unknown /Cordery/
+1 NAME John /Cordery/
 1 FAMS @F299@
 0 @I417@ INDI
 1 SEX M
@@ -27277,12 +27305,14 @@
 2 DATE 1995
 1 FAMC @F396@
 0 @I689@ INDI
-1 NAME Saskia /Unknown/
+1 NAME Saskia /GROEN/
 1 SEX F
 1 FAMS @F397@
 0 @I690@ INDI
-1 NAME Susan /Unknown/
+1 NAME Susan Caroline /Park/
 1 SEX F
+1 BIRT
+2 DATE 1960
 1 FAMS @F398@
 0 @I691@ INDI
 1 NAME Barbara /Burrowes/
@@ -27385,11 +27415,20 @@
 1 SOUR <a href="/html?record=I440">Richard Stanley Burrowes</a> search of IGI
 1 NAME John /Burrowes/
 1 SEX M
+1 BIRT
+2 DATE ABT 1695
+1 BAPT
+2 DATE 28 Nov 1697
+2 PLAC St James Barbados
+2 NOTE John & Rebeckah chn of James & Eliza Burrows
 1 FAMS @F405@
+1 FAMC @F517@
 0 @I707@ INDI
 1 SOUR <a href="/html?record=I440">Richard Stanley Burrowes search</a> of IGI
 1 NAME Ann /Stoute/
 1 SEX F
+1 BIRT
+2 DATE ABT 1710
 1 FAMS @F405@
 0 @I708@ INDI
 1 NAME Amber Rose /Atkinson/
@@ -27628,7 +27667,7 @@
 1 SEX M
 1 FAMS @F418@
 0 @I742@ INDI
-1 NAME Kirstie /Hobkirk/
+1 NAME Kirstie MacKenzie /Hobkirk/
 1 SEX F
 1 BIRT
 2 DATE 12 Jan 1997
@@ -29159,6 +29198,8 @@
 1 BIRT
 2 DATE 22 Dec 2003
 2 PLAC NSW Au
+1 NOTE <img src="http://www.burrowes.org/FamilyTree/pics/AlexBurrowes.jpg" size="25%">
+2 CONT ca. 2008
 1 FAMC @F511@
 0 @I983@ INDI
 1 NAME Cliff /Stockman/
@@ -29260,6 +29301,579 @@
 2 PLAC Toronto, Canada
 1 FAMC @F516@
 1 SOUR Mother
+0 @I998@ INDI
+1 NAME James /Burrowes/
+1 SEX M
+1 BIRT
+2 DATE ABT 1660
+1 DEAT
+2 DATE ABT Oct 1702
+2 NOTE Burrowes, James, mason
+3 CONT St James Parish, 10 Feb 1701, RB6/37, p. 515
+3 CONT Sons Robert Burrowes, James Burrowes, and John Burrowes; my wf
+3 CONT is with child; daus Elizabeth Burrowes, Ruth Burrowes, Rebecca
+3 CONT Burrowes, and Rachell Burrowes all at 18 or day of marrioge; wf
+3 CONT Elizabeth Burrowes - Xtrx and Gdn; friends Richard Jackmon and 
+3 CONT Thomas Payne - Gdns. Signed James (x) Burrus
+3 CONT Wit: John Bryan, John Grime
+3 CONT Proved 12 Oct 1702
+1 FAMS @F517@
+0 @I999@ INDI
+1 NAME Elizabeth /Haynes/
+1 NOTE St. Michael Parish marriage register lists her as Mrs Eliza: Haynes
+2 CONT Which could indicate that Haynes is not her maiden name.
+1 SEX F
+1 BIRT
+2 DATE ABT 1660
+1 FAMS @F517@
+0 @I1000@ INDI
+1 NAME James /Burrowes/
+1 SEX M
+1 BIRT
+2 DATE ABT Feb 1693
+1 BAPT
+2 DATE 6 Feb 1693
+2 PLAC St James, Barbados
+2 NOTE James son of James Burrowes & Elizabeth his wf.
+1 FAMC @F517@
+0 @I1001@ INDI
+1 NAME Elizabeth /Burrowes/
+1 SEX F
+1 FAMC @F517@
+0 @I1002@ INDI
+1 NAME Ruth /Burrowes/
+1 SEX F
+1 BIRT
+2 DATE ABT 1697
+1 BAPT
+2 DATE 28 Nov 1697
+2 PLAC St James Barbados
+2 NOTE John & Rebeckah chn of James & Eliza Burrows
+1 FAMC @F517@
+0 @I1003@ INDI
+1 NAME Rebecca /Burrowes/
+1 SEX F
+1 FAMC @F517@
+0 @I1004@ INDI
+1 NAME Rachel /Burrowes/
+1 SEX F
+1 FAMC @F517@
+1 BIRT
+2 DATE ABT 1700
+1 BAPT
+2 DATE 11 Feb 1700
+2 PLAC St James Parish, Barbados
+2 NOTE Rachel dau of James & Eliz: Burrowe
+0 @I1005@ INDI
+1 NAME  /Burrowes/
+1 BIRT
+2 DATE CA 1701
+1 FAMC @F517@
+0 @I1006@ INDI
+1 NAME Thomas /Ellis/
+1 SEX M
+1 BIRT
+2 DATE 1828
+2 PLAC Paul, Cornwall, England
+1 FAMS @F518@
+1 FAMC @F519@
+0 @I1007@ INDI
+1 NAME Grace /Gilliss/
+1 SEX F
+1 BIRT
+2 DATE 1832
+2 PLAC Ludgvan, Cornwall, England
+1 FAMS @F518@
+0 @I1008@ INDI
+1 NAME Maranda /Ellis/
+1 SEX F
+1 BIRT
+2 DATE 1825
+1 PLAC St Paul, Cornwall, England
+1 FAMC @F519@
+0 @I1009@ INDI
+1 NAME Catherine Jane /Ellis/
+1 SEX F
+1 BIRT
+2 DATE 1852
+2 PLAC St Paul, Cornwall, England
+1 FAMC @F518@
+0 @I1010@ INDI
+1 NAME Robert /Ellis/
+1 SEX M
+1 BIRT
+2 DATE 1786
+2 PLAC St Buryan, Cornwall, England
+1 FAMS @F519@
+0 @I1011@ INDI
+1 NAME Jane /Unknown/
+1 SEX F
+1 BIRT
+2 DATE 1785
+2 PLAC Paul, Cornwall, England
+1 FAMS @F519@
+0 @I1012@ INDI
+1 NAME Henry William /Price/
+1 SEX M
+1 NOTE Could be Henry in 1881 Electoral Role Christchurch South NZL, 
+2 CONT Listed as Brass Moulder, Residence St. Asaph Str.
+2 CONT James, probably his son, also listed at this address.
+1 BIRT
+2 DATE ABT 1834
+2 PLAC Eng
+1 DEAT
+2 DATE 9 Feb 1926
+2 PLAC Christchurch NZL
+2 AGE 92
+1 BURI
+2 DATE 12 Feb 1926
+2 PLAC Block 3K, Plot 64, Sydenham Cemetery, Christchurch, NZL
+2 NOTE Occupation Carpenter
+3 CONT Address Ashburton
+1 FAMS @F520@
+0 @I1013@ INDI
+1 NAME Emily /Hunter/
+1 SEX F
+1 FAMS @F520@
+0 @I1014@ INDI
+1 NAME Matilda Jane /Gee/
+1 SEX F
+1 BIRT
+2 DATE 15 May 1863
+1 PLAC NZL
+1 DEAT
+2 PLAC Christchurch NZL
+2 DATE 1 Mar 1906
+2 AGE 42
+2 NOTE Housewife, Caledonian Road, Born NZL.
+1 BURI
+2 DATE 3 Mar 1906
+1 PLAC Block 7E, Plot 65, Sydenham Cemetery, Christchurch, NZL.
+1 FAMS @F521@
+1 FAMC @F522@
+0 @I1015@ INDI
+1 NAME Reginald Curtis /Price/
+1 SEX M
+1 BIRT
+2 DATE Feb 1901
+1 DEAT
+2 DATE 13 May 1901
+2 AGE 12 weeks
+1 BURI
+2 DATE 15 May 1901
+2 PLAC Block 7E, Plot 65, Sydenham Cemetery, Christchurch, NZL.
+2 NOTE Infant, Address Caledonian Road
+1 FAMC @F521@
+0 @I1016@ INDI
+1 NAME /Price/
+1 BIRT
+2 DATE 20 Feb 1906
+1 NOTE Stillborn, twin
+1 DEAT
+2 DATE 20 Feb 1906
+1 BURI
+2 DATE 20 Feb 1906
+2 PLAC Block 3J, Plot 10, Sydenham Cemetery, Christchurch NZL
+1 FAMC @F521@
+0 @I1017@ INDI
+1 NAME /Price/
+1 BIRT
+2 DATE 20 Feb 1906
+1 NOTE Stillborn, twin
+1 DEAT
+2 DATE 20 Feb 1906
+1 BURI
+2 DATE 20 Feb 1906
+2 PLAC Block 3J, Plot 10, Sydenham Cemetery, Christchurch NZL
+1 FAMC @F521@
+0 @I1018@ INDI
+1 NAME Walter /GEE/
+1 SEX M
+1 NOTE Probably related to Thomas Major Gee, due to use of Major as a family name.
+2 CONT Thomas, a Schoolmaster from Middlesex, Eng, arrived NZL aboard Zealandia 14 Nov 1859,
+2 CONT with Wife Rebecca, aged 33 and with children Thomas Major aged 7 and Rebecca Jan aged 1.
+1 FAMS @F522@
+0 @I1019@ INDI
+1 NAME Ruth /Coster/
+1 SEX F
+1 FAMS @F522@
+0 @I1020@ INDI
+1 NAME Walter Coster /Gee/
+1 SEX M
+1 BIRT
+2 DATE 12 Aug 1858
+2 PLAC Christchurch, NZL
+1 DEAT
+2 DATE 4 Nov 1949
+2 PLAC Christchurch NZL
+1 FAMC @F522@
+1 FAMS @F523@
+0 @I1021@ INDI
+1 NAME George Frederick /GEE/
+1 SEX M
+1 BIRT
+2 DATE ABT 1860
+2 PLAC Christchurch, NZL
+1 FAMC @F522@
+1 FAMS @F524@
+0 @I1022@ INDI
+1 NAME Agnes Esther /GEE/
+1 SEX F
+1 BIRT
+2 DATE 1 Aug 1861
+2 PLAC Christchurch NZL
+1 DEAT
+2 DATE 25 May 1871
+2 PLAC Christchurch NZL
+1 FAMC @F522@
+0 @I1023@ INDI
+1 NAME Alfred Charles /Gee/
+1 SEX M
+1 BIRT
+2 DATE 9 Mar 1865
+2 PLAC Christchurch NZL
+1 DEAT
+2 DATE 4 Jul 1886
+2 PLAC Christchurch NZL
+1 FAMC @F522@
+0 @I1024@ INDI
+1 NAME Edmund John /GEE/
+1 SEX M
+1 BIRT
+2 DATE 4 Dec 1869
+2 PLAC Christchurch NZL
+1 DEAT
+2 PLAC Christchurch NZL
+2 DATE 17 Oct 1950
+1 FAMC @F522@
+1 FAMS @F525@
+0 @I1025@ INDI
+1 NAME Grace Miriam /GEE/
+1 SEX F
+1 BIRT
+2 DATE 19 Jan 1871
+2 PLAC NZL
+1 FAMC @F522@
+1 FAMS @F526@
+0 @I1026@ INDI
+1 NAME Ethel Beatrice /Gee/
+1 SEX F
+1 BIRT
+2 DATE 7 May 1874
+1 DEAT
+2 DATE 7 Feb 1875
+1 FAMC @F522@
+0 @I1027@ INDI
+1 NAME Major Aubrey Leopold /Gee/
+1 SEX M
+1 BIRT
+2 DATE 24 Oct 1875
+1 DEAT
+2 DATE 1963
+1 FAMC @F522@
+1 FAMS @F527@
+0 @I1028@ INDI
+1 NAME Neville Selwyn /Gee/
+1 SEX M
+1 BIRT
+2 DATE 24 Oct 1875
+1 DEAT
+2 DATE 16 Dec 1875
+2 PLAC Christchurch NZL
+1 FAMC @F522@
+0 @I1029@ INDI
+1 NAME Everil Maude /Gee/
+1 SEX F
+1 BIRT
+2 DATE 25 May 1877
+2 PLAC Christchurch NZL
+1 FAMC @F522@
+1 FAMS @F528@
+0 @I1030@ INDI
+1 NAME Helen /McFarlane/
+1 SEX F
+1 BIRT
+1 PLAC Christchurch NZL
+1 FAMS @F523@
+0 @I1031@ INDI
+1 NAME Catherine (Kate) /Hamilton/
+1 SEX F
+1 BIRT
+2 DATE 21 Sep 1862
+2 PLAC Cashell St, Christchurch, NZL
+1 DEAT
+2 DATE 15 Aug 1920
+2 PLAC Christchurch, NZL
+1 FAMS @F524@
+0 @I1032@ INDI
+1 NAME Freda /Suckling/
+1 SEX F
+1 FAMS @F525@
+0 @I1033@ INDI
+1 NAME William George /Maber/
+1 SEX M
+1 FAMS @F526@
+0 @I1034@ INDI
+1 NAME Florence Elithan Maria /Graham/
+1 SEX F
+1 BIRT
+2 DATE 1876
+2 PLAC Christchurch NZL
+1 FAMS @F527@
+0 @I1035@ INDI
+1 NAME William David /Owers/
+1 SEX M
+1 FAMS @F528@
+0 @I1036@ INDI
+1 NAME William /Hobkirk/
+1 SEX M
+1 BIRT
+2 DATE 1999
+1 FAMC @F397@
+0 @I1037@ INDI
+1 NAME Piers /Hobkirk/
+1 SEX M
+1 BIRT
+2 DATE 2001
+1 FAMC @F397@
+0 @I1038@ INDI
+1 NAME Robert /Burrowes/
+1 SEX M
+1 FAMC @F517@
+0 @I1039@ INDI
+1 NAME Robert Clarke /Burrowes/
+1 SEX M
+1 BIRT
+2 DATE 9 Jun 1738
+1 BAPT
+2 DATE 1 Jun 1739
+2 PLAC St James Barbados BWI
+2 NOTE Robert b. 9 June 1738 son of John & Ann Burrows,
+3 CONT Elizabeth b 26 May last past dau of ditto.
+1 FAMC @F405@
+1 FAMS @F529@
+0 @I1040@ INDI
+1 NAME Elizabeth /Burrowes/
+1 SEX F
+1 BIRT
+2 DATE 26 May 1739
+1 BAPT
+2 DATE 1 Jun 1739
+2 PLAC St James Barbados BWI
+2 NOTE Robert b. 9 June 1738 son of John & Ann Burrows,
+3 CONT Elizabeth b 26 May last past dau of ditto.
+1 FAMC @F405@
+0 @I1041@ INDI
+1 NAME Elizabeth /Freeman/
+1 SEX F
+1 FAMS @F529@
+0 @I1042@ INDI
+1 NAME Margaret Freeman /Burrowes/
+1 SEX F
+1 BIRT
+2 DATE 2 Mar 1777
+1 BAPT
+2 DATE 9 Mar 1777
+2 PLAC St James Barbados
+1 SOUR Barbados Baptisms, 1637-1800
+2 CONT Page 487, RL1/46, 1777
+2 CONT Mar 9 Margaret Freeman dau of Robert & Elizabeth Burrowes, b, 2nd inst. 
+1 FAMC @F529@
+0 @I1043@ INDI
+1 NAME Thomas /Burrowes/
+1 SEX M
+1 BIRT
+2 DATE 24 Dec 1769
+1 BAPT
+2 PLAC St James Barbados
+2 DATE 10 July 1770
+1 SOUR Barbados Baptisms, 1637-1800
+2 CONT Page 385, RL1/46, 1770
+2 CONT July 10 Thomas son of Robert & Elizabeth Burrowes, b. 24 Dec 1769
+1 FAMC @F529@
+0 @I1044@ INDI
+1 NAME Robert /Burrowes/
+1 SEX M
+1 BIRT
+2 DATE 2 May 1766
+1 BAPT
+2 PLAC St James Barbados
+2 DATE 8 Jul 1766
+1 SOUR Barbados Baptisms, 1637-1800
+2 CONT Page 315, RL1/46, 1766
+2 CONT July 8 Robert son of Robert & Elizabeth Burrowes, b 2 May 1766
+1 FAMC @F529@
+0 @I1045@ INDI
+1 NAME John /Burrowes/
+1 SEX M
+1 BIRT
+2 DATE ABT Aug 1764
+1 BAPT
+2 PLAC St James Barbados
+2 DATE 21 Aug 1764
+1 SOUR Barbados Baptisms, 1637-1800
+2 CONT Page 285, RL1/46, 1764
+2 CONT Aug 21 John son of Robert & Elizabeth Burrowes
+1 FAMC @F529@
+0 @I1046@ INDI
+1 NAME Elizabeth Adams /Burrowes/
+1 SEX F
+1 BIRT
+2 DATE ABT Nov 1762
+1 BAPT
+2 PLAC St James Barbados
+2 DATE 2 Nov 1762
+1 SOUR Barbados Baptisms, 1637-1800
+2 CONT Page 259, RL1/46, 1762
+2 CONT Nov 2 Elizabeth Adams dau of Robert & Elizabeth Burrowes
+1 FAMC @F529@
+1 FAMS @F530@
+0 @I1047@ INDI
+1 NAME Margaret /Burrowes/
+1 SEX F
+1 BIRT
+2 DATE 31 Mar 1771
+1 BAPT
+2 PLAC St James Barbados
+2 DATE 17 May 1771
+1 SOUR Barbados Baptisms, 1637-1800
+2 CONT Page 397, RL1/46, 1771
+2 CONT May 17 Margaret dau of Robert & Elizabeth Burrowes, b. 31 Mar last.
+1 FAMC @F529@
+0 @I1048@ INDI
+1 NAME James /Burrowes/
+1 SEX M
+1 BIRT
+2 DATE ABT 1773
+1 BAPT
+2 PLAC St James Barbados
+2 DATE 1 Jan 1774
+1 SOUR Barbados Baptisms, 1637-1800
+2 CONT Page 435, RL1/46, 1774
+2 CONT Jan 1 James son of Robert & Elizabeth Burrowes
+1 FAMC @F529@
+0 @I1049@ INDI
+1 NAME Edward /Burrowes/
+1 SEX M
+1 BIRT
+2 DATE ABT 1779
+1 BAPT
+2 PLAC St James Barbados
+2 DATE 28 Nov 1779
+1 SOUR Barbados Baptisms, 1637-1800
+2 CONT Page 525, RL1/46, 1779
+2 CONT Nov 28 Edward son of Robert & Elizabeth Burrowes
+1 FAMC @F529@
+0 @I1050@ INDI
+1 NAME William /Burrowes/
+1 SEX M
+1 BIRT
+2 DATE 22 Oct 1767
+1 BAPT
+2 PLAC St James Barbados
+2 DATE 22 Oct 1767
+1 SOUR Barbados Baptisms, 1637-1800
+2 CONT Page 337, RL1/46, 1767
+2 CONT Oct 22 William son of Robert & Elizabeth Burrowes b. & Bapt 24 inst: Oct 1767
+1 FAMC @F529@
+0 @I1051@ INDI
+1 NAME Henry /Thornhill/
+1 SEX M
+1 DEAT
+2 DATE ABT 1781
+2 NOTE Henry Thornhill of St Thomas, Will dated 10 June 1780
+3 CONT To my wife Elizabeth Adams Thornhill 100 pounds per annum and living on my estate Lion Castle until my son Henry attains 21.
+3 CONT To my son Henry at 21 residue of my estate. If he dies under 21 then to my wife Elizabeth Adams she paying my mother Mrs Jane
+3 CONC Thornhill 100 pounds, my sister Mrs Jane Gibson 100 pounds and by brother  Dowding Thornhill 100 pounds. I appoint my wife
+3 CONC executrix, Hon, Robert Burrowes and Benjamin Bostock executors and guardians. (sgd.) Henry Thornhill. Witness: Thomas White, Thomas White junr., Benjamin Farley. Proved 17 December 1781 before James Cunninghame.
+1 FAMC @F531@
+1 FAMS @F530@
+0 @I1052@ INDI
+1 NAME Henry /Thornhill/
+1 SEX M
+1 BIRT
+2 ABT 1780
+1 BAPT
+2 DATE 31 Mar 1782
+2 PLAC St Pas
+1 FAMC @F530@
+0 @I1053@ INDI
+1 NAME Dowding /Thornhill/
+1 SEX M
+1 FAMS @F531@
+0 @I1054@ INDI
+1 NAME Jane /Unknown/
+1 SEX F
+1 FAMS @F531@
+0 @I1055@ INDI
+1 NAME Dowding /Thornhill/
+1 SEX M
+1 FAMC @F531@
+1 FAMS @F532@
+0 @I1056@ INDI
+1 NAME Jane Ann Terrill /Thornhill/
+1 SEX F
+1 FAMC @F531@
+0 @I1057@ INDI
+1 NAME Thomasin Ann /Burrowes/
+1 SEX F
+1 BIRT
+2 DATE 6 Sep 1772
+1 BAPT
+2 PLAC St James Barbados, BWI
+2 DATE 3 Dec 1772
+1 SOUR Page 421, RL1/46, 1772 St James Bapt Records
+2 CONT Dec 3 Thomasin Ann dau of Robert & Elizabeth Burrowes, b, 6 Sep 1772
+1 FAMC @F529@
+1 FAMS @F532@
+0 @I1058@ INDI
+1 NAME Dowding /Thornhill/
+1 SEX M
+1 BIRT
+2 DATE 1 Dec 1796
+2 PLAC Barbados
+1 BAPT
+2 DATE 26 Dec 1796
+2 PLAC St James Barbados, BWI
+1 SOUR St James Bapt Records Page 651, RL1/462 1796
+2 CONT Dec 26 Dowding son of Dowding & Thomasin Ann Thornhill, b. 1 Dec.
+1 FAMC @F532@
+0 @I1059@ INDI
+1 NAME Henry /Thornhill/
+1 SEX M
+1 BIRT
+2 DATE 6 Feb 1799
+2 PLAC Barbados, BWI
+1 BAPT
+2 DATE 10 Mar 1799
+2 PLAC St James, Barbados, BWI
+1 SOUR St James Parish records, Page 661, RL1/46, 1799
+2 CONT Mar 10 Henry Son of Dowding & Thomasin Ann Thornhill, b, 6 Feb
+1 FAMC @F532@
+0 @I1060@ INDI
+1 NAME Robert /Thornhill/
+1 SEX M
+1 BIRT
+2 DATE 23 Dec 1800
+2 PLAC Barbados, BWI
+1 BAPT
+2 DATE 10 May 1801
+2 PLAC St James, Barbados
+1 SOUR St James Bapt Records
+2 CONT May 10 Robert s. of Dowding and T. Ann Thornhill, born 23 Decr.
+1 FAMC @F532@
+0 @I1061@ INDI
+1 NAME Thomasin Ann /Thornhill/
+1 SEX F
+1 BIRT
+2 DATE 5 Nov 1805
+2 PLAC Barbados, BWI
+1 BAPT
+2 PLAC St James, Barbados, BWI
+2 DATE 22 Jul 1806
+1 SOUR St James Bapt records
+2 CONT Jul 22 Thomasin Ann d. of Dowding and T. Ann Thornhill, born 5 Novr. 1805.
+1 FAMC @F532@
 0 @F1@ FAM
 1 HUSB @I1@
 1 WIFE @I2@
@@ -29459,6 +30073,9 @@
 1 CHIL @I82@
 1 CHIL @I83@
 1 NOTE <IMG SRC="http://www.burrowes.org/FamilyTree/pics/Richards-1913.jpg">
+1 MARR
+2 PLAC Penzance, Cornwall, Eng.
+2 DATE Q3 1874
 0 @F89@ FAM
 1 HUSB @I11@
 1 WIFE @I85@
@@ -29471,6 +30088,8 @@
 0 @F100@ FAM
 1 HUSB @I95@
 1 WIFE @I94@
+1 NOTE <IMG SRC="http://www.burrowes.org/FamilyTree/pics/EdwinAndAnnie.png">
+2 CONT Taken at their son, Stanley's wedding in 1920.
 1 CHIL @I395@
 1 CHIL @I98@
 1 CHIL @I397@
@@ -29495,7 +30114,6 @@
 3 CONC Edwin Fitzherbert Burrowes, Billard Marker Aged 34<br>
 3 CONC and Annie Maria GADFIELD, Servant, Aged 22,<br>
 3 CONC Resident CHCH 5 days.<br>
-1 NOTE <IMG SRC="http://www.burrowes.org/FamilyTree/pics/Stan-Emma-Wed-1920.jpg">
 0 @F104@ FAM
 1 HUSB @I102@
 1 WIFE @I101@
@@ -29509,6 +30127,7 @@
 0 @F111@ FAM
 1 HUSB @I98@
 1 WIFE @I103@
+1 NOTE <IMG SRC="http://www.burrowes.org/FamilyTree/pics/StanleyGadfieldAglionbyBurr.png">
 1 CHIL @I105@
 1 CHIL @I106@
 1 CHIL @I107@
@@ -30128,9 +30747,14 @@
 0 @F295@ FAM
 1 HUSB @I412@
 1 WIFE @I407@
+1 MARR
+2 DATE 28 Mar 1907
+2 PLAC Christchurch NZL.
+1 NOTE Groom aged 46, occupation Woodturner.
 0 @F296@ FAM
 1 HUSB @I413@
 1 WIFE @I408@
+1 NOTE <img src="http://www.burrowes.org/FamilyTree/pics/ElizaAndHenryRyall.png">
 1 CHIL @I553@
 1 CHIL @I552@
 1 CHIL @I561@
@@ -30148,6 +30772,8 @@
 0 @F299@ FAM
 1 HUSB @I416@
 1 WIFE @I411@
+1 NOTE <img src="http://www.burrowes.org/FamilyTree/pics/MaryAndJohnCorderey.png">
+1 NOTE At least 2 Children as evidenced by photo
 0 @F300@ FAM
 1 HUSB @I419@
 1 WIFE @I418@
@@ -30631,6 +31257,8 @@
 1 HUSB @I667@
 1 WIFE @I689@
 1 CHIL @I743@
+1 CHIL @I1036@
+1 CHIL @I1037@
 0 @F398@ FAM
 1 HUSB @I668@
 1 WIFE @I690@
@@ -30671,11 +31299,17 @@
 1 WIFE @I707@
 1 CHIL @I821@
 1 CHIL @I822@
+1 CHIL @I1039@
+1 CHIL @I1040@
 1 CHIL @I823@
 1 CHIL @I704@
 2 NOTE We are guessing that the IGI entry for this birth is for the same Philip Burrowes
 3 CONC who we are guessing is the father of our Thomas Fraser Burrowes
 1 CHIL @I824@
+1 MARR
+2 DATE 22 May 1734
+2 PLAC St James Barbados
+2 NOTE Groom's parents listed as John and Elizabeth (nee Haynes).
 0 @F406@ FAM
 1 WIFE @I238@
 1 HUSB @I738@
@@ -31333,6 +31967,7 @@
 0 @F511@ FAM
 1 HUSB @I171@
 1 WIFE @I980@
+1 NOTE <img src="http://www.burrowes.org/FamilyTree/pics/markwed.png">
 1 CHIL @I982@
 1 MARR
 2 DATE 10 Aug 2003
@@ -31373,6 +32008,144 @@
 1 CHIL @I995@
 1 CHIL @I996@
 1 CHIL @I997@
+0 @F517@ FAM
+1 HUSB @I998@
+1 WIFE @I999@
+1 CHIL @I1038@
+1 CHIL @I1000@
+1 CHIL @I706@
+1 CHIL @I1001@
+1 CHIL @I1002@
+1 CHIL @I1003@
+1 CHIL @I1004@
+1 CHIL @I1005@
+1 MARR
+2 DATE 15 JAN 1684
+2 PLAC St Michael Barbados
+0 @F518@ FAM
+1 HUSB @I1006@
+1 WIFE @I1007@
+1 CHIL @I1009@
+1 CHIL @I72@
+1 MARR
+2 PLAC Penzance, Cornwall, Eng
+2 DATE Q4 1851
+0 @F519@ FAM
+1 HUSB @I1010@
+1 WIFE @I1011@
+1 CHIL @I1008@
+1 CHIL @I1006@
+0 @F520@ FAM
+1 HUSB @I1012@
+1 WIFE @I1013@
+1 CHIL @I412@
+0 @F521@ FAM
+1 HUSB @I412@
+1 WIFE @I1014@
+1 MARR
+2 DATE 1884
+2 PLAC NZL
+1 CHIL @I1015@
+1 CHIL @I1016@
+1 CHIL @I1017@
+0 @F522@ FAM
+1 HUSB @I1018@
+1 WIFE @I1019@
+1 MARR
+2 DATE 15 Apr 1856
+2 PLAC St Paul's Papanui, Christchurch, NZL
+2 NOTE Groom occupation Blind Maker.
+2 NOTE Witnesses Thomas Coster, Thomas Gee, Eliza Coster.
+1 CHIL @I1020@
+1 CHIL @I1021@
+1 CHIL @I1022@
+1 CHIL @I1014@
+1 CHIL @I1023@
+1 CHIL @I1024@
+1 CHIL @I1025@
+1 CHIL @I1026@
+1 CHIL @I1027@
+1 CHIL @I1028@
+1 CHIL @I1029@
+0 @F523@ FAM
+1 HUSB @I1020@
+1 WIFE @I1030@
+1 MARR
+2 DATE 28 Sept 1881
+2 PLAC St Luke's Christchurch NZL
+2 NOTE Witnesses G F Gee, tinsmith Chch; Walter Gee, Blindmaker, Chch; David and Mary McFarlane.
+0 @F524@ FAM
+1 HUSB @I1021@
+1 WIFE @1031@
+1 MARR
+2 DATE 19 Ju0l 1881
+2 PLAC The Manse, St Andrew's Presbyterian church, Christchurch NZL
+2 NOTE Witnesses John F Sheppard, Manse, Gardener; Ann Hamilton, Durham Str, Householder.
+0 @F525@ FAM
+1 HUSB @I1024@
+1 WIFE @I1032@
+1 MARR
+2 DATE 1899
+0 @F526@ FAM
+1 HUSB @I1033@
+1 WIFE @I1025@
+1 MARR
+2 DATE 1890
+0 @F527@ FAM
+1 HUSB @I1027@
+1 WIFE @I1034@
+1 MARR
+2 DATE 28 Nov 1897
+0 @F528@ FAM
+1 HUSB @I1035@
+1 WIFE @I1029@
+1 MARR
+2 DATE 1912
+0 @F529@ FAM
+1 HUSB @I1039@
+1 WIFE @I1041@
+1 MARR
+2 DATE 4 Feb 1762
+2 PLAC St Thomas Barbados BWI
+2 NOTE Page 150, RLI/49, L762.
+3 CONT 1762
+3 CONT Feb 4 Robert Burrowes & Elizabeth Freeman, in B: town
+1 CHIL @I1046@
+1 CHIL @I1045@
+1 CHIL @I1044@
+1 CHIL @I1050@
+1 CHIL @I1043@
+1 CHIL @I1047@
+1 CHIL @Sable_I05663@
+1 CHIL @I1057@
+1 CHIL @I1048@
+1 CHIL @I1042@
+1 CHIL @I1049@
+0 @F530@ FAM
+1 HUSB @I1051@
+1 WIFE @I1046@
+1 MARR
+2 DATE 24 Jun 1779
+2 PLAC St James Barbados BWI
+1 CHIL @I1052@
+0 @F531@ FAM
+1 HUSB @I1053@
+1 WIFE @I1054@
+1 CHIL @I1051@
+1 CHIL @I1055@
+1 CHIL @I1056@
+0 @F532@ FAM
+1 HUSB @I1055@
+1 WIFE @I1057@
+1 MARR
+2 DATE 25 Nov 1795
+2 PLAC St James Barbados
+1 SOUR St James Register, Page 645, RL1/45, 1795
+2 CONT Nov 25 Dowding Thornhill & Thomasin Ann Burrowes, by licences.
+1 CHIL @I1058@
+1 CHIL @I1059@
+1 CHIL @I1060@
+1 CHIL @I1061@
 0 @FK_S1@ SUBM
 1 NAME Frank William Finikin
 1 ADDR 66 Parson Str, New Plymouth, NZL
