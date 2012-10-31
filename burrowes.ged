@@ -16753,11 +16753,12 @@
 1 NAME Thomas Fraser /BURROWES/
 1 SEX M
 1 SOUR Edmund Stanley Spencer /BURROWES/ @I346@ in letter 28 Sep 1995 to Barbara McConnachie @I360@
-1 NOTE Edmund says he came from Cork in Ireland and moved to BWI.
-2 CONT Emmie @I99@ suggests he is the one that married the Aglionby. except she said his name
-2 CONT was Edwin Fitzherbert. She said his wife was Asthmatic and they thought the BWI
-2 CONT climate would help. 
-2 CONT Backing this up is a GGrandson was named Thomas Fraser Burrowes.
+2 CONT Backing this we has a cousin twice removed named <a href="/html/I350">Thomas Fraser Burrowes</a>.
+1 NOTE <a href="/html/I346">Edmund</a> says his grave has "of Cork" (Ireland) on it.
+2 CONT <a href="/html/I440">Richard Stanley Burrowes</a> found IGI entries for his marriage and possibly his parent and 
+2 CONT grandparents. The IGI show a Thomas Fraser Burrowes born to Philip and Mary Burrowes 
+2 CONT of St James Parish, Barbados on the 10 Dec 1783. A Philip Burrowes born to John and Ann
+2 CONT Burrowes 6 Sep 1751.
 1 FAMS @F294@
 0 @I406@ INDI
 1 NAME Harry /JONES/
@@ -17073,7 +17074,7 @@
 1 FAMC @F262@
 1 FAMS @F381@
 0 @I449@ INDI
-1 NAME Thomas (Tommy) Stanley /Burrowes/
+1 NAME Thomas Stanley (Tommy) /Burrowes/
 1 SEX M
 1 BIRT
 2 DATE ABT 1914
@@ -17096,7 +17097,7 @@
 1 FAMC @F313@
 1 FAMS @F314@
 0 @I452@ INDI
-1 NAME Geoffery (Geoff) Thomas /Burrowes/
+1 NAME Geoffery Thomas (Geoff) /Burrowes/
 1 SEX M
 1 BIRT
 2 PLAC British Guiana
@@ -17855,7 +17856,7 @@
 1 NOTE Curate, St. Georges
 1 FAMS @F362@
 0 @I570@ INDI
-1 NAME E. P. /Burrowes/
+1 NAME E P /Burrowes/
 1 SEX M
 1 NOTE Mention in Obit of Father as living in Kent.
 1 FAMC @F261@
@@ -18509,6 +18510,10 @@
 1 BIRT
 2 DATE 1985
 1 FAMC @FR339@
+0 @I701@ INDI
+1 NAME Marianne L /Alleyne/
+1 SEX F
+1 FAMS @F294@
 0 @FW1@ FAM
 1 HUSB @IW2@
 1 WIFE @IW3@
@@ -24322,6 +24327,11 @@
 1 CHIL @I403@
 0 @F294@ FAM
 1 HUSB @I405@
+1 WIFE @I701@
+1 MARR
+2 DATE 27 Sep 1810
+2 PLAC St James Parish, Barbados
+2 SOUR IGI (sent by Richard Stanley Burrowes @I440@)
 1 CHIL @I356@
 0 @F295@ FAM
 1 HUSB @I412@
