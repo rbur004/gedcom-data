@@ -27417,7 +27417,7 @@
 1 SEX M
 1 BIRT
 2 DATE ABT 1695
-1 BAPT
+1 BAPM
 2 DATE 28 Nov 1697
 2 PLAC St James Barbados
 2 NOTE John & Rebeckah chn of James & Eliza Burrows
@@ -29331,7 +29331,7 @@
 1 SEX M
 1 BIRT
 2 DATE ABT Feb 1693
-1 BAPT
+1 BAPM
 2 DATE 6 Feb 1693
 2 PLAC St James, Barbados
 2 NOTE James son of James Burrowes & Elizabeth his wf.
@@ -29345,7 +29345,7 @@
 1 SEX F
 1 BIRT
 2 DATE ABT 1697
-1 BAPT
+1 BAPM
 2 DATE 28 Nov 1697
 2 PLAC St James Barbados
 2 NOTE John & Rebeckah chn of James & Eliza Burrows
@@ -29360,7 +29360,7 @@
 1 FAMC @F517@
 1 BIRT
 2 DATE ABT 1700
-1 BAPT
+1 BAPM
 2 DATE 11 Feb 1700
 2 PLAC St James Parish, Barbados
 2 NOTE Rachel dau of James & Eliz: Burrowe
@@ -29389,7 +29389,7 @@
 1 SEX F
 1 BIRT
 2 DATE 1825
-1 PLAC St Paul, Cornwall, England
+2 PLAC St Paul, Cornwall, England
 1 FAMC @F519@
 0 @I1009@ INDI
 1 NAME Catherine Jane /Ellis/
@@ -29440,7 +29440,7 @@
 1 SEX F
 1 BIRT
 2 DATE 15 May 1863
-1 PLAC NZL
+2 PLAC NZL
 1 DEAT
 2 PLAC Christchurch NZL
 2 DATE 1 Mar 1906
@@ -29448,7 +29448,7 @@
 2 NOTE Housewife, Caledonian Road, Born NZL.
 1 BURI
 2 DATE 3 Mar 1906
-1 PLAC Block 7E, Plot 65, Sydenham Cemetery, Christchurch, NZL.
+2 PLAC Block 7E, Plot 65, Sydenham Cemetery, Christchurch, NZL.
 1 FAMS @F521@
 1 FAMC @F522@
 0 @I1015@ INDI
@@ -29593,7 +29593,7 @@
 1 NAME Helen /McFarlane/
 1 SEX F
 1 BIRT
-1 PLAC Christchurch NZL
+2 PLAC Christchurch NZL
 1 FAMS @F523@
 0 @I1031@ INDI
 1 NAME Catherine (Kate) /Hamilton/
@@ -29645,7 +29645,7 @@
 1 SEX M
 1 BIRT
 2 DATE 9 Jun 1738
-1 BAPT
+1 BAPM
 2 DATE 1 Jun 1739
 2 PLAC St James Barbados BWI
 2 NOTE Robert b. 9 June 1738 son of John & Ann Burrows,
@@ -29657,7 +29657,7 @@
 1 SEX F
 1 BIRT
 2 DATE 26 May 1739
-1 BAPT
+1 BAPM
 2 DATE 1 Jun 1739
 2 PLAC St James Barbados BWI
 2 NOTE Robert b. 9 June 1738 son of John & Ann Burrows,
@@ -29672,7 +29672,7 @@
 1 SEX F
 1 BIRT
 2 DATE 2 Mar 1777
-1 BAPT
+1 BAPM
 2 DATE 9 Mar 1777
 2 PLAC St James Barbados
 1 SOUR Barbados Baptisms, 1637-1800
@@ -29684,7 +29684,7 @@
 1 SEX M
 1 BIRT
 2 DATE 24 Dec 1769
-1 BAPT
+1 BAPM
 2 PLAC St James Barbados
 2 DATE 10 July 1770
 1 SOUR Barbados Baptisms, 1637-1800
@@ -29696,7 +29696,7 @@
 1 SEX M
 1 BIRT
 2 DATE 2 May 1766
-1 BAPT
+1 BAPM
 2 PLAC St James Barbados
 2 DATE 8 Jul 1766
 1 SOUR Barbados Baptisms, 1637-1800
@@ -29708,7 +29708,7 @@
 1 SEX M
 1 BIRT
 2 DATE ABT Aug 1764
-1 BAPT
+1 BAPM
 2 PLAC St James Barbados
 2 DATE 21 Aug 1764
 1 SOUR Barbados Baptisms, 1637-1800
@@ -29720,7 +29720,7 @@
 1 SEX F
 1 BIRT
 2 DATE ABT Nov 1762
-1 BAPT
+1 BAPM
 2 PLAC St James Barbados
 2 DATE 2 Nov 1762
 1 SOUR Barbados Baptisms, 1637-1800
@@ -29733,7 +29733,7 @@
 1 SEX F
 1 BIRT
 2 DATE 31 Mar 1771
-1 BAPT
+1 BAPM
 2 PLAC St James Barbados
 2 DATE 17 May 1771
 1 SOUR Barbados Baptisms, 1637-1800
@@ -29745,7 +29745,7 @@
 1 SEX M
 1 BIRT
 2 DATE ABT 1773
-1 BAPT
+1 BAPM
 2 PLAC St James Barbados
 2 DATE 1 Jan 1774
 1 SOUR Barbados Baptisms, 1637-1800
@@ -29757,7 +29757,7 @@
 1 SEX M
 1 BIRT
 2 DATE ABT 1779
-1 BAPT
+1 BAPM
 2 PLAC St James Barbados
 2 DATE 28 Nov 1779
 1 SOUR Barbados Baptisms, 1637-1800
@@ -29769,7 +29769,7 @@
 1 SEX M
 1 BIRT
 2 DATE 22 Oct 1767
-1 BAPT
+1 BAPM
 2 PLAC St James Barbados
 2 DATE 22 Oct 1767
 1 SOUR Barbados Baptisms, 1637-1800
@@ -29792,8 +29792,8 @@
 1 NAME Henry /Thornhill/
 1 SEX M
 1 BIRT
-2 ABT 1780
-1 BAPT
+2 DATE ABT 1780
+1 BAPM
 2 DATE 31 Mar 1782
 2 PLAC St Pas
 1 FAMC @F530@
@@ -29819,7 +29819,7 @@
 1 SEX F
 1 BIRT
 2 DATE 6 Sep 1772
-1 BAPT
+1 BAPM
 2 PLAC St James Barbados, BWI
 2 DATE 3 Dec 1772
 1 SOUR Page 421, RL1/46, 1772 St James Bapt Records
@@ -29832,7 +29832,7 @@
 1 BIRT
 2 DATE 1 Dec 1796
 2 PLAC Barbados
-1 BAPT
+1 BAPM
 2 DATE 26 Dec 1796
 2 PLAC St James Barbados, BWI
 1 SOUR St James Bapt Records Page 651, RL1/462 1796
@@ -29844,7 +29844,7 @@
 1 BIRT
 2 DATE 6 Feb 1799
 2 PLAC Barbados, BWI
-1 BAPT
+1 BAPM
 2 DATE 10 Mar 1799
 2 PLAC St James, Barbados, BWI
 1 SOUR St James Parish records, Page 661, RL1/46, 1799
@@ -29856,7 +29856,7 @@
 1 BIRT
 2 DATE 23 Dec 1800
 2 PLAC Barbados, BWI
-1 BAPT
+1 BAPM
 2 DATE 10 May 1801
 2 PLAC St James, Barbados
 1 SOUR St James Bapt Records
@@ -29868,7 +29868,7 @@
 1 BIRT
 2 DATE 5 Nov 1805
 2 PLAC Barbados, BWI
-1 BAPT
+1 BAPM
 2 PLAC St James, Barbados, BWI
 2 DATE 22 Jul 1806
 1 SOUR St James Bapt records
