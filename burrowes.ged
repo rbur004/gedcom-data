@@ -22867,7 +22867,7 @@
 3 CONT It is beside the Mosque. The headstone is an Angle on a Cross
 3 CONT (marble) One wing is broken. The plot is filled with a
 3 CONT hebe.
-2 _PICT @#A=pics/richards-grave.jpg JPG@
+2 NOTE <IMG SRC="http://www.cs.auckland.ac.nz/~rob/FamilyTree/pics/richards-grave.jpg">
 1 OCCU Farm Lab., Corwell Eng.
 2 CONT Expressman, NZL.
 1 NOTE Emigrated to NZL with his wife (both 21) on Howrah which left England 26 Aug 1874.
@@ -23208,7 +23208,7 @@
 2 PLAC Avenue Road (now Coronation Ave) New Plymouth, NZL
 1 BURI
 2 PLAC Te Henui New Plymouth
-2 _PICT @#A=pics/richards-grave.jpg JPG@
+2 NOTE <IMG SRC="http://www.cs.auckland.ac.nz/~rob/FamilyTree/pics/richards-grave.jpg">
 2 NOTE She shares a plot with her husband and son William
 3 CONT It is beside the Mosque. The headstone is an Angel on a Cross
 3 CONT (marble) One wing is broken. The plot is filled with a
@@ -23281,7 +23281,7 @@
 3 CONT It is beside the Mosque. The headstone is an Angle on a Cross
 3 CONT (marble) One wing is broken. The plot is filled with a
 3 CONT hebe.
-2 _PICT @#A=pics/richards-grave.jpg JPG@
+2 NOTE <IMG SRC="http://www.cs.auckland.ac.nz/~rob/FamilyTree/pics/richards-grave.jpg">
 1 FAMC @F84@
 1 FAMS @F139@
 0 @I79@ INDI
@@ -23503,7 +23503,6 @@
 2 CONT Next of Kin E.F. Burrowes (Father) 9 Egmont St, Hawera.
 2 CONT Joined Wellingtons after being rejected by the Aucklands after admitting he had asthma.
 2 CONT Took a train to Palmerston North and reapplied, this time not mentioning the asthma.
-2 CONT Hence he did not serve with his brother in the Auckland Mounted Rifles.
 1 ADDR 41 Ballance St., Vogeltown New Plymouth, NZL
 1 OCCU Painter
 1 FAMC @F100@
@@ -23642,7 +23641,6 @@
 2 DATE 28 Feb 1920
 1 DEAT
 2 DATE 11 Jan 1995
-2 _PICT @#A=pics/audreys-grave.jpg JPG@
 1 FAMC @F116@
 1 FAMS @F173@
 0 @I115@ INDI
@@ -25211,6 +25209,7 @@
 2 PLAC St.Leonard's, Sussex
 1 BURI
 2 PLAC Ore Cemetery
+1 NOTE <IMG SRC="http://www.cs.auckland.ac.nz/~rob/FamilyTree/pics/WBPollardII72.jpg">
 1 FAMC @F304@
 1 FAMS @FP106@
 1 FAMS @FP91@
@@ -26919,6 +26918,156 @@
 3 CONT After the church the procession made its way to the cemetery. He was
 3 CONT interred above his father's grave.
 1 FAMS @F407@
+1 SOUR Arthur Stanley /Burrowes/ @I438@
+0 @I716@ INDI
+1 NAME Harold Montclair /Burrowes/
+1 SEX M
+1 BIRT
+2 PLAC Barbados
+1 DEAT
+2 PLAC Barbados
+1 FAMS @F408@
+1 SOUR Peter Andrew /Burrowes/ @I722@
+0 @I717@ INDI
+1 NAME Maude /Springer/
+1 SEX F
+1 BIRT
+2 PLAC Barbados
+1 DEAT
+2 PLAC Barbados
+1 FAMS @F408@
+1 SOUR Peter Andrew /Burrowes/ @I722@
+0 @I718@ INDI
+1 NAME Harold Athelston /Burrowes/
+1 SEX M
+1 FAMC @F408@
+1 FAMS @F409@
+1 SOUR Peter Andrew /Burrowes/ @I722@
+0 @I719@ INDI
+1 NAME Janice Angela /Bayley/
+1 SEX F
+1 FAMC @F410@
+1 FAMS @F409@
+1 SOUR Peter Andrew /Burrowes/ @I722@
+0 @I720@ INDI
+1 NAME Halborn /Bayley/
+1 SEX M
+1 BIRT
+2 PLAC Barbados
+1 DEAT
+2 PLAC Barbados
+1 FAMS @F410@
+1 SOUR Peter Andrew /Burrowes/ @I722@
+0 @I721@ INDI
+1 NAME Ianthe /Messiah/
+1 SEX F
+1 FAMS @F410@
+1 SOUR Peter Andrew /Burrowes/ @I722@
+0 @I722@ INDI
+1 NAME Peter Andrew /Burrowes/
+1 SEX M
+1 FAMC @F409@
+1 SOUR Peter Andrew /Burrowes/ @I722@
+0 @I723@ INDI
+1 NAME Angela Marguerite /Burrowes/
+1 SEX F
+1 FAMC @F409@
+1 SOUR Peter Andrew /Burrowes/ @I722@
+0 @I724@ INDI
+1 NAME Deborah Ruth /Burrowes/
+1 SEX F
+1 FAMC @F409@
+1 SOUR Peter Andrew /Burrowes/ @I722@
+0 @I725@ INDI
+1 NAME Carlos /Burrowes/
+1 SEX M
+1 BIRT
+2 DATE 1954
+2 PLAC Cuba
+1 NOTE Living in Florida, USA 1997
+1 FAMC @F414@
+1 FAMS @F411@
+1 SOUR Carlos /Burrowes/ @I725@
+0 @I726@ INDI
+1 NAME Mary /Unknown/
+1 SEX F
+1 FAMS @F411@
+1 SOUR Carlos /Burrowes/ @I725@
+0 @I727@ INDI
+1 NAME Melissa /Burrowes/
+1 SEX F
+1 FAMC @F411@
+1 SOUR Carlos /Burrowes/ @I725@
+0 @I728@ INDI
+1 NAME William Robert Percy /Burrowes/
+1 SEX M
+1 ADDR 
+2 PLAC 28 Hitchens Str, Allman Town, Jamacia
+1 OCCU Storekeeper
+1 FAMS @F412@
+1 SOUR Carlos /Burrowes/ @I725@
+1 SOUR Listed as father on Birth Cert. of unamed son in 1885
+0 @I729@ INDI
+1 NAME Eliza Georgina Louise /Philips/
+1 SEX F
+1 FAMS @F412@
+1 SOUR Carlos /Burrowes/ @I725@
+1 SOUR Listed as Mother on Birth Cert. of unamed son in 1885
+0 @I730@ INDI
+1 NAME Charles /Burrowes/
+1 SEX M
+1 BIRT
+2 DATE 17 Sep 1885
+2 PLAC 28 Hitchens Str, Allman Town, Jamacia
+1 NOTE Registered 17 Oct 1885
+1 FAMC @F412@
+1 FAMS @F413@
+1 SOUR Carlos /Burrowes/ @I725@
+2 CONT Said to be unamed son on Birth Cert.
+0 @I731@ INDI
+1 NAME Blanch /Ma/
+1 SEX F
+1 FAMS @F413@
+1 SOUR Carlos /Burrowes/ @I725@
+0 @I732@ INDI
+1 NAME William Fotheringham /Burrowes/
+1 SEX M
+1 BIRT
+2 DATE 1922
+2 PLAC Barranguilla, Colombia
+1 FAMC @F413@
+1 FAMS @F414@
+1 SOUR Carlos /Burrowes/ @I725@
+0 @I733@ INDI
+1 NAME Generosa /Rodriguez/
+1 SEX F
+1 BIRT
+2 DATE 1916
+2 PLAC Cuba
+1 FAMS @F414@
+1 SOUR Carlos /Burrowes/ @I725@
+0 @I734@ INDI
+1 NAME William /Burrowes/
+1 SEX M
+1 BIRT
+2 PLAC Cuba
+1 FAMC @F414@
+1 FAMS @F415@
+1 SOUR Carlos /Burrowes/ @I725@
+0 @I735@ INDI
+1 NAME Barbara /Unknown/
+1 SEX F
+1 BIRT
+2 PLAC Cuba
+1 FAMS @F415@
+1 SOUR Carlos /Burrowes/ @I725@
+0 @I736@ INDI
+1 NAME Dalila /Burrowes/
+1 SEX F
+1 BIRT
+2 PLAC Cuba
+1 FAMC @F415@
+1 SOUR Carlos /Burrowes/ @I725@
 0 @F1@ FAM
 1 HUSB @I1@
 1 WIFE @I2@
@@ -26931,7 +27080,7 @@
 2 NOTE OFFI Owen /DUNBAR/
 3 CONT WITN @I115@
 3 CONT WITN @IW44@
-1 _PICT @#A=pics/Rachel-Rob-Wed.jpg JPG@
+1 NOTE <IMG SRC="http://www.cs.auckland.ac.nz/~rob/FamilyTree/pics/Rachel-Rob-Wed.jpg">
 0 @F2@ FAM
 1 HUSB @I314@
 1 WIFE @I122@
@@ -27111,7 +27260,7 @@
 1 CHIL @I81@
 1 CHIL @I82@
 1 CHIL @I83@
-1 _PICT @#A=pics/Richards-1913.jpg JPG@
+1 NOTE <IMG SRC="http://www.cs.auckland.ac.nz/~rob/FamilyTree/pics/Richards-1913.jpg">
 0 @F89@ FAM
 1 HUSB @I11@
 1 WIFE @I85@
@@ -27143,7 +27292,7 @@
 3 CONT MOTH: Henrietta /Mason/
 3 CONT WITN: Henry /Herbert/, OCCU Gardener
 3 CONT WITN: ? ? /Herbert/
-1 _PICT @#A=pics/Stan-Emma-Wed-1920.jpg JPG@
+1 NOTE <IMG SRC="http://www.cs.auckland.ac.nz/~rob/FamilyTree/pics/Stan-Emma-Wed-1920.jpg">
 0 @F104@ FAM
 1 HUSB @I102@
 1 WIFE @I101@
@@ -27162,7 +27311,7 @@
 1 MARR
 2 DATE 1920
 2 NOTE Marriage Index microfiche ref, 2278
-1 _PICT @#A=pics/Burrowes-Fam-1945.jpg JPG@
+1 NOTE <IMG SRC="http://www.cs.auckland.ac.nz/~rob/FamilyTree/pics/Burrowes-Fam-1945.jpg">
 0 @F113@ FAM
 1 HUSB @I112@
 1 WIFE @I96@
@@ -27188,7 +27337,7 @@
 1 DIV
 2 DATE 24 Feb 1932
 2 SOUR Marr. Cert 2nd Marriage
-1 _PICT @#A=pics/Sarah-Leo.jpg JPG@
+1 NOTE <IMG SRC="http://www.cs.auckland.ac.nz/~rob/FamilyTree/pics/Sarah-Leo.jpg">
 0 @F117@ FAM
 1 HUSB @I106@
 1 WIFE @I115@
@@ -27215,7 +27364,7 @@
 3 CONT MOTH: Emma Elizabeth /JONES/
 3 CONT WITN: Victor F. /ROBERTSON/, ADDR 21 Sherwood Ave, Grey Lynn, Auckland., OCCU R.N.Z.A.F.
 3 CONT WITN: Audrey /RICHARDS/, ADDR 197 Gill Street, New Plymouth., OCCU Domestic
-1 _PICT @#A=pics/Lynettes-Wedding.jpg JPG@
+1 NOTE <IMG SRC="http://www.cs.auckland.ac.nz/~rob/FamilyTree/pics/Lynettes-Wedding.jpg">
 0 @F125@ FAM
 1 HUSB @I83@
 1 WIFE @I118@
@@ -27360,7 +27509,7 @@
 1 CHIL @I189@
 1 CHIL @I190@
 1 CHIL @I191@
-1 _PICT @#A=pics/Brian-Meryl-wed.gif GIF@
+1 NOTE <IMG SRC="http://www.cs.auckland.ac.nz/~rob/FamilyTree/pics/Brian-Meryl-wed.gif">
 0 @F192@ FAM
 1 HUSB @I193@
 1 WIFE @I107@
@@ -27527,6 +27676,7 @@
 1 WIFE @I345@
 1 MARR
 2 DATE 1902
+1 NOTE <a href="http://www.cs.auckland.ac.nz/~rob/FamilyTree/pics/HANandFamily.jpg">Family Photo</a> Croal Street, Georgetown British Guyana Circa 1910
 1 CHIL @I445@
 1 CHIL @I443@
 1 CHIL @I446@
@@ -27674,7 +27824,7 @@
 1 CHIL @I388@
 1 CHIL @I389@
 1 CHIL @I390@
-1 _PICT @#A=pics/Kaye-Fam.jpg JPG@
+1 NOTE <IMG SRC="http://www.cs.auckland.ac.nz/~rob/FamilyTree/pics/Kaye-Fam.jpg">
 0 @F288@ FAM
 1 HUSB @I387@
 1 WIFE @I391@
@@ -28251,6 +28401,56 @@
 0 @F407@ FAM
 1 HUSB @I715@
 1 CHIL @I439@
+1 SOUR Arthur Stanley /Burrowes/ @I438@
+0 @F408@ FAM
+1 HUSB @I716@
+1 WIFE @I717@
+1 CHIL @I718@
+1 SOUR Peter Andrew /Burrowes/ @I722@
+0 @F409@ FAM
+1 HUSB @I718@
+1 WIFE @I719@
+1 CHIL @I722@
+1 CHIL @I723@
+1 CHIL @I724@
+1 MARR
+2 DATE 1966
+2 PLAC Montreal, Canada
+1 SOUR Peter Andrew /Burrowes/ @I722@
+0 @F410@ FAM
+1 HUSB @I720@
+1 WIFE @I721@
+1 CHIL @I719@
+1 MARR
+2 PLAC Barbados
+1 SOUR Peter Andrew /Burrowes/ @I722@
+0 @F411@ FAM
+1 HUSB @I725@
+1 WIFE @I726@
+1 CHIL @I727@
+1 SOUR Carlos /Burrowes/ @I725@
+0 @F412@ FAM
+1 HUSB @I728@
+1 WIFE @I729@
+1 CHIL @I730@
+1 SOUR Carlos /Burrowes/ @I725@
+1 SOUR Listed as Parents on Birth Cert. of unamed son in 1885
+0 @F413@ FAM
+1 HUSB @I730@
+1 WIFE @I731@
+1 CHIL @I732@
+1 SOUR Carlos /Burrowes/ @I725@
+0 @F414@ FAM
+1 HUSB @I732@
+1 WIFE @I733@
+1 CHIL @I734@
+1 CHIL @I725@
+1 SOUR Carlos /Burrowes/ @I725@
+0 @F415@ FAM
+1 HUSB @I734@
+1 WIFE @I735@
+1 CHIL @I736@
+1 SOUR Carlos /Burrowes/ @I725@
 0 @N9@ NOTE ******* Start of Searson families from Paul Murphy UK**********
 0 @SIS1@ SOUR
 1 NAME Paul Murphy @IS84@
@@ -32213,6 +32413,7 @@
 1 NOTE B.A. Flying Officer R.A.F. 1941 - 5. Film Director.
 1 DEAT
 2 DATE 7 May 1992
+1 NOTE <IMG SRC="http://www.cs.auckland.ac.nz/~rob/FamilyTree/pics/WBPollardIV72.jpg">
 1 FAMC @FP113@
 1 FAMS @FP115@
 0 @IP327@ INDI
@@ -33169,6 +33370,7 @@
 1 WIFE @IP224@
 1 MARR
 2 DATE 26 May 1841
+1 NOTE <IMG SRC="http://www.cs.auckland.ac.nz/~rob/FamilyTree/pics/WBPollardIFam72.jpg">
 1 CHIL @IP227@
 1 CHIL @IP228@
 1 CHIL @IP229@
@@ -33424,6 +33626,7 @@
 1 WIFE @IP324@
 1 MARR
 2 DATE 4 Oct 1910
+1 NOTE <IMG SRC="http://www.cs.auckland.ac.nz/~rob/FamilyTree/pics/WBPollardIIIWed72.jpg">
 1 CHIL @IP326@
 0 @FP114@ FAM
 1 SOUR @SIP1@
@@ -35907,8 +36110,8 @@
 0 @IR65@ INDI
 1 SOUR @SIR1@
 1 NAME Diana Frances /Spencer/
-2 TITL Lady
 2 TITL Princess
+2 TITL Lady
 1 SEX F
 1 BIRT
 2 DATE 1 JUL 1961
@@ -35920,6 +36123,10 @@
 2 PLAC Paris, Fr
 2 TIME 0400
 2 CAUS Car accident.
+1 BURI
+2 DATE 6 Sep 1997
+2 PLAC Island on Spencer Estate.
+2 NOTE Service, Westminster,Abbey,London,England
 1 FAMS @FR16@
 1 FAMC @FR78@
 0 @IR66@ INDI
@@ -37801,6 +38008,7 @@
 0 @IR242@ INDI
 1 SOUR @SIR1@
 1 NAME Charles /Spencer/
+2 TITL Earl
 2 TITL Vicount Althorp
 1 SEX M
 1 BIRT
@@ -62464,7 +62672,8 @@
 1 WIFE @IR65@
 1 CHIL @IR115@
 1 CHIL @IR116@
-1 DIV N
+1 DIV
+2 DATE 29 Aug 1996
 1 MARR
 2 DATE 29 JUL 1981
 2 PLAC St. Paul's,Cathedral,London,England
