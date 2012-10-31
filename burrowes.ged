@@ -22973,19 +22973,19 @@
 1 NAME Thomas /RICHARDS/
 1 SEX M
 1 OCCU Farmer
-2 PLAC Madron Triangle, Paul Cornwell ENG
-1 NOTE After visiting Paul I found there was an area called Trungle, not Triangle.
-2 CONC I found many Richards graves including a Thomas Richards. Madron is not
-2 CONC near Paul, but there was a local family called Madron which could be the connection
+2 PLAC Triangle, Paul Cornwell ENG
 1 FAMS @F9@
+1 FAMC @F541@
 0 @I8@ INDI
 1 NAME James /RICHARDS/
 1 SEX M
 1 BIRT
 2 DATE 1810
-2 PLAC Madron Trungle, Paul Cornwell ENG
+2 PLAC Madron Cornwell ENG
+1 CHR
+2 DATE 20 Jul 1810
 1 OCCU Farmer
-2 PLAC Madron Trungle, Paul Cornwell ENG
+2 PLAC Madron Cornwell ENG
 1 DEAT
 2 DATE 29 Sep 1890
 2 PLAC Trungle, Paul, Cornwall, ENG
@@ -23072,9 +23072,17 @@
 1 FAMC @F21@
 1 FAMS @F84@
 0 @I18@ INDI
-1 NAME Elizabeth /RICHARDS/
+1 NAME Elizabeth Ann /RICHARDS/
 1 SEX F
+1 BIRT 
+2 DATE 1856
+1 CHR 
+2 DATE 17 Aug 1856
+2 PLAC Paul
+2 ADDR Trevithal
+2 NOTE Father James occupation Yeoman, Mother: Jane
 1 FAMC @F21@
+1 FAMS @F536@
 0 @I19@ INDI
 1 NAME Samuel /RICHARDS/
 1 SEX M
@@ -23090,6 +23098,13 @@
 0 @I23@ INDI
 1 NAME George /FINIKIN/
 1 SEX M
+1 BIRT
+2 DATE Abt 1836
+2 PLAC Foxt, Staffordshire
+2 SOUR 1861 Census
+2 NOTE Census Age 25, Listed as Head of household.
+1 OCCU Boatman (Bge)
+2 SOUR 1881 Census
 1 FAMC @F27@
 1 FAMS @F61@
 0 @I24@ INDI
@@ -23211,20 +23226,25 @@
 1 NAME William /DALE/
 1 SEX M
 1 BIRT
-2 DATE 1825
-2 PLAC Belley Stoke, ENG
+2 DATE 1826
+2 PLAC Betley Stoke, ENG
 1 OCCU Writing Clerk
 2 PLAC Shelton, Stoke Upon trent, ENG
 2 SOUR 1871 Census.
+1 DEAT
+2 DATE BEF 1891
+2 SOUR 1891 Census lists Wife as Head & Widow
 1 FAMS @F57@
+1 FAMC @F559@
 0 @I47@ INDI
 1 NAME Sarah /BARKER/
 1 SEX F
 1 BIRT
-2 DATE 1830
+2 DATE 1829
 2 PLAC Derby, ENG
 2 SOUR 1871 Census. and Daughter's Birth Cert.
 1 FAMS @F57@
+1 FAMC @F560@
 0 @I48@ INDI
 1 NAME Henry /DALE/
 1 SEX M
@@ -23259,7 +23279,7 @@
 1 NOTE 1871 Census lists him as being a Scholar
 1 FAMC @F57@
 0 @I52@ INDI
-1 NAME David B /DALE/
+1 NAME David B (Or Daniel) /DALE/
 1 SEX M
 1 BIRT
 2 DATE 1859
@@ -23303,21 +23323,31 @@
 3 CONT OCCU: Writing Clerk
 3 CONT MOTH: Sarah /BARKER/
 2 SOUR Her Birth Cert.
-1 ADDR Carrington Road, New Plymouth, NZL
+1 RESI
+2 ADDR Carrington Road, New Plymouth, NZL
 2 SOUR 1928 Electoral Role
-1 ADDR 124 Courtenay Str, New Plymouth, NZL
-1 ADDR 20 Raniera Street, New Plymouth, NZL (2011, house still on section with newer house (3 flat roofed rooms to right of current house, running down current section boundary)).
-2 SOUR Granddaughter, Thelma Burrowes (nee Richards), said she visited her there as young girl, ca.1931, described walking from home in Beach Street, cross Waiwhakaiho River, Right into Queens Road, and house was at top of concrete stairs from Atiawa Street to Raniera Street).
+1 RESI
+2 ADDR 124 Courtenay Str, New Plymouth, NZL
+1 RESI
+2 ADDR 20 Raniera Street, New Plymouth, NZL (2011, house still on section with newer house (3 flat roofed rooms to right of current house, running down current section boundary)).
+2 SOUR Granddaughter, Thelma Burrowes (nee Richards), said she visited her there as young girl, ca.1931, 
+3 CONT described walking from home in Beach Street, cross Waiwhakaiho River, Right into Queens Road, and house was 
+3 CONT at top of concrete stairs from Atiawa Street to Raniera Street).
 2 SOUR 1935 Electoral Role
-1 ADDR 66 Pioneer Road, New Plymouth, NZL
+1 RESI
+2 ADDR 66 Pioneer Road, New Plymouth, NZL
 2 SOUR 1938 Electoral Role
-1 ADDR 128 Vivian Str, New Plymouth, NZL
+1 RESI
+2 ADDR 128 Vivian Str, New Plymouth, NZL
 2 SOUR 1946 Electoral Role
-1 ADDR Omata Road, New Plymouth, NZL
+1 RESI
+2 ADDR Omata Road, New Plymouth, NZL
 2 SOUR 1949 Electoral Role
-1 ADDR 97 Omata Road, New Plymouth, NZL
+1 RESI
+2 ADDR 97 Omata Road, New Plymouth, NZL
 2 SOUR 1954 Electoral Role
-1 ADDR Smart Road, New Plymouth, NZL (First house on right from Devon Road, before rail line. No longer there).
+1 RESI
+2 ADDR Smart Road, New Plymouth, NZL (First house on right from Devon Road, before rail line. No longer there).
 2 SOUR  Granddaughter, Thelma Burrowes (nee Richards), said she visited her there.
 1 DEAT
 2 PLAC 643 Devon Road, New Plymouth, NZL (Daughter: Alice's address)
@@ -23340,6 +23370,8 @@
 0 @I58@ INDI
 1 NAME Eliza /POPE/
 1 SEX F
+1 BIRT
+2 DATE Abt 1838
 1 FAMS @F61@
 0 @I59@ INDI
 1 NAME Sarah Jane /FINIKIN/
@@ -23348,13 +23380,14 @@
 2 DATE 11 May 1874
 2 PLAC 49 Rose Street Hanley, Stoke on Trent, ENG
 2 SOUR Birth Cert. (nb. Hanley looks more like Hauley on Cert.)
+2 NOTE Census lists her as Jane, not Sarah Jane.
 1 FAMC @F61@
 0 @I60@ INDI
 1 NAME James /FINIKIN/
 1 SEX M
 1 BIRT
 2 DATE 5 Jun 1877
-2 PLAC Horton, Stafford, ENG.
+2 PLAC Milton?Hanley, Stafford, ENG.
 2 NOTE FATH: George /FINIKIN/
 3 CONT OCCU: Forge Labourer
 3 CONT MOTH: Eliza /POPE/
@@ -23400,6 +23433,7 @@
 1 NOTE Stayed in England When Family Emigrated to NZL
 2 CONT Joined Grenadier Guards.
 1 FAMC @F71@
+1 FAMS @F444@
 0 @I66@ INDI
 1 NAME Frankie /FINIKIN/
 1 SEX M
@@ -23410,6 +23444,7 @@
 1 SEX M
 1 NOTE Emigrated to NZL
 1 FAMC @F71@
+1 FAMS @F450@
 0 @I68@ INDI
 1 NAME Amy /FINIKIN/
 1 SEX F
@@ -23420,11 +23455,13 @@
 1 SEX M
 1 NOTE Emigrated to NZL
 1 FAMC @F71@
+1 FAMS @F461@
 0 @I70@ INDI
 1 NAME Alfred (Alf) /FINIKIN/
 1 SEX M
 1 NOTE Emigrated to NZL
 1 FAMC @F71@
+1 FAMS @F457@
 0 @I72@ INDI
 1 NAME Merinda /Ellis/
 1 SEX F
@@ -23818,6 +23855,7 @@
 2 DATE BEF 9 Jan 1899
 2 NOTE Said to have died shortly after birth of Emma.
 2 SOUR Reefton Cemetery record 012381
+2 NOTE BDM Record Ref: 1899/1120
 1 BURI
 2 DATE 9 Jan 1899
 2 PLAC Reefton Old Cemetery, NZL
@@ -24422,7 +24460,7 @@
 1 FAMC @F196@
 1 FAMS @F256@
 0 @I199@ INDI
-1 NAME Graig /BURROWES/
+1 NAME Craig /BURROWES/
 1 SEX M
 1 BIRT
 2 DATE 8 May 1963
@@ -24711,14 +24749,15 @@
 1 FAMS @F254@
 0 @I257@ INDI
 1 NAME Graeme Frank /SUMMERS/
-1 NAME Denzel David /Hodge/
+1 NAME David Denzal /Hodge/
 2 NOTE Birth name
 2 SOUR Verbal history from Thelma Burrowes
 1 SEX M
 1 BIRT
-2 DATE 30 Dec 1945
+2 DATE 30 Dec 1943
 2 PLAC Hawera, NZL
-1 SOUR Verbal history from Thelma Richards
+2 SOUR Verbal history from Thelma Richards
+2 NOTE Confirmed from BDM record 
 1 NOTE Living Australia (Source Feb 1996 Thelma Burrowes)
 1 FAMC @F127@
 1 FAMS @F320@
@@ -24793,7 +24832,7 @@
 3 CONC Birth MicoFiche 32416
 1 FAMC @F257@
 0 @I308@ INDI
-1 NAME Matthew Graig /BURROWES/
+1 NAME Matthew Craig /BURROWES/
 1 SEX M
 1 BIRT
 2 DATE 17 Sep 1985
@@ -25038,6 +25077,8 @@
 1 SEX M
 1 BIRT
 2 DATE 12 Jul 1870
+2 NOTE THE COLONIST	TUESDAY JULY 12 1870 P 2 COL 6
+3 CONT BURROWRS - This morning, in Charlotte St., Mrs. H. Stanley Burrowrs, of a Son.
 1 DEAT
 2 DATE 29 Jul 1933
 2 CAUS Obit. Said Heart attack, Family says it was a stroke.
@@ -25057,8 +25098,9 @@
 1 NAME Herbert Stanley /BURROWES/
 1 SEX M
 1 DEAT
-2 DATE ABT 1877
-2 NOTE Calc: Son Herbert was 7 when his father died.
+2 DATE 6 Dec 1879
+3 SOUR British Guyana: A Brief Chronicle of the Principal Local Events in 1879
+4 CONT Mr. H. Stanley BURROWES died at Two Friends, in Essequebo;
 1 OCCU Civil Servant, British Guiana
 1 FAMC @F268@
 1 FAMS @F261@
@@ -25334,6 +25376,9 @@
 0 @I373@ INDI
 1 NAME James /JONES/
 1 SEX M
+1 BIRT
+2 DATE Abt 1894
+2 SOUR BDM Ref 1894/18277
 1 FAMC @F104@
 1 FAMS @F280@
 0 @I374@ INDI
@@ -25560,8 +25605,11 @@
 1 FAMS @F294@
 1 FAMC @F404@
 0 @I406@ INDI
-1 NAME Harry /JONES/
+1 NAME Henry Thomas (Harry) /JONES/
 1 SEX M
+1 BIRT
+2 DATE Abt 1887
+2 SOUR BDM 1887/15380
 1 FAMC @F104@
 0 @I407@ INDI
 1 SEX F
@@ -25783,6 +25831,9 @@
 2 PLAC Demerara British Guiana GUY
 1 DEAT
 2 DATE 24 Apr 1871
+2 NOTE London Times May 1871
+3 CONT Pollard, Dr John
+3 CONT On the 23d April, at George Town, Demerara, British Guiana, Dr. John Henry Pollard, in the 51st year of his age.
 1 BURI
 2 PLAC Repentir Cemetery, Demerara British Guiana GUY
 1 NOTE M.R.C.P.
@@ -25845,10 +25896,11 @@
 1 FAMC @GAD_F4@
 1 FAMS @F307@
 0 @I436@ INDI
-1 NAME Abr. /WRIGHT/
+1 NAME Abraham /WRIGHT/
 1 SEX M
 1 DEAT
 2 DATE BEF 5 Oct 1839
+2 NOTE Likely to be 15 May 1839 at Mousehole, Paul. Age 61
 2 SOUR Daughters Marr. Cert says he was deceased.
 1 FAMS @F308@
 0 @I437@ INDI
@@ -28704,7 +28756,7 @@
 1 SEX F
 1 BIRT
 2 DATE 5 Sep 1966
-1 FAMC @F476@
+1 FAMC @F475@
 1 FAMS @F476@
 1 SUBM @FK_S1@
 0 @I900@ INDI
@@ -28842,6 +28894,7 @@
 1 DEAT
 2 DATE 24 Dec 1941
 2 CAUS Sinking of HMS Neptune in WWII
+1 FAMC @F484@
 0 @I927@ INDI
 1 NAME Margaret Elizabeth (Betty) /Tucker/
 1 SEX F
@@ -28875,19 +28928,32 @@
 1 NAME Howard /Wyatt/
 1 SEX M
 1 FAMC @F488@
-1 FAMC @F487@
+1 FAMS @F487@
 0 @I933@ INDI
 1 NAME Thomas /Wyatt/
 1 SEX M
 1 FAMS @F488@
 0 @I934@ INDI
 1 NAME Clara Louisa /Robinson/
-1 NAME Clara Louisa /Robins/
 1 SEX F
 1 BIRT
 2 DATE ABT 1838
 2 PLAC Cambridge Eng
 2 SOUR NSW BDM Web site. Mentioned in Childrens Birth records
+1 IMMI
+2 DATE 22 Jan 1854
+2 SOUR Shipping records Melbourne State Library
+3 NOTE  Book 9, page 351, record 323: Clara Robinson, Calling: Maid, Cambridge. Age 17, Engaged by: Mrs Mateer, Bourke Str. 
+3 NOTE  Jan 22 1854, Wanata. f.r. Ship, 1443t, Capt. John Lee, Southhampton 25/10, Melb 17.9 with 341 Govt Migrants.
+4 CONT Crew in state of Mutiny, Some desert in Pilots boat, 21/1
+1 DEAT
+2 DATE 1894
+1 BURI
+2 DATE 14 Jan 1894
+2 PLAC Reefton Old, NZL
+2 AGE 55
+2 NOTE Cemetery records list Birth place as CAMBRIDGESHIRE
+3 CONT Surname at time of death was Lawson.
 1 FAMS @F489@
 0 @I935@ INDI
 1 NAME Eliza Anne /Dyer/
@@ -28924,7 +28990,7 @@
 1 FAMS @F490@
 0 @I938@ INDI
 1 NAME Alan /McMaster/
-1 SEX F
+1 SEX M
 1 BIRT
 2 DATE 17 Dec 1894
 2 PLAC Reefton, NZL
@@ -29421,6 +29487,8 @@
 0 @I1006@ INDI
 1 NAME Thomas /Ellis/
 1 SEX M
+1 OCCU Sailmaker
+2 SOUR 1851 Census and Wedding Banns.
 1 BIRT
 2 DATE 1828
 2 PLAC Paul, Cornwall, England
@@ -29430,9 +29498,13 @@
 1 NAME Grace /Gilliss/
 1 SEX F
 1 BIRT
-2 DATE 1832
+2 DATE 1831
+2 PLAC Ludgvan, Cornwall, England
+1 CHR
+2 DATE 27 Sep 1831 
 2 PLAC Ludgvan, Cornwall, England
 1 FAMS @F518@
+1 FAMC @F533@
 0 @I1008@ INDI
 1 NAME Maranda /Ellis/
 1 SEX F
@@ -29451,11 +29523,12 @@
 1 NAME Robert /Ellis/
 1 SEX M
 1 BIRT
-2 DATE 1786
+2 DATE 25 Jun 1786
 2 PLAC St Buryan, Cornwall, England
 1 FAMS @F519@
+1 FAMC @F534@
 0 @I1011@ INDI
-1 NAME Jane /Unknown/
+1 NAME Jane /Harris/
 1 SEX F
 1 BIRT
 2 DATE 1785
@@ -29923,6 +29996,808 @@
 1 SOUR St James Bapt records
 2 CONT Jul 22 Thomasin Ann d. of Dowding and T. Ann Thornhill, born 5 Novr. 1805.
 1 FAMC @F532@
+0 @I1062@ INDI
+1 NAME Joseph /GILLISS/
+1 SEX M
+1 OCCU Miner
+1 FAMS @F533@
+0 @I1063@ INDI
+1 NAME Catherine /RAPSON/
+1 SEX F
+1 FAMS @F533@
+0 @I1064@ INDI
+1 NAME Joseph /GILLISS/
+1 SEX M
+1 BIRT
+2 DATE 1835
+1 CHR
+2 DATE 24 May 1835
+2 PLAC LUDGVAN,CORNWALL,ENGLAND
+1 FAMC @F533@
+0 @I1065@ INDI
+1 NAME Jennifer /GILLISS/
+1 SEX F
+1 BIRT
+2 DATE 1826
+1 CHR
+2 DATE 26 Feb 1826
+2 PLAC LUDGVAN,CORNWALL,ENGLAND
+1 FAMC @F533@
+0 @I1066@ INDI
+1 NAME Eliza /GILLISS/
+1 SEX F
+1 BIRT
+2 DATE 1823
+1 CHR
+2 DATE 08 Jun 1823
+2 PLAC LUDGVAN,CORNWALL,ENGLAND
+1 FAMC @F533@
+0 @I1067@ INDI
+1 NAME Elizabeth /GILLISS/
+1 SEX F
+1 BIRT
+2 DATE 1817
+1 CHR
+2 DATE 12 Oct 1817
+2 PLAC LUDGVAN,CORNWALL,ENGLAND
+1 FAMC @F533@
+0 @I1068@ INDI
+1 NAME Mary /GILLISS/
+1 SEX F
+1 BIRT
+2 DATE 1815
+1 CHR
+2 DATE 17 Dec 1815
+2 PLAC LUDGVAN,CORNWALL,ENGLAND
+1 FAMC @F533@
+0 @I1069@ INDI
+1 NAME Justus /Ellis/
+1 OCCU Tinner
+1 BIRT
+2 DATE 1 Jan 1757
+2 NOTE Surname listed as Ellis als DAY
+1 DEAT 
+2 DATE 15 Mar 1834
+2 AGE 78
+2 PLAC Poor House, St Buryan
+1 SEX M
+1 FAMS @F534@
+1 FAMC @F535@
+0 @I1070@ INDI
+1 NAME Joan /Thomas/
+1 SEX F
+1 FAMS @F534@
+0 @I1071@ INDI
+1 NAME James /Ellis/
+1 SEX M
+1 BIRT
+2 DATE 1715
+1 FAMS @F535@
+0 @I1072@ INDI
+1 NAME Isabella (Sibella?) /Angwin/
+1 NOTE had an Aunt Sybella, so might be Sybella.
+1 SEX F
+1 BIRT
+2 DATE 31 OCT 1719
+1 FAMS @F535@
+1 FAMC @F542@
+0 @I1073@ INDI
+1 NAME Henry /Osborne/
+1 SEX M
+1 BIRT
+2 DATE 1846
+1 FAMS @F536@
+0 @I1074@ INDI
+1 NAME Mary /Matthews/
+1 SEX F
+1 BIRT
+2 DATE 1787
+1 FAMS @F9@
+1 FAMC @F537@
+0 @I1075@ INDI
+1 NAME Thomas /Matthews/
+1 SEX M
+1 BIRT
+2 DATE 1746
+1 DEAT
+2 DATE 1825
+1 FAMS @F537@
+1 FAMC @F539@
+0 @I1076@ INDI
+1 NAME Jane /Victor/
+1 SEX F
+1 FAMS @F537@
+1 FAMC @F538@
+0 @I1077@ INDI
+1 NAME John /Victor/
+1 SEX M
+1 FAMS @F538@
+0 @I1078@ INDI
+1 NAME Jane /Marrack/
+1 SEX F
+1 FAMS @F538@
+0 @I1079@ INDI
+1 NAME Joseph /Matthews/
+1 SEX M
+1 BIRT
+2 DATE 1707
+1 DEAT
+2 DATE 1795
+1 FAMS @F539@
+1 FAMC @F540@
+0 @I1080@ INDI
+1 NAME Grace /Webb/
+1 SEX F
+1 BIRT
+2 DATE 1719
+1 FAMS @F539@
+0 @I1081@ INDI
+1 NAME Thomas /Matthews/
+1 SEX M
+1 BIRT
+2 DATE 1680
+1 FAMS @F540@
+0 @I1082@ INDI
+1 NAME Hester //
+1 SEX F
+1 FAMS @F540@
+0 @I1083@ INDI
+1 NAME Thomas /Richards/
+1 SEX M
+1 FAMS @F541@
+0 @I1084@ INDI
+1 NAME Mary /McDonald/
+1 SEX F
+1 FAMS @F541@
+0 @I1085@ INDI
+1 NAME Justus /Angwin/
+1 SEX M
+1 BIRT
+2 DATE 24 FEB 1687/88
+2 PLAC St. Just in Penwith, Cornwall, England
+1 DEAT 
+2 DATE 10 JAN 1733/34
+2 PLAC St. Just in Penwith, Cornwall, England
+1 FAMS @F542@
+1 FAMC @F544@
+0 @I1086@ INDI
+1 NAME Jane /Hampton/
+1 SEX F
+1 BIRT
+2 DATE 16 SEP 1688
+2 PLAC St.Buryan
+1 DEAT
+2 DATE 22 FEB 1760
+2 PLAC St.Just
+1 FAMS @F542@
+1 FAMC @F543@
+0 @I1087@ INDI
+1 NAME Benjamin /Hampton/
+1 SEX M
+1 BIRT
+2 DATE 1662
+1 FAMS @F543@
+0 @I1088@ INDI
+1 NAME Josiah /Angwin/
+1 SEX M
+1 BIRT
+2 DATE 22 Dec 1645
+1 DEAT
+2 DATE 12 Jan 1711/1712
+2 PLAC St Just
+1 FAMS @F544@
+1 FAMC @F545@
+0 @I1089@ INDI
+1 NAME Grace /Thomas/
+1 NOTE Alias Grace /TRELILL/
+1 SEX F
+1 BIRT
+2 DATE ABT. 1650
+2 PLAC St Just
+1 FAMS @F544@
+0 @I1090@ INDI
+1 NAME Bennett /Angwin/
+1 SEX M
+1 BIRT
+2 DATE 1610
+2 PLAC St. Just in Penwith, Cornwall, England
+1 DEAT
+2 DATE 9 APR 1665
+2 PLAC St. Just in Penwith, Cornwall, England
+1 FAMS @F545@
+1 FAMC @F546@
+0 @I1091@ INDI
+1 NAME Jane //
+1 SEX F
+1 BIRT
+2 DATE 1609
+1 DEAT
+2 DATE 7 DEC 1670
+1 FAMS @F545@
+0 @I1092@ INDI
+1 NAME Henry /Angwin/
+1 SEX M
+1 BIRT
+2 DATE 1566
+1 DEAT
+2 DATE 1615
+1 FAMS @F546@
+1 FAMC @F547@
+0 @I1093@ INDI
+1 NAME Jane /Respinall/
+1 SEX F
+1 BIRT
+2 DATE 1570
+2 PLAC St. Just in Penwith, Cornwall, England
+1 DEAT
+2 DATE 1624
+2 AGE 54
+2 PLAC St. Just in Penwith, Cornwall, England
+1 BURI
+2 DATE 27 JAN 1623/24
+2 PLAC St. Just, Cornwall, England
+1 FAMS @F546@
+1 FAMC @F551@
+0 @I1094@ INDI
+1 NAME Martin /Angwin/
+1 SEX M
+1 BIRT
+2 DATE 1542
+2 PLAC Bojewyan, St.Just
+1 FAMS @F547@
+1 FAMC @F548@
+0 @I1095@ INDI
+1 NAME Jedua //
+1 SEX F
+1 BIRT
+2 DATE 1543
+1 FAMS @F547@
+0 @I1096@ INDI
+1 NAME Martin /Angwin/
+1 SEX M
+1 BIRT
+2 DATE Abt 1518
+1 DEAT
+2 DATE 1594
+1 FAMS @F548@
+1 FAMC @F549@
+0 @I1097@ INDI
+1 NAME Cicely /Lanyon/
+1 SEX F
+1 BIRT
+2 DATE Abt 1519
+1 DEAT
+2 DATE 1593
+2 PLAC St Just
+1 FAMS @F548@
+1 FAMC @F550@
+0 @I1098@ INDI
+1 NAME Henry /Angwin/
+1 SEX M
+1 BIRT
+2 DATE Abt 1489
+1 FAMS @F549@
+0 @I1099@ INDI
+1 NAME William /Lanyon/
+1 SEX M
+1 BIRT
+2 DATE 1480
+2 PLAC Gwinear
+1 DEAT
+2 PLAC  20 Mar 1566/1567
+1 FAMS @F550@
+1 FAMC @F552@
+0 @I1100@ INDI
+1 NAME Thomasine /Tregian/
+1 SEX F
+1 BIRT
+2 DATE 1484
+2 PLAC Gwinear
+1 FAMS @F550@
+0 @I1101@ INDI
+1 NAME Harry /Respanell/
+1 SEX M
+1 BIRT
+2 DATE ABT 1540
+1 FAMS @F551@
+0 @I1102@ INDI
+1 NAME Constance //
+1 SEX F
+1 FAMS @F551@
+0 @I1103@ INDI
+1 NAME Richard /Lanyon/
+1 SEX M
+1 FAMS @F552@
+1 FAMC @F554@
+0 @I1104@ INDI
+1 NAME Isabell /Trelysick/
+1 SEX F
+1 FAMS @F552@
+1 FAMC @F553@
+0 @I1105@ INDI
+1 NAME David /Trelysick/
+1 SEX M
+1 FAMS @F553@
+0 @I1106@ INDI
+1 NAME 	John /Lanyon/
+1 SEX M
+1 FAMS @F554@
+1 FAMC @F556@
+0 @I1107@ INDI
+1 NAME  Isabell /Ruthfrey/
+1 SEX F
+1 FAMS @F554@
+1 FAMC @F555@
+0 @I1108@ INDI
+1 NAME  Thomas /Ruthfrey/
+1 SEX M
+1 FAMS @F555@
+0 @I1109@ INDI
+1 NAME 	John /Lanyon/
+1 SEX M
+1 FAMS @F556@
+1 FAMC @F557@
+0 @I1110@ INDI
+1 NAME Raphe /Lanyon/
+1 SEX M
+1 FAMS @F557@
+1 FAMC @F558@
+0 @I1111@ INDI
+1 NAME John /de Lanyine/
+1 SEX M
+1 FAMS @F558@
+0 @I1112@ INDI
+1 NAME Elizabeth //
+1 SEX F
+1 FAMS @F543@
+0 @I1113@ INDI
+1 NAME Ann /Finikin/
+1 SEX F
+1 BIRT
+2 DATE Abt 1859
+2 PLAC Hanley, Staffordshire, Eng.
+1 FAMC @F61@
+0 @I1114@ INDI
+1 NAME John /Finikin/
+1 SEX M
+1 BIRT
+2 DATE Abt. 1864
+2 PLAC Hanley, Staffordshire, Eng.
+1 FAMC @F61@
+0 @I1115@ INDI
+1 NAME Thomas /Finikin/
+1 SEX M
+1 BIRT
+2 DATE Abt. 1865
+2 PLAC Hanley, Staffordshire, Eng.
+1 FAMC @F61@
+0 @I1116@ INDI
+1 NAME George /Finikin/
+1 SEX M
+1 BIRT
+2 DATE Abt 1866
+2 PLAC Hanley, Staffordshire, Eng.
+1 FAMC @F61@
+0 @I1117@ INDI
+1 NAME William /Finikin/
+1 SEX M
+1 BIRT
+2 DATE Abt 1872
+2 PLAC Hanley, Staffordshire, Eng.
+1 FAMC @F61@
+0 @I1118@ INDI
+1 NAME Mary /Finikin/
+1 SEX F
+1 BIRT
+2 DATE Abt 1880
+2 PLAC Milton, Staffordshire, ENg.
+1 FAMC @F61@
+0 @I1119@ INDI
+1 NAME John /Dale/
+1 SEX M
+1 FAMS @F559@
+0 @I1120@ INDI
+1 NAME Daniel /Barker/
+1 SEX M
+1 BIRT
+2 DATE 1796
+2 SOUR 1841 Census
+1 OCCU Plumber
+2 SOUR 1841 Census
+1 FAMS @F560@
+0 @I1121@ INDI
+1 NAME Ambrose /Dale/
+1 SEX M
+1 BIRT 
+2 DATE Abt 1849
+2 PLAC Utruria Wharf, Staff
+1 FAMC @F57@
+0 @I1122@ INDI
+1 NAME Mary Ann //
+1 SEX F
+1 BIRT
+2 DATE Abt. 1798
+2 SOUR 1841 Census
+1 FAMS @F560@
+0 @I1123@ INDI
+1 NAME Frederick /Barker/
+1 SEX M
+1 BIRT
+2 DATE 1832
+2 SOUR 1841 Census
+1 FAMC @F560@
+0 @I1124@ INDI
+1 NAME Edward /Barker/
+1 SEX M
+1 BIRT
+2 DATE 1822
+2 SOUR 1841 Census
+1 FAMC @F560@
+0 @I1125@ INDI
+1 NAME George /Jones/
+1 SEX M
+1 BIRT
+2 DATE 1890
+2 SOUR BDM 1890/11075
+1 FAMC @F104@
+0 @I1126@ INDI
+1 NAME Sarah Ann /Jones/
+1 SEX F
+1 BIRT
+2 DATE 1882
+2 SOUR 1882/9674
+1 FAMC @F104@
+0 @I1127@ INDI
+1 NAME Ada /Jones/
+1 SEX F
+1 BIRT
+2 DATE 1884
+2 SOUR BDM 1884/8542
+1 FAMC @F104@
+0 @I1128@ INDI
+1 NAME Honor /Ellis/
+1 BIRT
+2 DATE Abt. 1783
+1 SEX F
+1 FAMC @F534@
+0 @I1129@ INDI
+1 NAME William /Ellis/
+1 SEX M
+1 BIRT
+2 DATE Abt. 1793
+1 FAMC @F534@
+0 @I1130@ INDI
+1 NAME John /Ellis/
+1 SEX M
+1 BIRT
+2 DATE Abt 1794
+1 FAMC @F534@
+0 @I1131@ INDI
+1 NAME Charles /Ellis/
+1 SEX M
+1 BIRT
+2 DATE 1748
+1 FAMC @F535@
+0 @I1132@ INDI
+1 NAME James /Ellis/
+1 SEX M
+1 BIRT
+2 DATE 1749
+1 FAMC @F535@
+1 FAMS @F561@
+0 @I1133@ INDI
+1 NAME Mary /Arundel/
+1 SEX F
+1 FAMS @F561@
+0 @I1134@ INDI
+1 NAME Nowel /Ellis/
+1 SEX M
+1 BIRT
+2 DATE 1751
+1 FAMC @F535@
+0 @I1135@ INDI
+1 NAME Isabella /Ellis/
+1 SEX F
+1 BIRT
+2 DATE 1753
+1 FAMC @F535@
+0 @I1136@ INDI
+1 NAME William /Ellis/
+1 SEX M
+1 BIRT
+2 DATE 1760
+1 FAMC @F535@
+0 @I1137@ INDI
+1 NAME Honour /Ellis/
+1 SEX M
+1 BIRT
+2 DATE 1763
+1 FAMC @F535@
+0 @I1138@ INDI
+1 NAME Elizabeth /Ellis/
+1 SEX F
+1 BIRT
+2 DATE 1769
+1 FAMC @F535@
+0 @I1139@ INDI
+1 NAME Grace /Angwin/
+1 SEX F
+1 FAMC @F542@
+1 FAMS @F562@
+0 @I1140@ INDI
+1 NAME Elizabeth /Angwin/
+1 SEX F
+1 FAMC @F542@
+1 FAMS @F563@
+0 @I1141@ INDI
+1 NAME John /Angwin/
+1 SEX M
+1 BIRT
+2 DATE 1716
+1 DEAT
+2 DATE 1721
+1 FAMC @F542@
+0 @I1142@ INDI
+1 NAME Jane /Angwin/
+1 SEX F
+1 BIRT
+2 DATE 1717
+1 FAMC @F542@
+1 FAMS @F564@
+0 @I1143@ INDI
+1 NAME Justus /Angwin/
+1 SEX M
+1 BIRT
+2 DATE 1721
+1 DEAT
+2 DATE 1780
+1 FAMC @F542@
+1 FAMS @F565@
+0 @I1144@ INDI
+1 NAME Margery /Angwin/
+1 SEX F
+1 BIRT
+2 DATE 1723
+1 DEAT
+2 DATE 1723
+1 FAMC @F542@
+0 @I1145@ INDI
+1 NAME Mary /Angwin/
+1 SEX F
+1 BIRT
+2 DATE 1724
+1 FAMC @F542@
+1 FAMS @F566@
+0 @I1146@ INDI
+1 NAME Margery /Angwin/
+1 SEX F
+1 BIRT
+2 DATE 1725
+1 DEAT
+2 DATE 1726
+1 FAMC @F542@
+0 @I1147@ INDI
+1 NAME Margaret /Angwin/
+1 SEX F
+1 FAMC @F542@
+1 FAMS @F567@
+0 @I1148@ INDI
+1 NAME John /Angwin/
+1 SEX M
+1 BIRT
+2 DATE 1728
+1 FAMC @F542@
+0 @I1149@ INDI
+1 NAME Margery /Angwin/
+1 SEX F
+1 BIRT
+2 DATE 1733
+1 DEAT 
+2 DATE 1755
+1 FAMC @F542@
+0 @I1150@ INDI
+1 NAME Aaron /Williams/
+1 SEX M
+1 BIRT
+2 DATE 1710
+1 FAMS @F562@
+0 @I1151@ INDI
+1 NAME James /Davies/
+1 SEX M
+1 BIRT
+2 DATE Abt 1710
+1 FAMS @F563@
+0 @I1152@ INDI
+1 NAME Charles Williams
+1 SEX M
+1 BIRT
+2 DATE 1713
+1 FAMS @F564@
+0 @I1153@ INDI
+1 NAME Margaret /James/
+1 SEX F
+1 FAMS @F565@
+0 @I1154@ INDI
+1 NAME Edward /Candy/
+1 SEX M
+1 FAMS @F566@
+0 @I1155@ INDI
+1 NAME Richard /Harvey/
+1 SEX M
+1 FAMS @F567@
+0 @I1156@ INDI
+1 NAME Mary /Angwin/
+1 SEX F
+1 BIRT
+2 DATE 1672
+1 FAMC @F544@
+1 FAMS @F568@
+0 @I1157@ INDI
+1 NAME Sybella /Angwin/
+1 SEX F
+1 FAMC @F544@
+1 FAMS @F569@
+0 @I1158@ INDI
+1 NAME John /Angwin/
+1 SEX M
+1 BIRT
+2 DATE 1678
+1 FAMC @F544@
+1 FAMS @F570@
+0 @I1159@ INDI
+1 NAME Jasias /Angwin/
+1 SEX M
+1 BIRT
+2 DATE 1681
+1 FAMC @F544@
+0 @I1160@ INDI
+1 NAME John /Harry/
+1 SEX M
+1 BIRT
+2 DATE 1668
+1 FAMS @F568@
+0 @I1161@ INDI
+1 NAME Isaac /Penberthy/
+1 SEX M
+1 BIRT
+2 DATE 1677
+1 FAMS @F569@
+0 @I1162@ INDI
+1 NAME Phillis /Edwards/
+1 SEX F
+1 BIRT
+2 DATE 1702
+1 FAMS @F570@
+0 @I1163@ INDI
+1 NAME Alice /Angwin/
+1 SEX F
+1 BIRT
+2 DATE 1635
+1 DEAT
+2 DATE 1635
+1 FAMC @F545@
+0 @I1164@ INDI
+1 NAME Thomsin /Angwin/
+1 SEX F
+1 FAMC @F545@
+1 FAMS @F571@
+0 @I1165@ INDI
+1 NAME Thomas /Angwin/
+1 SEX M
+1 BIRT
+2 DATE 1638
+1 DEAT
+2 DATE 1799
+1 FAMC @F545@
+1 FAMS @F572@
+0 @I1166@ INDI
+1 NAME Ann /Angwin/
+1 SEX F
+1 BIRT
+2 DATE 1640
+1 FAMC @F545@
+0 @I1167@ INDI
+1 NAME Mary /Angwin/
+1 SEX F
+1 BIRT
+2 DATE 1642
+1 DEAT
+2 DATE 1643
+1 FAMC @F545@
+0 @I1168@ INDI
+1 NAME John /Angwin/
+1 SEX M
+1 BIRT
+2 DATE 1606
+1 DEAT
+2 DATE 1659
+1 FAMC @F546@
+1 FAMS @F573@
+0 @I1169@ INDI
+1 NAME Thomas /Angwin/
+1 SEX M
+1 BIRT
+2 DATE 1608
+1 FAMC @F546@
+0 @I1170@ INDI
+1 NAME Richard /Grundy/
+1 SEX M
+1 FAMS @F571@
+0 @I1171@ INDI
+1 NAME Bridget /Walter/
+1 SEX F
+1 FAMS @F572@
+0 @I1172@ INDI
+1 NAME Elizabeth /Holla/
+1 SEX F
+1 FAMS @F573@
+0 @I1173@ INDI
+1 NAME Martin /Angwin/
+1 SEX M
+1 BIRT
+2 DATE 1565
+1 DEAT
+2 DATE 1639
+1 FAMC @F547@
+1 FAMS @F574@
+0 @I1174@ INDI
+1 NAME Julian //
+1 SEX F
+1 BIRT
+2 DATE 1569
+1 DEAT
+2 DATE 1639
+1 FAMS @F574@
+0 @I1175@ INDI
+1 NAME Hester /Matthews/
+1 SEX F
+1 BIRT
+2 DATE 1741
+1 DEAT
+2 DATE 1795
+1 FAMC @F539@
+0 @I1176@ INDI
+1 NAME Grace /Matthews/
+1 SEX F
+1 BIRT
+2 DATE 1742
+1 DEAT
+2 DATE 1824
+1 FAMC @F539@
+0 @I1177@ INDI
+1 NAME Joseph /Matthews/
+1 SEX M
+1 BIRT
+2 DATE 1749
+1 DEAT
+2 DATE 1813
+1 FAMC @F539@
+0 @I1178@ INDI
+1 NAME Robert /Matthews/
+1 SEX M
+1 BIRT
+2 DATE 1751
+1 DEAT
+2 DATE 1836
+1 FAMC @F539@
+0 @I1179@ INDI
+1 NAME Thomasine /Matthews/
+1 SEX F
+1 FAMC @F539@
+0 @I1180@ INDI
+1 NAME Jane /Matthews/
+1 SEX F
+1 BIRT
+2 DATE 1753
+1 DEAT
+2 DATE 1799
+1 FAMC @F539@
+0 @I1181@ INDI
+1 NAME James /Matthews/
+1 SEX M
+1 BIRT
+2 DATE 1758
+1 FAMC @F539@
 0 @F1@ FAM
 1 HUSB @I1@
 1 WIFE @I2@
@@ -29983,6 +30858,7 @@
 2 DATE 1964
 0 @F9@ FAM
 1 HUSB @I7@
+1 WIFE @I1074@
 1 CHIL @I8@
 0 @F10@ FAM
 1 HUSB @I329@
@@ -30050,6 +30926,10 @@
 3 CONC WITN: John /Edmonds/
 3 CONC WITN: Elizabeth /Edmonds/
 3 CONC OFFI: W.O. /GURNEY/, Curate
+1 NOTE 1841 CENSUS
+2 CONT Church Town,1,James Richards,30,,Farmer,In county,
+2 CONT ,,Jane Richards,,24,,In county,
+2 CONT ,,Abraham Richards,1,,,In county,
 0 @F27@ FAM
 1 HUSB @I22@
 1 CHIL @I23@
@@ -30081,6 +30961,14 @@
 0 @F57@ FAM
 1 HUSB @I46@
 1 WIFE @I47@
+1 MARR
+2 DATE 11 Dec 1847
+2 PLAC General Baptist Chapel, Derby Union, Eng.
+2 NOTE Witnesses: Charles TAYLOR and Fanny TAYLOR
+3 CONT William DALE born in Betley STS, 1826, was a Book Keeper living in
+3 CONT Horninglow, Burton upon Trent at the time of the marriage.
+3 CONT Sarah, 18years, Occupation a Pump maker, living in Hill Street, Derby
+1 CHIL @I1121@
 1 CHIL @I48@
 1 CHIL @I49@
 1 CHIL @I50@
@@ -30090,11 +30978,79 @@
 1 CHIL @I54@
 1 CHIL @I55@
 1 CHIL @I56@
+1 CENS 
+2 DATE 1861
+2 ADDR Utruria Wharf
+2 NOTE William DALE 35, Railway Clerk, born Betley Staff, 1826
+3 CONT Sarah 32 born Derby, 1829
+3 CONT Ambrose 12 Scholar born Utruria Wharf, Staff 1849
+3 CONT ------------- 10 born " 1851
+3 CONT Frank *** 8 " 1853
+3 CONT Mary Ann 6 1855
+3 CONT William 3 1858
+3 CONT Daniel R (I think) 1 1860
+3 SOUR Molly Bergh , Esperance, Western Australia
+1 CENS 
+2 DATE 1891
+2 NOTE 19 Olive St, Stoke on Trent, RG12/2174, F118a, P50 - DALE:
+3 CONT Sarah, Head, Widow, 61, Derbys Derby
+3 CONT Daniel, Son, 30, Potter's Packer, Staffs Hanley
+3 CONT Amelia E, Dau, 21, Staffs Hanley
+3 CONT Harriet A, Dau, 19, Barmaid, ditto
+3 CONT Edith J WELLS, Visitor, 12, Scholar, Notts Nottingham
 0 @F61@ FAM
 1 HUSB @I23@
 1 WIFE @I58@
+1 CHIL @I1113@
+1 CHIL @I1114@
+1 CHIL @I1115@
+1 CHIL @I1116@
+1 CHIL @I1117@
 1 CHIL @I59@
 1 CHIL @I60@
+1 CHIL @I1118@
+1 CENS
+2 DATE 1861
+2 NOTE name:	George Finikin (I23)
+3 CONT gender:	Male
+3 CONT age:	25
+3 CONT relationship to head of household:	Head
+3 CONT birthplace:	Foxt, Staffordshire
+3 CONT record type:	Household
+3 CONT registration district:	Stoke-Upon-Trent
+3 CONT sub-district:	2 Shelton
+3 CONT ecclesiastical parish:	Shelton
+3 CONT civil parish:	Shelton
+3 CONT county:	Staffordshire
+1 CENS
+2 DATE 1881
+2 PLAC Norton In The Moors, Staffordshire, England
+2 NOTE Name: 	George Finikin ()
+3 CONT Age: 	45
+3 CONT Gender: 	Male
+3 CONT Birth Year: 	1836
+3 CONT Birthplace: 	?Psford
+3 CONT Relationship to Head of Household: 	Head
+3 CONT Marital Condition: 	Married
+3 CONT Profession/Occupation: 	Boatman (Bge)
+3 CONT Address: 	Milton
+3 CONT Census Place: 	
+3 CONT Record Type: 	Household
+3 CONT Family History Library Film: 	1341656
+3 CONT The National Archives Reference: 	RG11
+3 CONT Piece/Folio: 	2737 / 109
+3 CONT Page Number: 	9
+3 CONT   	Household 	Gender 	Age 	Birthplace (F61)
+3 CONT Head 	George Finikin 	M 	45 	?Psford (I23)
+3 CONT Wife 	Eliza Finikin 	F 	43 	Hanley, Staffordshire, England (I58)
+3 CONT Daughter 	Ann Finikin 	F 	22 	Hanley, Staffordshire, England (I1113)
+3 CONT Son 	John Finikin 	M 	17 	Hanley, Staffordshire, England (I1114)
+3 CONT Son 	Thomas Finikin 	M 	16 	Hanley, Staffordshire, England (I1115)
+3 CONT Son 	George Finikin 	M 	14 	Hanley, Staffordshire, England (I1116)
+3 CONT Son 	William Finikin 	M 	9 	Hanley, Staffordshire, England (I1117)
+3 CONT Daughter 	Jane Finikin 	F 	7 	Hanley, Staffordshire, England (Sarah I59)
+3 CONT Son 	James Finikin 	M 	3 	Milton, Staffordshire, England (I60)
+3 CONT Daughter 	Mary Finikin 	F 	1 	Milton, Staffordshire, England (I1118)
 0 @F71@ FAM
 1 HUSB @I60@
 1 WIFE @I56@
@@ -30124,7 +31080,11 @@
 1 NOTE <IMG SRC="http://www.burrowes.org/FamilyTree/pics/Richards-1913.jpg">
 1 MARR
 2 PLAC Penzance, Cornwall, Eng.
-2 DATE Q3 1874
+2 DATE 22 Aug 1874
+2 NOTE Paul Marriage Register,  22 Aug 1874 by Banns
+3 CONT Francis Richards,20, Farm Labourer of Trungle (Father: James Richards, Farmer)
+3 CONT Merinda Ellis, 20 of Paul (Father: Thomas Ellis, Sail Maker)
+3 CONT Witnesses: Jane  Wright, James Richards
 0 @F89@ FAM
 1 HUSB @I11@
 1 WIFE @I85@
@@ -30166,9 +31126,12 @@
 0 @F104@ FAM
 1 HUSB @I102@
 1 WIFE @I101@
-1 CHIL @I103@
+1 CHIL @I1126@
+1 CHIL @I1127@
 1 CHIL @I406@
+1 CHIL @I1125@
 1 CHIL @I373@
+1 CHIL @I103@
 1 MARR
 2 DATE 29 Jan 1882
 2 PLAC Reefton, NZL
@@ -30581,6 +31544,8 @@
 1 CHIL @I570@
 1 CHIL @I573@
 1 CHIL @I574@
+1 NOTE THE COLONIST	MONDAY MARCH 25 1872
+2 CONT BURROWS - On the 22nd inst., at Woodbine Cottage, Murray Street, Mrs H. Stanley Burrows, of a Daughter.
 0 @F262@ FAM
 1 HUSB @I342@
 1 WIFE @I345@
@@ -30704,8 +31669,8 @@
 2 PLAC St. Swithin's Church, West Bank
 2 SOUR The Journal of B.M.H.S. Article by William Pollard of Devon.
 2 SOUR Corrected from posting by Anne Spence -- Thu, 03 May 2003
-2 NOTE An index of BDMs in The Colonist Newspaper, Georgetown, British Guiana 
-3 CONT Wed 25 June 1873. Married - at St. Swithin's Church,
+2 NOTE An index of BDMs in The Colonist Newspaper , Georgetown, British Guiana 
+3 CONT Wed 25 June 1873, P 2 COL 4. Married - at St. Swithin's Church,
 3 CONT West Bank, by the Revd. H.J. May, on the 17th June 1873, William Henry
 3 CONT Aglionby, second son of A.A. Burrows, Esq., to Margaret Josephine,
 3 CONT eldest daughter of Dr. David Spence, Waller's Delight House, West coast.
@@ -32078,12 +33043,37 @@
 1 CHIL @I72@
 1 MARR
 2 PLAC Penzance, Cornwall, Eng
-2 DATE Q4 1851
+2 DATE 16 Nov 1851
+2 NOTE by Banns
+3 CONT Thomas Ellis full age sailmaker of Paul [mark] (Father: Robert Ellis, Labourer)
+3 CONT Grace Gilliss full age of Paul [Mark] (Father: Joseph Gilliss, Miner)
+3 CONT Witnesses: John Batten, Charles Dungey
 0 @F519@ FAM
 1 HUSB @I1010@
 1 WIFE @I1011@
 1 CHIL @I1008@
 1 CHIL @I1006@
+1 NOTE Could be 7 Nov 1823, Paul, Marriage by Banns, Robert Ellis to Jane Harris, Witn. William Harris and John Ellis.
+1 NOTE 1841 Census, Parish of Paul
+2 CONT North Place
+2 CONT Robert Ellis, 55, Ag Lab
+2 CONT Jane, 55
+2 CONT Maranda, 15
+2 CONT Thomas, 13
+1 NOTE 30th March 1851 Census, Village of Newlyn, Paul, England
+2 CONT 134 Bays Square
+2 CONT Rob Ellis, Head 65, Day labourer, b. Cornwall St Buryan
+2 CONT Jane, Wife, 67, b. Paul
+2 CONT Thomas, Son, 23, Sailmaker, b. Paul
+2 CONT Maranda, Dau, 26, b. Paul
+1 NOTE 1861 Census, Town of NewLyn, Parish of Paul
+2 CONT 154 North Corner
+2 CONT Robert Ellis, Head, 76, Ag Lab, B. St Buryan
+2 CONT Jane, Wife, 76, B, St Paul
+2 CONT Marinda, dau, 36, Seamstress, B, St Paul
+2 CONT Grace, Dau in Law, 29, Washer Women, B. Ludgvan
+2 CONT Catherine Jane, Granddaughter, 9, Scholar, B. St Paul
+2 CONT Marinda Ellis, GrandDaughter, 7, Scholar, B. Portsmouth.
 0 @F520@ FAM
 1 HUSB @I1012@
 1 WIFE @I1013@
@@ -32125,7 +33115,7 @@
 2 NOTE Witnesses G F Gee, tinsmith Chch; Walter Gee, Blindmaker, Chch; David and Mary McFarlane.
 0 @F524@ FAM
 1 HUSB @I1021@
-1 WIFE @1031@
+1 WIFE @I1031@
 1 MARR
 2 DATE 19 Ju0l 1881
 2 PLAC The Manse, St Andrew's Presbyterian church, Christchurch NZL
@@ -32195,6 +33185,232 @@
 1 CHIL @I1059@
 1 CHIL @I1060@
 1 CHIL @I1061@
+0 @F533@ FAM
+1 HUSB @I1062@
+1 WIFE @I1063@
+1 MARR
+2 DATE 12 Aug 1815
+2 PLAC Ludgvan
+2 NOTE Witnesses Hanl CURNOW and Wm Rapson
+1 CHIL @I1068@
+1 CHIL @I1067@
+1 CHIL @I1066@
+1 CHIL @I1065@
+1 CHIL @I1007@
+1 CHIL @I1064@
+1 SOUR indexing project (batch) number:	C02096-2
+2 CONT system origin:	England-ODM
+0 @F534@ FAM
+1 HUSB @I1069@
+1 WIFE @I1070@
+1 CHIL @I1128@
+1 CHIL @I1010@
+1 CHIL @I1129@
+1 CHIL @I1130@
+1 MARR 
+2 PLAC St. Buryan
+2 DATE 3 Nov 1782
+0 @F535@ FAM
+1 HUSB @I1071@
+1 WIFE @I1072@
+1 MARR
+2 DATE 21 DEC 1744 
+2 PLAC St. Just In Penwith, Cornwall, England
+1 CHIL @I1131@
+1 CHIL @I1132@
+1 CHIL @I1134@
+1 CHIL @I1135@
+1 CHIL @I1069@
+1 CHIL @I1136@
+1 CHIL @I1137@
+1 CHIL @I1138@
+0 @F536@ FAM
+1 HUSB @I1073@
+1 WIFE @I18@
+1 MARR
+2 DATE 9 Oct 1884
+2 PLAC PAUL
+2 NOTE Groom Age: 38, Occu Farmer, Residence: 	Paul Church Town
+3 CONT Bride Age: 28, Residence Trungle.
+3 CONT Bride's Father James Richards, Farmer
+3 CONT Witness: Margret J Richards, James Richards
+0 @F537@ FAM
+1 HUSB @I1075@
+1 WIFE @I1076@
+1 CHIL @I1074@
+0 @F538@ FAM
+1 HUSB @I1077@
+1 WIFE @I1078@
+1 CHIL @I1076@
+0 @F539@ FAM
+1 HUSB @I1079@
+1 WIFE @I1080@
+1 CHIL @I1075@
+1 CHIL @I1176@
+1 CHIL @I1177@
+1 CHIL @I1178@
+1 CHIL @I1179@
+1 CHIL @I1180@
+1 CHIL @I1181@
+0 @F540@ FAM
+1 HUSB @I1081@
+1 WIFE @I1082@
+1 CHIL @I1079@
+0 @F541@ FAM
+1 HUSB @I1083@
+1 WIFE @I1084@
+1 CHIL @I7@
+0 @F542@ FAM
+1 HUSB @I1085@
+1 WIFE @I1086@
+1 MARR
+2 DATE 28 APR 1712 
+2 PLAC St. Just, Cornwall, England
+1 CHIL @I1139@
+1 CHIL @I1140@
+1 CHIL @I1141@
+1 CHIL @I1142@
+1 CHIL @I1072@
+1 CHIL @I1143@
+1 CHIL @I1144@
+1 CHIL @I1145@
+1 CHIL @I1146@
+1 CHIL @I1147@
+1 CHIL @I1148@
+1 CHIL @I1149@
+0 @F543@ FAM
+1 HUSB @I1087@
+1 WIFE @I1112@
+1 MARR
+2 DATE 23 May 1687
+2 PLAC St.Buryan
+1 CHIL @I1086@
+0 @F544@ FAM
+1 HUSB @I1088@
+1 WIFE @I1089@
+1 MARR
+2 DATE 9 SEP 1671
+2 PLAC St. Just in Penwith, Cornwall, England
+1 CHIL @I1156@
+1 CHIL @I1157@
+1 CHIL @I1158@
+1 CHIL @I1159@
+1 CHIL @I1085@
+0 @F545@ FAM
+1 HUSB @I1090@
+1 WIFE @I1091@
+1 MARR
+2 DATE 12 APR 1630 
+2 PLAC Madron, Cornwall, England
+1 CHIL @I1163@
+1 CHIL @I1164@
+1 CHIL @I1165@
+1 CHIL @I1166@
+1 CHIL @I1088@
+1 CHIL @I1167@
+0 @F546@ FAM
+1 HUSB @I1092@
+1 WIFE @I1093@
+1 MARR
+2 DATE ABT 1592 
+2 PLAC St. Just, Cornwall, England
+1 CHIL @I1168@
+1 CHIL @I1169@
+1 CHIL @I1090@
+0 @F547@ FAM
+1 HUSB @I1094@
+1 WIFE @I1095@
+1 CHIL @I1173@
+1 CHIL @I1092@
+0 @F548@ FAM
+1 HUSB @I1096@
+1 WIFE @I1097@
+1 CHIL @I1094@
+0 @F549@ FAM
+1 HUSB @I1098@
+1 CHIL @I1096@
+0 @F550@ FAM
+1 HUSB @I1099@
+1 WIFE @I1100@
+1 CHIL @I1097@
+0 @F551@ FAM
+1 HUSB @I1101@
+1 WIFE @I1102@
+1 CHIL @I1093@
+0 @F552@ FAM
+1 HUSB @I1103@
+1 WIFE @I1104@
+1 CHIL @I1099@
+0 @F553@ FAM
+1 HUSB @I1105@
+1 CHIL @I1104@
+0 @F554@ FAM
+1 HUSB @I1106@
+1 WIFE @I1107@
+1 CHIL @I1103@
+0 @F555@ FAM
+1 HUSB @I1108@
+1 CHIL @I1107@
+0 @F556@ FAM
+1 HUSB @I1109@
+1 CHIL @I1106@
+0 @F557@ FAM
+1 HUSB @I1110@
+1 CHIL @I1109@
+0 @F558@ FAM
+1 HUSB @I1111@
+1 CHIL @I1110@
+0 @F559@ FAM
+1 HUSB @I1119@
+1 CHIL @I46@
+0 @F560@ FAM
+1 HUSB @I1120@
+1 WIFE @I1122@
+1 CHIL @I1124@
+1 CHIL @I47@
+1 CHIL @I1123@
+0 @F561@ FAM
+1 HUSB @I1132@
+1 WIFE @I1133@
+0 @F562@ FAM
+1 HUSB @I1150@
+1 WIFE @I1139@
+0 @F563@ FAM
+1 HUSB @I1151@
+1 WIFE @I1140@
+0 @F564@ FAM
+1 HUSB @I1152@
+1 WIFE @I1142@
+0 @F565@ FAM
+1 HUSB @I1143@
+1 WIFE @I1153@
+0 @F566@ FAM
+1 HUSB @I1154@
+1 WIFE @I1145@
+0 @F567@ FAM
+1 HUSB @I1155@
+1 WIFE @I1147@
+0 @F568@ FAM
+1 HUSB @I1160@
+1 WIFE @I1156@
+0 @F569@ FAM
+1 HUSB @I1161@
+1 WIFE @I1157@
+0 @F570@ FAM
+1 HUSB @I1158@
+1 WIFE @I1162@
+0 @F571@ FAM
+1 HUSB @I1170@
+1 WIFE @I1164@
+0 @F572@ FAM
+1 HUSB @I1165@
+1 WIFE @I1171@
+0 @F573@ FAM
+1 HUSB @I1168@
+1 WIFE @I1172@
+0 @F574@ FAM
+1 HUSB @I1173@
+1 WIFE @I1174@
 0 @FK_S1@ SUBM
 1 NAME Frank William Finikin
 1 ADDR 66 Parson Str, New Plymouth, NZL
@@ -35233,13 +36449,15 @@
 2 DATE 5 Aug 1807
 1 DEAT
 2 DATE 9 Dec 1879
+2 NOTE THE COLONIST MONDAY DECEMBER 9 1878 P 3 COL 1 (1879?)
+3 CONT POLLARD  Today, at his residence in New Market St., William Branche Pollard, Auditor General, British Guiana, in his 72 year.
 1 BURI
 2 PLAC Repentir Cemetery, Georgetown, Demerara, BG
 1 OCCU Auditor General of British Guiana and official Member of the Court of Policy
 1 NOTE At the meeting of the Court of Policy after the Auditor General's death, the Attorney
 2 CONC General said:-<p>"There were many of his duties that did not come directly before the notice
 2 CONC of the public, but for the execution of which he was entitled to the highest credit.<p> I will
-2 CONC merely allude to ine of them, the laying out of the Sinking Fund. No one as far as I know
+2 CONC merely allude to one of them, the laying out of the Sinking Fund. No one as far as I know
 2 CONC ever asked how it was laid out, but we find that everything connected with the money was done
 2 CONC to the best advantage. I may also mention the excellent manner in which he carried out the
 2 CONC details of the Immigration Loan. No one ever interfered with Mr. Pollard in this respect, and
@@ -35288,12 +36506,15 @@
 1 FAMS @FP78@
 0 @IP227@ INDI
 1 SOUR @SIP1@
-1 NAME William Fox /POLLARD/
+1 NAME William Fox Branch /POLLARD/
 1 SEX M
 1 BIRT
 2 DATE 4 Mar 1842
 1 DEAT
 2 DATE 5 Feb 1900
+2 NOTE London Times, Feb 1900
+3 CONT Pollard, William
+3 CONT POLLARD - On the 5th Feb., at Ramsgate, William Fox Branch Pollard, late British Guiana Medical Service, aged 67.
 1 BURI
 2 PLAC Ramsgate Cemetery, Kent.
 1 NOTE d.unm.
@@ -35315,7 +36536,10 @@
 2 DATE 15 Aug 1844
 1 DEAT
 2 DATE 27 Aug 1922
-2 PLAC Demerara
+2 PLAC Georgetown, Demerara
+2 NOTE London Times, Aug 1922
+3 CONT Pollard, Frances
+3 CONT POLLARD - At Georgetown, British Guiana, Frances Pollard, eldest daughter of W.B. Pollard, aged 78 years.
 1 NOTE d.unm
 1 FAMC @FP77@
 0 @IP230@ INDI
@@ -35633,6 +36857,9 @@
 2 DATE 29 Aug 1935
 1 BURI
 2 PLAC St John's Church, Crowborough, Sussex
+2 NOTE London Times, 1935
+3 CONT Pollard, Margaret
+3 CONT POLLARD - On Aug. 29, 1935, Margaret Cornelia, widow of William Branch Pollard, Chief Colonial Civil Engineer of Georgetown, British Guiana, aged 81.
 1 FAMC @FP77@
 1 FAMS @FP91@
 0 @IP262@ INDI
@@ -35644,6 +36871,9 @@
 1 DEAT
 2 DATE 4 Jun 1923
 2 PLAC Bisley, Surrey
+2 NOTE London Times, May 1923
+3 CONT Pollard, Edward
+3 CONT POLLARD - On the 4th June, at Bisley, Edward Bickersteth Pollard, late Government Service, British Guiana, aged 67.
 1 FAMC @FP77@
 1 FAMS @FP92@
 0 @IP263@ INDI
@@ -35818,6 +37048,8 @@
 2 DATE 30 Jun 1860
 1 DEAT
 2 DATE 7 Aug 1872
+2 NOTE THE COLONIST	SATURDAY AUGUST 24 1872
+3 CONT POLLARD. - On 7th inst. , at Richmond Villa, John Elliot, youngest son of the Hon. William Branch Pollard, ages 12 years.
 1 FAMC @FP77@
 0 @IP284@ INDI
 1 SOUR @SIP1@
@@ -35841,7 +37073,11 @@
 1 BIRT
 2 DATE 29 Jan 1820
 1 DEAT
-2 DATE 1875
+2 DATE 25 Jan 1875
+2 PLAC Prestonville, Brighton
+2 NOTE THE COLONIST WEDNESDAY FEBRUARY 24 1875 P 2 COL 4
+3 CONT POLLARD January 25,at Prestonville, Brighton, Jane, widow of the late J.H. Pollard, Esq., M.R.C.S.E., 
+3 CONT of Georgetown, Demerara, and eldest daughter of the late Richard Williams. Esq.,of Dulwich Common, Surrey.
 1 BURI
 2 PLAC Hove Church, Sussex
 2 DATE 30 Jan 1875
@@ -35851,6 +37087,7 @@
 1 SOUR @SIP1@
 1 NAME Richard /WILLIAMS/
 1 SEX M
+1 NOTE of Dulwich Common, Surrey
 1 NOTE of the Burncoose Co. Cornwell Branch of that family
 1 FAMS @FP97@
 0 @IP289@ INDI
@@ -35875,6 +37112,12 @@
 1 BIRT
 2 DATE 8 Jun 1850
 2 PLAC Georgetown, Demerara
+1 DEAT
+2 DATE 30 Dec 1876
+2 NOTE THE COLONIST SATURDAY FEBRUARY 24 1877 P 2
+3 CONT Died
+3 CONT HINCKS.	On Dec. 30th, 1876, at the residence of her father-in-law, Sir F. Hincks, K.C.M.G., C.B., Alice Josephine Cory, 
+3 CONT wife of Francis Hincks, Esq., and daughter of the late John Henry Pollard, M.D.,of Georgetown, Demerara.
 1 FAMC @FP96@
 1 FAMS @FP99@
 0 @IP292@ INDI
@@ -35992,7 +37235,7 @@
 2 NOTE Parents listed as Joseph & Elizabeth Blackley 
 1 DEAT
 2 DATE Dec 1888
-2 Age 48
+2 AGE 48
 1 BURI
 2 DATE 13 Dec 1888
 2 PLAC Graveyard of St Nicholas Church in Halewood.
@@ -36178,6 +37421,8 @@
 1 BURI
 2 PLAC Buried behind the High Altar at Sclerder Abbey, Cornwall England.
 1 FAMC @FP106@
+1 FAMC @FP106b@
+2 PEDI adopted
 1 ADOP Y
 2 FAMC @FP106b@
 0 @IP307@ INDI
@@ -36187,6 +37432,10 @@
 1 BIRT
 2 DATE 10 Aug 1878
 2 PLAC Georgetown, British Guiana.
+2 NOTE London Times, Oct 4 1878
+3 CONT POLLARD - On the 10th Aug., at Georgetown, Demerara, British Guiana, the wife of W.B. Pollard, Junr., Colonial Civil Engineer, of a son.
+2 NOTE THE COLONIST SATURDAY AUGUST 24 1878 P 2 COL 3
+3 CONT POLLARD. At New Market St., the 10th inst., the wife of W.B. Pollard, Jnr., Esq., of a Son.
 1 EDUC
 2 PLAC Clare College, Cambridge
 2 DATE BET 1898 AND 1901
@@ -36202,6 +37451,8 @@
 1 BIRT
 2 DATE 15 Oct 1879
 2 PLAC Georgetown British Guiana
+2 NOTE THE COLONIST FRIDAY OCTOBER 24 1879 P.3
+3 CONT POLLARD At Camp St. , the wife of W.B. Pollard,of a Daughter.
 1 NOTE B.A., B.Litt., Oxon.<br>d.unm
 1 DEAT
 2 DATE 24 Oct 1939
@@ -36216,7 +37467,7 @@
 1 FAMS @FP107@
 0 @IP310@ INDI
 1 SOUR @SIP1@
-1 NAME Unknown /McFarlane/
+1 NAME John /McFarlane/
 1 TITL Rev. Dr.
 1 SEX M
 1 NOTE of Clapham
@@ -36228,6 +37479,9 @@
 1 SEX M
 1 BIRT
 2 DATE 22 Jul 1877
+2 NOTE THE COLONIST SATURDAY AUGUST 24 1877 P 2 C 4
+3 CONT Births
+3 CONT POLLARD On the 22nd July, at No 1, Chelsham Rd., Clapham, London, the wife of G.R.M. Pollard, of a Son.
 1 NOTE Entered Guys Hospital. M.D. London. Joined the Medical
 2 CONC Service West Africa. Croix de Guerre Avec Palm.
 1 DEAT
@@ -36775,7 +38029,7 @@
 1 FAMC @FP2@
 0 @IPB34@ INDI
 1 NAME John /CHICHESTER/
-1 TITLE Sir
+1 TITL Sir
 1 SEX M
 1 BIRT
 2 DATE ca.1569
@@ -37615,7 +38869,7 @@
 1 MARR
 2 DATE 25 SEP 1862
 2 PLAC Saint Mary The Virgin, West Derby, Lancashire, England
-1 NOTE Marriage: 25 Sep 1862 St Mary the Virgin, West Derby, Lancashire, England
+2 NOTE Marriage: 25 Sep 1862 St Mary the Virgin, West Derby, Lancashire, England
 3 CONT William Imrie, Jnr. - full Merchant Bachelor of West Derby
 3 CONT Hannah Blackley - full Spinster of West Derby
 3 CONT     Groom's Father: William Imrie, Gentleman
@@ -37673,6 +38927,15 @@
 1 WIFE @IP309@
 1 MARR
 2 DATE 25 Jul 1876
+2 NOTE London Times, 1876, 7, 28
+3 CONT Pollard - McFarlane
+3 CONT On the 25th inst., at Trinity Presbyterian Church, Clapham-road, by the Rev. David McEwan, D.D., G.R.M. Pollard, 
+3 CONT second son of the Hon. W.B. Pollard, Auditor-General of British Guiana, to Grace, daughter of the 
+3 CONT late Rev. John McFarlane, LL.D., Clapham.
+2 NOTE THE COLONIST MONDAY SEPTEMBER 4 1876 P 2 COL4.
+3 CONT POLLARD-MCFARLANE On the 25th inst., at Trinity Presbyterian Church, Clapham Rd., by the Revd. David McEwan, D.D, 
+3 CONT G.R.M. Pollard, second son of the Hon. W. B. Pollard, Auditor General of British Guiana, to Grace, daughter of the 
+3 CONT late Revd. John McFarlane, L.L.C., Clapham.
 1 CHIL @IP311@
 1 CHIL @IP312@
 1 CHIL @IP313@
@@ -37713,6 +38976,11 @@
 1 WIFE @IP324@
 1 MARR
 2 DATE 4 Oct 1910
+2 NOTE London Times, 1910, 10, 11
+3 CONT POLLARD : CORSELLIS
+3 CONT On the 4th inst., at St. Margaret's, Westminster, by the Rev. J.D. Bolton, Curate of St. Anne's, Wandsworth, 
+3 CONT William Branch Pollard, Survey Dept., Egyptian Civil Service, son of the late William Branch Pollard, Government Engineer, 
+3 CONT British Guiana, to Joyce, youngest daughter of Henry N. Corsellis.
 1 NOTE <IMG SRC="http://www.burrowes.org/FamilyTree/pics/WBPollardIIIWed72.jpg">
 1 CHIL @IP326@
 0 @FP114@ FAM
