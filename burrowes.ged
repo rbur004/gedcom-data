@@ -1935,6 +1935,7 @@
 1 BIRT
 2 DATE 2 Dec 1961
 2 NOTE adopted
+1 ADOP Y
 0 @IW220@ INDI
 1 SOUR @SIW1@
 1 FAMS @FW136@
@@ -1944,6 +1945,7 @@
 1 BIRT
 2 DATE 26 Jul 1963
 2 NOTE adopted
+1 ADOP Y
 0 @IW221@ INDI
 1 SOUR @SIW1@
 1 FAMC @FW128@
@@ -3275,6 +3277,7 @@
 1 NAME Georgina Anne (adopted) /ALLEN/
 1 BIRT
 2 DATE 12 Apr 1973
+1 ADOP Y
 0 @IW405@ INDI
 1 SOUR @SIW1@
 1 FAMC @FW227@
@@ -7483,6 +7486,7 @@
 1 FAMC @FW510@
 1 NAME Edna /BRASS/
 1 NOTE Adopted
+1 ADOP Y
 1 SEX F
 0 @IW1007@ INDI
 1 SOUR @SIW1@
@@ -7800,6 +7804,7 @@
 1 BIRT
 2 DATE 17 Dec 1965
 2 NOTE adopted
+1 ADOP Y
 0 @IW1052@ INDI
 1 SOUR @SIW1@
 1 FAMS @FW531@
@@ -8146,6 +8151,7 @@
 2 DATE 2 Sep 1983
 2 PLAC Wellington, NZL
 2 NOTE Adopted
+1 ADOP Y
 0 @IW1103@ INDI
 1 SOUR @SIW1@
 1 FAMC @FW156@
@@ -8688,6 +8694,7 @@
 1 BIRT
 2 DATE 8 Nov 1961
 2 NOTE Adopted
+1 ADOP Y
 0 @IW1189@ INDI
 1 SOUR @SIW1@
 1 SEX F
@@ -8697,6 +8704,7 @@
 1 BIRT
 2 DATE 27 Jun 1963
 2 NOTE Adopted
+1 ADOP Y
 0 @IW1190@ INDI
 1 SOUR @SIW1@
 1 FAMC @FW573@
@@ -9182,6 +9190,7 @@
 1 BIRT
 2 DATE 6 Jul 1961
 2 NOTE adopted
+1 ADOP Y
 0 @IW1264@ INDI
 1 SOUR @SIW1@
 1 FAMS @FW601@
@@ -9207,6 +9216,7 @@
 1 BIRT
 2 DATE 6 Apr 1964
 2 NOTE adopted
+1 ADOP Y
 0 @IW1267@ INDI
 1 SOUR @SIW1@
 1 FAMC @FW114@
@@ -23293,6 +23303,37 @@
 3 CONT OCCU: Writing Clerk
 3 CONT MOTH: Sarah /BARKER/
 2 SOUR Her Birth Cert.
+1 ADDR Carrington Road, New Plymouth, NZL
+2 SOUR 1928 Electoral Role
+1 ADDR 124 Courtenay Str, New Plymouth, NZL
+1 ADDR 20 Raniera Street, New Plymouth, NZL (2011, house still on section with newer house (3 flat roofed rooms to right of current house, running down current section boundary)).
+2 SOUR Granddaughter, Thelma Burrowes (nee Richards), said she visited her there as young girl, ca.1931, described walking from home in Beach Street, cross Waiwhakaiho River, Right into Queens Road, and house was at top of concrete stairs from Atiawa Street to Raniera Street).
+2 SOUR 1935 Electoral Role
+1 ADDR 66 Pioneer Road, New Plymouth, NZL
+2 SOUR 1938 Electoral Role
+1 ADDR 128 Vivian Str, New Plymouth, NZL
+2 SOUR 1946 Electoral Role
+1 ADDR Omata Road, New Plymouth, NZL
+2 SOUR 1949 Electoral Role
+1 ADDR 97 Omata Road, New Plymouth, NZL
+2 SOUR 1954 Electoral Role
+1 ADDR Smart Road, New Plymouth, NZL (First house on right from Devon Road, before rail line. No longer there).
+2 SOUR  Granddaughter, Thelma Burrowes (nee Richards), said she visited her there.
+1 DEAT
+2 PLAC 643 Devon Road, New Plymouth, NZL (Daughter: Alice's address)
+2 DATE 15 May 1956
+2 AGE 84
+1 BURI
+2 PLAC Te Henui Cemetery, New Plymouth, NZL
+2 DATE 17 May 1956
+2 NOTE Plot Alpha Block, Row X, West PLot 22.
+2 NOTE Next of Kin listed as W.G. Finikin (Son)
+2 NOTE Funeral Directors: Vospers Funeral Home, 257 Devon Street East.
+2 NOTE Record says daughter of Sarah, MS. BARKER, & William Dale, Station Master.
+3 CONT 4 Sons: 54-52-48-44
+3 CONT 4 daug: 60-57-55-50
+3 CONT Son: W.G.Finikin, 170 Mangorei Road, New Plymouth
+3 CONT Ex-PCF: Mother of Mr WG Finikin.
 1 NOTE <img src="http://www.burrowes.org/FamilyTree/pics/HarrietDale80th.jpg">
 1 FAMC @F57@
 1 FAMS @F71@
@@ -23772,8 +23813,15 @@
 3 CONT Married 1858 Adelaide.
 3 CONT Nb. This conflicts with details on older sisters birth cert.
 1 DEAT
-2 PLAC NZL
-2 NOTE Died when Emma was a baby.
+2 PLAC Reefton NZL
+2 AGE 37
+2 DATE BEF 9 Jan 1899
+2 NOTE Said to have died shortly after birth of Emma.
+2 SOUR Reefton Cemetery record 012381
+1 BURI
+2 DATE 9 Jan 1899
+2 PLAC Reefton Old Cemetery, NZL
+2 SOUR Reefton Cemetery record 012381
 1 FAMC @F489@
 1 FAMS @F104@
 0 @I102@ INDI
@@ -23791,8 +23839,8 @@
 2 DATE 10 Mar 1898
 2 PLAC Reefton, NZL
 2 NOTE Birth Index microfiche ref, 4117
-2 NOTE Birth Certificate say 1899, but the registration date is 8 Nov 1898.
-2 NOTE Regeistered 8 Nov 1898, Henry Lucas, Registrar.
+2 NOTE Birth Certificate say 1899, but the registration date is 8 Nov 1898 and mother died January 1899.
+2 NOTE Registered 8 Nov 1898, Henry Lucas, Registrar.
 3 CONT Her father is listed as George Jones, Miner, Aged 42, born London England.
 3 CONT Her Mother is listed as Clara Louisa Jones, Formerly Dyer, Aged 37, Born Sydney, New South Wales. 
 3 CONT Their marriage was listed as 1882, 29 January, Reefton.
@@ -24630,6 +24678,7 @@
 2 NOTE Birth Index microfiche ref, 3136
 2 PLAC Feilding, NZL
 1 SEX F
+1 ADOP Y
 1 FAMC @F249@
 0 @I251@ INDI
 1 NAME Graham Charles /BUTCHER/
@@ -35921,32 +35970,216 @@
 1 SEX F
 1 BIRT
 2 DATE 30 Oct 1841
+1 CHR
+2 DATE 23 DEC 1841
+2 PLAC Liverpool, Lancashire, England
+2 SOUR IGI Batch No.: C161131 Source Call No.: 1068942 IT 1 Type: Film.
+2 NOTE Parents listed as Joseph & Elizabeth Blackley 
 1 DEAT
 2 DATE 22 Feb 1872
 2 PLAC Demerara
 1 FAMS @FP106@
+1 FAMC @FP106a@
+0 @IP305a@ INDI
+1 NAME Hannah /Blackley/
+1 SEX F
+1 BIRT
+2 DATE Abt 1840
+1 CHR
+2 DATE 19 SEP 1840
+2 PLAC Liverpool, Lancashire, England
+2 SOUR IGI Batch No.: C161131 Source Call No.: 1068942 IT 1 Type: Film.
+2 NOTE Parents listed as Joseph & Elizabeth Blackley 
+1 DEAT
+2 DATE Dec 1888
+2 Age 48
+1 BURI
+2 DATE 13 Dec 1888
+2 PLAC Graveyard of St Nicholas Church in Halewood.
+2 NOTE Abode: Mossley Hill
+3 CONT   Age 48
+3 CONT   Buried by: J. Dellcox Offg. Min.
+3 CONT   Register: Burials 1841 - 1898, Page 77, Entry 609
+3 CONT   Source: LDS Film 2147881
+1 FAMC @FP106a@
+1 FAMS @FP106b@
+0 @IP305b@ INDI
+1 NAME Joseph /Blackley/
+1 SEX M
+1 OCCU Merchant
+1 DEAT
+2 DATE BEF 25 Sep 1862
+3 NOTE Daughter Hannah's wedding record states her father was deceased.
+1 FAMS @FP106a@
+0 @IP305c@ INDI
+1 NAME William /Imrie/
+1 NOTE <IMG SRC="http://www.burrowes.org/FamilyTree/pics/william_imrie.jpg">
+1 SEX M
+1 BIRT
+2 PLAC Bootle, near Liverpool
+2 DATE 1836
+1 DEAT
+2 DATE 7 Aug 1906
+2 NOTE OBITUARY The Times (London), 10 August 1906
+3 CONC The death occurred on Monday evening, at his residence, Holmstead,
+3 CONT Mossley Hill, Liverpool, of Mr. WILLIAM IMRIE, who was prominently
+3 CONC associated with the late Mr. Thomas Ismay in building up the White Star
+3 CONC Line. Mr. Imrie joined Mr. Ismay in 1870, and the firm then became
+3 CONC Ismay, Imrie, and Co., the name it bears today. Previously Mr. Imrie
+3 CONC was largely interested in sailing vessels trading to the East, and on
+3 CONC becoming associated with the White Star Line he took over the entire
+3 CONC management of that firm's sailing ship department. He was also chairman
+3 CONC of the Asiatic Steam Navigation Company. He retired from business in
+3 CONC 1902. Mr. Imrie could never be prevailed upon to take any active part
+3 CONC in public affairs, but he was a prominent member of St. Margaret's
+3 CONC Church, Prince's-road, and was a liberal supporter of all institutions
+3 CONC connected with the Church. His benefactions were of a varied and
+3 CONC liberal character. He was born at Bootle, near Liverpool, and was 69
+3 CONC years of age.
+1 BURI
+2 DATE 10 Aug 1906
+2 PLAC Graveyard of St Nicholas Church in Halewood.
+2 NOTE Abode: Mossley Hill
+3 CONT   Age: 69
+3 CONT   Buried by: J. Newlon? Offg. Min.
+3 CONT   Register: Burials 1898 Ð 1919, Page 20, Entry 158
+3 CONT   Source: LDS Film 2147881
+1 WILL Y
+2 NOTE The Times (London), 16 August 1906
+3 CONT WILLS AND BEQUESTS---The Liverpool Courier states that under the will of
+3 CONC the late Mr. WILLIAM IMRIE, of Ismay, Imrie and Co., owners of the White
+3 CONC Star Line, several Liverpool institutions benefit largely. It is
+3 CONC understood that Mr. Imrie left £300,000, the interest on which he
+3 CONC bequeaths to his young daughter for life. The residue of the estate at
+3 CONC her death will be allocated as follows: ---£100,000 to the Liverpool
+3 CONC Cathedral fund, £50,000 each to the Liverpool Seamen's Orphanage and the
+3 CONC Homes for Aged Mariners at Egremont, and the remainder to be divided
+3 CONC between other Liverpool charities and institutions. [Balance of
+3 CONC article, relating to other wills and bequests, deleted.]
+3 CONT
+3 CONT The Times (London), 15 October 1906
+3 CONC Mr. William Imrie, of Holmstead, Liverpool, and late of the firm of
+3 CONC Ismay, Imrie, and Co., of the White Star line, who left by his will
+3 CONC £264,378 in net personalty, and the gross value of the whole of his
+3 CONC estate has been entered at £278, 472, bequeathed to his niece and
+3 CONC adopted daughter, Miss Amy Elizabeth Rosalie Imrie, of Holmstead,
+3 CONC £10,000, his household effects, and, during her life, certain pictures
+3 CONC which, after her death, are to be offered to the National gallery, the
+3 CONC Tate Gallery, the Walker Art Gallery, and the Seamen's Orphanage. Miss
+3 CONC Imrie is to have the income from the residuary estate during her life,
+3 CONC with power of appointment of £50,000 thereof in favor of her issue, and,
+3 CONC subject to her interest, the testator, as already announced in The
+3 CONC Times, left the ultimate residue of his estate in truest, as to
+3 CONC one-third for the Liverpool Cathedral, as to one-third for the William
+3 CONC Imrie Liverpool Clerks' Benevolent Fund, and as to one-third for the
+3 CONC Seamen's Pension Fund, the Seamen's Orphan Institution, the Northern,
+3 CONC Southern and Stanley Hospitals, and the Royal Infirmary.
+1 FAMS @FP106b@
+1 FAMC @FP106e@
+0 @IP305d@ INDI
+1 NAME Alice Mary /Blackley/
+1 SEX F
+1 BIRT
+2 DATE 1848
+1 CHR
+2 DATE 22 NOV 1848
+2 PLAC Liverpool, Lancashire, England
+2 SOUR IGI Batch No.: C161131 Source Call No.: 1068942 IT 1 Type: Film.
+2 NOTE Parents listed as Joseph & Elizabeth Blackley 
+1 FAMC @FP106a@
+1 FAMS @FP106c@
+0 @IP305e@ INDI
+1 NAME Thomas Charles /Elsdon/
+1 SEX M
+1 FAMS @FP106c@
+1 FAMC @FP106d@
+0 @IP305f@ INDI
+1 NAME Thomas /Elsdon/
+1 SEX M
+1 FAMS @FP106d@
+0 @IP305g@ INDI
+1 NAME William /Imrie/
+1 SEX M
+1 DEAT
+2 DATE 1870
+1 OCCU partner in Imrie & Tomlinson (shipbrokers)
+1 FAMS @FP106e@
+0 @IP305h@ INDI
+1 NAME Mary Jessie /Imrie/
+1 SEX F
+1 FAMC @FP106e@
+1 FAMS @FP106f@
+0 @IP305i@ INDI
+1 NAME George Gordon /Macrea/
+1 FAMC @FP106g@
+1 FAMS @FP106f@
+0 @IP305j@ INDI
+1 NAME James Hard /Macrea/
+1 SEX M
+1 OCCU Cotton Broker
+1 FAMS @FP106g@
+0 @IP305k@ INDI
+1 NAME Elizabeth //
+1 SEX F
+1 FAMS @FP106a@
+0 @IP305l@ INDI
+1 NAME Amy /Blackley/
+1 SEX F
+1 BIRT
+2 DATE Abt 1845
+1 CHR
+2 DATE 06 MAR 1845
+2 PLAC Liverpool, Lancashire, England
+2 SOUR IGI Batch No.: C161131 Source Call No.: 1068942 IT 1 Type: Film.
+2 NOTE Parents listed as Joseph & Elizabeth Blackley 
+1 FAMC @FP106a@
+0 @IP305m@ INDI
+1 NAME Lucy /Blackley/
+1 SEX F
+1 BIRT
+2 DATE Abt 1847
+1 CHR
+2 DATE 12 APR 1847
+2 PLAC Liverpool, Lancashire, England
+2 SOUR IGI Batch No.: C161131 Source Call No.: 1068942 IT 1 Type: Film.
+2 NOTE Parents listed as Joseph & Elizabeth Blackley 
+1 FAMC @FP106a@
+0 @IP305n@ INDI
+1 NAME Joseph /Blackley/
+1 SEX M
+1 BIRT
+2 DATE Abt 1843
+1 CHR
+2 DATE 27 OCT 1843
+2 PLAC Liverpool, Lancashire, England
+2 SOUR IGI Batch No.: C161131 Source Call No.: 1068942 IT 1 Type: Film.
+2 NOTE Parents listed as Joseph & Elizabeth Blackley 
+1 FAMC @FP106a@
 0 @IP306@ INDI
 1 SOUR @SIP1@
 1 NAME Amy Elizabeth Rosalie /POLLARD/
-1 NAME Amy Elizabeth Rosalie /IMRIE/
+1 NAME Amy Elizabeth /IMRIE/
 1 NAME Mary /Clare/
 1 TITL Sister
+1 NOTE <IMG SRC="http://www.burrowes.org/FamilyTree/pics/amy_imrie.jpg">
 1 SEX F
 1 BIRT
 2 DATE 4 Oct 1870
 2 PLAC Demerara, British Guiana.
-1 NOTE After the death of her mother in 1872, she was brought to England and lived with her
-2 CONC mother's relations and later took their name of Imrie (White Star Shipping Line).<p>
-2 CONC On coming of age she became a
+1 NOTE After the death of her mother 1872, she was brought to England and lived with her
+2 CONC mother's sister, Hannah Imrie (M. to William Imrie (half owner White Star Shipping line)) 
+2 CONC and later adopted by Hannah & William.<p>  On coming of age she became a
 2 CONC Catholic and Joined the Franciscan Order of Poor Clares.<p>
 2 CONC As Sister Mary Clare, she was Foundress of Sclerder Abbey, near Polperro, Cornwell, and
 2 CONC became its first Mother Abbess. Sister Mary Clare also built the church of St. Mary
-2 CONC of the Angels in Liverpool.
+2 CONC of the Angels in Liverpool using her inheritance of the Imrie estate.
 1 DEAT
 2 DATE 4 Apr 1944
 1 BURI
-2 PLAC Buried behind the High Altar at Sclerder Abbey.
+2 PLAC Buried behind the High Altar at Sclerder Abbey, Cornwall England.
 1 FAMC @FP106@
+1 ADOP Y
+2 FAMC @FP106b@
 0 @IP307@ INDI
 1 SOUR @SIP1@
 1 NAME William Branch /POLLARD/
@@ -36486,6 +36719,67 @@
 1 SOUR Vivian. The Visitations of Cornwall. p. 372.
 1 SOUR Devon & Cornwall Notes and Queries. v xxvi p 63-64.
 1 FAMS @FPB14@
+0 @IPB25@ INDI
+1 NAME Susanna /CHICHESTER/
+1 SEX F
+1 FAMC @FP2@
+0 @IPB26@ INDI
+1 NAME Thomas /CHICHESTER/
+1 SEX M
+1 FAMC @FP2@
+0 @IPB27@ INDI
+1 NAME John /CHICHESTER/
+1 TITL Sir
+1 NOTE The younger
+1 BIRT
+1 DEAT
+2 DATE NOV 1597
+2 PLAC Battle of Carrickfergus
+2 CAUS Captured and Beheaded
+1 SEX M
+1 FAMC @FP2@
+0 @IPB28@ INDI
+1 NAME Elizabeth /CHICHESTER/
+1 SEX F
+1 FAMC @FP2@
+0 @IPB29@ INDI
+1 NAME Eleanor /CHICHESTER/
+1 SEX F
+1 FAMC @FP2@
+0 @IPB30@ INDI
+1 NAME Bridget /CHICHESTER/
+1 SEX F
+1 FAMC @FP2@
+0 @IPB31@ INDI
+1 NAME Urith /CHICHESTER/
+1 SEX F
+1 FAMC @FP2@
+0 @IPB32@ INDI
+1 NAME Arthur /CHICHESTER/
+1 TITL 1st and last Baron Chichester of Belfast
+1 BIRT
+2 DATE May 1563
+2 PLAC Raleigh, Pilton, Devon, England
+1 DEAT
+2 DATE 19 Feb 1624/25
+1 SEX M
+1 FAMC @FP2@
+0 @IPB33@ INDI
+1 NAME Edward /CHICHESTER/
+1 TITL 1st Viscount Chichester of Carrickfergus
+1 SEX M
+1 BIRT
+2 DATE ca.1568
+1 DEAT
+2 DATE 8 Jul 1648
+1 FAMC @FP2@
+0 @IPB34@ INDI
+1 NAME John /CHICHESTER/
+1 TITLE Sir
+1 SEX M
+1 BIRT
+2 DATE ca.1569
+1 FAMC @FP2@
 0 @FP1@ FAM
 1 SOUR @SIP1@
 1 HUSB @IP1@
@@ -36501,8 +36795,17 @@
 1 SOUR @SIP1@
 1 HUSB @IP3@
 1 WIFE @IB1559@
+1 CHIL @IPB25@
+1 CHIL @IPB26@
+1 CHIL @IPB27@
+1 CHIL @IPB28@
+1 CHIL @IPB29@
 1 CHIL @IP2@
-2 NOTE 4th Daughter
+1 CHIL @IPB30@
+1 CHIL @IPB31@
+1 CHIL @IPB32@
+1 CHIL @IPB33@
+1 CHIL @IPB34@
 0 @FP3@ FAM
 1 SOUR @SIP1@
 1 HUSB @IP1@
@@ -37287,8 +37590,83 @@
 1 WIFE @IP305@
 1 MARR
 2 DATE 16 Sep 1869
-2 PLAC Liverpool
+2 PLAC St Mary the Virgin, West Derby, Lancashire, England
+2 NOTE William Branch Pollard - Full Civil Engineer Bachelor of St. Pancras London
+3 CONT Elizabeth Anne Blackley - Full Spinster of West Derby
+3 CONT     Groom's Father: Nathaniel Weekes Pollard, Gentleman. Deceased
+3 CONT     Bride's Father: Joseph Blackley, Deceased, Merchant
+3 CONT     Witness: William Imrie; Lucy Blackley
+3 CONT     Married by Licence by: John Stewart
+3 CONT     Register: Marriages 1868 - 1883, Page 21, Entry 42
+3 CONT     Source: LDS Film 1546071
 1 CHIL @IP306@
+0 @FP106a@ FAM
+1 HUSB @IP305b@
+1 WIFE @IP305k@
+1 CHIL @IP305a@
+1 CHIL @IP305@
+1 CHIL @IP305n@
+1 CHIL @IP305l@
+1 CHIL @IP305m@
+1 CHIL @IP305d@
+0 @FP106b@ FAM
+1 HUSB @IP305c@
+1 WIFE @IP305a@
+1 MARR
+2 DATE 25 SEP 1862
+2 PLAC Saint Mary The Virgin, West Derby, Lancashire, England
+1 NOTE Marriage: 25 Sep 1862 St Mary the Virgin, West Derby, Lancashire, England
+3 CONT William Imrie, Jnr. - full Merchant Bachelor of West Derby
+3 CONT Hannah Blackley - full Spinster of West Derby
+3 CONT     Groom's Father: William Imrie, Gentleman
+3 CONT     Bride's Father: Joseph Blackley, Deceased, Merchant
+3 CONT     Witness: R. N. Edwards; Elizabeth A. Blackley; G. G. Macral; J. Blackley
+3 CONT     Married by Licence by: John Stewart
+3 CONT     Register: Marriages 1837 - 1868, Page 148, Entry 295
+3 CONT     Source: LDS Film 1546070
+1 CHIL @IP306@
+2 NOTE Adopted.
+0 @FP106c@ FAM
+1 HUSB @IP305e@
+1 WIFE @IP305d@
+1 MARR 
+2 DATE 20 Apr 1882 
+2 PLAC St Mary the Virgin, West Derby, Lancashire, England
+2 NOTE Thomas Charles Elsdon - full Clerk in Holy Orders Bachelor of Little Wittenham Berks
+3 CONT Alice Mary Blackley - full Spinster of West Derby
+3 CONT     Groom's Father: Thomas Elsdon, Esquire
+3 CONT     Bride's Father: Joseph Blackley, Gentleman. Deceased
+3 CONT     Witness: William Imrie; Jane Ramsden
+3 CONT     Married by Banns by: J. J. Elkington
+3 CONT     Register: Marriages 1868 - 1883, Page 229, Entry 458
+3 CONT     Source: LDS Film 1546071
+0 @FP106d@ FAM
+1 HUSB @IP305f@
+1 CHIL @IP305e@
+0 @FP106e@ FAM
+1 HUSB @IP305g@
+1 CHIL @IP305c@
+1 CHIL @IP305h@
+0 @FP106f@ FAM
+1 HUSB @IP305i@
+1 WIFE @IP305h@
+1 MARR
+2 DATE 11 Jun 1863
+2 PLAC St Mary the Virgin, West Derby, Lancashire, England
+2 NOTE Marriage: 11 Jun 1863 St Mary the Virgin, West Derby, Lancashire, England
+3 CONT George Gordon Macrea - full Cotton Broker Bachelor of West Derby
+3 CONT Mary Jessie Imrie - full Spinster of West Derby
+3 CONT     Groom's Father: James Hardy Macrea, Cotton Broker
+3 CONT     Bride's Father: William Imrie, Gentleman. Deceased.
+3 CONT     Witness: James H. Macrae; Mary Macrae; W. S. Ledger; William Imrie; Samuel Woodhouse
+3 CONT     Witness: Marianne Imrie
+3 CONT     Married by Licence by: John Stewart
+3 CONT     Notes: [Additional witness:] Annie Tomlinson
+3 CONT     Register: Marriages 1837 - 1868, Page 156, Entry 311
+3 CONT     Source: LDS Film 1546070
+0 @FP106g@ FAM
+1 HUSB @IP305j@
+1 CHIL @IP305i@
 0 @FP107@ FAM
 1 SOUR @SIP1@
 1 HUSB @IP259@
