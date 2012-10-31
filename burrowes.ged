@@ -23569,22 +23569,21 @@
 1 FAMC @F111@
 1 FAMS @F117@
 1 NOTE Flying Officer 416194 RNZAF 489 Squadron WWII.
-2 CONT An accident while training in Eastern Canada saw his plane pulled
+2 CONT An accident while training in Saskatoon Canada saw his plane pulled
 2 CONT apart by the winds in a Cumulonimbus cloud. He parachuted to safety
 2 CONT but a bad landing compacted his spine and crushed several vertebrae
 2 CONT in his neck, pinching nerves. He was never again able to move his head
 2 CONT without considerable pain (which grew worse with age). His rib cage was
-2 CONT fixed inhibiting his breathing (A letter from the caterpillar club gives the
-2 CONT date of this event as July 1942). Thelma said he had to choose between landing
-2 CONT in the St Laurence River or dropping more quickly to land beside the river.<br>
+2 CONT fixed inhibiting his breathing (his 
+2 CONT <a href="http://www.cs.auckland.ac.nz/~rob/FamilyTree/E.F.G.Burrowes_LogBook/">Pilot's Flying Log Book</a>
+2 CONT  gives the date of this event as July 8 1942). <br>
 2 CONT He continued flying, finished his training
 2 CONT and flew 50 missions with the RAF 489 squadron flying Beaufort and
 2 CONT Beaufighter torpedo planes and Hampden bombers. He was awarded the
 2 CONT Distinguished Flying Cross by King George in 1945 just before his
-2 CONT return to NZL and got in more than a little trouble for asking that
-2 CONT it be sent to him so he could return home earlier. He married 6 weeks
-2 CONT after his return and then moved to Auckland and spent 6 months as a
-2 CONT commercial pilot. He gave this up as he was spending too long away
+2 CONT return to NZL He married 6 weeks
+2 CONT after his return and then moved to Auckland and spent another 6 months
+2 CONT in the Air force. He gave this up as he was spending too long away
 2 CONT from home and moved back to New Plymouth and worked for several years
 2 CONT for the Social Welfare Dept. He then became pilot for Rural Aviation
 2 CONT (Farm and Forestry top-dressing), later becoming the Managing Director
@@ -24145,7 +24144,7 @@
 1 FAMC @F219@
 1 FAMS @F251@
 0 @I226@ INDI
-1 NAME Lynda /LOADER/
+1 NAME Linda Mary /LOADER/
 1 SEX F
 1 BIRT
 2 DATE Apr
@@ -24161,10 +24160,10 @@
 2 NOTE Weight 7lb 5oz.
 1 FAMC @F225@
 0 @I228@ INDI
-1 NAME Stephanie /BURROWES/
+1 NAME Stephanie Anne /BURROWES/
 1 SEX F
 1 BIRT
-2 DATE 5 Aug 1988
+2 DATE 5 Aug 1987
 2 PLAC Toronto CAN
 1 FAMC @F225@
 0 @I230@ INDI
@@ -26286,6 +26285,7 @@
 1 NAME Brighid /Tonks/
 1 SEX F
 1 FAMC @F370@
+1 FAMS @F420@
 0 @I593@ INDI
 1 NAME John /Wood/
 1 SEX M
@@ -27102,6 +27102,33 @@
 1 NAME Malcolm /MacIntyre/
 1 SEX M
 1 FAMS @F418@
+0 @I742@ INDI
+1 NAME Kirstie /Hobkirk/
+1 SEX F
+1 BIRT
+2 DATE 12 Jan 1997
+1 FAMC @F398@
+0 @I743@ INDI
+1 NAME Jules Jacob /Hobkirk/
+1 SEX M
+1 BIRT
+2 DATE 14 Jun 1997
+1 FAMC @F397@
+0 @I744@ INDI
+1 NAME Isobel Louise /Burrowes/
+1 SEX F
+1 BIRT
+2 DATE 12 Feb 1998
+1 FAMC @F316@
+0 @I745@ INDI
+1 NAME Lynn /de Cambra/
+1 SEX F
+1 FAMC @F407@
+1 FAMS @F419@
+0 @I746@ INDI
+1 NAME Dean /Unknown/
+1 SEX M
+1 FAMC @F419@
 0 @F1@ FAM
 1 HUSB @I1@
 1 WIFE @I2@
@@ -27609,7 +27636,7 @@
 1 WIFE @I226@
 1 CHIL @I227@
 1 CHIL @I228@
-1 NOTE Emigrated Canada 1982 so Sean could be born there.
+1 NOTE Emigrated Canada 1982
 0 @F229@ FAM
 1 HUSB @I230@
 1 WIFE @I167@
@@ -28031,6 +28058,7 @@
 1 MARR
 2 DATE Oct 1993
 1 CHIL @I458@
+1 CHIL @I744@
 0 @F317@ FAM
 1 HUSB @I142@
 1 WIFE @I460@
@@ -28407,9 +28435,11 @@
 0 @F397@ FAM
 1 HUSB @I667@
 1 WIFE @I689@
+1 CHIL @I743@
 0 @F398@ FAM
 1 HUSB @I668@
 1 WIFE @I690@
+1 CHIL @I742@
 0 @F399@ FAM
 1 HUSB @IR877@
 1 WIFE @I693@
@@ -28451,6 +28481,7 @@
 0 @F407@ FAM
 1 HUSB @I715@
 1 CHIL @I439@
+1 CHIL @I745@
 1 SOUR Arthur Stanley /Burrowes/ @I438@
 0 @F408@ FAM
 1 HUSB @I716@
@@ -28513,6 +28544,17 @@
 1 HUSB @I741@
 1 WIFE @I233@
 1 MARR Y
+0 @F419@ FAM
+1 WIFE @I745@
+1 CHIL @I746@
+0 @F420@ FAM
+1 WIFE @I592@
+1 MARR
+2 DATE ABT Dec 1997
+2 NOTE Married by the father of the Bride 
+3 CONT <a href="http://www.cs.auckland.ac.nz:9999/html/I589">Denys /Tonks/</a>.<br>
+3 CONT Bride was given away by her Grandfather 
+3 CONT <a href="http://www.cs.auckland.ac.nz:9999/html/I346">Edmund Stanley Spencer /BURROWES/</a>.
 0 @N9@ NOTE ******* Start of Searson families from Paul Murphy UK**********
 0 @SIS1@ SOUR
 1 NAME Paul Murphy @IS84@
