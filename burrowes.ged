@@ -23734,6 +23734,7 @@
 0 @I96@ INDI
 1 SEX F
 1 NAME Evelyn Maude /BURROWES/
+1 NOTE <img src="http://www.burrowes.org/FamilyTree/pics/MaudeBurrowes.png">
 1 BIRT
 2 DATE 24 May 1896
 2 PLAC Springlands, Nelson, NZL
@@ -23790,6 +23791,7 @@
 0 @I98@ INDI
 1 SEX M
 1 NAME Stanley Gadfield Aglionby /BURROWES/
+1 NOTE <img src="http://www.burrowes.org/FamilyTree/pics/StanBurrowes.png">
 1 BIRT
 2 DATE 3 Apr 1891
 2 NOTE Birth Index microfiche ref, 1539
@@ -23820,6 +23822,7 @@
 0 @I99@ INDI
 1 NAME Emmeline May (Emmie) /BURROWES/
 1 FAMC @F100@
+1 NOTE <img src="http://www.burrowes.org/FamilyTree/pics/EmmieBurrowes.png">
 1 BIRT
 2 DATE 1900
 2 NOTE Birth Index microfiche ref, 3031
@@ -23878,7 +23881,7 @@
 0 @I103@ INDI
 1 SEX F
 1 NAME Emma Elizabeth /JONES/
-1 NOTE <a href="http://www.burrowes.org/FamilyTree/pics/EmmaJones.jpg"><img src="http://www.burrowes.org/FamilyTree/pics/EmmaJones-small.JPG"></a>
+1 NOTE <img src="http://www.burrowes.org/FamilyTree/pics/EmmaJones.png">
 1 BIRT
 2 DATE 28 Sep 1898
 2 PLAC Reefton, NZL
@@ -25384,7 +25387,7 @@
 1 FAMS @F278@
 1 SOUR @IW1633@
 0 @I373@ INDI
-1 NAME James /JONES/
+1 NAME James (Jim) /JONES/
 1 SEX M
 1 BIRT
 2 DATE Abt 1894
@@ -25393,6 +25396,7 @@
 1 FAMS @F280@
 0 @I374@ INDI
 1 NAME Nellie /UNKNOWN/
+1 NOTE <IMG src="http://www.burrowes.org/FamilyTree/pics/NellieJones.png">
 1 SEX F
 1 FAMS @F280@
 0 @I375@ INDI
