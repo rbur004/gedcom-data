@@ -23873,6 +23873,7 @@
 0 @I102@ INDI
 1 SEX M
 1 NAME George /JONES/
+1 NOTE <img src="http://www.burrowes.org/FamilyTree/pics/GeorgeJones.png">
 1 BIRT
 2 DATE ABT 1857
 2 PLAC London, England.
@@ -32992,7 +32993,9 @@
 0 @F490@ FAM
 1 HUSB @I937@
 1 WIFE @I935@
-1 MARR Y
+1 MARR
+2 DATE 1875
+2 NOTE BDM Ref 1875/1514 (Bride listed as Annie, not Eliza Anne)
 2 SOUR Family Search Web Site. Submitted by 
 3 CONT Peter GERRIE 52 Dowling Grove, Silverstream, Upper hutt, Wellington, New Zealand 6007
 1 CHIL @I938@
