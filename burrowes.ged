@@ -23767,6 +23767,7 @@
 1 FAMS @F113@
 0 @I97@ INDI
 1 NAME Edwin Fitzherbert (Bert) /BURROWES/
+1 NOTE <a href="http://www.burrowes.org/FamilyTree/pics/EdwinFitzherbert_Bert_BurrowesWWI.png"><img src="http://www.burrowes.org/FamilyTree/pics/EdwinFitzherbert_Bert_BurrowesWWI-small.png"></a>
 1 BIRT
 2 DATE 20 Mar 1894
 2 NOTE Birth Index microfiche ref 1894, 1709
@@ -23858,10 +23859,11 @@
 1 DEAT
 2 PLAC Reefton NZL
 2 AGE 37
-2 DATE BEF 9 Jan 1899
-2 NOTE Said to have died shortly after birth of Emma.
+2 DATE 5 Jan 1899
+2 NOTE Died 3 months after birth of Emma.
 2 SOUR Reefton Cemetery record 012381
 2 NOTE BDM Record Ref: 1899/1120
+2 CAUS Acute Brights Desease
 1 BURI
 2 DATE 9 Jan 1899
 2 PLAC Reefton Old Cemetery, NZL
@@ -24532,6 +24534,9 @@
 0 @I216@ INDI
 1 NAME Jenice Joy (Jenny) /CRAVEN/
 1 SEX F
+1 DEAT
+2 DATE 08 May 2010
+2 PLAC Palmerston North, NZL
 1 FAMS @F215@
 1 NOTE Diagnosed as having Wilson's Desease.
 2 RESN privacy
@@ -25557,8 +25562,8 @@
 2 NOTE Birth Index microfiche ref 3848
 1 DEAT
 2 PLAC NZL
-2 NOTE Died in infancy 1 month old.
-3 CONC Couldn't find a Death Index microfiche ref
+2 NOTE Died in infancy 4 weeks old.
+3 CONC Death Index microfiche ref 1893/5883
 1 FAMC @F100@
 0 @I398@ INDI
 1 NAME Colston Robert /SPRACKETT/
@@ -30484,6 +30489,10 @@
 1 BIRT
 2 DATE 1882
 2 SOUR 1882/9674
+1 DEAT
+2 DATE 1894
+2 AGE 12
+2 SOUR BDM ref 1894/6192
 1 FAMC @F104@
 0 @I1127@ INDI
 1 NAME Ada /Jones/
@@ -30491,6 +30500,10 @@
 1 BIRT
 2 DATE 1884
 2 SOUR BDM 1884/8542
+1 DEAT
+2 DATE 1898
+2 SOUR BDM ref 1898/2081
+2 AGE 13
 1 FAMC @F104@
 0 @I1128@ INDI
 1 NAME Honor /Ellis/
