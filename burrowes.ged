@@ -25396,14 +25396,30 @@
 1 NAME James (Jim) /JONES/
 1 SEX M
 1 BIRT
-2 DATE Abt 1894
+2 DATE 11 Dec 1893
+2 PLAC Reefton
 2 SOUR BDM Ref 1894/18277
+1 DEAT
+2 DATE 27 Jul 1983
+2 PLAC Public Hospital Tokoroa
+2 NOTE Residence: Matai Street, Putaruru.
+2 NOTE Father Listed as George James Jones.
+2 CAUS Hypostatic Broncopneumonia
+2 NOTE Death cert lists 2nd wife: Elizabeth Miriam Mary Hayman Aged 85.
+2 AGE 89
+1 CREM
+2 DATE 1 Aug 1983
+2 PLAC Rotorua
 1 FAMC @F104@
 1 FAMS @F280@
 0 @I374@ INDI
-1 NAME Nellie /UNKNOWN/
+1 NAME Helen Florence (Nellie) /McDonald/
 1 NOTE <IMG src="http://www.burrowes.org/FamilyTree/pics/NellieJones.png">
 1 SEX F
+1 BIRT
+2 DATE CA. 1889
+2 NOTE Mother listed as Adela Jane, Father as Bernard Thomas.
+2 SOUR BDM 1889/7401
 1 FAMS @F280@
 0 @I375@ INDI
 1 NAME Dorothy (Dot) /MCNIVEN/
@@ -25629,8 +25645,9 @@
 1 NAME Henry Thomas (Harry) /JONES/
 1 SEX M
 1 BIRT
-2 DATE Abt 1887
+2 DATE 28 Jan 1887
 2 SOUR BDM 1887/15380
+2 PLAC Crushington
 1 FAMC @F104@
 0 @I407@ INDI
 1 SEX F
@@ -30491,8 +30508,12 @@
 2 DATE 1882
 2 SOUR 1882/9674
 1 DEAT
-2 DATE 1894
+2 DATE 12 Dec 1894
 2 AGE 12
+2 CAUS Diptheria
+1 BURI
+2 DATE 14 Dec 1894
+2 PLAC Reefton
 2 SOUR BDM ref 1894/6192
 1 FAMC @F104@
 0 @I1127@ INDI
@@ -30502,9 +30523,14 @@
 2 DATE 1884
 2 SOUR BDM 1884/8542
 1 DEAT
-2 DATE 1898
+2 DATE 8 Mar 1898
+2 PLAC Reefton
 2 SOUR BDM ref 1898/2081
 2 AGE 13
+2 CAUS TB
+1 BURI
+2 DATE 9 Mar 1898
+2 PLAC Reefton Old Cemetery
 1 FAMC @F104@
 0 @I1128@ INDI
 1 NAME Honor /Ellis/
@@ -31809,6 +31835,10 @@
 0 @F280@ FAM
 1 HUSB @I373@
 1 WIFE @I374@
+1 MARR
+2 PLAC Wellington, NZL
+2 DATE Ca. 1914
+2 SOUR BDM 1914/2019
 0 @F281@ FAM
 1 HUSB @I559@
 1 WIFE @I560@
