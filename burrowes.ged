@@ -13896,7 +13896,7 @@
 1 DEAT
 2 DATE 17 May 1947
 2 PLAC Cheviot, NZL
-1 NOTE  Prime Minister of New Zealand 1930 United Party, Coalition Party 1931.
+1 NOTE Prime Minister of New Zealand 1930 United Party, Coalition Party 1931.
 0 @IWS157@ INDI
 1 SOUR @SIW1@
 1 FAMS @FW181@
@@ -16983,7 +16983,7 @@
 1 NAME Jennifer /Adams/
 1 FAMC @FW726@
 0 @IWS707@ INDI
-1 NAME  Leslie /Adams/
+1 NAME Leslie /Adams/
 1 SEX M
 1 FAMC @FW726@
 1 FAMS @F443@
@@ -17009,7 +17009,7 @@
 1 BIRT
 2 DATE 9 AUG 1979
 1 DEAT
-2 AGE	21
+2 AGE 21
 2 DATE 21 Oct 2000
 2 PLAC Waikato River, Hamilton NZL
 2 CAUS Drowned
@@ -23074,9 +23074,9 @@
 0 @I18@ INDI
 1 NAME Elizabeth Ann /RICHARDS/
 1 SEX F
-1 BIRT 
+1 BIRT
 2 DATE 1856
-1 CHR 
+1 CHR
 2 DATE 17 Aug 1856
 2 PLAC Paul
 2 ADDR Trevithal
@@ -23348,7 +23348,7 @@
 2 SOUR 1954 Electoral Role
 1 RESI
 2 ADDR Smart Road, New Plymouth, NZL (First house on right from Devon Road, before rail line. No longer there).
-2 SOUR  Granddaughter, Thelma Burrowes (nee Richards), said she visited her there.
+2 SOUR Granddaughter, Thelma Burrowes (nee Richards), said she visited her there.
 1 DEAT
 2 PLAC 643 Devon Road, New Plymouth, NZL (Daughter: Alice's address)
 2 DATE 15 May 1956
@@ -23391,12 +23391,18 @@
 2 NOTE FATH: George /FINIKIN/
 3 CONT OCCU: Forge Labourer
 3 CONT MOTH: Eliza /POPE/
+1 DEAT
+2 DATE BEF 1921
+2 SOUR Wife listed as Widow in 1921.
 1 FAMC @F61@
 1 FAMS @F71@
 1 NOTE Said to have died of Alcoholism related problems in an Asylum
 0 @I62@ INDI
 1 NAME Lily /FINIKIN/
 1 SEX F
+1 BIRT
+2 DATE Abt 1897
+2 SOUR March 1901 Census lists her as 3, Sister, born Nov 1898, as 2
 1 NOTE Stayed in England When Family Emigrated to NZL
 1 FAMC @F71@
 0 @I63@ INDI
@@ -23423,6 +23429,9 @@
 0 @I64@ INDI
 1 NAME Annie (Nancy) /FINIKIN/
 1 SEX F
+1 BIRT
+2 DATE Abt Jul 1900
+2 SOUR 9 months old, March 1901 Census.
 1 NOTE Emigrated to NZL by Pinching Money sent by Sarah and Leo to
 2 CONT let her Mother Harriet and her Brothers Bill, Jack and Alf emigrate.
 1 FAMC @F71@
@@ -23430,6 +23439,9 @@
 0 @I65@ INDI
 1 NAME James (Jim) /FINIKIN/
 1 SEX M
+1 BIRT
+2 DATE Abt 1901
+2 SOUR April 1911 Census lists him as 9.
 1 NOTE Stayed in England When Family Emigrated to NZL
 2 CONT Joined Grenadier Guards.
 1 FAMC @F71@
@@ -23440,19 +23452,28 @@
 1 NOTE Stayed in England When Family Emigrated to NZL
 1 FAMC @F71@
 0 @I67@ INDI
-1 NAME William (Bill) /FINIKIN/
+1 NAME William George (Bill) /FINIKIN/
 1 SEX M
+1 BIRT
+2 DATE Abt 1905
+2 SOUR Apr 1911 census lists him as 5
 1 NOTE Emigrated to NZL
 1 FAMC @F71@
 1 FAMS @F450@
 0 @I68@ INDI
 1 NAME Amy /FINIKIN/
 1 SEX F
+1 BIRT
+2 DATE Abt. 1906
+2 SOUR Apr 1911 Census lists her as 4
 1 NOTE Stayed in England When Family Emigrated to NZL
 1 FAMC @F71@
 0 @I69@ INDI
-1 NAME Jack /FINIKIN/
+1 NAME John (Jack) /FINIKIN/
 1 SEX M
+1 BIRT
+2 DATE Abt. 1907
+2 SOUR Apr 1911 Census lists him as 3
 1 NOTE Emigrated to NZL
 1 FAMC @F71@
 1 FAMS @F461@
@@ -23687,6 +23708,7 @@
 1 DEAT
 2 DATE 29 Apr 1936
 2 AGE 70
+2 CAUS Heart Attack
 2 NOTE NZ Death Index microfiche ref, 1382
 2 PLAC Son Stanley's Home in New Plymouth, NZL
 1 BURI
@@ -23729,6 +23751,8 @@
 1 RESI
 2 ADDR Ballance Street, New Plymouth, NZL
 2 NOTE At time of death.
+1 NOTE 1881 Electoral Role: Cheviot, Shepherd Kaikoura
+1 NOTE 1893/96 Electoral Roles: Wairau, Shepherd Blenheim
 1 FAMC @F268@
 1 FAMS @F100@
 0 @I96@ INDI
@@ -23769,9 +23793,10 @@
 1 NAME Edwin Fitzherbert (Bert) /BURROWES/
 1 NOTE <a href="http://www.burrowes.org/FamilyTree/pics/EdwinFitzherbert_Bert_BurrowesWWI.png"><img src="http://www.burrowes.org/FamilyTree/pics/EdwinFitzherbert_Bert_BurrowesWWI-small.png"></a>
 1 BIRT
-2 DATE 20 Mar 1894
-2 NOTE Birth Index microfiche ref 1894, 1709
+2 DATE 20 Mar 1895
+2 NOTE Birth Index microfiche ref 1895/1709, Birth Cert gives birth year as 1895.
 3 SOUR Enlistment record in NZL Expeditionary Forces dated 7 Dec 1914
+4 CONT Enlistment record gives Birth year as 1894 (making him 20, allowing him to enlist)
 1 OCCU 11 Reg Inf.
 1 OCCU Cheese Maker
 1 DEAT
@@ -23958,7 +23983,7 @@
 2 CONC without considerable pain (which grew worse with age). His rib cage was
 2 CONC fixed inhibiting his breathing (his
 2 CONC <a href="http://www.burrowes.org/FamilyTree/E.F.G.Burrowes_LogBook/">Pilot's Flying Log Book</a>
-2 CONC  gives the date of this event as July 8 1942). <br>
+2 CONC gives the date of this event as July 8 1942). <br>
 2 CONT He continued flying, finished his training
 2 CONC and flew 54 missions with the RAF No. 489 Squadron, six in Hampdens followed by
 2 CONC 48 as a Beaufighter pilot. He was awarded the
@@ -25018,27 +25043,6 @@
 1 BIRT
 2 DATE ABT 1820
 2 PLAC Lechlade, Gloucestershire, England
-2 SOUR @GAD_S9@
-3 PAGE HO 107/1969
-3 DATA
-4 TEXT 1851 Census - Hampnett, Gloucestshire, England
-5 CONT
-5 CONT HARDING Peter 27 Ag Lab, Wooten under Edghe
-5 CONT                   Sarah 23 Ag Lab, Burford
-5 CONT                   Sarah 2 Scholar, Northleach
-5 CONT GADFIELD William, Lodger, 31 Ag Lab, Lechlade
-5 CONT                    Henrietta, Lodger, 25, Ag Lab, Not Known
-5 CONT
-2 SOUR @GAD_S9@
-3 PAGE RG9/1787
-3 DATA
-4 TEXT 1861 Census - Hampnett, Gloucestshire, England
-5 CONT
-5 CONT GADFIELD William, 42, Agricultural Labourer, Lechdale
-5 CONT                    Henrietta, 35, London
-5 CONT                    Mary Ann, 6, Hampnett
-5 CONT                    Eliza, 4, Hampnett
-5 CONT                    Martha E, 1, Hampnett
 1 DEAT
 2 DATE 17 Jun 1905
 2 NOTE Aged 85
@@ -25093,7 +25097,7 @@
 1 SEX M
 1 BIRT
 2 DATE 12 Jul 1870
-2 NOTE THE COLONIST	TUESDAY JULY 12 1870 P 2 COL 6
+2 NOTE THE COLONIST TUESDAY JULY 12 1870 P 2 COL 6
 3 CONT BURROWRS - This morning, in Charlotte St., Mrs. H. Stanley Burrowrs, of a Son.
 1 DEAT
 2 DATE 29 Jul 1933
@@ -25412,6 +25416,7 @@
 2 PLAC Rotorua
 1 FAMC @F104@
 1 FAMS @F280@
+1 FAMS @F583@
 0 @I374@ INDI
 1 NAME Helen Florence (Nellie) /McDonald/
 1 NOTE <IMG src="http://www.burrowes.org/FamilyTree/pics/NellieJones.png">
@@ -25420,7 +25425,20 @@
 2 DATE CA. 1889
 2 NOTE Mother listed as Adela Jane, Father as Bernard Thomas.
 2 SOUR BDM 1889/7401
+1 DEAT
+2 DATE 14 June 1959
+2 PLAC Lyndall Street, Palmerston North, NZL.
+2 NOTE Resident 21 Manuroa Rd, Takanini, NZL
+2 AGE 69
+2 NOTE Parents listed as Bernard McDonald, Farmer, Adela Havill
+3 CONT Born Kumeu
+3 CONT Married Wellington, aged 24, James Jones.
+2 CAUS Heart attack. 
+1 BURI
+2 DATE 17 June 1959
+2 PLAC Papakura, NZL
 1 FAMS @F280@
+1 FAMC @F587@
 0 @I375@ INDI
 1 NAME Dorothy (Dot) /MCNIVEN/
 1 SEX F
@@ -25532,6 +25550,7 @@
 2 DATE 22 Jun 1909
 2 AGE 20
 2 PLAC Hawera Hospital NZL
+2 CAUS Liver Cancer
 2 NOTE Death Index microfiche ref 3848
 1 BURI
 2 PLAC Hawera Cemetery NZL
@@ -25634,7 +25653,7 @@
 2 PLAC St James Parish, Barbados
 1 CHR
 2 DATE 4 Apr 1784
-2 PLAC  St James Parish
+2 PLAC St James Parish
 2 SOUR IGI
 3 CONC Christened on 4 April 1784 in St James Parish son of Philip and Mary Burrowes.
 2 SOUR St James Register RL1/46 Pg 583
@@ -25655,7 +25674,7 @@
 1 NOTE <img src="http://www.burrowes.org/FamilyTree/pics/EmmaGadfield.png">
 1 BIRT
 2 DATE ABT 1862
-2 PLAC Hampnett, GLS, ENG
+2 PLAC Northleach, GLS, ENG
 1 CHR
 2 DATE 8 Jun 1862
 2 PLAC Hampnett, Gloucestershire, England
@@ -25676,7 +25695,7 @@
 1 NOTE <img src="http://www.burrowes.org/FamilyTree/pics/ElizaSophiaGadfield.png">
 1 BIRT
 2 DATE 1857
-2 PLAC Hampnell, GLS, ENG
+2 PLAC Hampnett, GLS, ENG
 1 NOTE Aged 22, Serv. Ship Stadt Haarlim,
 2 CONC Sailed 15 Feb 1879 Eng. Arrived 16 Apr 1879 NZ
 1 FAMS @F296@
@@ -25685,7 +25704,7 @@
 1 SEX F
 1 NAME Martha Elizabeth (Bessie) /GADFIELD/
 1 BIRT
-2 DATE ABT 1859
+2 DATE ABT 1860
 2 PLAC Withington? Hampnett, GLS, ENG
 1 CHR
 2 DATE 25 Dec 1859
@@ -25704,7 +25723,10 @@
 1 FAMC @F13@
 0 @I410@ INDI
 1 SEX F
-1 NAME Louise /GADFIELD/
+1 NAME Emily Louise /GADFIELD/
+1 BIRT
+2 DATE Abt. 1870
+2 PLAC Withington, GLS, Eng
 1 FAMS @F298@
 1 FAMC @F13@
 0 @I411@ INDI
@@ -26751,13 +26773,6 @@
 2 DATE 25 Jul 1852
 2 PLAC Hampnett, Gloucestershire, England
 2 SOUR Graig Pickup's Gadfield gedcom
-1 FAMC @F13@
-0 @I557@ INDI
-1 NAME Emily /Gadfield/
-1 SEX F
-1 BIRT
-2 DATE 1870
-2 PLAC Eng.
 1 FAMC @F13@
 0 @I558@ INDI
 1 NAME Winifred Pearl /Herbert/
@@ -28136,7 +28151,7 @@
 2 DATE 31 Oct 2001
 1 FAMC @F422@
 0 @I804@ INDI
-1 NAME  Jodie /Kay/
+1 NAME Jodie /Kay/
 1 SEX F
 1 FAMC @F446@
 1 FAMS @F422@
@@ -28984,8 +28999,8 @@
 1 IMMI
 2 DATE 22 Jan 1854
 2 SOUR Shipping records Melbourne State Library
-3 NOTE  Book 9, page 351, record 323: Clara Robinson, Calling: Maid, Cambridge. Age 17, Engaged by: Mrs Mateer, Bourke Str. 
-3 NOTE  Jan 22 1854, Wanata. f.r. Ship, 1443t, Capt. John Lee, Southhampton 25/10, Melb 17.9 with 341 Govt Migrants.
+3 NOTE Book 9, page 351, record 323: Clara Robinson, Calling: Maid, Cambridge. Age 17, Engaged by: Mrs Mateer, Bourke Str. 
+3 NOTE Jan 22 1854, Wanata. f.r. Ship, 1443t, Capt. John Lee, Southhampton 25/10, Melb 17.9 with 341 Govt Migrants.
 4 CONT Crew in state of Mutiny, Some desert in Pilots boat, 21/1
 1 DEAT
 2 DATE 13 Jan 1894
@@ -28998,6 +29013,8 @@
 2 AGE 55
 2 NOTE Cemetery records list Birth place as CAMBRIDGESHIRE
 3 CONT Surname at time of death was Lawson.
+1 NOTE 1893 NZ Electoral Role: Buller, Married Women, Merrijigs
+1 FAMS @F580@
 1 FAMS @F489@
 1 FAMS @F577@
 1 FAMC @F576@
@@ -29033,7 +29050,7 @@
 1 DEAT
 2 PLAC Reefton
 1 OCCU Mine Manager
-1 NOTE  From the Cyclopedia of New Zealand 1906.
+1 NOTE From the Cyclopedia of New Zealand 1906.
 2 CONT McMaster, John, Mine Manager, Reefton. 
 2 CONT Mr. McMaster was born in Argyllshire, Scotland, in January, 1847. After he was educated, he was put to engineering
 2 CONC for a short time, and in the year 1567, came to New Zealand and landed at Port Chalmers, from the ship Peraboo.
@@ -29123,7 +29140,7 @@
 1 DEAT
 2 DATE 1998
 2 PLAC Wellington, NZL
-1 OCCU Teacher/ Principal of Wellington East Girls College	
+1 OCCU Teacher/ Principal of Wellington East Girls College  
 1 FAMC @F491@
 0 @I944@ INDI
 1 NAME Pal Allen /McMaster/
@@ -29541,7 +29558,7 @@
 2 PLAC St James Parish, Barbados
 2 NOTE Rachel dau of James & Eliz: Burrowe
 0 @I1005@ INDI
-1 NAME  /Burrowes/
+1 NAME /Burrowes/
 1 BIRT
 2 DATE CA 1701
 1 FAMC @F517@
@@ -30117,7 +30134,7 @@
 1 BIRT
 2 DATE 1 Jan 1757
 2 NOTE Surname listed as Ellis als DAY
-1 DEAT 
+1 DEAT
 2 DATE 15 Mar 1834
 2 AGE 78
 2 PLAC Poor House, St Buryan
@@ -30216,7 +30233,7 @@
 1 BIRT
 2 DATE 24 FEB 1687/88
 2 PLAC St. Just in Penwith, Cornwall, England
-1 DEAT 
+1 DEAT
 2 DATE 10 JAN 1733/34
 2 PLAC St. Just in Penwith, Cornwall, England
 1 FAMS @F542@
@@ -30345,7 +30362,7 @@
 2 DATE 1480
 2 PLAC Gwinear
 1 DEAT
-2 PLAC  20 Mar 1566/1567
+2 PLAC 20 Mar 1566/1567
 1 FAMS @F550@
 1 FAMC @F552@
 0 @I1100@ INDI
@@ -30380,21 +30397,21 @@
 1 SEX M
 1 FAMS @F553@
 0 @I1106@ INDI
-1 NAME 	John /Lanyon/
+1 NAME John /Lanyon/
 1 SEX M
 1 FAMS @F554@
 1 FAMC @F556@
 0 @I1107@ INDI
-1 NAME  Isabell /Ruthfrey/
+1 NAME Isabell /Ruthfrey/
 1 SEX F
 1 FAMS @F554@
 1 FAMC @F555@
 0 @I1108@ INDI
-1 NAME  Thomas /Ruthfrey/
+1 NAME Thomas /Ruthfrey/
 1 SEX M
 1 FAMS @F555@
 0 @I1109@ INDI
-1 NAME 	John /Lanyon/
+1 NAME John /Lanyon/
 1 SEX M
 1 FAMS @F556@
 1 FAMC @F557@
@@ -30469,7 +30486,7 @@
 0 @I1121@ INDI
 1 NAME Ambrose /Dale/
 1 SEX M
-1 BIRT 
+1 BIRT
 2 DATE Abt 1849
 2 PLAC Utruria Wharf, Staff
 1 FAMC @F57@
@@ -30500,6 +30517,16 @@
 1 BIRT
 2 DATE 1890
 2 SOUR BDM 1890/11075
+1 DEAT
+2 DATE 23 Jan 1892
+2 AGE 1 year 8 months
+2 CAUS Meningitis
+2 PLAC Reefton, NZL
+2 SOUR Death Cert
+1 BURI
+2 DATE 24 Jan 1892
+2 PLAC Reefton, NZL.
+2 SOUR Death Cert.
 1 FAMC @F104@
 0 @I1126@ INDI
 1 NAME Sarah Ann /Jones/
@@ -30511,9 +30538,12 @@
 2 DATE 12 Dec 1894
 2 AGE 12
 2 CAUS Diptheria
+2 PLAC Reefton, NZL
+2 SOUR Death Cert
 1 BURI
 2 DATE 14 Dec 1894
-2 PLAC Reefton
+2 PLAC Reefton, NZL
+2 SOUR Death Cert
 2 SOUR BDM ref 1894/6192
 1 FAMC @F104@
 0 @I1127@ INDI
@@ -30670,7 +30700,7 @@
 1 SEX F
 1 BIRT
 2 DATE 1733
-1 DEAT 
+1 DEAT
 2 DATE 1755
 1 FAMC @F542@
 0 @I1150@ INDI
@@ -30882,54 +30912,97 @@
 1 OCCU Groom
 1 FAMS @F575@
 0 @I1183@ INDI
+1 NAME Samuel /Robinson/
+2 SOUR Clara's Two Marriage Certificates
 1 NAME William /Robinson/
+2 SOUR Clara's Death Cert
 1 SEX M
 1 OCCU Bricklayer
+2 SOUR Clara's Death Certificate
+1 OCCU Labourer
+2 SOUR Clara's 2 Marriage Certificates
 1 FAMS @F576@
 0 @I1184@ INDI
-1 NAME Mary //
+1 NAME Mary /Skinner/
 1 SEX F
 1 FAMS @F576@
 0 @I1185@ INDI
 1 NAME John /Lawson/
 1 SEX M
+1 BIRT
+2 DATE Abt. 1835
+1 FAMC @F582@
 1 FAMS @F577@
 0 @I1186@ INDI
-1 NAME /Lawson/
+1 NAME John Kilkawin /Lawson/
 1 SEX M
 1 BIRT
-2 DATE ABT 1867
+2 DATE 1868
+2 PLAC Sydney, NSW, AU
+2 SOUR NSW BDM Ref 2002/1864
+1 DEAT
+2 DATE Nov 1897
+2 CAUS TB
+2 SOUR NZ BDM 1897/2332 Lawson John Kilkawin 29Y
+1 BURI
+2 PLAC Reefton Old, NZL
+2 DATE 5 Nov 1897
 1 FAMC @F577@
 0 @I1187@ INDI
-1 NAME /Lawson/
+1 NAME Joseph /Lawson/
 1 SEX M
 1 BIRT
-2 DATE ABT 1869
+2 DATE 1868
+2 PLAC Sydney, NSW, AU
+2 SOUR NSW BDM Ref 2459/1868
+1 NOTE Possible NZ BDM entries
+2 CONT 1888/3054    Alice Mary  McKerrow    Joseph James    Lawson 
+2 CONT Death 1889/4635  Lawson  Alice Mary  21Y
+2 CONT 1893/3273    Martha Jane     Young   Joseph James    Lawson 
+2 CONT Death 1951/21966 Lawson  Martha Jane     77Y
+2 CONT 1908/416 Te Aopinengarangi 'Not Recorded' to Joseph Lawson
 1 FAMC @F577@
 0 @I1188@ INDI
-1 NAME /Lawson/
+1 NAME Walter Riginal /Lawson/
 1 SEX M
 1 BIRT
-2 DATE ABT 1871
+2 DATE 1871
+2 SOUR NZ BDM 1871/26739
 1 FAMC @F577@
+1 NOTE Possible NZ BDM 
+2 CONT 1894/1278    Ethel Minnie    Jones   Walter Reginald     Lawson 
+2 CONT Death 1929/1531  Lawson  Ethel Minnie    51Y
+2 CONT 1929/5634 Susan Anna Guild to Walter Reginald Lawson
+2 CONT Death 1958/22485 Lawson  Susan Anna  82Y
 0 @I1189@ INDI
-1 NAME /Lawson/
+1 NAME George Henry /Lawson/
 1 SEX M
 1 BIRT
-2 DATE ABT 1874
+2 DATE 1873
+2 SOUR NZ BDM 1873/13110
 1 FAMC @F577@
+1 NOTE Possible NZ BDM 
+2 CONT 1890/1069    Emily Elizabeth     Potbury     George Henry    Lawson 
+2 CONT Death 1943/27582 Lawson  Emily Elizabeth     67Y
+2 CONT 1928/9713 Emma Georgina Martin to George Henry Lawson 
+2 CONT Death 1953/18177 Lawson  Emma Georgina   47Y
 0 @I1190@ INDI
-1 NAME /Lawson/
+1 NAME Elizabeth Florence Oliver /Lawson/
 1 SEX F
 1 BIRT
 2 DATE ABT 1875
+2 SOUR NZ BDM 1875/6151
 1 FAMC @F577@
+1 NOTE Possibly married NZ-BDM 1900/1242 Elizabeth Florence Lawson to Philip Lewis 
 0 @I1191@ INDI
-1 NAME /Lawson/
+1 NAME Susan Oliver /Lawson/
 1 SEX F
 1 BIRT
-2 DATE ABT 1877
+2 DATE ABT 1876
+2 SOUR NZ BDM 1876/13050
 1 FAMC @F577@
+1 NOTE Possible NZ BDM
+2 CONT 1899/3376    Susan   Lawson to Francis William   Allen 
 0 @I1192@ INDI
 1 NAME Christopher /Hall/
 1 SEX M
@@ -30944,6 +31017,93 @@
 1 NAME Ana /Broadbent/
 1 SEX F
 1 FAMS @F579@
+0 @I1195@ INDI
+1 NAME William Woodward /Waters/
+1 SEX M
+1 BIRT
+2 DATE Abt. 1833
+2 SOUR Marriage
+1 FAMC @F581@
+1 FAMS @F580@
+0 @I1196@ INDI
+1 NAME Henry /Waters/
+1 SEX M
+1 FAMS @F581@
+0 @I1197@ INDI
+1 NAME Susan /Hyam/
+1 SEX F
+1 FAMS @F581@
+0 @I1198@ INDI
+1 NAME William /Lawson/
+1 SEX M
+1 FAMS @F582@
+0 @I1199@ INDI
+1 NAME Nancy /Woodhill/
+1 SEX F
+1 FAMS @F582@
+0 @I1200@ INDI
+1 NAME Elizabeth Miriam Mary Taylor Schofiled /Hayman/
+1 SEX F
+1 BIRT
+2 DATE 25 Jul 1898
+2 SOUR BDM Ref 
+1 DEAT
+2 DATE 1989
+2 SOUR BDM Ref 1989/46980
+1 FAMS @F584@
+1 FAMS @F583@
+1 FAMC @F586@
+0 @I1201@ INDI
+1 NAME Thomas /Ross/
+1 SEX M
+1 BIRT
+2 DATE Abt. 1895
+2 SOUR Marriage Cert.
+1 OCCU Master Mariner
+1 FAMC @F585@
+1 FAMS @F584@
+0 @I1202@ INDI
+1 NAME Thomas /Ross/
+1 SEX M
+1 OCCU Master Mariner
+1 FAMS @F585@
+0 @I1203@ INDI
+1 NAME Ellen Elizabeth /Hughes/
+1 SEX F
+1 FAMS @F585@
+0 @I1204@ INDI
+1 NAME Frederick James /Hayman/
+1 SEX M
+1 OCCU Schoolmaster
+1 FAMS @F586@
+0 @I1205@ INDI
+1 NAME Margaret Annie /Bunting/
+1 SEX F
+1 FAMS @F586@
+0 @I1206@ INDI
+1 NAME Martha //
+1 BIRT
+2 DATE Abt 1796
+1 SEX F
+1 FAMS @F309@
+0 @I1207@ INDI
+1 NAME Bernard Thomas /McDonald/
+1 SEX M
+1 OCCU Farmer
+1 SOUR Daughter Helen's Marriage Cert. and Death Cert.
+1 FAMS @F587@
+0 @I1208@ INDI
+1 NAME Adela Jane /Havill/
+1 SEX F
+1 FAMS @F587@
+1 SOUR Daughter Helen's Marriage Cert. and Death Cert.
+0 @I1209@ INDI
+1 NAME Maria /Lawson/
+1 SEX F
+1 BIRT
+2 DATE 1879
+2 SOUR NZ BDM 1879/2134
+1 FAMC @F577@
 0 @F1@ FAM
 1 HUSB @I1@
 1 WIFE @I2@
@@ -31048,7 +31208,43 @@
 1 CHIL @I407@
 1 CHIL @I94@
 1 CHIL @I410@
-1 CHIL @I557@
+1 SOUR @SOUR_F13_1@
+1 SOUR @SOUR_F13_2@
+1 SOUR @SOUR_F13_3@
+1 SOUR @SOUR_F13_4@
+0 @SOUR_F13_1@ SOUR
+1 REFN Pg 17, Parish Census, Ancestry.com
+1 TEXT 1851 Census - Hampnett, Gloucestshire, England, District 17
+2 CONT HARDING Peter 27 Ag Lab, Wooten under Edghe
+2 CONT                   Sarah 23 Ag Lab, Burford
+2 CONT                   Sarah 2 Scholar, Northleach
+2 CONT GADFIELD William, Lodger, 31 Ag Lab, Lechlade
+2 CONT                    Henrietta, Lodger, 25, Ag Lab, Not Known
+0 @SOUR_F13_2@ SOUR
+1 REFN Pg 13, Parish Census, Ancestry.com
+1 TEXT 1861 Census - Hampnett, Gloucestshire, England, District 5
+2 CONT GADFIELD William, head, 41, Agricultural Labourer, Lechdale
+2 CONT                    Henrietta, wife, 35, London
+2 CONT                    Mary Ann, Dau. 6, Hampnett
+2 CONT                    Eliza S, Dau. 4, Hampnett
+2 CONT                    Martha E, Dau. 1, Hampnett
+0 @SOUR_F13_3@ SOUR
+1 REFN Pg 15 and 16, Parish Census, Ancestry.com
+1 TEXT 1871 Census Withington, Gloucestshire, England. District 6
+2 CONT          Gadfield William, Head, 51, Ag Lab Shepherd, b. Quenington
+2 CONT                   Henrietta, wife, 45, Ag Lab, b. London
+2 CONT                   Mary A, dau. 16, b. Hampnett
+2 CONT                   Eliza S, dau. 14, b. Hampnett
+2 CONT                   Emma , dau. 8, b. NorthLeach
+2 CONT                   Annie M, dau. 6, b. Withington
+2 CONT                   Emily L, dau. 1, Withington
+0 @SOUR_F13_4@ SOUR
+1 REFN Pg 18, Parish Census, Ancestry.com
+1 TEXT 1881 Census Dowdeswell, Gloucestshire, England. District 8
+2 CONT 88 Castle Barn, Dowdeswell
+2 CONT          Gadfield William, Head, 61, Ag Lab Shepherd
+2 CONT                   Henrietta, wife, 55, Ag Lab
+2 CONT                   Emily Louisa, dau. 11, Scholar
 0 @F21@ FAM
 1 HUSB @I8@
 1 WIFE @I10@
@@ -31124,7 +31320,7 @@
 1 CHIL @I54@
 1 CHIL @I55@
 1 CHIL @I56@
-1 CENS 
+1 CENS
 2 DATE 1861
 2 ADDR Utruria Wharf
 2 NOTE William DALE 35, Railway Clerk, born Betley Staff, 1826
@@ -31136,7 +31332,7 @@
 3 CONT William 3 1858
 3 CONT Daniel R (I think) 1 1860
 3 SOUR Molly Bergh , Esperance, Western Australia
-1 CENS 
+1 CENS
 2 DATE 1891
 2 NOTE 19 Olive St, Stoke on Trent, RG12/2174, F118a, P50 - DALE:
 3 CONT Sarah, Head, Widow, 61, Derbys Derby
@@ -31157,46 +31353,46 @@
 1 CHIL @I1118@
 1 CENS
 2 DATE 1861
-2 NOTE name:	George Finikin (I23)
-3 CONT gender:	Male
-3 CONT age:	25
-3 CONT relationship to head of household:	Head
-3 CONT birthplace:	Foxt, Staffordshire
-3 CONT record type:	Household
-3 CONT registration district:	Stoke-Upon-Trent
-3 CONT sub-district:	2 Shelton
-3 CONT ecclesiastical parish:	Shelton
-3 CONT civil parish:	Shelton
-3 CONT county:	Staffordshire
+2 NOTE name:    George Finikin (I23)
+3 CONT gender:  Male
+3 CONT age: 25
+3 CONT relationship to head of household:   Head
+3 CONT birthplace:  Foxt, Staffordshire
+3 CONT record type: Household
+3 CONT registration district:   Stoke-Upon-Trent
+3 CONT sub-district:    2 Shelton
+3 CONT ecclesiastical parish:   Shelton
+3 CONT civil parish:    Shelton
+3 CONT county:  Staffordshire
 1 CENS
 2 DATE 1881
 2 PLAC Norton In The Moors, Staffordshire, England
-2 NOTE Name: 	George Finikin ()
-3 CONT Age: 	45
-3 CONT Gender: 	Male
-3 CONT Birth Year: 	1836
-3 CONT Birthplace: 	?Psford
-3 CONT Relationship to Head of Household: 	Head
-3 CONT Marital Condition: 	Married
-3 CONT Profession/Occupation: 	Boatman (Bge)
-3 CONT Address: 	Milton
-3 CONT Census Place: 	
-3 CONT Record Type: 	Household
-3 CONT Family History Library Film: 	1341656
-3 CONT The National Archives Reference: 	RG11
-3 CONT Piece/Folio: 	2737 / 109
-3 CONT Page Number: 	9
-3 CONT   	Household 	Gender 	Age 	Birthplace (F61)
-3 CONT Head 	George Finikin 	M 	45 	?Psford (I23)
-3 CONT Wife 	Eliza Finikin 	F 	43 	Hanley, Staffordshire, England (I58)
-3 CONT Daughter 	Ann Finikin 	F 	22 	Hanley, Staffordshire, England (I1113)
-3 CONT Son 	John Finikin 	M 	17 	Hanley, Staffordshire, England (I1114)
-3 CONT Son 	Thomas Finikin 	M 	16 	Hanley, Staffordshire, England (I1115)
-3 CONT Son 	George Finikin 	M 	14 	Hanley, Staffordshire, England (I1116)
-3 CONT Son 	William Finikin 	M 	9 	Hanley, Staffordshire, England (I1117)
-3 CONT Daughter 	Jane Finikin 	F 	7 	Hanley, Staffordshire, England (Sarah I59)
-3 CONT Son 	James Finikin 	M 	3 	Milton, Staffordshire, England (I60)
-3 CONT Daughter 	Mary Finikin 	F 	1 	Milton, Staffordshire, England (I1118)
+2 NOTE Name:    George Finikin ()
+3 CONT Age:     45
+3 CONT Gender:  Male
+3 CONT Birth Year:  1836
+3 CONT Birthplace:  ?Psford
+3 CONT Relationship to Head of Household:   Head
+3 CONT Marital Condition:   Married
+3 CONT Profession/Occupation:   Boatman (Bge)
+3 CONT Address:     Milton
+3 CONT Census Place:    
+3 CONT Record Type:     Household
+3 CONT Family History Library Film:     1341656
+3 CONT The National Archives Reference:     RG11
+3 CONT Piece/Folio:     2737 / 109
+3 CONT Page Number:     9
+3 CONT      Household   Gender  Age     Birthplace (F61)
+3 CONT Head     George Finikin  M   45  ?Psford (I23)
+3 CONT Wife     Eliza Finikin   F   43  Hanley, Staffordshire, England (I58)
+3 CONT Daughter     Ann Finikin     F   22  Hanley, Staffordshire, England (I1113)
+3 CONT Son  John Finikin    M   17  Hanley, Staffordshire, England (I1114)
+3 CONT Son  Thomas Finikin  M   16  Hanley, Staffordshire, England (I1115)
+3 CONT Son  George Finikin  M   14  Hanley, Staffordshire, England (I1116)
+3 CONT Son  William Finikin     M   9   Hanley, Staffordshire, England (I1117)
+3 CONT Daughter     Jane Finikin    F   7   Hanley, Staffordshire, England (Sarah I59)
+3 CONT Son  James Finikin   M   3   Milton, Staffordshire, England (I60)
+3 CONT Daughter     Mary Finikin    F   1   Milton, Staffordshire, England (I1118)
 0 @F71@ FAM
 1 HUSB @I60@
 1 WIFE @I56@
@@ -31209,6 +31405,25 @@
 1 CHIL @I68@
 1 CHIL @I69@
 1 CHIL @I70@
+1 MARR
+2 DATE Q4 1896
+2 PLAC Stoke-on-Trent, Staffordshire, ENG
+2 SOUR Vol 6b, Pg 389 Eng Marriages, Stoke-on-trent
+1 SOUR 1901 Census. Shelton, Hanley, Staffordshire, Eng. District 13
+2 TEXT 32 Lomas Street
+3 CONT James Finikin, Head, 40, Potter's Miller
+3 CONT Harriet Alice, Wife, Housekeeper 29, 
+3 CONT Lily 3, Sarah Ellen 2, Annie 9 months.
+1 SOUR 1910 Census
+2 TEXT 9 Top Marsh, May Bank, Stoke-on-Trent.
+3 CONT James Finikin, Head, 50, Potter's Miller, Bone Mill.  b. Staffordshire, Shelton
+3 CONT Harriet Alice Finikin, Wife, 39 b. Staffordshire, Shelton
+3 CONT Lily Finikin, Dau 13. b. Staff, Eturia
+3 CONT James Finikin, Son 9 b. Staffordshire, Shelton
+3 CONT William George Finikin, Son 5 b. Staff, Eturia
+3 CONT Amy Finikin, Dau. 4 b. Staff, Eturia
+3 CONT John Finikin, Son 3 b. Staffordshire, Shelton
+3 CONT Married 14years, 8 Children, 7 alive, 1 dead. 
 0 @F84@ FAM
 1 HUSB @I17@
 1 WIFE @I72@
@@ -31328,8 +31543,9 @@
 1 CHIL @I114@
 1 CHIL @I115@
 1 MARR
-2 DATE ABT 1918
-2 PLAC Eng
+2 DATE Q4 1919
+2 PLAC Stoke-upon-Trent, Staffordshire, Eng
+2 SOUR Vol 6b, Pg 540 Stoke-upon-Trent, Staffordshire, BDM
 1 DIV
 2 DATE 24 Feb 1932
 2 SOUR Marr. Cert 2nd Marriage
@@ -31702,7 +31918,7 @@
 1 CHIL @I570@
 1 CHIL @I573@
 1 CHIL @I574@
-1 NOTE THE COLONIST	MONDAY MARCH 25 1872
+1 NOTE THE COLONIST MONDAY MARCH 25 1872
 2 CONT BURROWS - On the 22nd inst., at Woodbine Cottage, Murray Street, Mrs H. Stanley Burrows, of a Daughter.
 0 @F262@ FAM
 1 HUSB @I342@
@@ -31913,7 +32129,7 @@
 1 MARR
 2 DATE 27 Sep 1810
 2 PLAC St James Parish, Barbados
-2 SOUR 	IGI (sent by <a href="/html?record=I440">Richard Stanley Burrowes</a>)
+2 SOUR IGI (sent by <a href="/html?record=I440">Richard Stanley Burrowes</a>)
 3 CONC     Region:    Caribbean
 3 CONC     Country:   All Islands
 3 CONC     Page:      2286
@@ -32006,7 +32222,13 @@
 1 CHIL @I10@
 0 @F309@ FAM
 1 HUSB @I437@
+1 WIFE @I1206@
 1 CHIL @I340@
+1 SOUR
+2 NOTE Possible Family Record.
+2 TEXT 1841 Census, Northleach, Gloucestershire, Eng. District 1
+3 CONT Martha 45, Henrietta 15, George 13, Martha 9.
+1 NOTE Wife is possibly Martha Cripps, Married Southwark, London, 24 Apr 1825.
 0 @F310@ FAM
 1 HUSB @I438@
 1 WIFE @I439@
@@ -33020,6 +33242,8 @@
 1 CHIL @I935@
 1 CHIL @I101@
 1 SOUR NSW Births , Deaths and Marriages web site from 2 childrens entries.
+1 NOTE A notice in the Sydney Empire newspaper, on the 14th Oct 1863, by Clara, to her 
+2 CONT previous spouse William Waters indicates that Clara never married Robert Dyer. 
 0 @F490@ FAM
 1 HUSB @I937@
 1 WIFE @I935@
@@ -33361,8 +33585,8 @@
 1 CHIL @I1065@
 1 CHIL @I1007@
 1 CHIL @I1064@
-1 SOUR indexing project (batch) number:	C02096-2
-2 CONT system origin:	England-ODM
+1 SOUR indexing project (batch) number: C02096-2
+2 CONT system origin:   England-ODM
 0 @F534@ FAM
 1 HUSB @I1069@
 1 WIFE @I1070@
@@ -33370,7 +33594,7 @@
 1 CHIL @I1010@
 1 CHIL @I1129@
 1 CHIL @I1130@
-1 MARR 
+1 MARR
 2 PLAC St. Buryan
 2 DATE 3 Nov 1782
 0 @F535@ FAM
@@ -33393,7 +33617,7 @@
 1 MARR
 2 DATE 9 Oct 1884
 2 PLAC PAUL
-2 NOTE Groom Age: 38, Occu Farmer, Residence: 	Paul Church Town
+2 NOTE Groom Age: 38, Occu Farmer, Residence:   Paul Church Town
 3 CONT Bride Age: 28, Residence Trungle.
 3 CONT Bride's Father James Richards, Farmer
 3 CONT Witness: Margret J Richards, James Richards
@@ -33581,6 +33805,11 @@
 1 HUSB @I1183@
 1 WIFE @I1184@
 1 CHIL @I934@
+1 CENS
+2 DATE 1841
+2 PLAC Haslingfield, Cambridgeshire, Eng
+2 NOTE Possibly this family
+3 CONT Mary 40, Moses 15, Luce 14, Lyas 10, Liza 7, Clarey 3.
 0 @F577@ FAM
 1 HUSB @I1185@
 1 WIFE @I934@
@@ -33590,10 +33819,17 @@
 1 CHIL @I1189@
 1 CHIL @I1190@
 1 CHIL @I1191@
+1 CHIL @I1209@
 1 MARR
-2 PLAC NSW, Australia
-2 DATE ABT 1863
-2 NOTE Came to NZL about 1865
+2 PLAC Scots Church, Sydney NSW, Australia
+2 DATE 5 Feb 1864
+2 NOTE Groom: Bachelor, Aged 28, Mariner, Resident aboard ship
+3 CONT Father: William Lawson, Publican. Mother: Nancy Woodhill
+3 CONT Bride: Widow, Aged 25, Homeholder, Resident Dickson (Dixon) Street, Sydney 
+3 CONT Father Samuel Robinson, Labourer. Mother: Mary Skinner
+3 CONT Witnesses: Elias? Robinson, Sarah Taylor.
+3 CONT Bride listed as Clara Louisa Walters, rather than Waters.
+1 NOTE Came to NZL about 1865
 0 @F578@ FAM
 1 HUSB @I1192@
 1 WIFE @I218@
@@ -33604,6 +33840,60 @@
 1 HUSB @I217@
 1 WIFE @I1194@
 1 CHIL @I1193@
+0 @F580@ FAM
+1 HUSB @I1195@
+1 WIFE @I934@
+1 MARR
+2 DATE 20 Sep 1854
+2 PLAC Christ Church Geelong, Victoria, AU
+2 NOTE Groom: Aged 21, Carrier, Resident Geelong
+3 CONT Father: Henry Waters, Shepherd, Mother: Susan Hyam
+3 CONT Bride: Aged 18, Dressmaker, Resident Geelong
+3 CONT Father: Samuel Robinson, Labourer, Mother: Mary Skinner
+3 CONT Witnesses: Thomas and Jane Simpson.
+1 NOTE Empire Newspaper, Sydney NSW, 14 Oct 1863
+2 CONT William Woodward Waters, formally of Geelong. - I hereby give you notice that unless I hear
+2 CONT from you within fourteen days, I intend to get married. 
+2 CONT C.L. Waters, Post-office, Sydney. 
+0 @F581@ FAM
+1 HUSB @I1196@
+1 WIFE @I1197@
+1 CHIL @I1195@
+0 @F582@ FAM
+1 HUSB @I1198@
+1 WIFE @I1199@
+1 CHIL @I1185@
+0 @F583@ FAM
+1 HUSB @I373@
+1 WIFE @I1200@
+1 MARR
+2 DATE 1961
+2 SOUR BDM mircofiche ref 1961/698
+0 @F584@ FAM
+1 HUSB @I1201@
+1 WIFE @I1200@
+1 MARR
+2 DATE 25 Jun 1920
+2 PLAC Tekuiti, NZL
+2 NOTE Groom: Bachelor, aged 25, Master Mariner, b. Helensville, Resi Helensville
+3 CONT Father: Thomas Ross Snr, Master Mariner. Mother Ellen Elizabeth Hughes
+3 CONT Bride Spinster, aged 21, Domestice Duties, b. Kimberley, Res Tokaanu, Waikato
+3 CONT Father: Frederick James Hayman, Schoolmaster. Mother: Margaret Annie Bunting
+2 SOUR Marriage Cert.
+0 @F585@ FAM
+1 HUSB @I1202@
+1 WIFE @I1203@
+1 CHIL @I1201@
+1 SOUR Son, Thomas' Marriage Cert.
+0 @F586@ FAM
+1 HUSB @I1204@
+1 WIFE @I1205@
+1 CHIL @I1200@
+1 SOUR Daughter, Elizabeth's Marriage Cert.
+0 @F587@ FAM
+1 HUSB @I1207@
+1 WIFE @I1208@
+1 CHIL @I374@
 0 @FK_S1@ SUBM
 1 NAME Frank William Finikin
 1 ADDR 66 Parson Str, New Plymouth, NZL
@@ -37242,7 +37532,7 @@
 2 DATE 30 Jun 1860
 1 DEAT
 2 DATE 7 Aug 1872
-2 NOTE THE COLONIST	SATURDAY AUGUST 24 1872
+2 NOTE THE COLONIST SATURDAY AUGUST 24 1872
 3 CONT POLLARD. - On 7th inst. , at Richmond Villa, John Elliot, youngest son of the Hon. William Branch Pollard, ages 12 years.
 1 FAMC @FP77@
 0 @IP284@ INDI
@@ -37310,7 +37600,7 @@
 2 DATE 30 Dec 1876
 2 NOTE THE COLONIST SATURDAY FEBRUARY 24 1877 P 2
 3 CONT Died
-3 CONT HINCKS.	On Dec. 30th, 1876, at the residence of her father-in-law, Sir F. Hincks, K.C.M.G., C.B., Alice Josephine Cory, 
+3 CONT HINCKS.  On Dec. 30th, 1876, at the residence of her father-in-law, Sir F. Hincks, K.C.M.G., C.B., Alice Josephine Cory, 
 3 CONT wife of Francis Hincks, Esq., and daughter of the late John Henry Pollard, M.D.,of Georgetown, Demerara.
 1 FAMC @FP96@
 1 FAMS @FP99@
@@ -39077,7 +39367,7 @@
 0 @FP106c@ FAM
 1 HUSB @IP305e@
 1 WIFE @IP305d@
-1 MARR 
+1 MARR
 2 DATE 20 Apr 1882 
 2 PLAC St Mary the Virgin, West Derby, Lancashire, England
 2 NOTE Thomas Charles Elsdon - full Clerk in Holy Orders Bachelor of Little Wittenham Berks
@@ -64703,7 +64993,7 @@
 2 SOUR @S14@
 1 DEAT
 2 DATE 994
-2 NOTE	Also have from royal92.ged 986
+2 NOTE Also have from royal92.ged 986
 2 PLAC Orl»ans
 2 SOUR @S14@
 1 BURI
@@ -83514,7 +83804,7 @@
 1 CHIL @IB567@
 1 CHIL @IDH4032@
 1 MARR
-2 DATE  5 JUL 1876
+2 DATE 5 JUL 1876
 2 PLAC Saint Lucy, Barbadoes, WI
 0 @FB311@ FAM
 1 SOUR @SIB3@
@@ -84104,7 +84394,7 @@
 2 CONC shall consent to or admit of it.<br>
 2 CONC Executrix and Excutor, Wife and son Reynold Alleyne; in case of both their deaths, then
 2 CONC sons John Alleyne, Thomas Alleyne, and Timothy Henry Peers Alleyne.
-2 CONC  Signed Abel Alleyne.<br>
+2 CONC Signed Abel Alleyne.<br>
 2 CONC Witnesses: William Gall Jr., Christopher Estwick Gall.<br>
 2 CONC Proved at Pilgrim 18 Sep 1747. Henry Grenville. (Barbados Records. Vol 26. p.190)
 2 SOUR @SIB2@
@@ -84658,7 +84948,7 @@
 2 DATE 11 Oct 1725
 2 PLAC St James, Barbados
 2 SOUR @SIB2@
-1 DEAT 
+1 DEAT
 2 DATE 4 May 1764
 1 FAMC @FB1033@
 1 FAMS @FB1037@
@@ -85119,7 +85409,7 @@
 1 SOUR @SIB3@
 1 NAME Agnes Rebecca Augusta /ALLEYNE/
 1 SEX F
-1 DEAT 
+1 DEAT
 2 DATE 4 Dec 1904
 1 FAMC @FB190@
 1 FAMS @FB1060@
@@ -85879,7 +86169,7 @@
 1 DEAT
 2 DATE 1746
 2 CAUS Jaundice
-2 AGE  49
+2 AGE 49
 1 BURI
 2 DATE 6 Nov 1746
 2 PLAC St James, Barbados
@@ -85970,7 +86260,7 @@
 2 DATE 27 Oct 1695
 1 DEAT
 2 DATE 20 Dec 1715
-2 AGE  20
+2 AGE 20
 1 BURI
 2 PLAC St Dunstan's East London, Eng
 2 NOTE From a stone in the middle isle of St Dunstan's, East London.
@@ -86783,7 +87073,7 @@
 1 DEAT
 2 DATE 31 Oct 1780
 2 PLAC New York City, USA.
-1 BURI 
+1 BURI
 2 PLAC under the alter of St. Georges Church. New York City. USA
 1 FAMC @FB1128@
 1 FAMS @FB1127@
