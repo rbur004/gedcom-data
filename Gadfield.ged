@@ -1,0 +1,2903 @@
+0 HEAD
+1 SOUR PAF
+2 NAME Personal Ancestral File
+2 VERS 5.0.1.10
+2 CORP The Church of Jesus Christ of Latter-day Saints
+3 ADDR 50 East North Temple Street
+4 CONT Salt Lake City, UT 84150
+4 CONT USA
+1 DEST Other
+1 DATE 21 Jun 2001
+2 TIME 17:58:38
+1 FILE gadfield.ged
+1 GEDC
+2 VERS 5.5
+2 FORM LINEAGE-LINKED
+1 CHAR UTF-8
+1 LANG English
+1 SUBM @GAD_SUB1@
+0 @GAD_SUB1@ SUBM
+1 NAME Craig Pickup
+1 ADDR 5 St Barnabas Road
+2 CONT London
+2 CONT E17 8JZ
+1 CTRY UK
+1 PHON 020 8520 7833
+1 EMAIL c.pickup@lds.org.uk
+0 @GAD_I1@ INDI
+1 NAME Rose Hannah /Gadfield/
+2 SURN Gadfield
+2 GIVN Rose Hannah
+2 _AKA Rosanna
+1 SEX F
+1 BIRT
+2 DATE 27 Mar 1888
+2 PLAC Millgate, Lancashire, England
+1 DEAT
+2 DATE 5 Mar 1978
+2 PLAC Burnley, Lancashire, England
+1 BURI
+2 DATE 8 Mar 1978
+2 PLAC Darwen, Lancashire, England
+1 AFN 5
+1 REFN 5
+1 _UID 67C59A5DEFF5D4119FCC00485451E24268F9
+1 FAMC @GAD_F1@
+1 CHAN
+2 DATE 25 Jan 2000
+3 TIME 00:00:00
+1 FAMS @PIC_F1@
+0 @PIC_F1@ FAM
+1 HUSB @PIC_I1@
+1 WIFE @GAD_I1@
+1 CHIL @PIC_I2@
+1 CHIL @PIC_I18@
+1 MARR
+2 DATE 2 Jan 1909
+0 @PIC_I1@ INDI
+1 NAME Hubert /Pickup/
+1 SEX M
+1 BIRT
+2 DATE 17 Aug 1889
+1 DEAT
+2 DATE 1 Jul 1976
+1 FAMC @PIC_F4@
+1 FAMS @PIC_F1@
+0 @PIC_I2@ INDI
+1 NAME Harry /Pickup/
+1 SEX M
+1 BIRT
+2 DATE 29 Jul 1909
+1 FAMC @PIC_F1@
+1 FAMS @PIC_F8@
+0 @PIC_I22@ INDI
+1 NAME Miriam /Walker/
+1 SEX F
+1 FAMS @PIC_F8@
+0 @PIC_F8@ FAM
+1 HUSB @PIC_I2@
+1 WIFE @PIC_I22@
+1 MARR
+2 DATE 6 Sep 1930
+0 @PIC_I18@ INDI
+1 NAME Albert /Pickup/
+1 SEX M
+1 BIRTH
+2 DATE 13 May 1916
+1 FAMC @PIC_F1@
+1 FAMS @PIC_F3@
+1 FAMS @PIC_F2@
+0 @PIC_F2@ FAM
+1 HUSB @PIC_I18@
+1 WIFE @PIC_I3@
+1 CHIL @PIC_I4@
+1 CHIL @PIC_I5@
+1 CHIL @PIC_I6@
+1 CHIL @PIC_I7@
+1 CHIL @PIC_I8@
+1 MARR
+2 DATE 1 Nov 1956
+1 DIVO Y
+0 @PIC_I3@ INDI
+1 NAME Jeanie Finlay /Walker/
+1 SEX F
+1 BIRT
+2 DATE 28 Dec 1926
+1 FAMS @PIC_F2@
+0 @PIC_I4@ INDI
+1 NAME David Michael Walker /Pickup/
+1 SEX M
+1 BIRT
+2 DATE 21 Jan 1958
+1 FAMC @PIC_F2@
+1 FAMS @PIC_F9@
+0 @PIC_I23@ INDI
+1 NAME Janet /Robertson/
+1 SEX F
+1 BIRT
+2 DATE 15 Sep 1959
+1 FAMS @PIC_F9@
+0 @PIC_F9@ FAM
+1 HUSB @PIC_I4@
+1 WIFE @PIC_I23@
+1 MARR
+2 DATE 11 Mar 1980
+0 @PIC_I5@ INDI
+1 NAME Paul /Pickup/
+1 BIRT
+2 DATE 14 Aug 1959
+1 DEAT
+2 DATE 14 Aug 1959
+1 FAMC @PIC_F2@
+0 @PIC_I6@ INDI
+1 NAME Peter /Pickup/
+1 BIRT
+2 DATE 14 Aug 1959
+1 DEAT
+2 DATE 14 Aug 1959
+1 FAMC @PIC_F2@
+0 @PIC_I7@ INDI
+1 NAME Craig Alexander Walker /Pickup/
+1 SEX M
+1 BIRT
+2 DATE 1 Jan 1961
+1 FAMC @PIC_F2@
+1 FAMS @PIC_F10@
+0 @PIC_I24@ INDI
+1 NAME Maria Do Socorro /Evangelista/
+1 SEX F
+1 BIRT
+2 DATE 24 Aug 1965
+1 FAMS @PIC_F10@
+0 @PIC_F10@ FAM
+1 HUSB @PIC_I7@
+1 WIFE @PIC_I24@
+1 CHIL @PIC_I26@
+1 CHIL @PIC_I27@
+1 CHIL @PIC_I28@
+1 MARR
+2 DATE 27 Feb 1993
+0 @PIC_I26@ INDI
+1 NAME Moyra Walker /Pickup/
+1 SEX F
+1 BIRT
+2 DATE 21 Nov 1994
+1 FAMC @PIC_F10@
+0 @PIC_I27@ INDI
+1 NAME Lucas Evangelista /Pickup/
+1 SEX M
+1 BIRT
+2 DATE 10 Feb 1998
+1 FAMC @PIC_F10@
+0 @PIC_I28@ INDI
+1 NAME Alexandra Evangelista /Pickup/
+1 SEX F
+1 BIRT
+2 DATE 23 May 2000
+1 FAMC @PIC_F10@
+0 @PIC_I8@ INDI
+1 NAME Heather Marion Walker /Pickup/
+1 SEX F
+1 BIRT
+2 DATE 13 Mar 1963
+1 FAMC @PIC_F2@
+1 FAMS @PIC_F11@
+0 @PIC_I25@ INDI
+1 NAME Adrian John /Folley/
+1 SEX M
+1 BIRT
+2 DATE 9 Sep 1957
+1 FAMS @PIC_F11@
+0 @PIC_F11@ FAM
+1 HUSB @PIC_I25@
+1 WIFE @PIC_I8@
+1 MARR
+2 DATE 11 Jun 1982
+0 @PIC_F3@ FAM
+1 HUSB @PIC_I18@
+1 WIFE @PIC_I9@
+1 MARR
+2 DATE 31 Aug 1943
+1 DIVO Y
+0 @PIC_I9@ INDI
+1 NAME Jean Helena /Statham/
+1 SEX F
+1 FAMS @PIC_F3@
+0 @PIC_I10@ INDI
+1 NAME George /Pickup/
+1 SEX M
+1 BIRT
+2 DATE 11 Jul 1854
+1 FAMS @PIC_F4@
+0 @PIC_I11@ INDI
+1 NAME Martha Ann /Jepson/
+1 SEX F
+1 BIRT
+2 DATE 13 Jul 1855
+1 DEAT
+2 DATE 20 Mar 1947
+1 FAMS @PIC_F4@
+0 @PIC_F4@ FAM
+1 HUSB @PIC_I10@
+1 WIFE @PIC_I11@
+1 MARR
+2 DATE 2 Dec 1876
+1 CHIL @PIC_I12@
+1 CHIL @PIC_I13@
+1 CHIL @PIC_I14@
+1 CHIL @PIC_I15@
+1 CHIL @PIC_I16@
+1 CHIL @PIC_I1@
+1 CHIL @PIC_I17@
+0 @PIC_I12@ INDI
+1 NAME Doctor /Pickup/
+1 SEX M
+1 BIRT
+2 DATE ABT 1879
+2 DEAT
+2 DATE 18 Feb 1882
+1 FAMC @PIC_F4@
+0 @PIC_I13@ INDI
+1 NAME Michael /Pickup/
+1 BIRT
+2 DATE 10 Feb 1881
+1 FAMC @PIC_F4@
+1 FAMS @PIC_F5@
+0 @PIC_I19@ INDI
+1 NAME Nancy Ann /Howarth/
+1 SEX F
+1 FAMS @PIC_F5@
+0 @PIC_F5@ FAM
+1 HUSB @PIC_I13@
+1 WIFE @PIC_I19@
+0 @PIC_I14@ INDI
+1 NAME Ellen Jane /Pickup/
+1 BIRT
+2 DATE ABT 1883
+1 FAMC @PIC_F4@
+1 FAMS @PIC_F6@
+0 @PIC_I20@ INDI
+1 NAME George William /Field/
+1 SEX M
+1 FAMS @PIC_F6@
+0 @PIC_F6@ FAM
+1 HUSB @PIC_I20@
+1 WIFE @PIC_I14@
+1 MARR
+2 DATE 18 Jul 1903 
+0 @PIC_I15@ INDI
+1 NAME Bertha /Pickup/
+1 SEX F
+1 BIRT
+2 DATE ABT 1884
+1 FAMC @PIC_F4@
+1 FAMS @PIC_F7@
+0 @PIC_I21@ INDI
+1 NAME Andrew /Hayes/
+1 SEX M
+1 FAMS @PIC_F7@
+0 @PIC_F7@ FAM
+1 HUSB @PIC_I21@
+1 WIFE @PIC_I15@
+1 MARR
+2 DATE 2 Jan 1910
+0 @PIC_I16@ INDI
+1 NAME Joseph /Pickup/
+1 SEX M
+1 FAMC @PIC_F4@
+0 @PIC_I17@ INDI
+1 NAME Margaret Alice /Pickup/
+1 SEX F
+1 FAMC @PIC_F4@
+0 @GAD_I2@ INDI
+1 NAME Henry /Gadfield/
+2 SURN Gadfield
+2 GIVN Henry
+1 SEX M
+1 BIRT
+2 DATE 30 Nov 1866
+2 PLAC Witney, Oxfordshire, England
+2 SOUR @GAD_S11@
+1 CHR
+2 DATE 31 Mar 1867
+2 PLAC Witney, Oxfordshire, England
+2 SOUR @GAD_S14@
+3 DATA
+4 TEXT 1867, Mar 31 - s GADFIELD Henry - Charles and Elizabeth of Witney (Stone Mason).
+1 DEAT
+2 DATE 13 Feb 1925
+2 PLAC Darwen, Lancashire, England
+2 SOUR @GAD_S13@
+1 BURI
+2 DATE 18 Feb 1925
+2 PLAC Darwen, Lancashire, England
+1 REFN 10
+1 _UID 9DC59A5DEFF5D4119FCC00485451E2429E59
+1 FAMS @GAD_F1@
+1 FAMC @GAD_F2@
+1 CHAN
+2 DATE 19 Feb 2001
+3 TIME 12:35:33
+0 @GAD_I3@ INDI
+1 NAME Ruth /English/
+2 SURN English
+2 GIVN Ruth
+1 SEX F
+1 BIRT
+2 DATE 23 Jul 1866
+2 PLAC Whittlesey, Cambridgeshire, England
+1 DEAT
+2 DATE 24 Aug 1953
+2 PLAC Burnley, Lancashire, England
+1 BURI
+2 DATE 26 Aug 1953
+2 PLAC Darwen, Lancashire, England
+1 REFN 11
+1 _UID 9FC59A5DEFF5D4119FCC00485451E242A079
+1 FAMS @GAD_F1@
+1 CHAN
+2 DATE 1 Sep 1999
+3 TIME 01:00:00
+0 @GAD_I4@ INDI
+1 NAME Charles Henry /Gadfield/
+2 SURN Gadfield
+2 GIVN Charles Henry
+1 SEX M
+1 BIRT
+2 DATE 15 Oct 1886
+2 PLAC Millgate, Lancashire, England
+1 DEAT
+2 DATE 21 Dec 1887
+1 _UID A1C59A5DEFF5D4119FCC00485451E242A299
+1 FAMC @GAD_F1@
+1 CHAN
+2 DATE 1 Sep 1999
+3 TIME 01:00:00
+0 @GAD_I5@ INDI
+1 NAME Ruth /Gadfield/
+2 SURN Gadfield
+2 GIVN Ruth
+1 SEX F
+1 BIRT
+2 DATE 17 Jan 1890
+2 PLAC Millgate, Lancashire, England
+1 DEAT
+2 DATE 1 Mar 1890
+1 _UID A3C59A5DEFF5D4119FCC00485451E242A4B9
+1 FAMC @GAD_F1@
+1 CHAN
+2 DATE 1 Sep 1999
+3 TIME 01:00:00
+0 @GAD_I6@ INDI
+1 NAME Henry /Gadfield/
+2 SURN Gadfield
+2 GIVN Henry
+1 SEX M
+1 BIRT
+2 DATE 15 Jul 1898
+2 PLAC Darwen, Lancashire, England
+1 DEAT
+2 DATE Apr 1899
+1 _UID A5C59A5DEFF5D4119FCC00485451E242A6D9
+1 FAMC @GAD_F1@
+1 CHAN
+2 DATE 1 Sep 1999
+3 TIME 01:00:00
+0 @GAD_I7@ INDI
+1 NAME Henry Charles /Gadfield/
+2 SURN Gadfield
+2 GIVN Henry Charles
+1 SEX M
+1 BIRT
+2 PLAC Witney, Oxford
+1 CHR
+2 DATE 13 Jul 1828
+2 PLAC Witney, Oxfordshire, England
+2 SOUR @GAD_S1@
+3 DATA
+4 TEXT 1828, Jul 13 - GADFIELD, Henry Charles s Sarah
+1 DEAT
+2 DATE 6 Dec 1890
+2 PLAC Millgate, Lancashire, England
+1 BURI
+2 DATE 10 Dec 1890
+2 PLAC Facit Cemetery, Millgate, Lancashire, England
+1 REFN 20
+1 _UID 0FC69A5DEFF5D4119FCC00485451E2421188
+1 FAMS @GAD_F2@
+1 FAMC @GAD_F3@
+1 BAPM 
+2 DATE 13 Jul 1828
+2 PLAC Witney, Oxford
+1 SOUR @GAD_S2@
+2 PAGE HO 107/1731/412/181
+2 DATA
+3 TEXT Dwelling: Lowell Street, Witney, Oxfordshire, England
+4 CONT GADFIELD, Charles, HD, M, 22, Stone Mason, Born: Witney, OXF
+4 CONT GADFIELD, Elizabeth, WI, M, 25, Born: Witney, OXF
+1 CHAN
+2 DATE 21 Jun 2001
+3 TIME 16:05:08
+0 @GAD_I8@ INDI
+1 NAME Elizabeth /Smith/
+2 SURN Smith
+2 GIVN Elizabeth
+1 SEX F
+1 BIRT
+2 DATE ABT 1829
+2 PLAC Witney, Oxfordshire, England
+1 DEAT
+2 DATE 27 Jan 1880
+2 PLAC Britannia, Lancashire, England
+2 SOUR @GAD_S13@
+3 DATA
+4 TEXT Aged 50
+1 BURI
+2 PLAC Millgate, Lancashire, England
+1 REFN 21
+1 _UID 11C69A5DEFF5D4119FCC00485451E24213A8
+1 FAMS @GAD_F12@
+1 FAMS @GAD_F2@
+1 FAMC @GAD_F16@
+1 SOUR @GAD_S3@
+2 DATA
+3 TEXT Dwelling: Corn Street, Witney, Oxfordshire
+1 CHAN
+2 DATE 21 Jun 2001
+3 TIME 16:04:39
+0 @GAD_I9@ INDI
+1 NAME Thomas /Gadfield/
+2 SURN Gadfield
+2 GIVN Thomas
+1 SEX M
+1 CHR
+2 DATE 1 Feb 1852
+2 PLAC Witney, Oxfordshire, England
+1 DEAT
+2 DATE 2 Sep 1927
+1 _UID 13C69A5DEFF5D4119FCC00485451E24215C8
+1 FAMS @GAD_F20@
+1 FAMS @GAD_F25@
+1 FAMC @GAD_F2@
+1 SOUR @GAD_S10@
+2 DATA
+3 TEXT Thomas Gadfield, 4th Quarter, 1851, Witney, Vol XVI, page 139
+1 CHAN
+2 DATE 1 Feb 2001
+3 TIME 12:46:46
+0 @GAD_I10@ INDI
+1 NAME Hannah /Gadfield/
+2 SURN Gadfield
+2 GIVN Hannah
+1 SEX F
+1 BIRT
+2 SOUR @GAD_S10@
+3 DATA
+4 TEXT Hannah Gadfield, 1st Quarter, 1854, Witney, Vol 3a, page 568
+1 CHR
+2 DATE 19 Mar 1854
+2 PLAC Witney, Oxfordshire, England
+1 _UID 15C69A5DEFF5D4119FCC00485451E24217E8
+1 FAMS @GAD_F26@
+1 FAMC @GAD_F2@
+1 CHAN
+2 DATE 1 Feb 2001
+3 TIME 12:47:49
+0 @GAD_I11@ INDI
+1 NAME Alice /Gadfield/
+2 SURN Gadfield
+2 GIVN Alice
+1 SEX F
+1 BIRT
+2 SOUR @GAD_S10@
+3 DATA
+4 TEXT Matilda Gadfield, 1st Quarter, 1856, Witney, vol 3a, page 587
+1 CHR
+2 DATE 11 May 1856
+2 PLAC Witney, Oxfordshire, England
+1 _UID 17C69A5DEFF5D4119FCC00485451E2421908
+1 FAMS @GAD_F27@
+1 FAMS @GAD_F28@
+1 FAMC @GAD_F2@
+1 CHAN
+2 DATE 1 Feb 2001
+3 TIME 12:48:57
+0 @GAD_I12@ INDI
+1 NAME Elizabeth Ann /Gadfield/
+2 SURN Gadfield
+2 GIVN Elizabeth Ann
+1 SEX F
+1 BIRT
+2 SOUR @GAD_S10@
+3 DATA
+4 TEXT Elizabeth Gadfield, 3rd Quarter, 1858, Witney, Vol 3a, page 534
+1 CHR
+2 DATE 29 Aug 1858
+2 PLAC Witney, Oxfordshire, England
+1 _UID 19C69A5DEFF5D4119FCC00485451E2421B28
+1 FAMS @GAD_F29@
+1 FAMC @GAD_F2@
+1 CHAN
+2 DATE 1 Feb 2001
+3 TIME 12:49:44
+0 @GAD_I13@ INDI
+1 NAME Sarah Ann /Gadfield/
+2 SURN Gadfield
+2 GIVN Sarah Ann
+1 SEX F
+1 BIRT
+2 SOUR @GAD_S10@
+3 DATA
+4 TEXT Matilda Gadfield, 3rd Quarter, 1860, Witney, Vol 3a, page 557
+1 CHR
+2 DATE 2 Sep 1860
+2 PLAC Witney, Oxfordshire, England
+1 _UID 1BC69A5DEFF5D4119FCC00485451E2421D48
+1 FAMS @GAD_F30@
+1 FAMC @GAD_F2@
+1 CHAN
+2 DATE 1 Feb 2001
+3 TIME 12:50:46
+0 @GAD_I14@ INDI
+1 NAME Charles /Hunt/
+2 SURN Hunt
+2 GIVN Charles
+1 SEX M
+1 DEAT
+2 DATE BEF 1850
+2 PLAC Witney, Oxford, England
+1 REFN 40
+1 _UID 59C79A5DEFF5D4119FCC00485451E2425C37
+1 FAMS @GAD_F3@
+1 NOTE Named as father on marriage certificate of son Charles Gadfield. Entered as deceased.
+1 CHAN
+2 DATE 1 Sep 1999
+3 TIME 01:00:00
+0 @GAD_I15@ INDI
+1 NAME Sarah /Gadfield/
+2 SURN Gadfield
+2 GIVN Sarah
+1 SEX F
+1 CHR
+2 DATE 5 Aug 1808
+2 PLAC Witney, Oxfordshire, England
+2 SOUR @GAD_S1@
+3 DATA
+4 TEXT 1808, Aug 5 - GADFIELD, Sarah d Henry & Mary
+1 REFN 41
+1 _UID 5BC79A5DEFF5D4119FCC00485451E2425E57
+1 FAMS @GAD_F3@
+1 FAMS @GAD_F24@
+1 FAMC @GAD_F4@
+1 BAPM 
+2 DATE 5 Aug 1808
+2 PLAC Witney, Oxford
+1 SOUR @GAD_S9@
+2 DATA
+3 TEXT Dwelling: 14 Razor Hill, Curbridge, Oxfordshire, England
+4 CONT 
+4 CONT Sarah aged 52 married.
+1 CHAN
+2 DATE 1 Feb 2001
+3 TIME 12:38:37
+0 @GAD_I16@ INDI
+1 NAME Henry /Gadfield/
+2 SURN Gadfield
+2 GIVN Henry
+1 SEX M
+1 CHR
+2 DATE 14 Sep 1766
+2 PLAC Witney, Oxfordshire, England
+2 SOUR @GAD_S1@
+3 DATA
+4 TEXT 1766, Sep 14 - GADFIELD, Henry s Henry & Mary
+1 BURI
+2 DATE 4 Nov 1833
+2 PLAC Witney, Oxfordshire, England
+2 SOUR @GAD_S1@
+3 DATA
+4 TEXT 1833, Nov 4 - GADFIELD, Henry - 67
+1 REFN 82
+1 _UID 5DC79A5DEFF5D4119FCC00485451E2426077
+1 FAMS @GAD_F4@
+1 FAMC @GAD_F5@
+1 EVEN 67
+2 TYPE Age At Death 
+1 BAPM 
+2 DATE 14 Sep 1766
+2 PLAC Witney, Oxford
+1 EVEN Sarah DIX & Ben. TRUMLETT
+2 TYPE Mar. Witnesses 
+2 DATE 2 Nov 1787
+2 PLAC Witney, Oxford
+1 CHAN
+2 DATE 29 Jan 2001
+3 TIME 15:17:22
+0 @GAD_I17@ INDI
+1 NAME Mary /Dix/
+2 SURN Dix
+2 GIVN Mary
+1 SEX F
+1 CHR
+2 DATE 27 Jan 1765
+2 PLAC Witney, Oxford, England
+1 DEAT
+2 DATE 15 Mar 1847
+2 PLAC Witney, Oxford, England
+1 REFN 83
+1 _UID 5FC79A5DEFF5D4119FCC00485451E2426297
+1 FAMS @GAD_F4@
+1 FAMC @GAD_F23@
+1 CHAN
+2 DATE 29 Jan 2001
+3 TIME 14:28:03
+0 @GAD_I18@ INDI
+1 NAME Henry /Gadfield/
+2 SURN Gadfield
+2 GIVN Henry
+1 SEX M
+1 CHR
+2 DATE 3 Nov 1738
+2 PLAC Witney, Oxfordshire, England
+2 SOUR @GAD_S1@
+3 DATA
+4 TEXT 1738, Nov 3 - GADFIELD, Henry s Hen:
+1 BURI
+2 DATE 13 Jul 1778
+2 PLAC Witney, Oxfordshire, England
+2 SOUR @GAD_S1@
+3 DATA
+4 TEXT 1778, Jul 13 - GADFIELD, Henry
+1 REFN 164
+1 _UID 61C79A5DEFF5D4119FCC00485451E24264B7
+1 FAMS @GAD_F5@
+1 FAMS @GAD_F8@
+1 FAMC @GAD_F9@
+1 CHAN
+2 DATE 19 Apr 2001
+3 TIME 22:46:26
+0 @GAD_I19@ INDI
+1 NAME Mary /Hearn/
+2 SURN Hearn
+2 GIVN Mary
+1 SEX F
+1 BIRT
+2 DATE ABT 1738
+1 DEAT
+2 DATE 29 Sep 1771
+2 PLAC Witney, Oxfordshire, England
+2 SOUR @GAD_S8@
+3 DATA
+4 TEXT Witney Churchyard - East Side
+5 CONT 
+5 CONT In memory of Mary wife of Henry Gadfield who died Sept 29th 1771 age 33. Also Ann the daughte
+5 CONC r of Henry & Mary Gadfield who died [.........].
+1 BURI
+2 DATE 1 Oct 1771
+2 PLAC Witney, Oxfordshire, England
+2 SOUR @GAD_S1@
+3 DATA
+4 TEXT 1771, Oct 1 - GADFIELD, Mary w Henry
+1 REFN 165
+1 _UID 63C79A5DEFF5D4119FCC00485451E24266D7
+1 FAMS @GAD_F5@
+1 CHAN
+2 DATE 21 Jun 2001
+3 TIME 16:48:50
+0 @GAD_I20@ INDI
+1 NAME John /Farbrother/
+2 SURN Farbrother
+2 GIVN John
+1 SEX M
+1 CHR
+2 DATE 19 Feb 1794
+2 PLAC Witney, Oxfordshire, England
+2 SOUR @GAD_S1@
+3 DATA
+4 TEXT Name spelt Fairbrother on baptism register
+1 _UID 944AB49EADECD4119FCC00485451E2422AD2
+1 FAMC @GAD_F6@
+1 OCCU Lathe render and timber dealer
+2 DATE 3 Aug 1818
+2 PLAC Witney, St. Mary, Oxford
+1 EVEN Signed marriage register with X
+2 TYPE Misc 
+2 DATE 3 Aug 1818
+2 PLAC Witney, St. Mary, Oxford
+2 SOUR @GAD_S1@
+1 OCCU Occupation given at childs baptism - Lath render
+2 DATE 9 May 1819
+2 PLAC Witney, Oxford
+2 SOUR @GAD_S1@
+1 OCCU Occupation given at childs baptism - Lab.
+2 DATE 25 Dec 1820
+2 PLAC Witney, Oxford
+2 SOUR @GAD_S1@
+1 OCCU Occupation given at childs baptism - carpenter
+2 DATE 26 Dec 1824
+2 PLAC North Hinksey, Berkshire
+2 SOUR @GAD_S5@
+1 OCCU Occupation given at childs baptism - carpenter
+2 DATE 19 Nov 1826
+2 PLAC North Hinksey, Berkshire
+2 SOUR @GAD_S5@
+1 OCCU Occupation given at childs baptism - lath render
+2 DATE 1 Mar 1829
+2 PLAC North Hinksey, Berkshire
+2 SOUR @GAD_S5@
+1 OCCU Occupation given at childs baptism - Lath render
+2 DATE 28 Mar 1834
+2 PLAC St. Thomas, Oxford City, Oxfordshire
+2 SOUR @GAD_S4@
+1 OCCU Occupation given at childs baptism - Lath render
+2 DATE 19 Apr 1835
+2 PLAC St. Thomas, Oxford City, Oxfordshire
+2 SOUR @GAD_S4@
+1 OCCU Occupation given on 1841 census - Lath mender
+2 DATE 8 Jun 1841
+2 PLAC St. Thomas, Oxford City, Oxfordshire
+2 SOUR @GAD_S3@
+3 PAGE PRO Ref: RG7        HO 107/0891/18       Folio: 470
+1 CENS 
+2 DATE 8 Jun 1841
+2 PLAC Cardigan Street, Jericho, St. Thomas, Oxford City, Oxfordshire
+2 SOUR @GAD_S3@
+3 PAGE PRO Ref: RG7        HO 107/0891/18       Folio: 470
+1 CENS 
+2 DATE 5 Apr 1851
+2 PLAC 32 Clarendon Street, St. Thomas, Oxford City, Oxfordshire
+2 SOUR @GAD_S2@
+3 PAGE PRO Ref: RG8        HO 107/1728       Folio: 430        Page119
+1 OCCU Occupation given on 1851 census - Lath render
+2 DATE 5 Apr 1851
+2 PLAC Oxford
+2 SOUR @GAD_S2@
+3 PAGE PRO Ref: RG8        HO 107/1728       Folio: 430        Page119
+1 NOTE John FARBROTHER      Head        M       56         M       Lath
+2 CONT render       Witney, OXF
+2 CONT Maria FARBROTHER     Wife         F        57         M
+2 CONT -----------            Witney, OXF
+2 CONT Maria FARBROTHER     Dau          F       16          U
+2 CONT Dressmaker       Oxford, OXF
+2 CONT Sarah HUGHES            Visitor       F        39         M
+2 CONT Dressmaker       Oxford, OXF
+2 CONT 
+2 CONT John FAIRBROTHER            M               46                Lath
+2 CONT mender                   OXF
+2 CONT Maria FAIRBROTHER           F                42
+2 CONT                              OXF
+2 CONT Wm. FAIRBROTHER            M                22
+2 CONT                             OXF
+2 CONT Issac FAIRBROTHER           M                18
+2 CONT                              OXF
+2 CONT Rowland FAIRBROTHER      M                16
+2 CONT                           OXF
+2 CONT John FAIRBROTHER            M                13
+2 CONT                             OXF
+2 CONT Edwd. FAIRBROTHER          M                 9
+2 CONT                             OXF
+2 CONT Maria FARBROTHER             F                 6
+2 CONT                               OXF
+2 CONT Wm. JAMES                         M                20
+2 CONT Printer                            OXF
+1 CHAN
+2 DATE 1 Feb 2001
+3 TIME 13:16:33
+0 @GAD_I21@ INDI
+1 NAME William /Farbrother/
+2 SURN Farbrother
+2 GIVN William
+1 SEX M
+1 BIRT
+2 DATE 1748
+1 DEAT
+2 DATE 1830
+2 PLAC Witney, Oxford
+2 SOUR @GAD_S1@
+1 BURI
+2 DATE 29 Jan 1830
+2 PLAC Witney, St. Mary, Oxford
+2 SOUR @GAD_S1@
+1 _UID A04AB49EADECD4119FCC00485451E2423692
+1 FAMS @GAD_F6@
+1 EVEN 81
+2 TYPE Age At Death 
+2 DATE 1830
+2 PLAC Witney, Oxford
+1 CHAN
+2 DATE 17 Jan 2001
+3 TIME 00:00:00
+0 @GAD_I22@ INDI
+1 NAME Hannah /Gadfield/
+2 SURN Gadfield
+2 GIVN Hannah
+1 SEX F
+1 CHR
+2 DATE 4 Jan 1757
+2 PLAC Witney, Oxfordshire, England
+2 SOUR @GAD_S1@
+3 NOTE It is assumed that the entry of the mother's name as Sarah on the baptism entry is incorrec
+4 CONC t as there is no other evidence of a Henry and Sarah whereas Henry and Mary were married th
+4 CONC e year before this entry.
+3 DATA
+4 TEXT 1757, Jan 4 - GADFIELD, Hannah d Henry & Sarah
+1 DEAT
+2 DATE 1818
+2 PLAC Witney, Oxford
+1 BURI
+2 DATE 10 Mar 1818
+2 PLAC Witney, Oxford
+2 SOUR @GAD_S1@
+1 _UID A14AB49EADECD4119FCC00485451E24237A2
+1 FAMS @GAD_F6@
+1 FAMC @GAD_F5@
+1 BAPM 
+2 DATE 4 Jan 1757
+2 PLAC Witney, Oxford
+2 SOUR @GAD_S1@
+1 CHAN
+2 DATE 29 Jan 2001
+3 TIME 15:09:03
+0 @GAD_I23@ INDI
+1 NAME Mary /Farbrother/
+2 SURN Farbrother
+2 GIVN Mary
+1 SEX F
+1 CHR
+2 DATE 20 Sep 1776
+2 PLAC Witney, Oxfordshire, England
+2 SOUR @GAD_S1@
+3 DATA
+4 TEXT Name spelt Fairbrother on baptism register
+1 _UID A34AB49EADECD4119FCC00485451E24239C2
+1 FAMC @GAD_F6@
+1 CHAN
+2 DATE 1 Feb 2001
+3 TIME 13:13:16
+0 @GAD_I24@ INDI
+1 NAME Anne /Farbrother/
+2 SURN Farbrother
+2 GIVN Anne
+1 SEX F
+1 CHR
+2 DATE 22 Mar 1778
+2 PLAC Witney, Oxfordshire, England
+2 SOUR @GAD_S1@
+3 DATA
+4 TEXT Name spelt Fairbrother on baptism register
+1 _UID A44AB49EADECD4119FCC00485451E2423AD2
+1 FAMC @GAD_F6@
+1 EVEN Signed marriage register with a X
+2 TYPE Misc 
+2 DATE 16 Sep 1799
+2 PLAC Witney, Oxford
+1 EVEN Thos. SHEPPARD & Edmd. WRIGHT
+2 TYPE Mar. Witnesses 
+2 DATE 16 Sep 1799
+2 PLAC Witney, Oxford
+1 EVEN Name spelt Ann on marriage register
+2 TYPE Misc 
+2 DATE 16 Sep 1799
+2 PLAC Witney, St. Mary, Oxford
+2 SOUR @GAD_S1@
+1 CHAN
+2 DATE 1 Feb 2001
+3 TIME 13:14:27
+0 @GAD_I25@ INDI
+1 NAME William /Farbrother/
+2 SURN Farbrother
+2 GIVN William
+1 SEX M
+1 CHR
+2 DATE 24 Apr 1782
+2 PLAC Witney, Oxfordshire, England
+2 SOUR @GAD_S1@
+3 DATA
+4 TEXT Name spelt Fairbrother on baptism register
+1 _UID A64AB49EADECD4119FCC00485451E2423CF2
+1 FAMC @GAD_F6@
+1 CHAN
+2 DATE 1 Feb 2001
+3 TIME 13:12:15
+0 @GAD_I26@ INDI
+1 NAME Thomas /Farbrother/
+2 SURN Farbrother
+2 GIVN Thomas
+1 SEX M
+1 CHR
+2 DATE 25 Dec 1785
+2 PLAC Witney, Oxfordshire, England
+2 SOUR @GAD_S1@
+3 DATA
+4 TEXT Name spelt Fairbrother on baptism register
+1 _UID A84AB49EADECD4119FCC00485451E2423E12
+1 FAMC @GAD_F6@
+1 CHAN
+2 DATE 1 Feb 2001
+3 TIME 13:15:18
+0 @GAD_I27@ INDI
+1 NAME Martha /Farbrother/
+2 SURN Farbrother
+2 GIVN Martha
+1 SEX F
+1 CHR
+2 DATE 21 Jun 1797
+2 PLAC Witney, Oxfordshire, England
+2 SOUR @GAD_S1@
+3 DATA
+4 TEXT Name spelt Fairbrother on baptism register
+1 BURI
+2 DATE 9 Aug 1799
+2 PLAC Witney, St. Mary, Oxford
+2 SOUR @GAD_S1@
+3 DATA
+4 TEXT Name spelt Fairbrother on burial register
+1 _UID A94AB49EADECD4119FCC00485451E2423F22
+1 FAMC @GAD_F6@
+1 NOTE Martha Fairbrother, d of William & Hannah.
+1 CHAN
+2 DATE 1 Feb 2001
+3 TIME 13:18:24
+0 @GAD_I28@ INDI
+1 NAME Edmund /Farbrother/
+2 SURN Farbrother
+2 GIVN Edmund
+1 SEX M
+1 _UID AB4AB49EADECD4119FCC00485451E2424142
+1 FAMC @GAD_F6@
+1 EVEN Married by licence
+2 TYPE Misc 
+2 DATE 9 Jul 1820
+2 PLAC Witney, St. Mary, Oxford
+2 SOUR @GAD_S1@
+1 EVEN Was a batchelor when getting married
+2 TYPE Misc 
+2 DATE 9 Jul 1820
+2 PLAC Witney, St. Mary, Oxford
+2 SOUR @GAD_S1@
+1 NOTE No evidence to prove this is a child of William & Hannah Farbrother,
+2 CONT but I think he is.
+1 CHAN
+2 DATE 17 Jan 2001
+3 TIME 00:00:00
+0 @GAD_I29@ INDI
+1 NAME Elisabeth /Gadfield/
+2 SURN Gadfield
+2 GIVN Elisabeth
+1 SEX F
+1 CHR
+2 DATE 20 Oct 1697
+2 PLAC Witney, Oxfordshire, England
+2 SOUR @GAD_S1@
+3 DATA
+4 TEXT 1697, Oct 20 - GADFIELD, Elisabeth d Henry
+1 _UID 0A861C7AF1F5D4119FCC00485451E2426D25
+1 FAMS @GAD_F13@
+1 FAMC @GAD_F11@
+1 CHAN
+2 DATE 29 Jan 2001
+3 TIME 14:48:24
+0 @GAD_I30@ INDI
+1 NAME Elizabeth /Milinton/
+2 SURN Milinton
+2 GIVN Elizabeth
+1 SEX F
+1 BIRT
+2 DATE ABT 1672
+1 DEAT
+2 DATE 31 Jan 1720
+2 PLAC Witney, Oxfordshire, England
+2 SOUR @GAD_S8@
+3 DATA
+4 TEXT See notes for husband
+1 BURI
+2 DATE 1 Feb 1720
+2 PLAC Witney, Oxfordshire, England
+2 SOUR @GAD_S1@
+3 DATA
+4 TEXT 1720, Feb 1 - GADFIELD, Elizabeth w Henry
+1 _UID 06861C7AF1F5D4119FCC00485451E24269E5
+1 FAMS @GAD_F11@
+1 CHAN
+2 DATE 20 Apr 2001
+3 TIME 01:54:12
+0 @GAD_I31@ INDI
+1 NAME Sarah /Gadfield/
+2 SURN Gadfield
+2 GIVN Sarah
+1 SEX F
+1 CHR
+2 DATE 6 May 1760
+2 PLAC Witney, Oxfordshire, England
+2 SOUR @GAD_S1@
+3 DATA
+4 TEXT 1760, May 6 - GADFIELD, Sarah d Henry & Mary - ptly
+1 _UID B24AB49EADECD4119FCC00485451E24248B2
+1 FAMS @GAD_F15@
+1 FAMC @GAD_F5@
+1 BAPM 
+2 DATE 6 May 1760
+2 PLAC Witney, Oxford
+1 CHAN
+2 DATE 29 Jan 2001
+3 TIME 15:11:22
+0 @GAD_I32@ INDI
+1 NAME Mary /Gadfield/
+2 SURN Gadfield
+2 GIVN Mary
+1 SEX F
+1 CHR
+2 DATE 13 Sep 1761
+2 PLAC Witney, Oxfordshire, England
+2 SOUR @GAD_S1@
+3 DATA
+4 TEXT 1761, Sep 13 - GADFIELD, Mary d Henry & Sarah
+1 _UID B34AB49EADECD4119FCC00485451E24249C2
+1 FAMS @GAD_F10@
+1 FAMC @GAD_F5@
+1 CHAN
+2 DATE 1 Feb 2001
+3 TIME 13:10:10
+0 @GAD_I33@ INDI
+1 NAME Henry /Gadfield/
+2 SURN Gadfield
+2 GIVN Henry
+1 SEX M
+1 CHR
+2 DATE 20 May 1763
+2 PLAC Witney, Oxfordshire, England
+2 SOUR @GAD_S1@
+3 DATA
+4 TEXT 1763, May 20 - GADFIELD, Henry s Henry & Mary
+1 BURI
+2 DATE 25 Nov 1764
+2 PLAC Witney, Oxfordshire, England
+2 SOUR @GAD_S1@
+3 DATA
+4 TEXT 1764, Nov 25 - GADFIELD, Henry s Henry & Mary
+1 _UID B54AB49EADECD4119FCC00485451E2424BE2
+1 FAMC @GAD_F5@
+1 BAPM 
+2 DATE 20 May 1763
+2 PLAC Witney, Oxford
+1 CHAN
+2 DATE 29 Jan 2001
+3 TIME 15:14:14
+0 @GAD_I34@ INDI
+1 NAME Martha /Gadfield/
+2 SURN Gadfield
+2 GIVN Martha
+1 SEX F
+1 CHR
+2 DATE 6 Mar 1765
+2 PLAC Witney, Oxfordshire, England
+2 SOUR @GAD_S1@
+3 DATA
+4 TEXT 1765, Mar 6 - GADFIELD, Martha d Henry & Mary
+1 _UID B64AB49EADECD4119FCC00485451E2424CF2
+1 FAMS @GAD_F22@
+1 FAMC @GAD_F5@
+1 BAPM 
+2 DATE 6 Mar 1765
+2 PLAC Witney, Oxford
+1 EVEN Was a witness at the marriage of Benjamin Trundell & Susannah Gadfield
+2 TYPE Misc 
+2 DATE 4 Aug 1781
+2 PLAC Witney, Oxford
+1 CHAN
+2 DATE 29 Jan 2001
+3 TIME 15:15:20
+0 @GAD_I35@ INDI
+1 NAME Sarah /Gadfield/
+2 SURN Gadfield
+2 GIVN Sarah
+1 SEX F
+1 CHR
+2 DATE 18 Feb 1700
+2 PLAC Witney, Oxfordshire, England
+2 SOUR @GAD_S1@
+3 DATA
+4 TEXT 1700, Feb 18 - GADFIELD, Sarah d Henry
+1 BURI
+2 DATE 31 Jul 1704
+2 PLAC Witney, Oxfordshire, England
+2 SOUR @GAD_S1@
+3 DATA
+4 TEXT 1704, Jul 31 - GARFIELD, Sarah d Henry
+1 _UID 0C861C7AF1F5D4119FCC00485451E2426F45
+1 FAMC @GAD_F11@
+1 CHAN
+2 DATE 29 Jan 2001
+3 TIME 15:47:54
+0 @GAD_I36@ INDI
+1 NAME Ann /Gadfield/
+2 SURN Gadfield
+2 GIVN Ann
+1 SEX F
+1 CHR
+2 DATE 25 Dec 1768
+2 PLAC Witney, Oxfordshire, England
+2 SOUR @GAD_S1@
+3 DATA
+4 TEXT 1768, Dec 25 - GADFIELD, Ann d Henry & Mary
+1 BURI
+2 DATE 7 Nov 1770
+2 PLAC Witney, Oxfordshire, England
+2 SOUR @GAD_S1@
+3 DATA
+4 TEXT 1770, Nov 7 - GADFIELD, Ann d Henry & Mary
+1 _UID B94AB49EADECD4119FCC00485451E2424F22
+1 FAMC @GAD_F5@
+1 BAPM 
+2 DATE 25 Dec 1768
+2 PLAC Witney, Oxford
+1 CHAN
+2 DATE 29 Jan 2001
+3 TIME 15:18:57
+0 @GAD_I37@ INDI
+1 NAME Henry /Gadfield/
+2 SURN Gadfield
+2 GIVN Henry
+1 SEX M
+1 CHR
+2 DATE 14 Mar 1707
+2 PLAC Witney, Oxfordshire, England
+2 SOUR @GAD_S1@
+3 DATA
+4 TEXT 1707, Mar 14 - GADFIELD, Henry s Henry
+1 BURI
+2 DATE 10 Apr 1747
+2 PLAC Witney, Oxfordshire, England
+2 SOUR @GAD_S1@
+3 DATA
+4 TEXT 1747, Apr 10 - GADFIELD, Henry
+1 _UID BA4AB49EADECD4119FCC00485451E2425032
+1 FAMS @GAD_F9@
+1 FAMC @GAD_F11@
+1 CHAN
+2 DATE 29 Jan 2001
+3 TIME 14:52:41
+0 @GAD_I38@ INDI
+1 NAME William /Broome/
+2 SURN Broome
+2 GIVN William
+1 SEX M
+1 _UID BB4AB49EADECD4119FCC00485451E2425142
+1 FAMS @GAD_F10@
+1 CHAN
+2 DATE 17 Jan 2001
+3 TIME 00:00:00
+0 @GAD_I39@ INDI
+1 NAME Henry /Gadfield/
+2 SURN Gadfield
+2 GIVN Henry
+1 SEX M
+1 BIRT
+2 DATE ABT 1671
+1 DEAT
+2 DATE 30 Sep 1735
+2 PLAC Witney, Oxfordshire, England
+2 SOUR @GAD_S8@
+3 DATA
+4 TEXT Witney Churchyard 
+5 CONT 
+5 CONT Tombstone Inscription - West Side
+5 CONT 
+5 CONT Here lyeth the body of Henry Gadfield Senr. who died Sept 30th 1735 aged 64. Also Elizabeth h
+5 CONC is wife died Jan 31st 1719 aged 48yrs. Also 3 children.
+1 BURI
+2 DATE 3 Oct 1735
+2 PLAC Witney, Oxfordshire, England
+2 SOUR @GAD_S1@
+3 DATA
+4 TEXT 1735, Oct 3 - GADFIELD, Henry
+1 _UID 03861C7AF1F5D4119FCC00485451E24266B5
+1 FAMS @GAD_F11@
+1 FAMS @GAD_F32@
+1 FAMC @GAD_F34@
+1 CHAN
+2 DATE 21 Jun 2001
+3 TIME 16:52:54
+0 @GAD_I41@ INDI
+1 NAME Thomas /Gadfield/
+2 SURN Gadfield
+2 GIVN Thomas
+1 SEX M
+1 CHR
+2 DATE 21 Apr 1790
+2 PLAC Witney, Oxfordshire, England
+2 SOUR @GAD_S1@
+3 DATA
+4 TEXT 1790, Apr 21 - GADFIELD, Thomas s Henry & Mary
+1 _UID BE4AB49EADECD4119FCC00485451E2425472
+1 FAMC @GAD_F4@
+1 BAPM 
+2 DATE 21 Apr 1790
+2 PLAC Witney, Oxford
+1 CHAN
+2 DATE 29 Jan 2001
+3 TIME 15:23:16
+0 @GAD_I42@ INDI
+1 NAME Mary /Gadfield/
+2 SURN Gadfield
+2 GIVN Mary
+1 SEX F
+1 CHR
+2 DATE 23 Jan 1792
+2 PLAC Witney, Oxfordshire, England
+2 SOUR @GAD_S1@
+3 DATA
+4 TEXT 1792, Jan 23 - GADFIELD, Mary d Henry & Mary - P
+1 BURI
+2 DATE 19 May 1793
+2 PLAC Witney, Oxfordshire, England
+2 SOUR @GAD_S1@
+3 DATA
+4 TEXT 1793, May 19 - GADFIELD, Mary d Henry & Mary
+1 _UID BF4AB49EADECD4119FCC00485451E2425582
+1 FAMC @GAD_F4@
+1 BAPM 
+2 DATE 23 Jun 1792
+2 PLAC Witney, Oxford
+1 CHAN
+2 DATE 29 Jan 2001
+3 TIME 15:25:13
+0 @GAD_I43@ INDI
+1 NAME Mary /Gadfield/
+2 SURN Gadfield
+2 GIVN Mary
+1 SEX F
+1 CHR
+2 DATE 5 Jun 1795
+2 PLAC Witney, Oxfordshire, England
+2 SOUR @GAD_S1@
+3 DATA
+4 TEXT 1795, Jun 5 - GADFIELD, Mary s Henry & Mary
+1 _UID C04AB49EADECD4119FCC00485451E2425692
+1 FAMS @GAD_F7@
+1 FAMC @GAD_F4@
+1 BAPM 
+2 DATE 5 Jun 1795
+2 PLAC Witney, Oxford
+1 CHAN
+2 DATE 29 Jan 2001
+3 TIME 15:26:06
+0 @GAD_I44@ INDI
+1 NAME Martha /Gadfield/
+2 SURN Gadfield
+2 GIVN Martha
+1 SEX F
+1 CHR
+2 DATE 24 Sep 1806
+2 PLAC Witney, Oxfordshire, England
+2 SOUR @GAD_S1@
+3 DATA
+4 TEXT 1806, Sep 24 - GADFIELD, Martha d Henry & Mary
+1 BURI
+2 DATE 24 Apr 1807
+2 PLAC Witney, Oxfordshire, England
+2 SOUR @GAD_S1@
+3 DATA
+4 TEXT 1807, Apr 24 - GADFIELD, Martha d Henry & Mary
+1 _UID C14AB49EADECD4119FCC00485451E24257A2
+1 FAMC @GAD_F4@
+1 BAPM 
+2 DATE 24 Sep 1806
+2 PLAC Witney, Oxford
+1 CHAN
+2 DATE 29 Jan 2001
+3 TIME 15:30:10
+0 @GAD_I45@ INDI
+1 NAME Sarah /Gadfield/
+2 SURN Gadfield
+2 GIVN Sarah
+1 SEX F
+1 CHR
+2 DATE 16 Jul 1696
+2 PLAC Witney, Oxfordshire, England
+2 SOUR @GAD_S1@
+3 DATA
+4 TEXT 1696, Jul 16 - GADFIELD, Sarah d Henry
+1 BURI
+2 DATE 17 Jul 1696
+2 PLAC Witney, Oxfordshire, England
+2 SOUR @GAD_S1@
+3 DATA
+4 TEXT 1696, Jul 17 - GADFIELD, Sarah d Henry
+1 _UID 08861C7AF1F5D4119FCC00485451E2426B05
+1 FAMC @GAD_F11@
+1 CHAN
+2 DATE 29 Jan 2001
+3 TIME 15:38:43
+0 @GAD_I46@ INDI
+1 NAME John /Broom/
+2 SURN Broom
+2 GIVN John
+1 SEX M
+1 _UID 26861C7AF1F5D4119FCC00485451E24289E5
+1 FAMS @GAD_F12@
+1 CHAN
+2 DATE 21 Jun 2001
+3 TIME 16:01:56
+0 @GAD_I47@ INDI
+1 NAME William /Gadfield/
+2 SURN Gadfield
+2 GIVN William
+1 SEX M
+1 BURI
+2 DATE 28 Apr 1799
+2 PLAC Witney, Oxfordshire, England
+2 SOUR @GAD_S1@
+3 DATA
+4 TEXT 1799, Apr 28 - GADFIELD, William s Henry & Mary
+1 _UID C54AB49EADECD4119FCC00485451E2425BE2
+1 FAMC @GAD_F4@
+1 CHAN
+2 DATE 29 Jan 2001
+3 TIME 15:43:49
+0 @GAD_I48@ INDI
+1 NAME William /Broome/
+2 SURN Broome
+2 GIVN William
+1 SEX M
+1 BIRT
+2 DATE 1779
+2 PLAC Witney, Oxford
+1 _UID C64AB49EADECD4119FCC00485451E2425CF2
+1 FAMC @GAD_F10@
+1 BAPM 
+2 DATE 29 Sep 1779
+2 PLAC Witney, Oxford
+1 EVEN Name spelt as Broom in baptism register
+2 TYPE Misc 
+2 DATE 29 Sep 1779
+2 PLAC Witney, Oxford
+1 CHAN
+2 DATE 17 Jan 2001
+3 TIME 00:00:00
+0 @GAD_I49@ INDI
+1 NAME Mary /Broome/
+2 SURN Broome
+2 GIVN Mary
+1 SEX F
+1 BIRT
+2 DATE 1780
+2 PLAC Witney, Oxford
+1 _UID C74AB49EADECD4119FCC00485451E2425D02
+1 FAMC @GAD_F10@
+1 BAPM 
+2 DATE 16 Jul 1780
+2 PLAC Witney, Oxford
+1 EVEN Name spelt as Broom in baptism register
+2 TYPE Misc 
+2 DATE 16 Jul 1780
+2 PLAC Witney, Oxford
+1 CHAN
+2 DATE 17 Jan 2001
+3 TIME 00:00:00
+0 @GAD_I50@ INDI
+1 NAME John /Broome/
+2 SURN Broome
+2 GIVN John
+1 SEX M
+1 BIRT
+2 DATE 1782
+2 PLAC Witney, Oxford
+1 _UID C84AB49EADECD4119FCC00485451E2425E12
+1 FAMC @GAD_F10@
+1 BAPM 
+2 DATE 15 Sep 1782
+2 PLAC Witney, Oxford
+1 EVEN Name spelt as Broom in baptism register
+2 TYPE Misc 
+2 DATE 15 Sep 1782
+2 PLAC Witney, Oxford
+1 CHAN
+2 DATE 17 Jan 2001
+3 TIME 00:00:00
+0 @GAD_I51@ INDI
+1 NAME Anne /Broome/
+2 SURN Broome
+2 GIVN Anne
+1 SEX F
+1 BIRT
+2 DATE 1784
+2 PLAC Witney, Oxford
+1 _UID C94AB49EADECD4119FCC00485451E2425F22
+1 FAMC @GAD_F10@
+1 BAPM 
+2 DATE 18 Jul 1784
+2 PLAC Witney, Oxford
+1 EVEN No fathers name given on baptism register
+2 TYPE Misc 
+2 DATE 18 Jul 1784
+2 PLAC Witney, Oxford
+1 CHAN
+2 DATE 17 Jan 2001
+3 TIME 00:00:00
+0 @GAD_I52@ INDI
+1 NAME Susannah /Broome/
+2 SURN Broome
+2 GIVN Susannah
+1 SEX F
+1 BIRT
+2 DATE 1787
+2 PLAC Witney, Oxford
+1 _UID CA4AB49EADECD4119FCC00485451E2426032
+1 FAMC @GAD_F10@
+1 BAPM 
+2 DATE 22 Apr 1787
+2 PLAC Witney, Oxford
+1 CHAN
+2 DATE 17 Jan 2001
+3 TIME 00:00:00
+0 @GAD_I53@ INDI
+1 NAME Martha /Broome/
+2 SURN Broome
+2 GIVN Martha
+1 SEX F
+1 BIRT
+2 DATE 1789
+2 PLAC Witney, Oxford
+1 _UID CB4AB49EADECD4119FCC00485451E2426142
+1 FAMC @GAD_F10@
+1 BAPM 
+2 DATE 25 Oct 1789
+2 PLAC Witney, Oxford
+1 EVEN Name spelt as Broom in baptism register
+2 TYPE Misc 
+2 DATE 25 Oct 1789
+2 PLAC Witney, Oxford
+1 CHAN
+2 DATE 17 Jan 2001
+3 TIME 00:00:00
+0 @GAD_I54@ INDI
+1 NAME Hannah /Broome/
+2 SURN Broome
+2 GIVN Hannah
+1 SEX F
+1 BIRT
+2 DATE 1793
+2 PLAC Witney, Oxford
+1 _UID CC4AB49EADECD4119FCC00485451E2426252
+1 FAMC @GAD_F10@
+1 BAPM 
+2 DATE 26 Jun 1793
+2 PLAC Witney, Oxford
+1 CHAN
+2 DATE 17 Jan 2001
+3 TIME 00:00:00
+0 @GAD_I55@ INDI
+1 NAME Thomas /Broome/
+2 SURN Broome
+2 GIVN Thomas
+1 SEX M
+1 BIRT
+2 DATE 18 Dec 1795
+2 PLAC Witney, Oxford
+1 _UID CD4AB49EADECD4119FCC00485451E2426362
+1 FAMC @GAD_F10@
+1 BAPM 
+2 DATE 18 Dec 1795
+2 PLAC Witney, Oxford
+1 CHAN
+2 DATE 17 Jan 2001
+3 TIME 00:00:00
+0 @GAD_I56@ INDI
+1 NAME Susanna /Hailles/
+2 SURN Hailles
+2 GIVN Susanna
+1 SEX F
+1 _UID CE4AB49EADECD4119FCC00485451E2426472
+1 FAMS @GAD_F8@
+1 CHAN
+2 DATE 29 Jan 2001
+3 TIME 14:40:48
+0 @GAD_I57@ INDI
+1 NAME Hannah /Ward/
+2 SURN Ward
+2 GIVN Hannah
+1 SEX F
+1 CHR
+2 DATE 2 Mar 1708
+2 PLAC Witney, Oxfordshire, England
+2 SOUR @GAD_S1@
+1 BURI
+2 DATE 17 Dec 1775
+2 PLAC Witney, Oxfordshire, England
+2 SOUR @GAD_S1@
+3 DATA
+4 TEXT 1775, Dec 17 - GADFIELD, Hannah widow Henry
+1 _UID CF4AB49EADECD4119FCC00485451E2426582
+1 FAMC @GAD_F21@
+1 CHAN
+2 DATE 16 Apr 2001
+3 TIME 17:25:03
+1 FAMS @GAD_F9@
+0 @GAD_I58@ INDI
+1 NAME Henry /Gadfield/
+2 SURN Gadfield
+2 GIVN Henry
+1 SEX M
+1 BURI
+2 DATE 24 Apr 1737
+2 PLAC Witney, Oxfordshire, England
+2 SOUR @GAD_S1@
+3 DATA
+4 TEXT 1737, Apr 24 - GADFILD, Henery s Henry
+1 _UID D04AB49EADECD4119FCC00485451E2426692
+1 FAMC @GAD_F9@
+1 CHAN
+2 DATE 29 Jan 2001
+3 TIME 14:57:10
+0 @GAD_I59@ INDI
+1 NAME John /Gadfield/
+2 SURN Gadfield
+2 GIVN John
+1 SEX M
+1 CHR
+2 DATE 3 Jul 1741
+2 PLAC Witney, Oxfordshire, England
+2 SOUR @GAD_S1@
+3 DATA
+4 TEXT 1741, Jul 3 - GADFIELD, John s Henry
+1 BURI
+2 DATE 11 Nov 1741
+2 PLAC Witney, Oxfordshire, England
+2 SOUR @GAD_S1@
+3 DATA
+4 TEXT 1741, Nov 11 - GADFIELD, John s Henry
+1 _UID D14AB49EADECD4119FCC00485451E24267A2
+1 FAMC @GAD_F9@
+1 CHAN
+2 DATE 19 Apr 2001
+3 TIME 22:45:02
+0 @GAD_I60@ INDI
+1 NAME John /Gadfield/
+2 SURN Gadfield
+2 GIVN John
+1 SEX M
+1 CHR
+2 DATE 14 Feb 1744
+2 PLAC Witney, Oxfordshire, England
+2 SOUR @GAD_S1@
+3 DATA
+4 TEXT 1744, Feb 14 - GADFIELD, John s Henry & Hannah - ptely.
+1 BURI
+2 DATE 18 Mar 1744
+2 PLAC Witney, Oxfordshire, England
+2 SOUR @GAD_S1@
+3 DATA
+4 TEXT 1744, Mar 18 - GARFIELD, John - inft
+1 _UID D24AB49EADECD4119FCC00485451E24268B2
+1 FAMC @GAD_F9@
+1 NOTE baptised privately
+1 CHAN
+2 DATE 19 Apr 2001
+3 TIME 22:44:40
+0 @GAD_I61@ INDI
+1 NAME Hannah /Gadfield/
+2 SURN Gadfield
+2 GIVN Hannah
+1 SEX F
+1 CHR
+2 DATE 1 Dec 1701
+2 PLAC Witney, Oxfordshire, England
+2 SOUR @GAD_S1@
+3 DATA
+4 TEXT 1701, Dec 1 - GADFIELD, Hannah d Henry
+1 _UID 0E861C7AF1F5D4119FCC00485451E2427165
+1 FAMS @GAD_F33@
+1 FAMC @GAD_F11@
+1 CHAN
+2 DATE 29 Jan 2001
+3 TIME 14:50:34
+0 @GAD_I62@ INDI
+1 NAME Sarah /Gadfield/
+2 SURN Gadfield
+2 GIVN Sarah
+1 SEX F
+1 CHR
+2 DATE 17 Apr 1709
+2 PLAC Witney, Oxfordshire, England
+2 SOUR @GAD_S1@
+3 DATA
+4 TEXT 1709, Apr 17 - GADFIELD, Sarah d Henry & Elizabeth
+1 _UID 10861C7AF1F5D4119FCC00485451E2427385
+1 FAMS @GAD_F14@
+1 FAMC @GAD_F11@
+1 CHAN
+2 DATE 29 Jan 2001
+3 TIME 14:51:38
+0 @GAD_I63@ INDI
+1 NAME William /Gadfield/
+2 SURN Gadfield
+2 GIVN William
+1 SEX M
+1 BURI
+2 DATE 16 Oct 1745
+2 PLAC Witney, Oxfordshire, England
+2 SOUR @GAD_S1@
+3 DATA
+4 TEXT 1745, Oct 16 - GADFIELD, William s Henry & Anna - Inft
+1 _UID 12861C7AF1F5D4119FCC00485451E24275A5
+1 FAMC @GAD_F9@
+1 CHAN
+2 DATE 29 Jan 2001
+3 TIME 14:58:47
+0 @GAD_I64@ INDI
+1 NAME Ann /Gadfield/
+2 SURN Gadfield
+2 GIVN Ann
+1 SEX F
+1 CHR
+2 DATE 19 Mar 1800
+2 PLAC Witney, Oxfordshire, England
+2 SOUR @GAD_S1@
+3 DATA
+4 TEXT 1800, Mar 19 - GATFIELD, Ann d Henry & Mary
+1 _UID 14861C7AF1F5D4119FCC00485451E24277C5
+1 FAMC @GAD_F4@
+1 CHAN
+2 DATE 29 Jan 2001
+3 TIME 15:27:53
+0 @GAD_I65@ INDI
+1 NAME Eliza /Gadfield/
+2 SURN Gadfield
+2 GIVN Eliza
+1 SEX F
+1 CHR
+2 DATE 11 Feb 1820
+2 PLAC Witney, Oxfordshire, England
+2 SOUR @GAD_S1@
+3 DATA
+4 TEXT 1820, Feb 11 - GADFIELD, Eliza d Mary
+1 BURI
+2 DATE 16 Apr 1820
+2 PLAC Witney, Oxfordshire, England
+2 SOUR @GAD_S1@
+3 DATA
+4 TEXT 1820, Apr 16 - GADFIELD, Eliza - 5 mo
+1 _UID 16861C7AF1F5D4119FCC00485451E24279E5
+1 FAMC @GAD_F7@
+1 CHAN
+2 DATE 29 Jan 2001
+3 TIME 15:46:48
+0 @GAD_I66@ INDI
+1 NAME John /Gadfield/
+2 SURN Gadfield
+2 GIVN John
+1 SEX M
+1 BURI
+2 DATE 9 Oct 1807
+2 PLAC Witney, Oxfordshire, England
+2 SOUR @GAD_S1@
+3 DATA
+4 TEXT 1807, Oct 9 - GADFIELD, John s Henry & Mary
+1 _UID 19861C7AF1F5D4119FCC00485451E2427C15
+1 FAMC @GAD_F4@
+1 CHAN
+2 DATE 29 Jan 2001
+3 TIME 15:45:19
+0 @GAD_I67@ INDI
+1 NAME Charles /Fisher/
+2 SURN Fisher
+2 GIVN Charles
+1 SEX M
+1 _UID 1B861C7AF1F5D4119FCC00485451E2427E35
+1 FAMS @GAD_F13@
+1 CHAN
+2 DATE 29 Jan 2001
+3 TIME 15:50:26
+0 @GAD_I68@ INDI
+1 NAME Joseph /Brewer/
+2 SURN Brewer
+2 GIVN Joseph
+1 SEX M
+1 _UID 1E861C7AF1F5D4119FCC00485451E2428165
+1 FAMS @GAD_F14@
+1 CHAN
+2 DATE 29 Jan 2001
+3 TIME 15:51:35
+0 @GAD_I69@ INDI
+1 NAME William /Shepperd/
+2 SURN Shepperd
+2 GIVN William
+1 SEX M
+1 _UID 21861C7AF1F5D4119FCC00485451E2428495
+1 FAMS @GAD_F15@
+1 CHAN
+2 DATE 29 Jan 2001
+3 TIME 15:57:28
+0 @GAD_I70@ INDI
+1 NAME Thomas /Smith/
+2 SURN Smith
+2 GIVN Thomas
+1 SEX M
+1 _UID 29861C7AF1F5D4119FCC00485451E2428C15
+1 FAMS @GAD_F16@
+1 OCCU Chimney Sweep
+1 CHAN
+2 DATE 21 Jun 2001
+3 TIME 16:03:14
+0 @GAD_I71@ INDI
+1 NAME James /Smith/
+2 SURN Smith
+2 GIVN James
+1 SEX M
+1 _UID 2C861C7AF1F5D4119FCC00485451E2428F45
+1 FAMS @GAD_F17@
+1 FAMC @GAD_F16@
+1 CHAN
+2 DATE 29 Jan 2001
+3 TIME 16:10:01
+0 @GAD_I72@ INDI
+1 NAME Ann /Warner/
+2 SURN Warner
+2 GIVN Ann
+1 SEX F
+1 _UID 2E861C7AF1F5D4119FCC00485451E2429165
+1 FAMS @GAD_F17@
+1 FAMC @GAD_F18@
+1 CHAN
+2 DATE 29 Jan 2001
+3 TIME 16:10:22
+0 @GAD_I73@ INDI
+1 NAME Edward /Warner/
+2 SURN Warner
+2 GIVN Edward
+1 SEX M
+1 _UID 31861C7AF1F5D4119FCC00485451E2429495
+1 FAMS @GAD_F18@
+1 CHAN
+2 DATE 29 Jan 2001
+3 TIME 16:12:00
+0 @GAD_I74@ INDI
+1 NAME Thomas /Smith/
+2 SURN Smith
+2 GIVN Thomas
+1 SEX M
+1 _UID 34861C7AF1F5D4119FCC00485451E24297C5
+1 FAMS @GAD_F19@
+1 FAMC @GAD_F16@
+1 CHAN
+2 DATE 29 Jan 2001
+3 TIME 16:14:04
+0 @GAD_I75@ INDI
+1 NAME Mary Ann /SHERMAN/
+2 SURN SHERMAN
+2 GIVN Mary Ann
+1 SEX F
+1 _UID 36861C7AF1F5D4119FCC00485451E24299E5
+1 FAMS @GAD_F19@
+1 CHAN
+2 DATE 29 Jan 2001
+3 TIME 16:14:33
+0 @GAD_I76@ INDI
+1 NAME Amelia /Heritage/
+2 SURN Heritage
+2 GIVN Amelia
+1 SEX F
+1 BIRT
+2 DATE ABT 1848
+1 DEAT
+2 DATE 22 Oct 1918
+1 _UID 39861C7AF1F5D4119FCC00485451E2429C15
+1 FAMS @GAD_F20@
+1 FAMC @GAD_F36@
+1 CHAN
+2 DATE 24 Apr 2001
+3 TIME 23:20:47
+0 @GAD_I77@ INDI
+1 NAME William /Warde/
+2 SURN Warde
+2 GIVN William
+1 SEX M
+1 _UID 62AEF75831F8D4119FCC00485451E242E95E
+1 FAMS @GAD_F21@
+1 CHAN
+2 DATE 16 Apr 2001
+3 TIME 17:27:47
+0 @GAD_I78@ INDI
+1 NAME William /Smith/
+2 SURN Smith
+2 GIVN William
+1 SEX M
+1 BIRT
+2 PLAC Hardwick, Oxfordshire, England
+1 _UID 65AEF75831F8D4119FCC00485451E242EC8E
+1 FAMS @GAD_F22@
+1 CHAN
+2 DATE 1 Feb 2001
+3 TIME 12:31:19
+0 @GAD_I79@ INDI
+1 NAME Thomas /Dix/
+2 SURN Dix
+2 GIVN Thomas
+1 SEX M
+1 _UID 68AEF75831F8D4119FCC00485451E242EFBE
+1 FAMS @GAD_F23@
+1 CHAN
+2 DATE 1 Feb 2001
+3 TIME 12:34:10
+0 @GAD_I80@ INDI
+1 NAME Sarah //
+2 GIVN Sarah
+1 SEX F
+1 _UID 6BAEF75831F8D4119FCC00485451E242F2EE
+1 FAMS @GAD_F23@
+1 CHAN
+2 DATE 1 Feb 2001
+3 TIME 12:34:21
+0 @GAD_I81@ INDI
+1 NAME Richard /Brown/
+2 SURN Brown
+2 GIVN Richard
+1 SEX M
+1 BIRT
+2 DATE ABT 1808
+2 PLAC North Leigh, Oxfordshire, England
+2 SOUR @GAD_S9@
+3 DATA
+4 TEXT Dwelling: 14 Razor Hill, Curbridge, Oxfordshire, England
+5 CONT Riachard aged 53 married.
+1 DEAT
+2 DATE ABT 1889
+2 PLAC Witney, Oxfordshire, England
+1 _UID 6DAEF75831F8D4119FCC00485451E242F40E
+1 FAMS @GAD_F24@
+1 NOTE Died aged 82.
+1 CHAN
+2 DATE 1 Feb 2001
+3 TIME 13:03:17
+0 @GAD_I82@ INDI
+1 NAME Susannah /Green/
+2 SURN Green
+2 GIVN Susannah
+1 SEX F
+1 _UID 70AEF75831F8D4119FCC00485451E242F73E
+1 FAMS @GAD_F16@
+1 CHAN
+2 DATE 1 Feb 2001
+3 TIME 12:40:11
+0 @GAD_I83@ INDI
+1 NAME Hannah /Jacques/
+2 SURN Jacques
+2 GIVN Hannah
+1 SEX F
+1 _UID 72AEF75831F8D4119FCC00485451E242F95E
+1 FAMS @GAD_F25@
+1 CHAN
+2 DATE 1 Feb 2001
+3 TIME 12:41:13
+0 @GAD_I84@ INDI
+1 NAME Edward Sylvester /Morris/
+2 SURN Morris
+2 GIVN Edward Sylvester
+1 SEX M
+1 _UID 75AEF75831F8D4119FCC00485451E242FC8E
+1 FAMS @GAD_F26@
+1 CHAN
+2 DATE 1 Feb 2001
+3 TIME 12:41:43
+0 @GAD_I85@ INDI
+1 NAME Lawrence /Taylor/
+2 SURN Taylor
+2 GIVN Lawrence
+1 SEX M
+1 _UID 78AEF75831F8D4119FCC00485451E242FFBE
+1 FAMS @GAD_F27@
+1 CHAN
+2 DATE 1 Feb 2001
+3 TIME 12:42:08
+0 @GAD_I86@ INDI
+1 NAME Abel /Halkyard/
+2 SURN Halkyard
+2 GIVN Abel
+1 SEX M
+1 _UID 7BAEF75831F8D4119FCC00485451E24202EE
+1 FAMS @GAD_F28@
+1 CHAN
+2 DATE 1 Feb 2001
+3 TIME 12:42:32
+0 @GAD_I87@ INDI
+1 NAME Peter /Blackburn/
+2 SURN Blackburn
+2 GIVN Peter
+1 SEX M
+1 _UID 7EAEF75831F8D4119FCC00485451E242051E
+1 FAMS @GAD_F29@
+1 CHAN
+2 DATE 1 Feb 2001
+3 TIME 12:42:52
+0 @GAD_I88@ INDI
+1 NAME Charles /Myer/
+2 SURN Myer
+2 GIVN Charles
+1 SEX M
+1 _UID 81AEF75831F8D4119FCC00485451E242084E
+1 FAMS @GAD_F30@
+1 CHAN
+2 DATE 1 Feb 2001
+3 TIME 12:43:14
+0 @GAD_I89@ INDI
+1 NAME Thomas Gadfield /Myer/
+2 SURN Myer
+2 GIVN Thomas Gadfield
+1 SEX M
+1 DEAT
+2 DATE ABT 1896
+2 PLAC Bradford, Yorkshire, England
+1 _UID 84AEF75831F8D4119FCC00485451E2420B7E
+1 FAMC @GAD_F30@
+1 CHAN
+2 DATE 1 Feb 2001
+3 TIME 12:54:27
+0 @GAD_I90@ INDI
+1 NAME Joe /Myer/
+2 SURN Myer
+2 GIVN Joe
+1 SEX M
+1 DEAT
+2 DATE ABT 1896
+2 PLAC Bradford, Yorkshire, England
+1 _UID 86AEF75831F8D4119FCC00485451E2420D9E
+1 FAMC @GAD_F30@
+1 CHAN
+2 DATE 1 Feb 2001
+3 TIME 12:55:20
+0 @GAD_I91@ INDI
+1 NAME Lily /Myer/
+2 SURN Myer
+2 GIVN Lily
+1 SEX F
+1 DEAT
+2 DATE ABT 1895
+2 PLAC Bradford, Yorkshire, England
+1 _UID 88AEF75831F8D4119FCC00485451E2420FBE
+1 FAMC @GAD_F30@
+1 CHAN
+2 DATE 1 Feb 2001
+3 TIME 12:55:10
+0 @GAD_I92@ INDI
+1 NAME John /Brown/
+2 SURN Brown
+2 GIVN John
+1 SEX M
+1 BIRT
+2 DATE ABT 1832
+2 PLAC Curbridge, Oxfordshire, England
+2 SOUR @GAD_S2@
+3 DATA
+4 TEXT Dwelling: Dakeys Hill Cottage, Curbridge, Oxfordshire, England
+1 _UID 8AAEF75831F8D4119FCC00485451E24211DE
+1 FAMC @GAD_F24@
+1 CHAN
+2 DATE 1 Feb 2001
+3 TIME 12:59:33
+0 @GAD_I93@ INDI
+1 NAME Ann /Brown/
+2 SURN Brown
+2 GIVN Ann
+1 SEX F
+1 BIRT
+2 DATE ABT 1834
+2 PLAC Curbridge, Oxfordshire, England
+2 SOUR @GAD_S2@
+3 DATA
+4 TEXT Dwelling: Dakeys Hill Cottage, Curbridge, Oxfordshire, England
+1 _UID 8CAEF75831F8D4119FCC00485451E24213FE
+1 FAMC @GAD_F24@
+1 CHAN
+2 DATE 1 Feb 2001
+3 TIME 12:59:59
+0 @GAD_I94@ INDI
+1 NAME Elizabeth /Brown/
+2 SURN Brown
+2 GIVN Elizabeth
+1 SEX F
+1 BIRT
+2 DATE ABT 1837
+2 PLAC Curbridge, Oxfordshire, England
+2 SOUR @GAD_S2@
+3 DATA
+4 TEXT Dwelling: Dakeys Hill Cottage, Curbridge, Oxfordshire, England
+1 _UID 8EAEF75831F8D4119FCC00485451E242151E
+1 FAMC @GAD_F24@
+1 CHAN
+2 DATE 1 Feb 2001
+3 TIME 13:00:25
+0 @GAD_I95@ INDI
+1 NAME Mary /Brown/
+2 SURN Brown
+2 GIVN Mary
+1 SEX F
+1 BIRT
+2 DATE ABT 1839
+2 PLAC Curbridge, Oxfordshire, England
+2 SOUR @GAD_S2@
+3 DATA
+4 TEXT Dwelling: Dakeys Hill Cottage, Curbridge, Oxfordshire, England
+2 SOUR @GAD_S9@
+3 DATA
+4 TEXT Dwelling: 14 Razor Hill, Curbridge, Oxfordshire, England
+5 CONT Mary Brown, aged 22, single
+1 _UID 90AEF75831F8D4119FCC00485451E242173E
+1 FAMC @GAD_F24@
+1 CHAN
+2 DATE 1 Feb 2001
+3 TIME 13:04:30
+0 @GAD_I96@ INDI
+1 NAME William /Brown/
+2 SURN Brown
+2 GIVN William
+1 SEX M
+1 BIRT
+2 DATE ABT 1840
+2 PLAC Curbridge, Oxfordshire, England
+2 SOUR @GAD_S2@
+3 DATA
+4 TEXT Dwelling: Dakeys Hill Cottage, Curbridge, Oxfordshire, England
+2 SOUR @GAD_S9@
+3 DATA
+4 TEXT Dwelling: 14 Razor Hill, Curbridge, Oxfordshire, England
+5 CONT William Brown, aged 20, single
+1 _UID 92AEF75831F8D4119FCC00485451E242195E
+1 FAMC @GAD_F24@
+1 CHAN
+2 DATE 1 Feb 2001
+3 TIME 13:05:13
+0 @GAD_I97@ INDI
+1 NAME Sarah /Brown/
+2 SURN Brown
+2 GIVN Sarah
+1 SEX F
+1 BIRT
+2 DATE ABT 1843
+2 PLAC Curbridge, Oxfordshire, England
+2 SOUR @GAD_S2@
+3 DATA
+4 TEXT Dwelling: Dakeys Hill Cottage, Curbridge, Oxfordshire, England
+1 _UID 94AEF75831F8D4119FCC00485451E2421B7E
+1 FAMC @GAD_F24@
+1 CHAN
+2 DATE 1 Feb 2001
+3 TIME 13:02:44
+0 @GAD_I98@ INDI
+1 NAME Lucy /Peach/
+2 SURN Peach
+2 GIVN Lucy
+1 SEX F
+1 _UID E2DB02B66206D5119FCC00485451E2423F51
+1 FAMS @F307@
+1 CHAN
+2 DATE 19 Feb 2001
+3 TIME 18:54:52
+0 @GAD_I100@ INDI
+1 NAME Hannah /Nowell/
+2 SURN Nowell
+2 GIVN Hannah
+1 SEX F
+1 _UID 84E0D7638C32D51196E19FA3C57D0B377F62
+1 FAMS @GAD_F21@
+1 FAMS @GAD_F32@
+1 CHAN
+2 DATE 16 Apr 2001
+3 TIME 17:28:30
+0 @GAD_I101@ INDI
+1 NAME George /Taylor/
+2 SURN Taylor
+2 GIVN George
+1 SEX M
+1 _UID 626AC51B0C35D51196E190A966B9312D0013
+1 FAMS @GAD_F33@
+1 CHAN
+2 DATE 19 Apr 2001
+3 TIME 23:55:31
+0 @GAD_I102@ INDI
+1 NAME John /Taylor/
+2 SURN Taylor
+2 GIVN John
+1 SEX M
+1 _UID 676AC51B0C35D51196E190A966B9312D0563
+1 FAMC @GAD_F33@
+1 SOUR @GAD_S15@
+2 NOTE Will of grandfather, Henry Gadfield, proved 10 Oct 1735.
+2 DATA
+3 TEXT Also I give and bequeath to John the son of the said George Taylor the sum of Five pounds o
+4 CONC f Like Lawful money to be used and employed by my said Executor to put him apprentice to som
+4 CONC e Lawfull Trade of calling.
+1 CHAN
+2 DATE 19 Apr 2001
+3 TIME 23:59:59
+0 @GAD_I103@ INDI
+1 NAME /Gadfield/
+2 SURN Gadfield
+1 SEX M
+1 _UID 696AC51B0C35D51196E190A966B9312D0783
+1 FAMS @GAD_F34@
+1 FAMC @GAD_F35@
+1 CHAN
+2 DATE 20 Apr 2001
+3 TIME 00:24:12
+0 @GAD_I104@ INDI
+1 NAME /Gadfield/
+2 SURN Gadfield
+1 SEX M
+1 _UID 6C6AC51B0C35D51196E190A966B9312D0AB3
+1 FAMS @GAD_F35@
+1 CHAN
+2 DATE 20 Apr 2001
+3 TIME 00:29:46
+0 @GAD_I105@ INDI
+1 NAME John /Gadfield/
+2 SURN Gadfield
+2 GIVN John
+1 SEX M
+1 BURI
+2 DATE 21 Feb 1728
+2 PLAC Stanton Harcourt, Oxfordshire, England
+2 SOUR @GAD_S16@
+1 _UID 6F6AC51B0C35D51196E190A966B9312D0DE3
+1 FAMC @GAD_F35@
+1 CHAN
+2 DATE 20 Apr 2001
+3 TIME 00:31:44
+0 @GAD_I106@ INDI
+1 NAME John /Fisher/
+2 SURN Fisher
+2 GIVN John
+1 SEX M
+1 CHR
+2 DATE Oct 1723
+2 PLAC Witney, Oxfordshire, England
+2 SOUR @GAD_S1@
+1 _UID 716AC51B0C35D51196E190A966B9312D0F03
+1 FAMC @GAD_F13@
+1 CHAN
+2 DATE 24 Apr 2001
+3 TIME 23:38:56
+0 @GAD_I107@ INDI
+1 NAME Elizabeth /Fisher/
+2 SURN Fisher
+2 GIVN Elizabeth
+1 SEX F
+1 CHR
+2 DATE 17 Jan 1727
+2 PLAC Witney, Oxfordshire, England
+2 SOUR @GAD_S1@
+1 _UID 736AC51B0C35D51196E190A966B9312D1123
+1 FAMC @GAD_F13@
+1 CHAN
+2 DATE 24 Apr 2001
+3 TIME 23:39:05
+0 @GAD_I108@ INDI
+1 NAME Henry /Fisher/
+2 SURN Fisher
+2 GIVN Henry
+1 SEX M
+1 CHR
+2 DATE 2 Jun 1731
+2 PLAC Witney, Oxfordshire, England
+2 SOUR @GAD_S1@
+1 _UID 756AC51B0C35D51196E190A966B9312D1343
+1 FAMC @GAD_F13@
+1 CHAN
+2 DATE 24 Apr 2001
+3 TIME 23:39:17
+0 @GAD_I109@ INDI
+1 NAME Robert /Fisher/
+2 SURN Fisher
+2 GIVN Robert
+1 SEX M
+1 CHR
+2 DATE 3 Jun 1734
+2 PLAC Witney, Oxfordshire, England
+2 SOUR @GAD_S1@
+1 _UID 776AC51B0C35D51196E190A966B9312D1563
+1 FAMC @GAD_F13@
+1 CHAN
+2 DATE 24 Apr 2001
+3 TIME 23:39:29
+0 @GAD_I110@ INDI
+1 NAME Elizabeth /Brewer/
+2 SURN Brewer
+2 GIVN Elizabeth
+1 SEX F
+1 CHR
+2 DATE 16 Jan 1732
+2 PLAC Witney, Oxfordshire, England
+1 _UID 796AC51B0C35D51196E190A966B9312D1783
+1 FAMC @GAD_F14@
+1 CHAN
+2 DATE 20 Apr 2001
+3 TIME 01:25:30
+0 @GAD_I111@ INDI
+1 NAME William /Heritage/
+2 SURN Heritage
+2 GIVN William
+1 SEX M
+1 _UID 8254BB5C0839D51196E1444553540000BBC0
+1 FAMS @GAD_F36@
+1 CHAN
+2 DATE 24 Apr 2001
+3 TIME 23:21:00
+0 @GAD_I112@ INDI
+1 NAME Sarah //
+2 GIVN Sarah
+1 SEX F
+1 BIRT
+2 DATE ABT 1826
+1 DEAT
+2 DATE 9 Jan 1917
+2 PLAC Shawforth, Lancashire, England
+1 BURI
+2 DATE 13 Jan 1917
+2 PLAC Facit Cemetery, Whitworth, Lancashire, England
+1 _UID 8554BB5C0839D51196E1444553540000BEF0
+1 FAMS @GAD_F36@
+1 NOTE Died at 4 Eagley Bank, Shawforth.
+1 CHAN
+2 DATE 24 Apr 2001
+3 TIME 23:22:41
+0 @GAD_I113@ INDI
+1 NAME Alfred William /Heritage/
+2 SURN Heritage
+2 GIVN Alfred William
+1 SEX M
+1 _UID 8754BB5C0839D51196E1444553540000C010
+1 FAMC @GAD_F36@
+1 CHAN
+2 DATE 24 Apr 2001
+3 TIME 23:23:18
+0 @GAD_I116@ INDI
+1 NAME Elizabeth /Gadfield/
+2 SURN Gadfield
+2 GIVN Elizabeth
+1 SEX F
+1 CHR
+2 DATE 21 Jan 1839
+2 PLAC Cirencester, Gloucestershire, England
+1 BURI
+2 DATE 17 Apr 1839
+2 PLAC Cirencester, Gloucestershire, England
+2 SOUR @GAD_S18@
+3 DATA
+4 TEXT 11 weeks old
+1 _UID 8E54BB5C0839D51196E1444553540000C780
+1 FAMC @F307@
+1 CHAN
+2 DATE 24 Apr 2001
+3 TIME 23:43:58
+0 @GAD_I117@ INDI
+1 NAME Henry /Gadfield/
+2 SURN Gadfield
+2 GIVN Henry
+1 SEX M
+1 CHR
+2 DATE 20 Apr 1842
+2 PLAC Cirencester, Gloucestershire, England
+1 BURI
+2 DATE 6 May 1842
+2 PLAC Cirencester, Gloucestershire, England
+2 SOUR @GAD_S18@
+3 DATA
+4 TEXT Aged 9 weeks
+1 _UID 9054BB5C0839D51196E1444553540000C9A0
+1 FAMC @F307@
+1 CHAN
+2 DATE 24 Apr 2001
+3 TIME 23:46:09
+0 @GAD_I118@ INDI
+1 NAME Maria Ann /Gadfield/
+2 SURN Gadfield
+2 GIVN Maria Ann
+1 SEX F
+1 BIRT
+2 DATE ABT 1824
+1 BURI
+2 DATE 28 Jul 1840
+1 _UID 9254BB5C0839D51196E1444553540000CBC0
+1 FAMC @F307@
+1 NOTE Aged 16 at death.
+1 CHAN
+2 DATE 24 Apr 2001
+3 TIME 23:47:14
+0 @GAD_I119@ INDI
+1 NAME James /Gadfield/
+2 SURN Gadfield
+2 GIVN James
+1 SEX M
+1 CHR
+2 DATE 22 Sep 1831
+2 PLAC Quenington, Gloucestershire, England
+1 _UID 9454BB5C0839D51196E1444553540000CDE0
+1 FAMS @GAD_F38@
+1 FAMC @F307@
+1 SOUR @GAD_S2@
+1 CHAN
+2 DATE 21 Jun 2001
+3 TIME 16:11:37
+0 @GAD_I120@ INDI
+1 NAME Mary //
+2 GIVN Mary
+1 SEX F
+1 BIRT
+2 DATE ABT 1828
+2 PLAC Sopworth, Wiltshire, England
+1 _UID 9954BB5C0839D51196E1444553540000D230
+1 FAMS @GAD_F38@
+1 CHAN
+2 DATE 24 Apr 2001
+3 TIME 23:54:45
+0 @GAD_I121@ INDI
+1 NAME John /Gadfield/
+2 SURN Gadfield
+2 GIVN John
+1 SEX M
+1 BIRT
+2 DATE ABT 1855
+2 PLAC Cirencester, Gloucestershire, England
+2 SOUR @GAD_S19@
+1 _UID 9C54BB5C0839D51196E1444553540000D560
+1 FAMC @GAD_F38@
+1 CHAN
+2 DATE 24 Apr 2001
+3 TIME 23:56:16
+0 @GAD_I122@ INDI
+1 NAME Frank (?) /Gadfield/
+2 SURN Gadfield
+2 GIVN Frank (?)
+1 SEX M
+1 BIRT
+2 DATE ABT 1857
+2 PLAC Cirencester, Gloucestershire, England
+2 SOUR @GAD_S19@
+1 _UID 9E54BB5C0839D51196E1444553540000D780
+1 FAMC @GAD_F38@
+1 CHAN
+2 DATE 24 Apr 2001
+3 TIME 23:57:24
+0 @GAD_I123@ INDI
+1 NAME Alice /Gadfield/
+2 SURN Gadfield
+2 GIVN Alice
+1 SEX F
+1 BIRT
+2 DATE ABT 1859
+2 PLAC Cirencester, Gloucestershire, England
+2 SOUR @GAD_S19@
+1 _UID A054BB5C0839D51196E1444553540000D9A0
+1 FAMC @GAD_F38@
+1 CHAN
+2 DATE 24 Apr 2001
+3 TIME 23:57:55
+0 @GAD_I124@ INDI
+1 NAME Edwin /Gadfield/
+2 SURN Gadfield
+2 GIVN Edwin
+1 SEX M
+1 BIRT
+2 DATE ABT 1863
+2 PLAC Cirencester, Gloucestershire, England
+2 SOUR @GAD_S19@
+1 _UID A254BB5C0839D51196E1444553540000DBC0
+1 FAMC @GAD_F38@
+1 CHAN
+2 DATE 24 Apr 2001
+3 TIME 23:58:26
+0 @GAD_I125@ INDI
+1 NAME Pamela /Gadfield/
+2 SURN Gadfield
+2 GIVN Pamela
+1 SEX F
+1 BIRT
+2 DATE ABT 1865
+2 PLAC Cirencester, Gloucestershire, England
+2 SOUR @GAD_S19@
+1 _UID A454BB5C0839D51196E1444553540000DDE0
+1 FAMC @GAD_F38@
+1 CHAN
+2 DATE 24 Apr 2001
+3 TIME 23:58:55
+0 @GAD_I126@ INDI
+1 NAME Walter /Gadfield/
+2 SURN Gadfield
+2 GIVN Walter
+1 SEX M
+1 BIRT
+2 DATE ABT 1870
+2 PLAC Cirencester, Gloucestershire, England
+2 SOUR @GAD_S19@
+1 _UID A654BB5C0839D51196E1444553540000DF00
+1 FAMC @GAD_F38@
+1 CHAN
+2 DATE 24 Apr 2001
+3 TIME 23:59:26
+0 @GAD_I130@ INDI
+1 NAME Elma /Gadfield/
+2 SURN Gadfield
+2 GIVN Elma
+1 SEX F
+1 CHR
+2 DATE 29 May 1835
+2 PLAC Quenington, Gloucestershire, England
+1 _UID 94A489F6295A9E449F3FA03B38A8C960DE94
+1 FAMC @F307@
+1 CHAN
+2 DATE 21 Jun 2001
+3 TIME 16:12:42
+0 @GAD_F1@ FAM
+1 _UID 5AC59A5DEFF5D4119FCC00485451E2425B29
+1 HUSB @GAD_I2@
+1 WIFE @GAD_I3@
+1 CHIL @GAD_I4@
+1 CHIL @GAD_I1@
+1 CHIL @GAD_I5@
+1 CHIL @GAD_I6@
+1 MARR
+2 DATE 12 Dec 1885
+2 PLAC Rochdale, Lancashire, England
+2 SOUR @GAD_S12@
+2 NOTE <a href="http://www.genoot.com/surnames/gadfield/"><img src="http://www.burrowes.org/FamilyTree/pics/gadfieldhenryruthrosanna-small.jpg"></a>
+3 CONT <BR>Ruth, Henry and their Daughter Rosanna.
+0 @GAD_F2@ FAM
+1 _UID 6CC59A5DEFF5D4119FCC00485451E2426D49
+1 HUSB @GAD_I7@
+1 WIFE @GAD_I8@
+1 CHIL @GAD_I9@
+1 CHIL @GAD_I10@
+1 CHIL @GAD_I11@
+1 CHIL @GAD_I12@
+1 CHIL @GAD_I13@
+1 CHIL @GAD_I2@
+1 MARR
+2 DATE 26 Feb 1850
+2 PLAC Witney, Oxfordshire, England
+2 SOUR @GAD_S1@
+3 DATA
+4 TEXT 1850, Feb 26 - GADFIELD, Charles, fa, ba, Stonemason s Charles Hunt, Lab
+5 CONT and BROOM, Elizabeth, fa, wid, d Thos. SMITH, Sweep
+5 CONT Witnesses: James SMITH & Anne SMITH
+0 @GAD_F3@ FAM
+1 _UID C6C59A5DEFF5D4119FCC00485451E242C7E9
+1 HUSB @GAD_I14@
+1 WIFE @GAD_I15@
+1 CHIL @GAD_I7@
+1 NOTE Couple were not married. The Baptismal entry for Henry Charles only shows the mother. Howeve
+2 CONC r his marriage entry in 1850 shows his father as Chales Hunt, deceased.
+0 @GAD_F4@ FAM
+1 _UID C8C59A5DEFF5D4119FCC00485451E242C909
+1 HUSB @GAD_I16@
+1 WIFE @GAD_I17@
+1 CHIL @I435@
+1 CHIL @GAD_I41@
+1 CHIL @GAD_I42@
+1 CHIL @GAD_I43@
+1 CHIL @GAD_I47@
+1 CHIL @GAD_I64@
+1 CHIL @GAD_I44@
+1 CHIL @GAD_I66@
+1 CHIL @GAD_I15@
+1 MARR
+2 DATE 2 Nov 1787
+2 PLAC Witney, Oxfordshire, England
+2 SOUR @GAD_S1@
+3 DATA
+4 TEXT 1787, Nov 2 - GADFIELD, Henry & DIX, Mary, soj
+5 CONT Witnesses: Sarah DIX & Ben. TRUMLETT
+1 NOTE Witnesses:- Sarah DIX
+2 CONT                  Ben. TRUMLETT
+0 @GAD_F5@ FAM
+1 _UID CAC59A5DEFF5D4119FCC00485451E242CB29
+1 HUSB @GAD_I18@
+1 WIFE @GAD_I19@
+1 CHIL @GAD_I22@
+1 CHIL @GAD_I31@
+1 CHIL @GAD_I32@
+1 CHIL @GAD_I33@
+1 CHIL @GAD_I34@
+1 CHIL @GAD_I16@
+1 CHIL @GAD_I36@
+1 MARR
+2 DATE 17 Apr 1756
+2 PLAC Witney, Oxfordshire, England
+2 SOUR @GAD_S1@
+3 DATA
+4 TEXT 1756, Apr 17 - GADFIELD, Henery, Carpenter, Lic & HEARN, Mary, sp
+5 CONT Witnesses: Wm. BIRD & Elizth. HARBUD X
+0 @GAD_F6@ FAM
+1 _UID 954AB49EADECD4119FCC00485451E2422BE2
+1 HUSB @GAD_I21@
+1 WIFE @GAD_I22@
+1 CHIL @GAD_I23@
+1 CHIL @GAD_I24@
+1 CHIL @GAD_I25@
+1 CHIL @GAD_I26@
+1 CHIL @GAD_I20@
+1 CHIL @GAD_I27@
+1 CHIL @GAD_I28@
+1 MARR
+2 DATE 30 Sep 1775
+2 PLAC Witney, Oxfordshire, England
+2 SOUR @GAD_S1@
+3 DATA
+4 TEXT 1775, Sep 30 - FARBROTHER, William & GADFIELD, Hannah
+5 CONT Witnesses: Thos. DOLLEY Junr. & Mary WELLS
+0 @GAD_F7@ FAM
+1 _UID 17861C7AF1F5D4119FCC00485451E2427AF5
+1 WIFE @GAD_I43@
+1 CHIL @GAD_I65@
+0 @GAD_F8@ FAM
+1 _UID AF4AB49EADECD4119FCC00485451E2424582
+1 HUSB @GAD_I18@
+1 WIFE @GAD_I56@
+1 MARR
+2 DATE 8 Apr 1777
+2 PLAC Witney, Oxfordshire, England
+2 SOUR @GAD_S1@
+3 DATA
+4 TEXT 1777, Apr 8 - GADFIELD, Henry & HAILLES, Susanna - Lic
+5 CONT Witnesses: Peter O'NARA & Wm FRENCH
+0 @GAD_F9@ FAM
+1 _UID B04AB49EADECD4119FCC00485451E2424692
+1 HUSB @GAD_I37@
+1 WIFE @GAD_I57@
+1 CHIL @GAD_I58@
+1 CHIL @GAD_I18@
+1 CHIL @GAD_I59@
+1 CHIL @GAD_I60@
+1 CHIL @GAD_I63@
+1 MARR
+2 NOTE Marriage Bond from St John's 1736 gives details of Henry Gadfield and Hannah Ward's intention to marry.
+0 @GAD_F10@ FAM
+1 _UID B44AB49EADECD4119FCC00485451E2424AD2
+1 HUSB @GAD_I38@
+1 WIFE @GAD_I32@
+1 CHIL @GAD_I48@
+1 CHIL @GAD_I49@
+1 CHIL @GAD_I50@
+1 CHIL @GAD_I51@
+1 CHIL @GAD_I52@
+1 CHIL @GAD_I53@
+1 CHIL @GAD_I54@
+1 CHIL @GAD_I55@
+1 MARR
+2 DATE 25 Sep 1778
+2 PLAC Witney, Oxfordshire, England
+2 SOUR @GAD_S1@
+3 DATA
+4 TEXT 1778, Sep 25 - BROOME, William & GADFIELD, Mary
+5 CONT Witnesess: Elizabeth CLAPTON & William FARBROTHER
+0 @GAD_F11@ FAM
+1 _UID 04861C7AF1F5D4119FCC00485451E24267C5
+1 HUSB @GAD_I39@
+1 WIFE @GAD_I30@
+1 CHIL @GAD_I45@
+1 CHIL @GAD_I29@
+1 CHIL @GAD_I35@
+1 CHIL @GAD_I61@
+1 CHIL @GAD_I37@
+1 CHIL @GAD_I62@
+1 MARR
+2 DATE 17 Nov 1695
+2 PLAC Bloxham, Oxfordshire, England
+2 SOUR @GAD_S1@
+0 @GAD_F12@ FAM
+1 _UID 27861C7AF1F5D4119FCC00485451E2428AF5
+1 HUSB @GAD_I46@
+1 WIFE @GAD_I8@
+1 MARR
+2 DATE 24 Dec 1841
+2 PLAC Witney, Oxfordshire, England
+0 @GAD_F13@ FAM
+1 _UID 1C861C7AF1F5D4119FCC00485451E2427F45
+1 HUSB @GAD_I67@
+1 WIFE @GAD_I29@
+1 CHIL @GAD_I106@
+1 CHIL @GAD_I107@
+1 CHIL @GAD_I108@
+1 CHIL @GAD_I109@
+1 MARR
+2 DATE 6 Oct 1718
+2 PLAC Witney, Oxfordshire, England
+2 SOUR @GAD_S1@
+3 DATA
+4 TEXT 1718, Oct 6 - FISHER, Charles & GADFIELD, Elizabeth
+0 @GAD_F14@ FAM
+1 _UID 1F861C7AF1F5D4119FCC00485451E2428275
+1 HUSB @GAD_I68@
+1 WIFE @GAD_I62@
+1 CHIL @GAD_I110@
+1 MARR
+2 DATE 26 May 1729
+2 PLAC Witney, Oxfordshire, England
+2 SOUR @GAD_S1@
+3 DATA
+4 TEXT 1729, May 26 - BREWER, Joseph & GADFIELD, Sarah
+0 @GAD_F15@ FAM
+1 _UID 22861C7AF1F5D4119FCC00485451E24285A5
+1 HUSB @GAD_I69@
+1 WIFE @GAD_I31@
+1 MARR
+2 DATE 14 Apr 1778
+2 PLAC Witney, Oxfordshire, England
+2 SOUR @GAD_S1@
+3 DATA
+4 TEXT 1778, Apr 14 - SHEPPERD, William, Lic & GADFIELD, Sarah, X, Consent of parents
+5 CONT Witnesess: Thos. EELES & Jos. BOLTON
+0 @GAD_F16@ FAM
+1 _UID 2A861C7AF1F5D4119FCC00485451E2428D25
+1 HUSB @GAD_I70@
+1 WIFE @GAD_I82@
+1 CHIL @GAD_I8@
+1 CHIL @GAD_I71@
+1 CHIL @GAD_I74@
+0 @GAD_F17@ FAM
+1 _UID 2F861C7AF1F5D4119FCC00485451E2429275
+1 HUSB @GAD_I71@
+1 WIFE @GAD_I72@
+1 MARR
+2 DATE 28 May 1849
+2 PLAC Witney, Oxfordshire, England
+2 SOUR @GAD_S1@
+3 DATA
+4 TEXT 1849, May 28 - SMITH, James, fa, ba, Sweep, s Thomas, Sweep
+5 CONT & WARNER, Ann, fa, sp, d Edward, Fellmonger
+5 CONT Witnesses: Charles GADFIELD & Elizabeth BROWN
+0 @GAD_F18@ FAM
+1 _UID 32861C7AF1F5D4119FCC00485451E24295A5
+1 HUSB @GAD_I73@
+1 CHIL @GAD_I72@
+0 @GAD_F19@ FAM
+1 _UID 37861C7AF1F5D4119FCC00485451E2429AF5
+1 HUSB @GAD_I74@
+1 WIFE @GAD_I75@
+1 MARR
+2 DATE 3 Oct 1850
+2 PLAC Witney, Oxfordshire, England
+2 SOUR @GAD_S1@
+3 DATA
+4 TEXT 1850, Oct 3 - SMITH, Thomas, fa, ba, Sweep, s Thomas, Sweep
+5 CONT & SHERMAN, Mary Ann, fa, sp, d James, Shoemaker
+5 CONT Witnesses: Joseph BROWNING & Elizabeth GADFIELD
+0 @GAD_F20@ FAM
+1 _UID 3A861C7AF1F5D4119FCC00485451E2429D25
+1 HUSB @GAD_I9@
+1 WIFE @GAD_I76@
+1 MARR
+2 DATE 28 May 1871
+2 PLAC Witney, Oxfordshire, England
+2 SOUR @GAD_S1@
+3 DATA
+4 TEXT 1871, May 28 - GADFIELD, Thomas, fa, ba, Mason, s Charles, Mason
+5 CONT & HERITAGE, Amelia, fa, sp, d William, Mason
+5 CONT Witnesses: Thomas HEALEY & Hannah GADFIELD
+0 @GAD_F21@ FAM
+1 _UID 63AEF75831F8D4119FCC00485451E242EA6E
+1 HUSB @GAD_I77@
+1 WIFE @GAD_I100@
+1 CHIL @GAD_I57@
+1 MARR
+2 DATE 29 Nov 1696
+2 PLAC Cogges, Oxfordshire, England
+2 SOUR @GAD_S7@
+3 DATA
+4 TEXT WARDE, William, Witney, Cogges, NOWELL, Hannah, Witney, 1696, 29 Nov
+0 @GAD_F22@ FAM
+1 _UID 66AEF75831F8D4119FCC00485451E242ED9E
+1 HUSB @GAD_I78@
+1 WIFE @GAD_I34@
+1 MARR
+2 DATE 10 Jun 1786
+2 PLAC Ducklington, Oxfordshire, England
+0 @GAD_F23@ FAM
+1 _UID 69AEF75831F8D4119FCC00485451E242F0CE
+1 HUSB @GAD_I79@
+1 WIFE @GAD_I80@
+1 CHIL @GAD_I17@
+0 @GAD_F24@ FAM
+1 _UID 6EAEF75831F8D4119FCC00485451E242F51E
+1 HUSB @GAD_I81@
+1 WIFE @GAD_I15@
+1 CHIL @GAD_I92@
+1 CHIL @GAD_I93@
+1 CHIL @GAD_I94@
+1 CHIL @GAD_I95@
+1 CHIL @GAD_I96@
+1 CHIL @GAD_I97@
+1 MARR
+2 DATE 16 Jan 1832
+2 PLAC Witney, Oxfordshire, England
+2 SOUR @GAD_S1@
+3 DATA
+4 TEXT 1832, Jan 16 - BROWN, Richard, X and GADFIELD, Sarah, X
+5 CONT Witnesses: Thomas BROWN and Hannah BARNES
+0 @GAD_F25@ FAM
+1 _UID 73AEF75831F8D4119FCC00485451E242FA6E
+1 HUSB @GAD_I9@
+1 WIFE @GAD_I83@
+0 @GAD_F26@ FAM
+1 _UID 76AEF75831F8D4119FCC00485451E242FD9E
+1 HUSB @GAD_I84@
+1 WIFE @GAD_I10@
+1 MARR
+2 DATE 1875
+0 @GAD_F27@ FAM
+1 _UID 79AEF75831F8D4119FCC00485451E24200CE
+1 HUSB @GAD_I85@
+1 WIFE @GAD_I11@
+1 MARR
+2 DATE 1888
+0 @GAD_F28@ FAM
+1 _UID 7CAEF75831F8D4119FCC00485451E24203FE
+1 HUSB @GAD_I86@
+1 WIFE @GAD_I11@
+0 @GAD_F29@ FAM
+1 _UID 7FAEF75831F8D4119FCC00485451E242062E
+1 HUSB @GAD_I87@
+1 WIFE @GAD_I12@
+1 MARR
+2 DATE 1884
+0 @GAD_F30@ FAM
+1 _UID 82AEF75831F8D4119FCC00485451E242095E
+1 HUSB @GAD_I88@
+1 WIFE @GAD_I13@
+1 CHIL @GAD_I89@
+1 CHIL @GAD_I90@
+1 CHIL @GAD_I91@
+1 MARR
+2 DATE 1890
+2 PLAC Halifax, Yorkshire, England
+0 @GAD_F32@ FAM
+1 _UID 85E0D7638C32D51196E19FA3C57D0B378072
+1 HUSB @GAD_I39@
+1 WIFE @GAD_I100@
+1 MARR
+2 DATE 23 Feb 1723
+2 PLAC Cogges, Oxfordshire, England
+2 SOUR @GAD_S7@
+3 DATA
+4 TEXT Couple both from Witney.
+1 SOUR @GAD_S15@
+2 DATA
+3 TEXT Gadfield Henry = the Elder of Witney
+4 CONT 
+4 CONT 
+4 CONT In the Name of God Amen, I Henry Gadfield the Elder of Witney in the County of Oxford Carpent
+4 CONC er being weak of Body But of sound and perfect mind and memory praise be Given to Almighty Go
+4 CONC d for the same Do make this my Last Will and  Testament in manner and form following (That i
+4 CONC s to say) First and Principally I commend my soul into the hands of Almighty God my Creator h
+4 CONC oping through the merits death and passion of my Blessed Saviour and Redeemer Jesus Christ t
+4 CONC o Inherit Eternal Salvation And my Body I commit to the earth to be decently Buryed at the th
+4 CONC e discretion of my Executor herein after named. And as for my Worldly Goods - that it hath pl
+4 CONC eased Almighty God of his Great Goodness to endow me with - I Give and dispose of as followet
+4 CONC h. I Will that all my Just Debts and funeral Expenses be paid of and fully discharged. Als
+4 CONC o I Give and bequeath unto my daughter Elizabeth the Wife of Charles Fisher the Full and Jus
+4 CONC t sum of Sixty Pounds of Lawfull money of Great Britain to be paid to her my Said Daughter b
+4 CONC y my Executor within one whole year next after my decease if my Said Executor can within tha
+4 CONC t time conveniently raise it. If not I Give him the space of two years next after my deceas
+4 CONC e to pay the sum. Either of which time of payment I wholly Leave to his discretion. Also I Go
+4 CONC ve and bequeath to my daughter Hannah the now Wife of George Taylor the full and Just sum o
+4 CONC f Five pounds of Like Lawfull money to be paid to her my said daughter at the time or times h
+4 CONC erein before by me limitted for payment of the last lecacy by me Requested. Also I give and b
+4 CONC equeath to John the son of the said George Taylor the sum of Five pounds of Like Lawful mone
+4 CONC y to be used and employed by my said Executor to put him apprentice to some Lawfull Trade o
+4 CONC r calling. Also I Give and bequeath to Sarah my daughter now wife of Joseph Brewer All that m
+4 CONC y messuage or Tenement Backside and Garden with the appurtenances scitivats [?] standing an
+4 CONC d being in the Corustrect otherwise Corundell [sh...] in Witney aforesaid To her And her heir
+4 CONC s for ever. Also I Give and bequeath to Hannah Ward my now wifes daughter the full and Just s
+4 CONC um of Tenn pounds of like Lawfull money to be paid her by my Executor at either of the time
+4 CONC s herein before by me Limmitted for the payment of the other Legacies at the discrection of m
+4 CONC y Executor. Also I Give to my Loving Wife Hannah Gadfield And to my son Henry Gadfield Joyntl
+4 CONC y between them for and during the natural Life of my said wife All That my messuage or Teneme
+4 CONC nt Out houses, Edifices and buildings whatsoever with the backside Garden and all and singula
+4 CONC r other the premisses with the appurtenances wherein I now dwell {Scit..ate] Standing and bei
+4 CONC ng in Witney aforesaid Together with the use of all my Goods as Beds household stuff and othe
+4 CONC r Implements and utensils in Trade Joyntly between them. And after the decease of my said Lov
+4 CONC ing Wife I Give and bequeath all that my said messuage and Tenement and other the premisses w
+4 CONC ith the appurtenances as also all Goods Beds Household stuff implements and utensils in Trad
+4 CONC e whatsoever To my said son Henry Gadfield and to his heirs and assignes for ever. And touchi
+4 CONC ng and concerning All and Singular them my two Life Hold Estates Lying Standing and being I
+4 CONC n the Tything of Sutton in the Parish of Stanton Harcourt in the County of Oxford - Now in th
+4 CONC e Tenure or Occupation of Edward Barnshaw, Robert Walker, William Carter & - Scarlett, Togeth
+4 CONC er with all and singular the appurtenances there unto belonging, I Give devise and bequeath u
+4 CONC nto my said Son Henry Gadfield And to his heirs Executors administrators and assigns for ever
+4 CONC . Whom I constitue and appoint Full and sole Executor of this my Last Will and Testament Here
+4 CONC by Revoking and making void all and every other Former Will and Testament heretofore by me ma
+4 CONC de Ratifying and Confirming this my Last Will and Testament. In Witness whereof I the said He
+4 CONC nry Gadfield the Elder have hereunto subscribed my mark and affixed my seals this twenty sixt
+4 CONC h day October in the Eighth year of the Reign of our Sovereigne Lord George the second by th
+4 CONC e Grace of God of Great Brittain France and Ireland King Defender of the faiths so forth an
+4 CONC d in the year of our Lord God one Thousand seven hundred and thirty four. Henry Gadfield hi
+4 CONC s mark. Signed sealed published and declared by the said Henry Gadfield the Elder as his LAs
+4 CONC t Will and Testament after the Interlination of the words (the Elder) in the first Line in th
+4 CONC e presence of us who subscribe our names as - witnesses to the same Thomas Young, ye Elder, S
+4 CONC amuel Spier, Robt Gray.
+4 CONT 
+4 CONT Proved 10 Oct 1735 Ar Ct.
+0 @GAD_F33@ FAM
+1 _UID 636AC51B0C35D51196E190A966B9312D0123
+1 HUSB @GAD_I101@
+1 WIFE @GAD_I61@
+1 CHIL @GAD_I102@
+1 SOUR @GAD_S15@
+2 NOTE Will of Henry Gadfield proved 10 Oct 1735
+2 DATA
+3 TEXT Also I Give and bequeath to my daughter Hannah the now Wife of George Taylor the full and Jus
+4 CONC t sum of Five pounds of Like Lwaful money to be paid to her my said daughter at the time or t
+4 CONC imes herein before by me ;imitted for payment of the last legacy by me requested.
+0 @GAD_F34@ FAM
+1 _UID 6A6AC51B0C35D51196E190A966B9312D0893
+1 HUSB @GAD_I103@
+1 CHIL @GAD_I39@
+0 @GAD_F35@ FAM
+1 _UID 6D6AC51B0C35D51196E190A966B9312D0BC3
+1 HUSB @GAD_I104@
+1 CHIL @GAD_I103@
+1 CHIL @GAD_I105@
+0 @GAD_F36@ FAM
+1 _UID 8354BB5C0839D51196E1444553540000BCD0
+1 HUSB @GAD_I111@
+1 WIFE @GAD_I112@
+1 CHIL @GAD_I76@
+1 CHIL @GAD_I113@
+0 @GAD_F38@ FAM
+1 _UID 9A54BB5C0839D51196E1444553540000D340
+1 HUSB @GAD_I119@
+1 WIFE @GAD_I120@
+1 CHIL @GAD_I121@
+1 CHIL @GAD_I122@
+1 CHIL @GAD_I123@
+1 CHIL @GAD_I124@
+1 CHIL @GAD_I125@
+1 CHIL @GAD_I126@
+1 MARR
+2 DATE 1851/1861
+0 @GAD_S1@ SOUR
+1 TITL Parish Registers - England, Oxfordshire, Witney, St. Mary
+1 PUBL Oxfordshire Family History Society
+0 @GAD_S2@ SOUR
+1 TITL Census - 1851
+0 @GAD_S3@ SOUR
+1 TITL Census - 1841
+0 @GAD_S4@ SOUR
+1 TITL Parish Registers - England, Oxfordshire, Oxford City, St Thomas
+1 PUBL Oxfordshire Family History Society
+0 @GAD_S5@ SOUR
+1 TITL Parish Registers - England, Berkshire, North Hinksey, St. Lawrence
+1 PUBL Oxfordshire Family History Society
+1 NOTE (North Hinksey was in Berkshire in 1800's, it is now in Oxfordshire)
+0 @GAD_S7@ SOUR
+1 TITL Parish Registers - England, Oxfordshire, Cogges
+0 @GAD_S8@ SOUR
+1 TITL Monumental Inscriptions - England, Oxfordshire, Witney
+0 @GAD_S9@ SOUR
+1 TITL Census - 1861
+0 @GAD_S10@ SOUR
+1 TITL General Register Office Indexes - Births
+0 @GAD_S11@ SOUR
+1 TITL Certificate - Birth
+0 @GAD_S12@ SOUR
+1 TITL Certificate - Marriage
+0 @GAD_S13@ SOUR
+1 TITL Certificate - Death
+0 @GAD_S14@ SOUR
+1 TITL Parish Registers - England, Oxfordshire, Witney, Primitive Methodist Circuit 1843-1873
+1 PUBL Witney and Faringdon Methodist Circuit Transcripts
+0 @GAD_S15@ SOUR
+1 TITL Will
+0 @GAD_S16@ SOUR
+1 TITL Parish Registers - England, Oxfordshire, Stanton Harcourt
+0 @GAD_S17@ SOUR
+1 TITL Parish Registers - England, Gloucestershire, Hampnett
+0 @GAD_S18@ SOUR
+1 TITL Parish Registers - England, Gloucestershire, Cirencester
+0 @GAD_S19@ SOUR
+1 TITL Census - 1871
+0 @GAD_S23@ SOUR
+1 TITL Monumental Inscription - New Zealand, Christchurch, Heathcote Cemetery
+0 @GAD_S24@ SOUR
+1 TITL Registers - St Johns Wollaston, 10 St Johns Str
+0 TRLR
+
