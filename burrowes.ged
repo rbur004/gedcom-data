@@ -23563,6 +23563,8 @@
 1 BIRT
 2 DATE 22 Aug 1880
 2 PLAC New Plymouth, NZL
+2 NOTE WWI record says born 1881, also says 1882. NZ BDM has 1880/17808
+1 NOTE WWI 3/1872 NZMC H.S.Maheno
 1 FAMC @F84@
 1 FAMS @F154@
 0 @I78@ INDI
@@ -23646,6 +23648,7 @@
 2 CONC Left NZL 29 July 1916.
 2 CONC The Roll lists his occupation as "Reporter" and his next of kin as
 2 CONC F Richards (Father) Avenue Rd, New Plymouth.
+1 NOTE WWI 81921 Sargent 3rd Batt NZRB
 1 OCCU Farmer (post WWI).
 1 OCCU House Manager Whakatane Hospital.
 1 OCCU Grocer
@@ -23726,7 +23729,7 @@
 2 AGE 70
 2 CAUS Heart Attack
 2 NOTE NZ Death Index microfiche ref, 1382
-2 PLAC Son Stanley's Home in New Plymouth, NZL
+2 PLAC Son Stanley's Home, Vogeltown, New Plymouth, NZL
 1 BURI
 2 PLAC Te henui New Plymouth
 2 NOTE <a href="http://www.burrowes.org/FamilyTree/EdwinAndAnnie.html">Plot</a>
@@ -24252,8 +24255,15 @@
 1 NAME Edward Bryden (Ted) /COBURN/
 1 SEX M
 1 BIRT
-2 DATE 1896
+2 DATE 20 Dec 1894
+2 PLAC New Plymounth
 2 SOUR NZ BDM 1896/1951
+2 SOUR WWI Service record
+1 DEAT
+2 DATE 2 Sep 1953
+2 PLAC Auckland
+2 SOUR Military record.
+1 NOTE L/Cpl 25/856 Auckland Inf Reg WWI
 1 FAMC @F147@
 0 @I149@ INDI
 1 NAME Merinda Clarice Webb /COBURN/
@@ -24281,7 +24291,7 @@
 1 NAME Roy Francis James /RICHARDS/
 1 SEX M
 1 BIRT
-2 DATE 1905
+2 DATE 29 Aug 1905
 2 SOUR NZ BDM 1905/18589
 1 DEAT
 2 DATE 1920
@@ -25123,7 +25133,7 @@
 1 SEX F
 1 BIRT
 2 DATE ABT 1826
-2 PLAC London, Eng.
+2 PLAC Lambeth, London, Eng.
 2 NOTE Calculated from age at death
 1 DEAT
 2 DATE 7 Aug 1896
@@ -25729,7 +25739,7 @@
 1 NAME Emma /GADFIELD/
 1 NOTE <img src="http://www.burrowes.org/FamilyTree/pics/EmmaGadfield.png">
 1 BIRT
-2 DATE ABT 1862
+2 DATE 6 Jun 1862
 2 PLAC Northleach, GLS, ENG
 1 CHR
 2 DATE 8 Jun 1862
@@ -25750,17 +25760,25 @@
 1 NAME Eliza Sophia (Lizzie) /GADFIELD/
 1 NOTE <img src="http://www.burrowes.org/FamilyTree/pics/ElizaSophiaGadfield.png">
 1 BIRT
-2 DATE 1857
+2 DATE 6 Mar 1857
 2 PLAC Hampnett, GLS, ENG
 1 NOTE Aged 22, Serv. Ship Stadt Haarlim,
 2 CONC Sailed 15 Feb 1879 Eng. Arrived 16 Apr 1879 NZ
+1 DEAT
+2 DATE 26 Nov 1931
+2 PLAC Christchurch, NZL
+1 EMIG
+2 PLAC New Zealand
+2 DATE 16 Apr 1879
+2 NOTE Ship Staardt Haarlim
+3 CONT Dropped surname Ryall, and used Husbands middle name Herbert.
 1 FAMS @F296@
 1 FAMC @F13@
 0 @I409@ INDI
 1 SEX F
 1 NAME Martha Elizabeth (Bessie) /GADFIELD/
 1 BIRT
-2 DATE ABT 1860
+2 DATE ABT 1859
 2 PLAC Withington? Hampnett, GLS, ENG
 1 CHR
 2 DATE 25 Dec 1859
@@ -25775,6 +25793,11 @@
 2 DATE 5 Oct 1895
 2 PLAC Heathcote Cem., Christchurch, NZL
 2 NOTE addr. 36 Wilsons Road, Next of Kin Joseph Herbert (Husb.)
+1 EMIG
+2 PLAC New Zealand
+2 DATE 16 Apr 1879
+2 NOTE Ship Staardt Haarlim
+3 CONT Dropped surname Ryall, and used Brother inlaws middle name Herbert.
 1 FAMS @F297@
 1 FAMC @F13@
 0 @I410@ INDI
@@ -25783,6 +25806,9 @@
 1 BIRT
 2 DATE ABT 1870
 2 PLAC Withington, GLS, Eng
+1 EMIG
+2 PLAC New Zealand
+2 DATE ABT 1884
 1 FAMS @F298@
 1 FAMC @F13@
 0 @I411@ INDI
@@ -25821,14 +25847,33 @@
 1 SEX M
 1 NAME Henry /Herbert/
 1 NAME Henry Herbert /Ryall/
-1 NOTE Changed name to Herbert. Emmigrated to NZL.
+1 BIRT
+2 DATE ABT 1850
+2 SOUR 1851 Wales Census, Age 1
+1 DEAT
+2 DATE 1939
+1 EMIG
+2 PLAC New Zealand
+2 DATE 16 Apr 1879
+2 NOTE Ship Staardt Haarlim
+3 CONT Dropped surname Ryall, and used middle name Herbert.
 1 FAMS @F296@
+1 FAMC @F592@
 0 @I414@ INDI
 1 SEX M
 1 NAME Joseph /Herbert/
 1 NAME Joseph /Ryall/
-1 NOTE Changed name to Herbert. Emmigrated to NZL.
+1 BIRT
+2 DATE ABT 1852
+1 DEAT
+2 DATE 1940
+1 EMIG
+2 PLAC New Zealand
+2 DATE 16 Apr 1879
+2 NOTE Ship Staardt Haarlim
+3 CONT Dropped surname Ryall, and used Brother Henry's middle name Herbert.
 1 FAMS @F297@
+1 FAMC @F592@
 0 @I415@ INDI
 1 SEX M
 1 NAME Robert /Purdom/
@@ -26808,6 +26853,9 @@
 0 @I553@ INDI
 1 NAME Eva Mary /Herbert/
 1 SEX F
+1 BIRT
+2 DATE ABT Apr 1880
+2 SOUR NZ BDM and Bapt. record
 1 BAPM
 2 DATE 15 Apr 1880
 2 NOTE Sponsor Joseph & Martha Herbert, Emma Gadfield
@@ -26840,7 +26888,12 @@
 2 NOTE Parents Joseph (Gardener, Opawa) & Martha Elizabeth Herbert,
 3 CONC Sponsors Henry Herbert & Eliza Sophia Herbert & Emma Gadfield
 2 SOUR St Mary's Opawa, NZL. Reg. 3 27 A
+1 NOTE Private 89870 49th NZEF WWI
+1 RESI
+2 ADDR 3 Hutcheson Street, Christchurh, NZL
+2 SOUR WWI enlistment
 1 FAMC @F297@
+1 FAMS @F590@
 0 @I556@ INDI
 1 NAME Henry James /Gadfield/
 1 SEX M
@@ -26857,13 +26910,16 @@
 1 SEX F
 1 BIRT
 2 DATE ABT 1893
-2 SOUR Calculated from age at death
+2 SOUR Calculated from age at death, Confirmed from NZ BDM
 1 DEAT
 2 DATE Dec 1910
+2 AGE 17
+2 NOTE Possibly associated with birth of her daughter.
 1 BURI
 2 DATE 31 Dec 1910
 2 NOTE Res. Woolston. Next of Kin of Henry Herbert, Aged 16, H Williams Minister
 1 FAMC @F296@
+1 FAMS @F591@
 0 @I559@ INDI
 1 NAME Donald /McConachie/
 1 SEX M
@@ -26878,7 +26934,7 @@
 1 SEX M
 1 BIRT
 2 DATE ABT 1889
-2 SOUR Calculated from age at death
+2 SOUR Calculated from age at death and confirmed from NZ BDM
 1 DEAT
 2 DATE 1905
 1 BURI
@@ -31332,6 +31388,174 @@
 2 DATE ABT 1885
 2 SOUR NZ BDM 1885/12494
 1 FAMC @F297@
+0 @I1230@ INDI
+1 NAME William Woodward /Waters/
+1 SEX M
+1 BIRT
+2 DATE ABT Sep 1857
+2 PLAC Geelong, Vic, AU
+2 SOUR Estimated from Age at death on NSW AU BDM Death Certificate
+1 DEAT
+2 DATE 4 Jun 1859
+2 PLAC Millers Point, Sydney, NSW, AU
+2 AGE 21m
+2 NOTE In NSW 5 months
+1 BURI
+2 DATE 4 Jun 1859
+2 PLAC Camperdown Cemetery, Newton, Sydney, NSW, AU
+1 FAMC @F580@
+0 @I1231@ INDI
+1 NAME John William /Cordery/
+1 SEX M
+1 FAMC @F299@
+0 @I1232@ INDI
+1 NAME Charles Frederick /Cordery/
+1 SEX M
+1 FAMC @F299@
+0 @I1233@ INDI
+1 NAME Albert Edward /Cordery/
+1 SEX M
+1 FAMC @F299@
+0 @I1234@ INDI
+1 NAME Eva Mabel /Cordery/
+1 SEX F
+1 DEAT
+2 NOTE Died as infant
+1 FAMC @F299@
+0 @I1235@ INDI
+1 NAME George Ernest /Cordery/
+1 SEX M
+1 DEAT
+2 NOTE Died as infant
+1 FAMC @F299@
+0 @I1236@ INDI
+1 NAME Winifred Bessie /Cordery/
+1 SEX F
+1 FAMC @F299@
+0 @I1237@ INDI
+1 NAME Alfred Percy /Cordery/
+1 SEX M
+1 FAMC @F299@
+0 @I1238@ INDI
+1 NAME Francis Archibald /Cordery/
+1 SEX M
+1 FAMC @F299@
+0 @I1239@ INDI
+1 NAME Arther Cecil /Cordery/
+1 SEX M
+1 DEAT
+2 NOTE Died as infant
+1 FAMC @F299@
+0 @I1240@ INDI
+1 NAME George Henry /Herbert/
+1 SEX M
+1 BIRT
+2 DATE 1854
+2 SOUR NZ BDM
+1 FAMC @F296@
+0 @I1241@ INDI
+1 NAME Herbert Stanley /Herbert/
+1 SEX M
+1 FAMC @F296@
+0 @I1242@ INDI
+1 NAME Albert Stanley /Herbert/
+1 SEX M
+1 BIRT
+2 DATE 1891
+2 SOUR NZ BDM
+1 FAMC @F296@
+0 @I1243@ INDI
+1 NAME William Ernest /Herbert/
+1 BIRT
+2 DATE 1898
+2 SOUR NZ BDM
+1 SEX M
+1 FAMC @F296@
+0 @I1244@ INDI
+1 NAME Doreen Pearl /Herbert/
+1 SEX F
+1 BIRT
+2 DATE 1910
+2 NOTE No father listed on birth cert. Mother was 17 and died Dec 1910
+3 CONT Doreen was bought up as one of her grandparents children.
+2 SOUR NZ BDM
+1 FAMC @F591@
+0 @I1245@ INDI
+1 NAME Lily /Hall/
+1 SEX F
+2 SOUR husband's WWI enlistment
+1 FAMS @F590@
+0 @I1246@ INDI
+1 NAME Allan Ryall /Herbert/
+1 SEX M
+1 BIRT
+2 DATE 3 Jan 1913
+2 PLAC Christchurch
+2 SOUR Father's WWI enlistment
+1 FAMC @F590@
+0 @I1247@ INDI
+1 NAME Florence Anne /Herbert/
+1 SEX F
+1 BIRT
+2 DATE 1886
+2 SOUR NZ BDM
+1 FAMC @F296@
+0 @I1248@ INDI
+1 NAME Mark /Ryall/
+1 SEX M
+1 BIRT
+2 DATE ABT 1822
+2 PLAC Alciston, Gloucestershire, England
+2 SOUR 1851 Wales Census, Usk, Llangibby, Pontypool, Monmouthshire, Age 29
+3 CONT Piece: 2450, Folio: 160, Page Number: 49, Household schedule number: 214
+3 CONT Mark Ryalls 29 HEAD, Eliza Ryalls 29 WIFE, Ela Ryalls 3, Henry Ryalls 1
+1 FAMS @F592@
+0 @I1249@ INDI
+1 NAME Emma Phoebe /Ryall/
+1 SEX F
+1 BIRT
+2 DATE 1855
+1 EMIG
+2 PLAC Australia
+1 FAMC @F592@
+1 FAMS @F593@
+0 @I1250@ INDI
+1 NAME Edgar George /Powell/
+1 SEX M
+1 FAMS @F593@
+0 @I1251@ INDI
+1 NAME Mark /Ryall/
+1 SEX M
+1 BIRT
+2 DATE Mar 1858
+2 PLAC Gloucestershire, Eng
+1 DEAT
+2 DATE Dec 1900
+2 PLAC Leominster Herefordshire, ENG
+1 OCCU Groom & Gardener 
+1 FAMC @F592@
+1 FAMS @F594@
+0 @I1252@ INDI
+1 NAME Ella (Eliza Ann?) /Ryall/
+1 SEX F
+1 BIRT
+2 DATE 1848
+2 SOUR 1851 Wales Census, Age 3
+1 DEAT
+2 DATE 1861
+1 FAMC @F592@
+0 @I1253@ INDI
+1 NAME Eliza /Powell/
+1 SEX F
+1 BIRT
+2 DATE ABT 1822
+2 SOUR 1851 Wales Census, Age 29
+1 DEAT
+1 FAMS @F592@
+0 @I1254@ INDI
+1 NAME Emily /Williams | spencer /
+1 SEX F
+1 FAMS @F594@
 0 @F1@ FAM
 1 HUSB @I1@
 1 WIFE @I2@
@@ -31774,7 +31998,7 @@
 1 CHIL @I114@
 1 CHIL @I115@
 1 MARR
-2 DATE Q4 1919
+2 DATE 8 May 1919
 2 PLAC Stoke-upon-Trent, Staffordshire, Eng
 2 SOUR Vol 6b, Pg 540 Stoke-upon-Trent, Staffordshire, BDM
 1 DIV
@@ -31940,8 +32164,10 @@
 1 WIFE @I1216@
 1 CHIL @I155@
 1 MARR
-2 DATE 1902
+2 DATE 28 Aug 1902
 2 SOUR NZ BDM 1902/4020
+2 PLAC Onehunga, NZL
+2 SOUR Husb. WWI Service Record
 0 @F156@ FAM
 1 HUSB @I79@
 1 WIFE @I157@
@@ -32393,7 +32619,7 @@
 1 WIFE @I407@
 1 MARR
 2 DATE 28 Mar 1907
-2 PLAC Christchurch NZL.
+2 PLAC Sydenham, Christchurch NZL.
 1 NOTE Groom aged 46, occupation Woodturner.
 0 @F296@ FAM
 1 HUSB @I413@
@@ -32401,8 +32627,16 @@
 1 NOTE <img src="http://www.burrowes.org/FamilyTree/pics/ElizaAndHenryRyall.png">
 1 CHIL @I553@
 1 CHIL @I552@
+1 CHIL @I1240@
+1 CHIL @I1247@
 1 CHIL @I561@
+1 CHIL @I1241@
+1 CHIL @I1242@
 1 CHIL @I558@
+1 CHIL @I1243@
+1 MARR
+2 DATE 3 Nov 1878
+2 PLAC Portsea Island, Hampshire, Eng
 0 @F297@ FAM
 1 HUSB @I414@
 1 WIFE @I409@
@@ -32417,17 +32651,29 @@
 1 HUSB @I415@
 1 WIFE @I410@
 1 MARR
-2 DATE 1894
+2 DATE 27 Aug 1894
+2 PLAC Christchurch, NZL
 2 SOUR NZ BDM 1894/3945
 1 CHIL @I1225@
-1 CHIL @I1224@
 1 CHIL @I1226@
+1 CHIL @I1224@
 1 CHIL @I1223@
 0 @F299@ FAM
 1 HUSB @I416@
 1 WIFE @I411@
+1 MARR
+2 DATE Jun 1879
+2 PLAC Hartley, Wintney, Hampshire, Eng
+1 CHIL @I1231@
+1 CHIL @I1232@
+1 CHIL @I1233@
+1 CHIL @I1234@
+1 CHIL @I1235@
+1 CHIL @I1236@
+1 CHIL @I1237@
+1 CHIL @I1238@
+1 CHIL @I1239@
 1 NOTE <img src="http://www.burrowes.org/FamilyTree/pics/MaryAndJohnCorderey.png">
-1 NOTE At least 2 Children as evidenced by photo
 0 @F300@ FAM
 1 HUSB @I419@
 1 WIFE @I418@
@@ -34105,6 +34351,7 @@
 0 @F580@ FAM
 1 HUSB @I1195@
 1 WIFE @I934@
+1 CHIL @I1230@
 1 MARR
 2 DATE 20 Sep 1854
 2 PLAC Christ Church Geelong, Victoria, AU
@@ -34171,6 +34418,37 @@
 1 CHIL @I1216@
 1 CHIL @I1221@
 1 CHIL @I1222@
+0 @F590@ FAM
+1 HUSB @I555@
+1 WIFE @I1245@
+1 CHIL @I1246@
+1 MARR
+2 DATE 16 Apr 1904
+2 PLAC Christchurch, NZL
+2 NOTE Rev Orchard
+2 SOUR Williams WWI enlistment
+0 @F591@ FAM
+1 WIFE @I558@
+1 CHIL @I1244@
+0 @F592@ FAM
+1 HUSB @I1248@
+1 WIFE @I1253@
+1 CHIL @I1252@
+1 CHIL @I413@
+1 CHIL @I414@
+1 CHIL @I1249@
+1 CHIL @I1251@
+0 @F593@ FAM
+1 HUSB @I1250@
+1 WIFE @I1249@
+1 MARR
+2 DATE 1883
+0 @F594@ FAM
+1 HUSB @I1251@
+1 WIFE @I1254@
+1 MARR
+2 PLAC burghill herefordshire 
+2 DATE 1878
 0 @FK_S1@ SUBM
 1 NAME Frank William Finikin
 1 ADDR 66 Parson Str, New Plymouth, NZL
@@ -98997,6 +99275,12 @@
 2 SURN Hailles
 2 GIVN Susanna
 1 SEX F
+1 BURI
+2 DATE 28 Nov 1794
+2 PLAC Witney, Oxfordshire, England
+2 SOUR @S1@
+3 DATA
+4 TEXT 1794, Nov 28 - TRUNDLE, Susannah - w. Benjamin
 1 FAMS @GAD_F8@
 1 CHAN
 2 DATE 29 Jan 2001
@@ -99598,6 +99882,7 @@
 2 SOUR based on burial date
 1 BURI
 2 DATE 30 Nov 1740
+2 PLAC Witney, Oxfordshire, England
 2 SOUR Update from Craig 30 Jun 2001
 1 FAMS @GAD_F21@
 1 FAMS @GAD_F32@
@@ -99641,6 +99926,28 @@
 2 SOUR Update from Craig 30 Jun 2001
 1 FAMS @GAD_F34@
 1 FAMC @GAD_F35@
+1 SOUR @GAD_S15@
+2 DATA
+3 TEXT Gadfield Hen: de Minster Lovell
+4 CONT 
+4 CONT In the Name of God Amen. First and Principally I bequeath my soul unto the hands of Almight
+4 CONC y God that gave […] trusting in Gods […..] free pardon for all my sins & offences that I hav
+4 CONC e committed And as for my Body to be Interred at the Discrection of my Executrix hereafter me
+4 CONC ntioned. Item I give and bequeath to my Son Henry Gadfield one Guinea of good & lawful mone
+4 CONC y to be paid him by my Executor within six months after my Decease. Item I give & bequeath t
+4 CONC o my som Thomas Gadfield one Guinea of Good & Lawful money to be paid him by my Executrix wit
+4 CONC hin six months after my decease. All the Rest of my Goods & Chattles unbequeath I give & bequ
+4 CONC eath unto my loving Wife Sarah Gadfield whom I make my whole & sole Executrix of this my las
+4 CONC t Will & Testament Revoking all former Wills and paying all my Debts & Legacys whatsoever an
+4 CONC d I do farther order it that what my Wife Sarah Gadfield shall die [….] of go to my Daughte
+4 CONC r Sarah ye wife of James Shaylor & her her Heirs and I do nominate Richard Harris & Moses Bro
+4 CONC oks [….] to this my last Will and Testament and to see that my Wife be not wronged of any thi
+4 CONC ng and that she her self do not unadvisedly squander it any. In Witness where of I have hereu
+4 CONC nto sett my hand and seal this Thirtith Day of July Anno Domi 1716 Henry Gadfield signed seal
+4 CONC ed & declared in ye presence of us Henry Carter, Abel Brooks.
+4 CONT 
+4 CONT Probate granted 27 September 1716.
+4 CONT 
 1 CHAN
 2 DATE 30 Jun 2001
 3 TIME 04:46:00 UTC+12
@@ -99656,6 +99963,43 @@
 1 BURI
 2 DATE 26 Nov 1692
 2 PLAC Spelsbury, Eng
+2 SOUR @GAD_S29@
+3 DATA
+4 TEXT 1692, 26 Nov - GADFIELD, Mr of Ditchly .... Affidavit.
+1 SOUR @GAD_S15@
+2 DATA
+3 TEXT Gadfeild, Tho: de Ditchley
+4 CONT 
+4 CONT In the Name of God Amen. The one & twentieth day of November Ao Dm 1692 I Thomas Gadfeild o
+4 CONC f Ditchley in ye parish of Spelsbury in ye County of Oxon Gardiner being sick & weak of bod
+4 CONC y but of sound & perfect mind & memory thanks be given therefore to Almighty God & knowing th
+4 CONC at it is appointed for all men once to dye do make & ordaine this to be my last will & Testam
+4 CONC t in manner & form following. First & principally I commend my soul into ye hands of Almight
+4 CONC y God who gave it ine trusting that through ye meritouos death & passion of my Lord & Savio
+4 CONC r Jesus Christ I shall receive free pardon & remission of all my sins & my body I comend to y
+4 CONC e earth from whence it was taken  & to be buried in Decent & Christian like manner in the Chu
+4 CONC rchyard of Spelsbury aforesd at ye discretion of my Exto hereafter named & as for such worldl
+4 CONC y estate wherewith it hath pleased God to bless me withall I give & dispose of as followeth
+4 CONC . First I will it my debts & funeral charges shall be paid. Item I give & bequeath unto my So
+4 CONC n John Gadfeild ye ground called firewood & all ye whole stock of Cattle. Item I give unto m
+4 CONC y son Thomas Gadfeild ye sume of twenty pounds of lawfull money to be paid within one after m
+4 CONC y decease. Item I give & bequeath unto my elder Son Henry Gadfeild ye sume of forty pounds o
+4 CONC f law full money to be paid within one year after my decease. Item I give & bequeath unto m
+4 CONC y Son Henry ye younger my great best Coate & fourscore pounds of lawfull money to be paid wit
+4 CONC hin one year after my decease & I do further give & bequeath unto my younger Son Henry one se
+4 CONC tt of Curtains & [valen…] & one pr of white Blankets & one pr of sheets one trunke & all ye w
+4 CONC earing appareell that were his Mothers & two pewter dishes & a shillett & halfe a [d…] of pew
+4 CONC ter [p…rs] & oe warming pan & one new […] waistcoate. Item all my goods at Sutton in Stanto
+4 CONC n Harcourt parish & all other goods & chattly that is unbeqeathed I give & bequeath unto my s
+4 CONC on John above named whom I do make my sole Exto. Of this my last will & Testamt provided tha
+4 CONC t he pay my debts & legacies & I do hereby make void & disanull all former wills heretofore m
+4 CONC ade by me & do ratifie & confirme this & none other to be my last will & testamt In witness w
+4 CONC hereof I yesd Thomas Gadfeild have hereunto sett my hand & seale ye day & yeare above writte
+4 CONC n (Thomas Gadfeild his mark) signed sealed published pronounced & declared by yesd Testate i
+4 CONC n ye […] of us whose names are here subscribed John Howlett his marke Richard Howlett Geo Nob
+4 CONC le.
+4 CONT 
+4 CONT Proved 25 November 1693
 1 FAMS @GAD_F35@
 1 FAMS @GAD_F41@
 1 FAMC @GAD_F43@
@@ -99670,7 +100014,10 @@
 1 SEX M
 1 CHR
 2 DATE 31 Aug 1652
-2 PLAC Kidlington, Eng
+2 PLAC Kidlington, Oxfordshire, England
+2 SOUR @GAD_S31@
+3 DATA
+4 TEXT 1652, Aug 31 - GADFIELD, John s of Thomas
 1 DEAT
 2 DATE ABT Feb 1728
 2 SOUR Based on burial date
