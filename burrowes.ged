@@ -31475,10 +31475,13 @@
 1 NAME Doreen Pearl /Herbert/
 1 SEX F
 1 BIRT
-2 DATE 1910
-2 NOTE No father listed on birth cert. Mother was 17 and died Dec 1910
+2 DATE 27 Dec 1910
+2 NOTE No father listed on birth cert. Mother was 17 and died late Dec 1910
 3 CONT Doreen was bought up as one of her grandparents children.
 2 SOUR NZ BDM
+1 DEAT
+2 DATE 1990
+2 SOUR NZ BDM 1990/40492
 1 FAMC @F591@
 0 @I1245@ INDI
 1 NAME Lily /Hall/
@@ -31509,6 +31512,21 @@
 2 SOUR 1851 Wales Census, Usk, Llangibby, Pontypool, Monmouthshire, Age 29
 3 CONT Piece: 2450, Folio: 160, Page Number: 49, Household schedule number: 214
 3 CONT Mark Ryalls 29 HEAD, Eliza Ryalls 29 WIFE, Ela Ryalls 3, Henry Ryalls 1
+1 NOTE Possible parents indicated in the 1841 Census.
+2 CONT 1841 England Census about Mark Ryals
+2 CONT Name: Mark Ryals, Age: 19, born: Gloucestershire, England
+2 CONT Parish: Olveston, Hundred: Langley and Swinehead (Lower Division)
+2 CONT County/Island: Gloucestershire, district: Thornbury, Sub-registration district: Almondsbury
+2 CONT Piece: 361, Book: 12, Folio: 27, Page Number: 15
+2 CONT Household Members:
+2 CONT Henry Ryals 45 (Ag Lab) Head, Ann Ryals 44 Wife, Mark Ryals 19, Ann Ryals 14, Henry Ryals 9, Joseph Ryals 3
+2 CONT
+2 CONT By 1851 Census
+2 CONT Henry Ryals 54 (Gardner) Olveston Goucestershire, Ann Ryals 54 (Launderess) Olveston Gloucestershire
+2 CONT Henry Ryals 19 (Gardner) Tockington Gloucestershire, Ann Ryals 24 (Launderess) Tockington Gloucestershire
+2 CONT 
+2 CONT by 1861, just Henry Ryals 69 (Gardner), Ann Ryals 63
+2 CONT by 1871, Henry Ryals 74, Ann Ryals 74
 1 FAMS @F592@
 0 @I1249@ INDI
 1 NAME Emma Phoebe /Ryall/
@@ -31536,7 +31554,7 @@
 1 FAMC @F592@
 1 FAMS @F594@
 0 @I1252@ INDI
-1 NAME Ella (Eliza Ann?) /Ryall/
+1 NAME Ella (Ann?) /Ryall/
 1 SEX F
 1 BIRT
 2 DATE 1848
@@ -31553,9 +31571,38 @@
 1 DEAT
 1 FAMS @F592@
 0 @I1254@ INDI
-1 NAME Emily /Williams | spencer /
+1 NAME Emily Jane W /SPENCER/
 1 SEX F
+1 BIRT
+2 DATE ABT 1860
+2 SOUR Age given as 20 in 1881 British Census
+3 CONT Census Place Yarkhill, Hereford, England, Dwelling Nr Yarkhill Ct
 1 FAMS @F594@
+0 @I1255@ INDI
+1 NAME Alice J /Ryall/
+1 SEX F
+1 BIRT
+2 DATE ABT 1880
+2 PLAC Burghill, Hertford, England
+2 PLAC Olveston, Gloucestershire, England 
+1 SOUR 1 in 1881 British census
+1 FAMC @F594@
+0 @I1256@ INDI
+1 NAME Edward /Ryall/
+1 BIRT
+2 DATE ABT 1863
+2 SOUR 7 in 1871 Census
+3 CONT parish: Olveston, Town: Old Down, Gloucestershire, England
+3 CONT  district: Thornbury, Sub-registration district: Almondsbury
+3 CONT Household schedule number: 38, Piece: 2585, Folio: 32, Page: 7
+1 FAMC @F592@
+0 @I1257@ INDI
+1 NAME Emily Mary /Ryall/
+1 SEX F
+1 BIRT
+2 DATE ABT 1887
+2 SOUR 4 in 1891 British Census
+1 FAMC @F594@
 0 @F1@ FAM
 1 HUSB @I1@
 1 WIFE @I2@
@@ -34438,6 +34485,7 @@
 1 CHIL @I414@
 1 CHIL @I1249@
 1 CHIL @I1251@
+1 CHIL @I1256@
 0 @F593@ FAM
 1 HUSB @I1250@
 1 WIFE @I1249@
@@ -34446,9 +34494,11 @@
 0 @F594@ FAM
 1 HUSB @I1251@
 1 WIFE @I1254@
+1 CHIL @I1255@
+1 CHIL @I1257@
 1 MARR
 2 PLAC burghill herefordshire 
-2 DATE 1878
+2 DATE Sep 1878
 0 @FK_S1@ SUBM
 1 NAME Frank William Finikin
 1 ADDR 66 Parson Str, New Plymouth, NZL
