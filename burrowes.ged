@@ -3179,6 +3179,9 @@
 2 DATE 11 Jul 1903
 2 PLAC Cheviot, NZL
 1 NOTE single
+1 DEAT
+2 DATE 1997
+2 SOUR NZ BDM 1997/51083
 0 @IW391@ INDI
 1 SOUR @SIW1@
 1 FAMS @FW222@
@@ -3245,7 +3248,7 @@
 1 SOUR @SIW1@
 1 FAMS @FW226@
 1 FAMC @FW224@
-1 NAME Rosemary Ann Forbes /MACKENZIE/
+1 NAME Rosemary Ann Forbes /MacKenzie/
 1 SEX F
 1 BIRT
 2 DATE 25 Dec 1941
@@ -3253,7 +3256,7 @@
 1 SOUR @SIW1@
 1 FAMS @FW227@
 1 FAMC @FW224@
-1 NAME Clutha Forbes /MACKENZIE/
+1 NAME Clutha Forbes /MacKenzie/
 1 SEX M
 1 BIRT
 2 DATE 3 Nov 1943
@@ -3281,13 +3284,13 @@
 0 @IW405@ INDI
 1 SOUR @SIW1@
 1 FAMC @FW227@
-1 NAME David Clutha /MACKENZIE/
+1 NAME David Clutha /MacKenzie/
 1 BIRT
 2 DATE 24 Mar 1979
 0 @IW406@ INDI
 1 SOUR @SIW1@
 1 FAMC @FW227@
-1 NAME Stuart Upham Forbes /MACKENZIE/
+1 NAME Stuart Upham Forbes /MacKenzie/
 1 BIRT
 2 DATE 3 Apr 1982
 0 @IW407@ INDI
@@ -11808,6 +11811,10 @@
 2 DATE 1921
 1 OCCU Ships Captain
 2 NOTE Ships "Mary Ann Christina", "Vixen" Waitara, retired to run Wanganui River steamers for Hatricks.
+3 CONT "Mary Ann Christina" Reg No. 40341, 42 ton wooden schooner, built 1862 by Joseph and Robert Dixon for 
+3 CONT T.McIntosh & J.Pawson, Little Akaloa. Launched March 1862 partially wrecked near Rakaia River mouth, 
+3 CONT August 1867, re-built Corsair Bay by Brown Brothers. Apparently stranded at Viti Levu, Fiji, while 
+3 CONT labour recruiting as 'blackbirder'. Lost Manning River, New South Wales, 1874.
 1 NOTE Arrived NZL 1859
 0 @IW1642@ INDI
 1 SOUR @SIW1@
@@ -14213,10 +14220,11 @@
 0 @IWS200@ INDI
 1 SOUR @SIW1@
 1 FAMS @FW224@
-1 NAME Clutha Nantes /MACKENZIE/
+1 NAME Clutha Nantes /MacKenzie/
 1 SEX M
 1 BIRT
 2 DATE 19 Oct 1915
+1 FAMC @F601@
 0 @IWS201@ INDI
 1 SOUR @SIW1@
 1 FAMS @FW225@
@@ -14692,7 +14700,7 @@
 0 @IWS289@ INDI
 1 SOUR @SIW1@
 1 FAMS @FW322@
-1 NAME Mary /TUNNICLIFFE nee MacKENZIE/
+1 NAME Mary /TUNNICLIFFE nee MacKenzie/
 1 SEX F
 1 BIRT
 2 DATE 19 Dec 1861
@@ -15421,7 +15429,7 @@
 0 @IWS423@ INDI
 1 SOUR @SIW1@
 1 FAMS @FW459@
-1 NAME Catherine Terise Cecilia /HAY-MACKENZIE/
+1 NAME Catherine Terise Cecilia /HAY-MacKenzie/
 1 SEX F
 1 BIRT
 2 DATE 2 Apr 1955
@@ -18613,6 +18621,7 @@
 1 CHIL @IW390@
 1 CHIL @IW391@
 1 CHIL @IW393@
+1 NOTE <img src="/FamilyTree/pics/GWForbesFam-small.jpg">
 0 @FW181@ FAM
 1 SOUR @SIW1@
 1 HUSB @IW298@
@@ -18939,6 +18948,11 @@
 1 HUSB @IWS200@
 1 MARR
 2 DATE 26 Mar 1940
+2 PLAC St John's Church, Latimer Square, Christchurch, NZL
+2 NOTE Married by Rev. J.T. McWilliam. 
+3 CONT Bridesmaids: Miss Frances Harty (Wellington), and Grooms sister, Mary MacKenzie.
+3 CONT Best man: Lieutenant R.M.S Orbell. Groomsman: Pilot Officer H.W.Morgan. 
+1 NOTE <img src="/FamilyTree/pics/CluthaJessieMacKenzieWed1940.jpg"
 1 CHIL @IW400@
 1 CHIL @IW401@
 0 @FW225@ FAM
@@ -23430,6 +23444,14 @@
 3 CONT OCCU: Writing Clerk
 3 CONT MOTH: Sarah /BARKER/
 2 SOUR Her Birth Cert.
+1 EMIG
+2 PLAC New Plymounth, New Zealand
+2 NOTE Ship Ionic. Departing from Southhampton to NZ.
+3 CONT Mrs Finikin 51 Housewife of 38 Mount Pleasant Hanley Staffe.
+3 CONT Wm. Farming 18
+3 CONT Jno 15
+3 CONT Alfred 11
+2 DATE 7th Feb 1924
 1 RESI
 2 ADDR Carrington Road, New Plymouth, NZL
 2 SOUR 1928 Electoral Role
@@ -23553,6 +23575,9 @@
 2 SOUR April 1911 Census lists him as 9.
 1 NOTE Stayed in England When Family Emigrated to NZL
 2 CONT Joined Grenadier Guards.
+1 NOTE Grenadier Guards Band visited New Zealand in 1935. Ships records show:
+2 CONT Mr J Finikin 22 Park Rd Hounslow, Middx. Age 33. Ship Otranto. Dept London 1 Sep 1934 bound Australia.
+2 CONT Mr J Finikin Grenadier Guards Bandsman, Age 34. Passenger RMS Rangitata, 22 Feb 1935, From Auckland to London.  
 1 FAMC @F71@
 1 FAMS @F444@
 0 @I66@ INDI
@@ -24107,8 +24132,10 @@
 2 CONC from home and moved back to New Plymouth and worked for several years
 2 CONC for the Social Welfare Dept. He then became pilot for Rural Aviation
 2 CONC (Farm and Forestry top-dressing), later becoming the Managing Director
-2 CONC and renamed the company, Midland Aviation. He served as president of
-2 CONC the NZL Aviation Association for about two years in the late 70's.
+2 CONC and renamed the company, Midland Aviation. 
+1 NOTE He served as Counciller on
+2 CONC the Aviation Industry Association of New Zealand 1969 to 1973 and Division branch Chairman for 
+2 CONC Wellington-Taranaki. 
 0 @I107@ INDI
 1 NAME Georgine /BURROWES/
 1 SEX F
@@ -24423,7 +24450,7 @@
 2 PLAC Suda Bay War Cemetery Crete, Greece
 1 FAMC @F156@
 0 @I162@ INDI
-1 NAME Unknown /HAMILTON/
+1 NAME William Henry Simpson /HAMILTON/
 1 SEX M
 1 FAMS @F161@
 0 @I163@ INDI
@@ -25302,7 +25329,7 @@
 2 AGE 74
 1 FAMS @F262@
 0 @I346@ INDI
-1 NAME Edmund Stanley Spencer /BURROWES/
+1 NAME Edmund Stanley Spencer /BURROWES/ GMG
 2 NOTE called Bunny by the family
 1 NOTE CMG 1959
 1 SEX M
@@ -25846,6 +25873,9 @@
 3 CONC Christened on 4 April 1784 in St James Parish son of Philip and Mary Burrowes.
 2 SOUR St James Register RL1/46 Pg 583
 3 CONT Thomas Fraser son of Philip Burrowes & Mary his wf, b. 10 Dec 1783
+1 DEAT
+2 DATE BEF Sep 1842
+2 SOUR Son Philip's marriage refers to his father as the late Thomas Fraser Burrowes.
 1 FAMS @F294@
 1 FAMC @F404@
 0 @I406@ INDI
@@ -25856,6 +25886,7 @@
 2 SOUR BDM 1887/15380
 2 PLAC Crushington
 1 FAMC @F104@
+1 FAMS @F616@
 0 @I407@ INDI
 1 SEX F
 1 NAME Emma /GADFIELD/
@@ -31904,23 +31935,32 @@
 1 NAME Robert /Forbes/
 1 SEX M
 1 BIRT
-2 DATE ABT 1866
+2 DATE Dec 1866
 2 SOUR NZ BDM 1866/22132
 1 FAMC @F596@
+1 FAMS @F605@
 0 @I1283@ INDI
 1 NAME Charles Sydney /Forbes/
 1 SEX M
 1 BIRT
 2 DATE ABT 1867
 2 SOUR NZ BDM 1867/25582
+1 DEAT
+2 DATE 1946
+2 SOUR NZ BDM 1946/34907
 1 FAMC @F596@
+1 FAMS @F607@
 0 @I1284@ INDI
 1 NAME Ernest Thomas /Forbes/
 1 SEX M
 1 BIRT
 2 DATE ABT 1873
 2 SOUR NZ BDM 1873/17836
+1 DEAT
+2 DATE 1965
+2 SOUR NZ BDM 1965/40610
 1 FAMC @F596@
+1 FAMS @F608@
 0 @I1285@ INDI
 1 NAME Alexander Hamilton /Forbes/
 1 SEX M
@@ -31928,6 +31968,7 @@
 2 DATE ABT 1875
 2 SOUR NZ BDM 1875/1801
 1 FAMC @F596@
+1 FAMS @F606@
 0 @I1286@ INDI
 1 NAME Amy Jane /Forbes/
 1 SEX F
@@ -31942,6 +31983,7 @@
 2 DATE ABT 1879
 2 SOUR NZ BDM 1879/14144
 1 FAMC @F596@
+1 FAMS @F609@
 0 @I1288@ INDI
 1 NAME Mary Josephine Curl /Adams/
 1 SEX F
@@ -32002,6 +32044,532 @@
 1 NAME John /Bain/
 1 SEX M
 1 FAMS @F599@
+0 @I1297@ INDI
+1 NAME Ida Henrietta /Nantes/
+1 SEX F
+1 BIRT
+2 DATE 23 Dec 1850
+2 PLAC Geelong, Vic, AU
+1 DEAT
+2 DATE 28 Apr 1926
+2 PLAC Tonbridge, KEN
+1 FAMS @F600@
+1 FAMC @F604@
+0 @I1298@ INDI
+1 NAME Thomas Noble /MacKenzie/ GCMG
+1 TITL Sir
+1 SEX M
+1 BIRT
+2 DATE 10 Mar 1853
+2 PLAC Edinburgh, SCT
+1 DEAT
+2 DATE 4 Feb 1930
+2 PLAC Dunedin, NZ
+1 NOTE 18th Prime Minister New Zealand May to July 1912
+2 CONT High Commisioner London 1912 to 1920
+1 FAMS @F600@
+1 FAMC @F603@
+0 @I1299@ INDI
+1 NAME Kenneth /MacKenzie/
+1 SEX M
+1 BIRT
+2 DATE ABT 1886
+1 DEAT
+2 DATE 15 Jan 1942
+1 FAMC @F600@
+0 @I1300@ INDI
+1 NAME Helen Nantes /MacKenzie/
+1 SEX F
+1 BIRT
+2 DATE 11 June 1886
+1 DEAT
+2 DATE 1965
+1 FAMC @F600@
+0 @I1301@ INDI
+1 NAME David Stewart /MacKenzie/
+1 SEX M
+1 BIRT
+2 DATE Jul 1887
+2 SOUR NZ BDM 1887/7893
+1 DEAT
+2 DATE 1967
+1 FAMC @F600@
+1 FAMS @F601@
+0 @I1302@ INDI
+1 NAME Cusack Noble /MacKenzie/
+1 SEX M
+1 BIRT
+2 DATE 3 Mar 1889
+2 SOUR NZ BDM 1889/6930
+1 DEAT
+2 DATE 1961
+1 FAMC @F600@
+0 @I1303@ INDI
+1 NAME Ida Mary /MacKenzie/
+1 SEX F
+1 BIRT
+2 DATE 1890
+2 SOUR NZ BDM 1890/16324
+1 DEAT
+2 DATE Feb 1926
+1 FAMC @F600@
+0 @I1304@ INDI
+1 NAME Hector Bruce /MacKenzie/
+1 SEX M
+1 BIRT
+2 DATE 27 Oct 1893
+2 SOUR NZ BDM 1893/14344
+1 DEAT
+2 DATE 13 Mar 1950
+1 FAMC @F600@
+0 @I1305@ INDI
+1 NAME Clutha Nantes /MacKenzie/
+1 TITL Sir
+1 SEX M
+1 BIRT
+2 DATE 11 Feb 1895
+2 SOUR NZ BDM 1895/244
+1 DEAT
+2 DATE 30 Mar 1966
+1 NOTE Wellington Mounted Rifles WWI
+2 CONT Blinded at Gallipoli, Chunuk Bair Aug 1915
+2 CONT In 1935 Clutha Mackenzie was knighted for his services to the blind.
+2 CONT In 1947 he was awarded the Kaisar-i-Hind Gold Medal for public service in India. 
+1 FAMC @F600@
+1 FAMS @F602@
+0 @I1306@ INDI
+1 NAME  Thomas /MacKenzie/
+1 SEX M
+1 BIRT
+2 DATE 1896
+1 FAMC @F600@
+0 @I1307@ INDI
+1 NAME Cydalise Lorna Hannon /Wilson/
+1 SEX F
+1 BIRT
+2 DATE 1890
+1 DEAT
+2 DATE 1971
+1 FAMS @F601@
+0 @I1308@ INDI
+1 NAME Thomas /MacKenzie/
+1 SEX M
+1 BIRT
+2 DATE 11 Dec 1913
+1 DEAT
+2 DATE 9 Mar 1986
+1 FAMC @F601@
+0 @I1309@ INDI
+1 NAME Colclough Wilson /MacKenzie/
+1 SEX M
+1 BIRT
+2 DATE ABT 1915
+1 FAMC @F601@
+0 @I1310@ INDI
+1 NAME Lorna Louise /MacKenzie/
+1 SEX F
+1 BIRT
+2 DATE ABT 1921
+1 FAMC @F601@
+0 @I1311@ INDI
+1 NAME Doris Agnes /Sawyer/
+1 SEX F
+1 BIRT
+2 DATE 10 Oct 1884
+2 PLAC Easthampstead, Eng
+1 DEAT
+2 DATE 28 Mar 1976
+2 PLAC Auckland, NZL
+1 FAMS @F602@
+0 @I1312@ INDI
+1 NAME Ian Christopher Nantes /MacKenzie/
+1 SEX M
+1 BIRT
+2 DATE 30 July 1920
+1 DEAT
+2 DATE 1967
+1 FAMC @F602@
+0 @I1313@ INDI
+1 NAME Archibald Bruce /MacKenzie/
+1 SEX M
+1 BIRT
+2 DATE 13 July 1921
+1 DEAT
+2 DATE 2011
+1 SOUR NZ BDM 2011/18280
+1 FAMC @F602@
+0 @I1314@ INDI
+1 NAME Betty Philippa /MacKenzie/
+1 SEX F
+1 BIRT
+2 DATE 1 Sep 1924
+1 FAMC @F602@
+0 @I1315@ INDI
+1 NAME Christina Mary /MacKenzie/
+1 SEX F
+1 BIRT
+2 DATE 1926
+1 FAMC @F602@
+0 @I1316@ INDI
+1 NAME Susan Catherine /MacKenzie/
+1 SEX F
+1 BIRT
+2 DATE 1927
+1 FAMC @F602@
+0 @I1317@ INDI
+1 NAME David Steward /McKenzie/
+1 SEX M
+1 FAMS @F603@
+0 @I1318@ INDI
+1 NAME Rebecca /Noble/
+1 SEX F
+1 FAMS @F603@
+0 @I1319@ INDI
+1 NAME Charles James /Nantes/
+1 SEX M
+1 BIRT
+2 DATE 26 Jan 1817
+2 PLAC Abbotsham, Bideford, DEV 
+1 DEAT
+2 DATE 29 July 1877
+2 PLAC Sandridge, VIC, AU
+1 FAMS @F604@
+0 @I1320@ INDI
+1 NAME Helen Gibb /Smith/
+1 SEX F
+1 BIRT
+2 DATE 15 Dec 1827
+1 DEAT
+2 DATE 27 Apr 1913
+2 PLAC Temuka, NZL
+1 BAPM
+2 DATE 16 Apr 1828
+2 PLAC Saint Giles, Camberwell, SRY
+1 FAMS @F604@
+0 @I1321@ INDI
+1 NAME Mary /Hart/
+1 SEX F
+1 BIRT
+2 DATE Sep 1871
+2 SOUR 1900 USA Census. Husb listed as Merchant.
+3 CONT Daughter Edith also listed.
+1 FAMS @F605@
+0 @I1322@ INDI
+1 NAME Edith Ellen /Forbes/
+1 SEX F
+1 BIRT
+2 DATE Mar 1897
+1 FAMC @F605@
+0 @I1323@ INDI
+1 NAME Ella Elizabeth /Dalton/
+1 SEX F
+1 FAMS @F606@
+0 @I1324@ INDI
+1 NAME Ella Marie /Forbes/
+1 SEX F
+1 BIRT
+2 DATE ABT 1909
+2 SOUR NZ BDM 1909/22379
+1 FAMC @F606@
+0 @I1325@ INDI
+1 NAME Eileen /Hart/
+1 SEX F
+1 FAMS @F607@
+0 @I1326@ INDI
+1 NAME Leah /Johnson/
+1 SEX F
+1 FAMS @F608@
+0 @I1327@ INDI
+1 NAME Nita Irene /Forbes/
+1 SEX F
+1 BIRT
+2 DATE ABT 1898
+2 SOUR NZ BDM 1898/19191
+1 FAMC @F608@
+0 @I1328@ INDI
+1 NAME Eda Rosa /Forbes/
+1 SEX F
+1 BIRT
+2 DATE ABT 1902
+2 SOUR NZ BDM 1902/3138
+1 FAMC @F608@
+0 @I1329@ INDI
+1 NAME Ernest /Forbes/
+1 SEX M
+1 BIRT
+2 DATE ABT 1904
+2 SOUR NZ BDM 1904/21100
+1 FAMC @F608@
+0 @I1330@ INDI
+1 NAME Aileen /Forbes/
+1 SEX F
+1 BIRT
+2 DATE ABT 1906
+2 SOUR NZ BDM 1906/15326
+1 FAMC @F608@
+0 @I1331@ INDI
+1 NAME Addie /Forbes/
+1 SEX F
+1 BIRT
+2 DATE ABT 1909
+2 SOUR NZ BDM 1909/15413
+1 FAMC @F608@
+0 @I1332@ INDI
+1 NAME Janet Josephine Simpson /Murray/
+1 SEX F
+1 FAMS @F609@
+0 @I1333@ INDI
+1 NAME Margaret /Forbes/
+1 SEX F
+1 BIRT
+2 DATE 1912
+2 SOUR NZ BDM 1912/15024
+1 FAMC @F609@
+0 @I1334@ INDI
+1 NAME Philip /Burrowes/
+1 SEX M
+1 FAMC @F294@
+1 FAMS @F610@
+0 @I1335@ INDI
+1 NAME Amelia Seymour /Alven/
+1 SEX F
+1 NOTE Eldest Daughter
+1 BIRT
+2 DATE 04 Apr 1820
+2 PLAC Battersea SRY
+1 CHR
+2 DATE 03 May 1820
+2 PLAC Battersea, Surrey, England 
+1 FAMC @F611@
+1 FAMS @F610@
+0 @I1336@ INDI
+1 NAME Francis /Alven/
+1 SEX M
+1 NOTE 52 Great Ormond-street, Queen-square
+1 FAMS @F611@
+0 @I1337@ INDI
+1 NAME Matilda Vanderstegen /Alven/
+1 SEX F
+1 BIRT
+2 DATE ABT 1834
+2 SOUR Age at death
+1 DEAT
+2 DATE 25 May 1898
+2 PLAC Hythe, Kent, Eng
+2 SOUR Notice Times London, Wed Jun 01 1898. Pg 1
+3 CONT Burrowes - on 25th May, at Hythe, Kent, Matilda Vanderstegen, wife of William Bovell Burrowes Aged 73.
+1 FAMC @F611@
+1 FAMS @F612@
+0 @I1338@ INDI
+1 NAME William Bovell /Burrowes/
+1 SEX M
+1 BIRT
+2 DATE 1821
+1 FAMC @F294@
+1 FAMS @F612@
+0 @I1339@ INDI
+1 NAME Mary Jane /Burrowes/
+1 SEX F
+1 DEAT
+2 DATE 25 Jul 1876
+2 NOTE London Times, 27 July 1876
+3 CONT On the 25th July, at 74, Elgin-road, St. Peter's-park, W., Mary Jane, daughter of the late 
+3 CONT Thomas Fraser Burrowes, Esq., of Demerara, British Guiana.
+1 FAMC @F294@
+0 @I1340@ INDI
+1 NAME Charlotte /Gosling/
+1 SEX F
+1 FAMS @F611@
+0 @I1341@ INDI
+1 NAME Francis Gosling /Alven/
+1 SEX M
+1 BIRT
+2 DATE 24 Oct 1816
+1 CHR
+2 DATE 12 Dec 1816
+2 PLAC Battersea, Surrey, England
+1 FAMC @F611@
+0 @I1342@ INDI
+1 NAME Charlotte Gem /Alven/
+1 SEX F
+1 CHR
+2 DATE 28 Jul 1818
+2 PLAC Battersea, Surrey, England
+1 FAMC @F611@
+0 @I1343@ INDI
+1 NAME Stanley Wyndham /Alven/
+1 SEX M
+1 CHR
+2 DATE 27 Sep 1821
+2 PLAC Battersea, Surrey, England
+1 FAMC @F611@
+0 @I1344@ INDI
+1 NAME Minnie Stanley Alleyne /Burrowes/
+1 SEX F
+1 CHR
+2 DATE 20 Aug 1843
+2 PLAC Herne Bay, Kent, Eng
+1 FAMC @F610@
+0 @I1345@ INDI
+1 NAME Agnes Emmeline /Burrowes/
+1 SEX F
+1 CHR
+2 DATE 1844
+2 PLAC CHESHUNT, HERTFORD, Eng
+1 FAMC @F610@
+0 @I1346@ INDI
+1 NAME Jane Alleyne /Burrowes/
+1 SEX F
+1 CHR
+2 DATE 21 Sep 1846
+2 PLAC CHESHUNT, HERTFORD, Eng
+1 FAMC @F610@
+0 @I1347@ INDI
+1 NAME Thomas Fraser /Burrowes/
+1 SEX M
+1 CHR
+2 DATE 09 Mar 1849
+2 PLAC Notting Hill, Middlesex, Eng
+1 FAMC @F610@
+0 @I1349@ INDI
+1 NAME George Philip /Burrowes/
+1 SEX M
+1 CHR
+2 DATE 16 Oct 1850
+2 PLAC SAINT JOHN THE EVANGELIST, Notting Hill, Middlesex, Eng
+1 FAMC @F610@
+0 @I1350@ INDI
+1 NAME Anna Jane /Burrowes/
+1 SEX F
+1 CHR
+2 DATE 2 Jul 1846
+2 PLAC CHESHUNT, HERTFORD, ENGLAND, Eng.
+1 FAMC @F612@
+1 FAMS @F613@
+1 FAMS @F614@
+0 @I1351@ INDI
+1 NAME William Alleyne /Burrowes/
+1 SEX M
+1 CHR
+2 DATE 09 Mar 1849
+2 PLAC SAINT JOHN THE EVANGELIST, Notting Hill, Middlesex, Eng.
+1 DEAT
+2 DATE 18 July 1878
+2 PLAC Greenhithe, Kent, Eng
+2 SOUR Notice London Times 20 Jul 1878. 
+3 CONT On the 18th inst., at Greenhithe, Kent, aged 29, William Alleyne Burrowes, 
+3 CONT eldest son of W.B.Burrowes.
+1 FAMC @F612@
+0 @I1352@ INDI
+1 NAME Percy /Burrowes/
+1 SEX M
+1 CHR
+2 DATE 14 Sep 1853
+2 PLAC SAINT JOHN THE EVANGELIST, Notting Hill, Middlesex, Eng.
+1 FAMC @F612@
+0 @I1353@ INDI
+1 NAME Henry Wyndham /Burrowes/
+1 SEX M
+1 CHR
+2 DATE 24 Oct 1851
+2 PLAC SAINT JOHN THE EVANGELIST, Notting Hill, Middlesex, Eng.
+1 NOTE Eng Census 1901, Nottinghill, London, lists Henry as Head, aged 49
+1 FAMC @F612@
+0 @I1354@ INDI
+1 NAME W /Hind-wood/ M.R.C.S
+1 SEX M
+1 DEAT
+2 DATE BEF Mar 1878
+2 SOUR Wife remarried and listed as Widow.
+1 FAMS @F613@
+0 @I1355@ INDI
+1 NAME Arthur S /Richards/
+1 SEX M
+1 FAMC @F615@
+1 FAMS @F614@
+0 @I1356@ INDI
+1 NAME W V /Richards/
+1 SEX M
+1 FAMS @F615@
+0 @I1357@ INDI
+1 NAME Florence Maud /Morrison/
+1 SEX F
+1 BIRT
+2 DATE 25 Sep 1888
+2 SOUR From Death Cert, and NZ BDM 1888/9117
+1 DEAT
+2 DATE 1979
+2 SOUR NZ BDM 1979/30022
+1 FAMS @F616@
+1 FAMC @F617@
+0 @I1358@ INDI
+1 NAME Thomas /Morrison/
+1 SEX M
+1 OCCU Miner, Reefton, NZL
+1 FAMS @F617@
+0 @I1359@ INDI
+1 NAME Sophia /Wilkinson/
+1 SEX F
+1 FAMS @F617@
+0 @I1360@ INDI
+1 NAME James Alfred /Jones/
+1 SEX M
+1 BIRT
+2 DATE 30 June 1910
+2 SOUR NZ BDM 1910/14617
+1 DEAT
+2 DATE 1994
+2 SOUR NZ BDM 1994/55582
+1 FAMC @F616@
+0 @I1361@ INDI
+1 NAME George Henry /Jones/
+1 SEX M
+1 BIRT
+2 DATE 1911
+2 SOUR NZ BDM 1911/17638
+1 FAMC @F616@
+0 @I1362@ INDI
+1 NAME Jane Ann /Morrison/
+1 SEX F
+1 BIRT
+2 DATE 1879
+2 SOUR NZ BDM 1879/12351
+1 FAMC @F617@
+0 @I1363@ INDI
+1 NAME Helen /Morrison/
+1 SEX F
+1 BIRT
+2 DATE 1880
+2 SOUR NZ BDM 1880/10371
+1 FAMC @F617@
+0 @I1364@ INDI
+1 NAME Christina /Morison/
+1 SEX F
+1 BIRT
+2 DATE 1882
+2 SOUR NZ BDM 1882/7071
+1 FAMC @F617@
+0 @I1365@ INDI
+1 NAME George /Morison/
+1 SEX M
+1 BIRT
+2 DATE 1884
+2 SOUR NZ BDM 1884/19952
+1 FAMC @F617@
+0 @I1366@ INDI
+1 NAME Alfred /Morison/
+1 SEX M
+1 BIRT
+2 DATE 1886
+2 SOUR NZ BDM 1886/16138
+1 FAMC @F617@
+0 @I1367@ INDI
+1 NAME Thomas Charles /Morison/
+1 SEX M
+1 BIRT
+2 DATE 1896
+2 SOUR NZ BDM 1896/12110
+1 FAMC @F617@
 0 @F1@ FAM
 1 HUSB @I1@
 1 WIFE @I2@
@@ -32628,6 +33196,9 @@
 1 WIFE @I64@
 1 CHIL @I163@
 1 CHIL @I255@
+1 MARR
+2 DATE 1928
+2 SOUR 1928/9718
 0 @F173@ FAM
 1 HUSB @I174@
 1 WIFE @I114@
@@ -33060,6 +33631,9 @@
 3 CONC     Burrowes, Thomas Fraser married Marianne L Alleyne on 27 Sept 1810 in
 3 CONC     St James Parish Barbados
 1 CHIL @I356@
+1 CHIL @I1334@
+1 CHIL @I1338@
+1 CHIL @I1339@
 0 @F295@ FAM
 1 HUSB @I412@
 1 WIFE @I407@
@@ -34914,6 +35488,7 @@
 1 MARR
 2 DATE 1863
 2 SOUR NZ BDM 1863/3715
+1 NOTE <img src="/FamilyTree/pics/RobertAnnieForbesFamily1910.jpg">
 0 @F597@ FAM
 1 HUSB @I1290@
 1 WIFE @I364@
@@ -34937,9 +35512,167 @@
 1 MARR
 2 DATE 1906
 2 SOUR NZ BDM 1906/985
+0 @F600@ FAM
+1 HUSB @I1298@
+1 WIFE @I1297@
+1 CHIL @I1299@
+1 CHIL @I1300@
+1 CHIL @I1301@
+1 CHIL @I1302@
+1 CHIL @I1303@
+1 CHIL @I1304@
+1 CHIL @I1305@
+1 CHIL @I1306@
+1 MARR
+2 DATE 24 Sep 1884
+2 PLAC Balclutha, Otago, NZ
+0 @F601@ FAM
+1 HUSB @I1301@
+1 WIFE @I1307@
+1 CHIL @I1308@
+1 CHIL @IWS200@
+1 CHIL @I1309@
+1 CHIL @I1310@
+1 MARR
+2 DATE 1912
+2 SOUR NZ BDM 1912/5742
+0 @F602@ FAM
+1 HUSB @I1305@
+1 WIFE @I1311@
+1 MARR
+2 DATE 2 Oct 1919
+2 PLAC Auckland, NZL
+1 CHIL @I1312@
+1 CHIL @I1313@
+1 CHIL @I1314@
+1 CHIL @I1315@
+1 CHIL @I1316@
+0 @F603@ FAM
+1 HUSB @I1317@
+1 WIFE @I1318@
+1 CHIL @I1298@
+1 NOTE 5 Children
+0 @F604@ FAM
+1 HUSB @I1319@
+1 WIFE @I1320@
+1 CHIL @I1297@
+1 MARR
+2 DATE 15 Feb 1848
+2 PLAC St. Peter's Church, Melbourne, VIC, AU
+0 @F605@ FAM
+1 HUSB @I1282@
+1 WIFE @I1321@
+1 CHIL @I1322@
+1 MARR
+2 DATE 1893
+2 SOUR NZ BDM 1893/2967
+0 @F606@ FAM
+1 HUSB @I1285@
+1 WIFE @I1323@
+1 CHIL @I1324@
+1 MARR
+2 DATE 1904
+2 SOUR NZ BDM 1904/5136
+0 @F607@ FAM
+1 HUSB @I1283@
+1 WIFE @I1325@
+1 MARR
+2 DATE ABT 1902
+2 SOUR NZ BDM 1902/345
+0 @F608@ FAM
+1 HUSB @I1284@
+1 WIFE @I1326@
+1 MARR
+2 DATE 1897
+2 SOUR NZ BDM 1897/792
+1 CHIL @I1327@
+1 CHIL @I1328@
+1 CHIL @I1329@
+1 CHIL @I1330@
+1 CHIL @I1331@
+0 @F609@ FAM
+1 HUSB @I1287@
+1 WIFE @I1332@
+1 MARR
+2 DATE 1911
+2 SOUR NZ BDM 1911/7026
+1 CHIL @I1333@
+0 @F610@ FAM
+1 HUSB @I1334@
+1 WIFE @I1335@
+1 MARR
+2 DATE 21 Sep 1842
+2 NOTE From Times London 22 Sep 1842
+3 CONT On Wednesday, the 21st inst., at Paddington Old Church, by Rev, G.H.Steventor. Philip Burrowes Esq., 
+3 CONT sergeon, second son of the late Thomas Fraser Burrowes, Esq., of Demerara. to Amelia Seymour, eldest 
+3 CONT daughter of Francis Alven, Esq., of 52 Great Ormond-street, Queen-square.
+1 CHIL @I1344@
+1 CHIL @I1345@
+1 CHIL @I1346@
+1 CHIL @I1347@
+1 CHIL @I1349@
+0 @F611@ FAM
+1 HUSB @I1336@
+1 WIFE @I1340@
+1 CHIL @I1341@
+1 CHIL @I1342@
+1 CHIL @I1335@
+1 CHIL @I1343@
+1 CHIL @I1337@
+1 MARR
+2 DATE 16 Nov 1815
+2 PLAC Saint Stephen Walbrook And Saint Benet Sherehog,London, Eng.
 0 @FK_S1@ SUBM
 1 NAME Frank William Finikin
 1 ADDR 66 Parson Str, New Plymouth, NZL
+0 @F612@ FAM
+1 HUSB @I1338@
+1 WIFE @I1337@
+1 MARR
+2 DATE 21 AUG 1845
+2 PLAC Cheshunt HRT
+1 CHIL @I1350@
+1 CHIL @I1351@
+1 CHIL @I1352@
+1 CHIL @I1353@
+0 @F613@ FAM
+1 HUSB @I1354@
+1 WIFE @I1350@
+0 @F614@ FAM
+1 HUSB @I1355@
+1 WIFE @I1350@
+1 MARR
+2 DATE 8 Mar 1887
+2 PLAC Ashford Church, near Barnstaple, Eng
+2 SOUR Notice Times London 11 Mar 1887, pg 1
+3 CONT On the 8th March, at Ashford Church, near Barnstaple by the Rev W.H.Hole Rector of Georgeham.
+3 CONT Arthur S. Richards, second son of W.V.Richards, of Incedon. Georgeham, to Anna Jane, widow of 
+3 CONT W. Hind-wood, M.R.C.S., and daughter of W.B.Burrowes of Ashford.
+0 @F615@ FAM
+1 HUSB @I1356@
+1 CHIL @I1355@
+0 @F616@ FAM
+1 HUSB @I406@
+1 WIFE @I1357@
+1 MARR
+2 DATE 13 OCT 1909
+2 SOUR Marriage Cert
+2 PLAC Residence of Mrs Sheppard, Main Street, Reefton, NZL
+1 CHIL @I1360@
+1 CHIL @I1361@
+0 @F617@ FAM
+1 HUSB @I1358@
+1 WIFE @I1359@
+1 CHIL @I1362@
+1 CHIL @I1363@
+1 CHIL @I1364@
+1 CHIL @I1365@
+1 CHIL @I1366@
+1 CHIL @I1357@
+1 CHIL @I1367@
+1 MARR
+2 DATE 1879
+2 SOUR NZ BDM 1879/468
 0 @AG_S1@ SUBM
 1 NAME Anne /Galpin/
 1 NOTE Email May 2001 reference to Prouse Family Tree book written in 1998
