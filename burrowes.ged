@@ -29391,7 +29391,7 @@
 1 FAMS @F577@
 1 FAMS @F618@
 1 FAMS @F619@
-1 FAMC @F576@
+1 FAMC @SK_F15@
 0 @I935@ INDI
 1 NAME Eliza Anne /Dyer/
 1 SEX F
@@ -29414,6 +29414,11 @@
 2 PLAC Southhampton Eng
 1 OCCU Master Mariner
 1 SOUR NSW BDM Web site. Mentioned in Childrens Birth records
+1 DEAT
+2 DATE 1861
+2 PLAC Queensland, Australia
+2 SOUR Shayne Lake's Skinner.ged file.
+2 CONT Also reference by McMaster, to Robert's ship leaving Brisbane, and never been seen again.
 1 FAMS @F489@
 0 @I937@ INDI
 1 NAME John /McMaster/
@@ -31285,21 +31290,6 @@
 1 SEX M
 1 OCCU Groom
 1 FAMS @F575@
-0 @I1183@ INDI
-1 NAME Samuel /Robinson/
-2 SOUR Clara's Two Marriage Certificates
-1 NAME William /Robinson/
-2 SOUR Clara's Death Cert
-1 SEX M
-1 OCCU Bricklayer
-2 SOUR Clara's Death Certificate
-1 OCCU Labourer
-2 SOUR Clara's 2 Marriage Certificates
-1 FAMS @F576@
-0 @I1184@ INDI
-1 NAME Mary /Skinner/
-1 SEX F
-1 FAMS @F576@
 0 @I1185@ INDI
 1 NAME John /Lawson/
 1 SEX M
@@ -31378,8 +31368,7 @@
 2 SOUR NZ BDM 1876/13050
 2 NOTE Father not recorded, but use of Oliver in her name suggests the father is George
 1 FAMC @F618@
-1 NOTE Possible NZ BDM
-2 CONT 1899/3376    Susan   Lawson to Francis William   Allen 
+1 FAMS @SK_F1191@
 0 @I1192@ INDI
 1 NAME Christopher /Hall/
 1 SEX M
@@ -33471,6 +33460,25 @@
 1 SEX F
 1 NOTE Adopted by first cousin
 1 FAMC @F658@
+0 @I1492@ INDI
+1 NAME Henry James /Waters/
+1 SEX M
+1 BIRT
+2 DATE 1855
+2 PLAC Colac, Victoria, Australia
+1 DEAT
+2 DATE 20 Feb 1860
+2 CAUS Gastroenteritis
+2 PLAC Windmill Street, Sydney, NSW, Aus
+2 AGE 4
+2 SOUR Deat Cert, NSW BDM
+3 NOTE Surname was recorded as Walters.
+4 CONT Mother's maiden name mistakenly listed as Osbourne?
+4 CONT Robert Dyer and Jessie Mcleod listed as present at Burial.
+1 BURI
+2 DATE 21 Feb 1860
+2 PLAC Camperdown Cemetery, Sydney NSW, Aus
+1 FAMC @F580@
 0 @F1@ FAM
 1 HUSB @I1@
 1 WIFE @I2@
@@ -36236,15 +36244,6 @@
 0 @F575@ FAM
 1 HUSB @I1182@
 1 CHIL @I102@
-0 @F576@ FAM
-1 HUSB @I1183@
-1 WIFE @I1184@
-1 CHIL @I934@
-1 CENS
-2 DATE 1841
-2 PLAC Haslingfield, Cambridgeshire, Eng
-2 NOTE Possibly this family
-3 CONT Mary 40, Moses 15, Luce 14, Lyas 10, Liza 7, Clarey 3.
 0 @F577@ FAM
 1 HUSB @I1185@
 1 WIFE @I934@
@@ -36274,6 +36273,7 @@
 0 @F580@ FAM
 1 HUSB @I1195@
 1 WIFE @I934@
+1 CHIL @I1492@
 1 CHIL @I1230@
 1 MARR
 2 DATE 20 Sep 1854
