@@ -1,0 +1,1725 @@
+0 HEAD
+1 GEDC
+2 VERS 5.3
+0 @NBOR3@ NOTE
+1 CONT Arms- Or, on a cross gu, five mullets pierced arg., in the first quarter
+1 CONT a lion passant guardant of the second. Crest a Lion sejant guardant murally
+1 CONT crowned all or. <br>
+1 CONT Motto: Non vi virtute.<br>
+1 CONT Seat: Beechborough Park Kent, Residence Mooray Lodge, Saltwood, Kent. Club Kildare Str.
+0 @NBOR1@ NOTE /////////////////////////INDIVIDUAL RECORDS///////////////////////////////////
+0 @IBOR1@ INDI
+1 SOUR @SBOR1@
+1 NAME Hubert /De Burgh/
+2 TITL Earl of Kent
+1 SEX M
+1 FAMS @FBOR1@
+0 @IBOR2@ INDI
+1 SOUR @SBOR1@
+1 NAME Unknown /De Burgh/
+1 SEX M
+1 FAMC @FBOR1@
+0 @IBOR3@ INDI
+1 SOUR @SBOR1@
+1 NAME Hubert /De Burgh/
+2 TITL Sir
+1 SEX M
+1 FAMC @FBOR1@
+1 FAMS @FBOR2@
+0 @IBOR4@ INDI
+1 SOUR @SBOR1@
+1 NAME Unknown /De Burgh/
+1 SEX M
+1 FAMC @FBOR2@
+1 FAMS @FBOR3@
+0 @IBOR5@ INDI
+1 SOUR @SBOR1@
+1 NAME John /De Burgh/
+1 SEX M
+1 FAMC @FBOR3@
+1 FAMS @FBOR4@
+0 @IBOR6@ INDI
+1 SOUR @SBOR1@
+1 NAME Unknown /De Burgh/
+1 SEX M
+1 FAMC @FBOR4@
+0 @IBOR7@ INDI
+1 SOUR @SBOR1@
+1 NAME Unknown /De Burgh/
+1 SEX M
+1 FAMC @FBOR4@
+0 @IBOR8@ INDI
+1 SOUR @SBOR1@
+1 NAME John /De Burgh/
+1 NAME John /at Borough/
+1 SEX M
+1 NOTE Living at North Charrford Hants A.D. 1397.
+1 FAMC @FBOR4@
+1 FAMS @FBOR5@
+0 @IBOR9@ INDI
+1 SOUR @SBOR1@
+1 NAME Erasmus /Aborough/
+1 SEX M
+1 NOTE Descendant of, Not Child of.
+1 NOTE of Calais (Harvey's Visitation of Devon 1564)
+1 FAMC @FBOR5@
+1 FAMS @FBOR6@
+0 @IBOR10@ INDI
+1 SOUR @SBOR1@
+1 NAME Henry /Borrowes/
+1 SEX M
+1 NOTE Settled in Ireland (from Devonshire) temp. Elizabeth.
+1 DEAT
+2 DATE 20 Mar 1614
+1 FAMC @FBOR6@
+1 FAMS @FBOR10@
+1 FAMS @FBOR8@
+0 @IBOR11@ INDI
+1 SOUR @SBOR1@
+1 NAME Helen /Farrington/
+1 SEX F
+1 FAMC @FBOR7@
+1 FAMS @FBOR6@
+0 @IBOR12@ INDI
+1 SOUR @SBOR1@
+1 NAME Charles /Farrington/
+1 SEX M
+1 NOTE of Farrington in Devon.
+1 FAMS @FBOR7@
+0 @IBOR13@ INDI
+1 SOUR @SBOR1@
+1 NAME Jane /Savage/
+1 SEX F
+1 FAMC @FBOR9@
+1 FAMS @FBOR8@
+0 @IBOR14@ INDI
+1 SOUR @SBOR1@
+1 NAME Arthur /Savage/
+2 TITL Right Hon. Sir
+1 SEX M
+1 NOTE of Rheban, co. Kildare, M.P.
+1 FAMS @FBOR9@
+0 @IBOR15@ INDI
+1 SOUR @SBOR1@
+1 NAME Catherine /Eustace/
+1 SEX F
+1 FAMC @FBOR11@
+1 FAMS @FBOR10@
+0 @IBOR16@ INDI
+1 SOUR @SBOR1@
+1 NAME Alexander /Eustace/
+1 SEX M
+1 NOTE of Grangemore, co. Kildare.
+1 FAMS @FBOR11@
+0 @IBOR17@ INDI
+1 SOUR @SBOR1@
+1 NAME Erasmus /Borrowes/
+2 TITL 1st Bart.
+1 SEX M
+1 NOTE of Gilltown, co. Kildare.
+1 NOTE High Sheriff 1641-2
+1 NOTE At the breaking out of the rebellion in 1641, he deposed upon an oath, that he was unable
+2 CONT to resist the Irish by the Posse comitatus, and that he had lost in goods, corn, and cattle,
+2 CONT at his several houses of Grangemellan, Gilltown and Carbally, 9,396 pounds. ; in debts 11,932 pounds. 2s.
+2 CONT besides a yearly income of 1,200 pounds. or thereabouts. "For his many good and faithful
+2 CONT services in this Kingdom both in War and Peace", Charles I., by privy seal, dated at 
+2 CONT Ragland, 7 July, 1645, and by patent, 14 Feb. 1645/6, created him a BARONET OF IRELAND.
+2 CONT The Privy Seal being dated at Ragland, 7 July 1644.
+1 NOTE Registered pedigree states his Mother was Jane Savage, but it is believed this is in error
+2 CONT and it was really Catherine Eustace (his father 1st wife).
+2 SOUR @SBOR2@
+1 DEAT
+2 DATE ABT 1650
+2 SOUR @SBOR2@
+1 FAMC @FBOR8@
+1 FAMS @FBOR12@
+1 FAMS @FBOR16@
+1 FAMS @FBOR21@
+0 @IBOR18@ INDI
+1 SOUR @SBOR1@
+1 NAME Sarah /Weldon/
+1 SEX F
+1 FAMC @FBOR13@
+1 FAMS @FBOR12@
+0 @IBOR19@ INDI
+1 SOUR @SBOR1@
+1 NAME Walter /Weldon/
+1 SEX M
+1 NOTE of Athy. M.P. of Woodstock (See Weldon Bart.)
+1 FAMS @FBOR13@
+0 @IBOR20@ INDI
+1 SOUR @SBOR1@
+1 NAME Jane /Ryder/
+2 SOUR @SBOR2@
+1 SEX F
+1 FAMC @FBOR14@
+1 FAMS @FBOR13@
+0 @IBOR21@ INDI
+1 SOUR @SBOR1@
+1 NAME John /Ryder/
+2 TITL Right Rev.
+1 SEX M
+1 NOTE Bishop of Killaloe (1612-32)
+1 FAMS @FBOR14@
+0 @IBOR22@ INDI
+1 SOUR @SBOR1@
+1 NAME Walter /Borrowes/
+2 TITL Sir 2nd Bart..
+1 SEX M
+1 BIRT
+2 DATE ABT 1620
+2 SOUR @SBOR2@
+1 NOTE Sheriff of co. Kildare 1673.
+2 SOUR @SBOR2@
+1 DEAT
+2 DATE 1685
+1 BURI
+2 PLAC Gilltown
+2 SOUR @SBOR2@
+1 NOTE Will pr. 1691 in Prerog. Court.
+2 SOUR @SBOR2@
+1 FAMC @FBOR12@
+1 FAMS @FBOR23@
+1 FAMS @FBOR25@
+0 @IBOR23@ INDI
+1 SOUR @SBOR1@
+1 NAME Wingfield /Borrowes/
+1 SEX M
+1 NOTE Matric. Lincoln Coll., Oxford, 12 Spet. 1640 aged 15.
+2 SOUR @SBOR2@
+1 BIRT
+2 DATE 1625
+1 NOTE d.v.p. 
+1 FAMC @FBOR12@
+0 @IBOR24@ INDI
+1 SOUR @SBOR1@
+1 NAME Unknown /Borrowes/
+1 SEX F
+1 DEAT
+2 DATE 1658
+1 FAMC @FBOR12@
+1 FAMS @FBOR15@
+0 @IBOR25@ INDI
+1 SOUR @SBOR1@
+1 NAME Oliver /Walsh/
+1 SEX M
+1 NOTE of Ballykilcavan (see Johnson-Walsh, Bart.)
+1 FAMS @FBOR15@
+0 @IBOR26@ INDI
+1 SOUR @SBOR1@
+1 NAME Martha /Salisbury/
+1 SEX F
+1 FAMC @FBOR17@
+1 FAMS @FBOR19@
+1 FAMS @FBOR16@
+0 @IBOR27@ INDI
+1 SOUR @SBOR1@
+1 NAME Unknown /Heuman/
+1 SEX M
+1 FAMS @FBOR19@
+0 @IBOR28@ INDI
+1 SOUR @SBOR1@
+1 NAME Rebecca /Thimbleby/
+1 SEX F
+1 NOTE Will dated 1 Jul 1681, pr. 1682 in the Prerog. Court.
+2 SOUR @SBOR2@
+1 FAMC @FBOR20@
+1 FAMS @FBOR22@
+1 FAMS @FBOR21@
+0 @IBOR29@ INDI
+1 SOUR @SBOR1@
+1 NAME William /Thimbleby/
+1 SEX M
+1 NOTE of Dublin
+1 FAMS @FBOR20@
+0 @IBOR30@ INDI
+1 SOUR @SBOR1@
+1 NAME Nathaniel /Catelyn/
+2 TITL Sir
+1 SEX M
+1 NOTE Speaker that of the Irish House of Commons (1631-35)
+1 FAMS @FBOR22@
+0 @IBOR31@ INDI
+1 SOUR @SBOR1@
+1 NAME Eleanor /Fitzgerald/
+2 TITL Lady
+1 SEX F
+1 DEAT
+2 DATE 3 Aug 1681
+2 SOUR @SBOR2@
+1 BURI
+2 PLAC Gilltown
+2 SOUR @SBOR2@
+1 FAMC @FBOR24@
+1 FAMS @FBOR23@
+0 @IBOR32@ INDI
+1 SOUR @SBOR1@
+1 NAME George /Fitzgerald/
+2 TITL 16th Earl of Kildare
+1 SEX M
+1 FAMS @FBOR24@
+0 @IBOR33@ INDI
+1 SOUR @SBOR1@
+1 NAME Margaret /Loftus/
+1 SEX F
+1 NOTE Will pr. 1698 in Prerog. Court.
+1 FAMC @FBOR26@
+1 FAMS @FBOR25@
+0 @IBOR34@ INDI
+1 SOUR @SBOR1@
+1 NAME Adam /Loftus/
+2 TITL Right Hon. Sir
+1 SEX M
+1 NOTE M.P. of Rathfarnham
+1 FAMS @FBOR26@
+0 @IBOR35@ INDI
+1 SOUR @SBOR1@
+1 NAME Unknown /Borrowes/
+1 SEX F
+1 FAMC @FBOR23@
+1 FAMS @FBOR27@
+0 @IBOR36@ INDI
+1 SOUR @SBOR1@
+1 NAME Kildare /Borrowes/
+2 TITL Sir 3rd Bart
+1 SEX M
+1 NOTE M.P. of co. Kildare, 1703-9
+1 BIRT
+2 DATE ABT 1660
+1 NOTE s. to Baronetey 1685. Sheriff of co. Kildare 1697 and 1707. 
+2 CONT M.P. Kildare 1703 till his death.
+1 DEAT
+2 DATE ABT May 1709
+2 SOUR @SBOR2@
+1 BURI
+2 PLAC Gilltown, co. Kildare
+2 SOUR @SBOR2@
+1 FAMC @FBOR23@
+1 FAMS @FBOR28@
+0 @IBOR37@ INDI
+1 SOUR @SBOR1@
+1 NAME Unknown /Mervin/
+1 SEX M
+1 FAMS @FBOR27@
+0 @IBOR38@ INDI
+1 SOUR @SBOR1@
+1 NAME Elizabeth /Dixon/
+1 SEX F
+1 NOTE co-heir
+1 DEAT
+2 DATE 11 Mar 1745
+1 FAMC @FBOR29@
+1 FAMS @FBOR28@
+0 @IBOR39@ INDI
+1 SOUR @SBOR1@
+1 NAME Richard /Dixon/
+2 TITL Sir
+1 SEX M
+1 FAMS @FBOR29@
+0 @IBOR40@ INDI
+1 SOUR @SBOR1@
+1 NAME Robert /Dixon/
+1 SEX M
+1 NOTE of Colverstown, co. Kildare.
+1 NOTE co-heir
+1 DEAT
+2 DATE 1725
+1 FAMC @FBOR29@
+0 @IBOR41@ INDI
+1 SOUR @SBOR1@
+1 NAME Walter Dixon /Borrowes/
+2 TITL Sir 4th Bart.
+1 SEX M
+1 NOTE M.P. for Harristown 1721-27.
+2 SOUR @SBOR2@
+1 NOTE M.P. for the borough of Athy 1727-41.
+1 NOTE Inherited the estates of Colverstown  from his maternal uncle, Robert Dixon, 5 March 1725
+1 NOTE Admon. 19 Jan 1742. in Prerog Court.
+2 SOUR @SBOR2@
+1 BIRT
+2 DATE Mar 1725
+2 SOUR @SBOR2@
+1 DEAT
+2 DATE 9 Jun 1741
+2 PLAC Colverstown
+3 SOUR @SBOR2@
+1 FAMC @FBOR28@
+1 FAMS @FBOR30@
+0 @IBOR42@ INDI
+1 SOUR @SBOR1@
+1 NAME Unknown /Borrowes/
+1 SEX M
+1 FAMC @FBOR28@
+0 @IBOR43@ INDI
+1 SOUR @SBOR1@
+1 SOUR @SBOR2@
+1 NAME Elizabeth /Borrowes/
+1 SEX F
+1 FAMC @FBOR28@
+1 FAMS @FBOR33@
+0 @IBOR44@ INDI
+1 SOUR @SBOR1@
+1 NAME Unknown /Borrowes/
+1 SEX F
+1 FAMC @FBOR28@
+0 @IBOR45@ INDI
+1 SOUR @SBOR1@
+1 NAME Unknown /Borrowes/
+1 SEX F
+1 FAMC @FBOR28@
+0 @IBOR46@ INDI
+1 SOUR @SBOR1@
+1 NAME Mary /Pottinger/
+1 SEX F
+1 NOTE co-heir
+1 DEAT
+2 DATE 28 Sep 1763
+1 NOTE Will, as "of Dublin"., pr. 1764 in Prerog. Court.
+1 FAMC @FBOR31@
+1 FAMS @FBOR30@
+0 @IBOR47@ INDI
+1 SOUR @SBOR1@
+1 NAME Edward /Pottinger/
+2 TITL Capt.
+1 SEX M
+1 NOTE of Belfast
+1 FAMS @FBOR31@
+0 @IBOR48@ INDI
+1 SOUR @SBOR1@
+1 NAME Kildare Dixon /Borrowes/
+2 TITL Sir 5th Bart.
+1 SEX M
+1 NOTE Sheriff of Kildare in 1751 
+2 CONT M.P. Kildare 1745-70
+1 BIRT
+2 DATE ABT 1721
+2 SOUR @SBOR2@
+1 DEAT
+2 DATE 22 Jun 1790
+2 AGE 69
+3 SOUR @SBOR2@
+1 BURI
+2 PLAC Gilltown
+2 SOUR @SBOR2@
+1 NOTE Will pr. 1790, in Prerog Court.
+1 FAMC @FBOR30@
+1 FAMS @FBOR32@
+1 FAMS @FBOR35@
+0 @IBOR49@ INDI
+1 SOUR @SBOR1@
+1 NAME Unknown /Borrowes/
+1 SEX M
+1 NOTE d.unm.
+1 FAMC @FBOR30@
+0 @IBOR50@ INDI
+1 SOUR @SBOR1@
+1 NAME Unknown /Borrowes/
+1 SEX M
+1 NOTE d.unm.
+1 FAMC @FBOR30@
+0 @IBOR51@ INDI
+1 SOUR @SBOR1@
+1 NAME Elizabeth /Short/
+1 SEX F
+1 NOTE Hieress
+1 DEAT
+2 DATE 23 Aug 1766
+1 FAMC @FBOR33@
+1 FAMS @FBOR32@
+0 @IBOR52@ INDI
+1 SOUR @SBOR1@
+1 NAME John /Short/
+1 SEX M
+1 NOTE of Grange, Queen co.,
+1 FAMS @FBOR33@
+0 @IBOR53@ INDI
+1 SOUR @SBOR1@
+1 NAME Walter /Borrowes/
+1 SEX M
+1 NOTE D.Unm.
+1 FAMC @FBOR32@
+0 @IBOR54@ INDI
+1 SOUR @SBOR1@
+1 NAME Kildare /Borrowes/
+1 SEX M
+1 NOTE In Holy orders. D.Unm.
+1 FAMC @FBOR32@
+0 @IBOR55@ INDI
+1 SOUR @SBOR1@
+1 NAME Mary /Borrowes/
+1 SEX F
+1 NOTE D. Young
+1 FAMC @FBOR32@
+0 @IBOR56@ INDI
+1 SOUR @SBOR1@
+1 NAME Jane /Higginson/
+1 SEX F
+1 DEAT
+2 DATE Sep 1793
+1 FAMC @FBOR34@
+1 FAMS @FBOR35@
+0 @IBOR57@ INDI
+1 SOUR @SBOR1@
+1 NAME William /Borrowes/
+1 SEX M
+1 NOTE d.s.p
+1 FAMC @FBOR35@
+1 FAMS @FBOR36@
+0 @IBOR61@ INDI
+1 SOUR @SBOR1@
+1 NAME Joseph /Borrowes/
+2 TITL Rev.
+1 SEX M
+1 FAMC @FBOR35@
+1 FAMS @FBOR39@
+0 @IBOR58@ INDI
+1 SOUR @SBOR1@
+1 NAME Robert /Borrowes/
+1 SEX M
+1 BIRT
+2 DATE 1778
+1 NOTE of Gilltown, co. Kildare
+1 DEAT
+2 DATE 13 Jun 1850
+1 FAMC @FBOR35@
+1 FAMS @FBOR42@
+0 @IBOR59@ INDI
+1 SOUR @SBOR1@
+1 NAME Richard /Borrowes/
+1 SEX M
+1 NOTE D. Young
+1 FAMC @FBOR35@
+0 @IBOR60@ INDI
+1 SOUR @SBOR1@
+1 NAME Emily /Borrowes/
+1 SEX F
+1 FAMC @FBOR35@
+1 FAMS @FBOR51@
+0 @IBOR62@ INDI
+1 SOUR @SBOR1@
+1 NAME Angelina /Smith/
+1 SEX F
+1 DEAT
+2 DATE 1808
+1 FAMC @FBOR37@
+1 FAMS @FBOR38@
+1 FAMS @FBOR36@
+0 @IBOR63@ INDI
+1 SOUR @SBOR1@
+1 NAME Michael /Smith/
+2 TITL Right Hon. Sir 1st Bart.
+1 SEX M
+1 FAMS @FBOR37@
+0 @IBOR64@ INDI
+1 SOUR @SBOR1@
+1 NAME Smith /Steele/
+1 SEX M
+1 FAMS @FBOR38@
+0 @IBOR65@ INDI
+1 SOUR @SBOR1@
+1 NAME Anne /Trench/
+1 SEX F
+1 FAMC @FBOR40@
+1 FAMS @FBOR39@
+0 @IBOR66@ INDI
+1 SOUR @SBOR1@
+1 NAME Frederick /Trench/
+1 SEX M
+1 NOTE of Woodlawn, co. Galway
+1 FAMS @FBOR40@
+0 @IBOR67@ INDI
+1 SOUR @SBOR1@
+1 NAME Unknown /Trench/
+2 TITL Lord Ashtown
+1 SEX M
+1 FAMC @FBOR40@
+0 @IBOR68@ INDI
+1 SOUR @SBOR1@
+1 NAME Mary /Borrowes/
+1 SEX F
+1 FAMS @FBOR41@
+1 FAMC @FBOR39@
+0 @IBOR69@ INDI
+1 SOUR @SBOR1@
+1 NAME Hartstonge /Robinson/
+1 SEX M
+1 FAMS @FBOR41@
+0 @IBOR70@ INDI
+1 SOUR @SBOR1@
+1 NAME Charlotte /Madden/
+1 SEX F
+1 DEAT
+2 DATE 17 Feb 1857
+1 FAMC @FBOR43@
+1 FAMS @FBOR42@
+0 @IBOR71@ INDI
+1 SOUR @SBOR1@
+1 NAME Samuel /Madden/
+1 SEX M
+1 NOTE of Hilton, co. Monaghan
+1 FAMS @FBOR43@
+0 @IBOR72@ INDI
+1 SOUR @SBOR1@
+1 NAME Robert Higginson /Borrowes/
+1 SEX M
+1 NOTE of Gilltown. J.P. and D.L. High Sheriff 1853, Late Capt. 13th Light Dragoons and Maj. 
+2 CONT Kildare Rifles
+1 BIRT
+2 DATE 25 Sep 1826
+1 DEAT
+2 DATE 2 Feb 1901
+1 FAMC @FBOR42@
+1 FAMS @FBOR44@
+0 @IBOR73@ INDI
+1 SOUR @SBOR1@
+1 NAME Louisa Katherine Browne /Cavendish/
+2 TITL Hon.
+1 SEX F
+1 NOTE d.s.p
+1 FAMC @FBOR45@
+1 FAMS @FBOR44@
+0 @IBOR74@ INDI
+1 SOUR @SBOR1@
+1 NAME John /Cavendish/
+2 TITL 3rd Lord Kilmaine
+1 SEX M
+1 FAMS @FBOR45@
+0 @IBOR75@ INDI
+1 SOUR @SBOR1@
+1 NAME Kate /Borrowes/
+1 SEX F
+1 NOTE d. unm
+1 DEAT
+2 DATE 5 Dec 1837
+1 FAMC @FBOR42@
+0 @IBOR76@ INDI
+1 SOUR @SBOR1@
+1 NAME Jane Harriette /Borrowes/
+1 SEX F
+1 DEAT
+2 DATE Mar 1877
+1 FAMC @FBOR42@
+1 FAMS @FBOR46@
+0 @IBOR77@ INDI
+1 SOUR @SBOR1@
+1 NAME Hans /Hendrick/
+1 SEX M
+1 NOTE of Kerdiffstown, co. Kildare
+1 FAMS @FBOR54@
+1 FAMS @FBOR46@
+0 @IBOR78@ INDI
+1 SOUR @SBOR1@
+1 NAME Emily /Borrowes/
+1 SEX F
+1 DEAT
+2 DATE 1894
+1 FAMC @FBOR42@
+1 FAMS @FBOR47@
+0 @IBOR79@ INDI
+1 SOUR @SBOR1@
+1 NAME William /Roche/
+1 SEX M
+1 NOTE of Buttevant Castle, co. Cork.
+1 FAMS @FBOR47@
+0 @IBOR80@ INDI
+1 SOUR @SBOR1@
+1 NAME Elizabeth /Borrowes/
+1 SEX F
+1 DEAT
+2 DATE 1877
+1 FAMC @FBOR42@
+1 FAMS @FBOR48@
+0 @IBOR81@ INDI
+1 SOUR @SBOR1@
+1 NAME William /Cramer-Roberts/
+1 SEX M
+1 NOTE of Thornton, co. Kildare. d.s.p
+1 DEAT
+2 DATE 28 Jul 1870
+1 FAMS @FBOR48@
+0 @IBOR82@ INDI
+1 SOUR @SBOR1@
+1 NAME Gertrude /Borrowes/
+1 SEX F
+1 DEAT
+2 DATE 10 Jun 1910
+1 FAMC @FBOR42@
+1 FAMS @FBOR49@
+1 FAMS @FBOR50@
+0 @IBOR83@ INDI
+1 SOUR @SBOR1@
+1 NAME Richard /Bourke/
+1 SEX M
+1 NOTE Nephew of John, 4th Earl of Mayo
+1 DEAT
+2 DATE 21 May 1856
+1 FAMS @FBOR49@
+0 @IBOR84@ INDI
+1 SOUR @SBOR1@
+1 NAME Hubert Edward Madden /Bourke/
+1 NAME Hubert Edward Madden /Bourke-Borrowes/
+1 SEX M
+1 NOTE assumed the additional surname of Borrowes on s. to Gilltown Estates in 1925 (see Mayo E.)
+1 FAMC @FBOR49@
+0 @IBOR85@ INDI
+1 SOUR @SBOR1@
+1 NAME Anthony North /Peat/
+1 SEX M
+1 DEAT
+2 DATE 1870
+1 FAMS @FBOR50@
+0 @IBOR86@ INDI
+1 SOUR @SBOR1@
+1 NAME Thomas /Kigsbury/
+2 TITL Ven.
+1 SEX M
+1 FAMS @FBOR51@
+0 @IBOR87@ INDI
+1 SOUR @SBOR1@
+1 NAME Henrietta de Robillard /Champagne/
+1 SEX F
+1 NOTE Sister of Countess of Uxbridge.
+1 DEAT
+2 DATE 11 Jun 1807
+1 FAMC @FBOR53@
+1 FAMS @FBOR52@
+0 @IBOR88@ INDI
+1 SOUR @SBOR1@
+1 NAME Arthur /Champagne/
+2 TITL Very Rev. 
+1 SEX M
+1 NOTE Dean of Clonmacnoise
+1 FAMS @FBOR53@
+0 @IBOR89@ INDI
+1 SOUR @SBOR1@
+1 NAME Walter Dixon /Borrowes/
+2 TITL Sir 7th Bart.
+3 DATE 19 Sep 1814
+1 SEX M
+1 BIRT
+2 DATE 21 Sep 1789
+1 NOTE of Lauragh and of Barretstown Castle.
+1 NOTE Sheriff of Queen's Co. 1817 and of Co. Kildare 1829.
+1 DEAT
+2 DATE 7 Mar 1834
+1 NOTE d.unm
+1 FAMC @FBOR52@
+0 @IBOR90@ INDI
+1 SOUR @SBOR1@
+1 NAME Arthur /Borrowes/
+1 SEX M
+1 DEAT
+2 DATE 1810
+1 NOTE Officer in R.N.
+1 FAMC @FBOR52@
+0 @IBOR91@ INDI
+1 SOUR @SBOR1@
+1 NAME Kildare /Borrowes/
+1 SEX M
+1 DEAT
+2 PLAC Calcutta, India
+1 NOTE Captian 41st Foot; who after distinguishing himself in the Peninsula, under the Duke of 
+2 CONT Wellington; in America, under Sir Edward Pakenham; and in the East Indies, in 1825, in a
+2 CONT gallant attack upon one of the Burmese Forts, fell a victum to "the fatigue" he endured
+2 CONT as aide-de-camp to his cousin, Sir Edward Paget, then Commander-in-chief in the East Indies.
+1 FAMC @FBOR52@
+0 @IBOR92@ INDI
+1 SOUR @SBOR1@
+1 NAME Erasmus /Borrowes/
+2 TITL The Rev. Sir 8th Bart.
+3 DATE 7 Mar 1834
+1 SEX M
+1 NOTE of Lauragh and of Barretstown Castle
+1 NOTE Was in Holy Orders; Rector of Ballyroan, Queen's County.
+1 BIRT
+2 DATE 21 Sep 1799
+2 PLAC Portarlingtown, Queen's Co.
+1 DEAT
+2 DATE 27 May 1866
+1 FAMC @FBOR52@
+1 FAMS @FBOR56@
+0 @IBOR93@ INDI
+1 SOUR @SBOR1@
+1 NAME Marianne /Borrowes/
+1 SEX F
+1 DEAT
+2 DATE 1862
+1 FAMC @FBOR52@
+1 FAMS @FBOR54@
+0 @IBOR94@ INDI
+1 SOUR @SBOR1@
+1 NAME Harriet /Borrowes/
+1 SEX F
+1 NOTE d.unm
+1 FAMC @FBOR52@
+0 @IBOR95@ INDI
+1 SOUR @SBOR1@
+1 NAME Elizabeth /Borrowes/
+1 SEX F
+1 DEAT
+2 DATE 14 Jun 1873
+1 FAMC @FBOR52@
+1 FAMS @FBOR55@
+0 @IBOR96@ INDI
+1 SOUR @SBOR1@
+1 NAME James /Stannus/
+2 TITL Very Rev.
+1 SEX M
+1 NOTE of Lisburn. Dean of Ross
+1 FAMS @FBOR55@
+0 @IBOR97@ INDI
+1 SOUR @SBOR1@
+1 NAME Harriet /Hamilton/
+1 SEX F
+1 DEAT
+2 DATE 1880
+3 NOTE In or before 1880
+1 FAMC @FBOR57@
+1 FAMS @FBOR56@
+0 @IBOR98@ INDI
+1 SOUR @SBOR1@
+1 NAME Henry /Hamilton/
+1 SEX M
+1 NOTE of Ballymacoll, Meath
+1 FAMC @FBOR58@
+1 FAMS @FBOR57@
+0 @IBOR99@ INDI
+1 SOUR @SBOR1@
+1 NAME Hans /Hamilton/
+1 SEX M
+1 NOTE 30 yrs. M.P. co. Dublin
+1 FAMC @FBOR58@
+0 @IBOR100@ INDI
+1 SOUR @SBOR1@
+1 NAME Unknown /Hamilton/
+1 SEX M
+1 FAMS @FBOR58@
+0 @IBOR101@ INDI
+1 SOUR @SBOR1@
+1 NAME Kildare /Borrowes/
+1 SEX M
+1 BIRT
+2 DATE 16 Jul 1826
+1 DEAT
+2 DATE Feb 1837
+1 FAMC @FBOR56@
+0 @IBOR102@ INDI
+1 SOUR @SBOR1@
+1 NAME Erasmus Dixon /Borrowes/
+2 TITL Sir 9th Bart.
+3 DATE 27 May 1866
+1 SEX M
+1 NOTE of Barretstown Castle, of Giltown, co. Kildare. J.P. and D.L., <br>
+2 CONT Ensign 80th Foot 1852; Capt 1859; Major late 13th Foot Regt. 1867,<br>
+2 CONT served Burmese war of 1853
+2 CONT and the Indian Mutiny, where he was wounded (medals for both campaigns)
+1 NOTE Sheriff Co Kildare 1873, Queen's Co. 1880.
+1 BIRT
+2 DATE 19 Dec 1831
+2 PLAC Dublin, Ire
+1 EDUC
+2 PLAC Cheltenham College
+1 DEAT
+2 DATE 8 Feb 1898
+1 FAMC @FBOR56@
+1 FAMS @FBOR64@
+1 FAMS @FBOR71@
+0 @IBOR103@ INDI
+1 SOUR @SBOR1@
+1 NAME Walter Joseph /Borrowes/
+1 SEX M
+1 NOTE Col. 4th Batt. Leinster Regt. 
+1 BIRT
+2 DATE 23 Sep 1834
+1 DEAT
+2 DATE 11 Sep 1893
+1 FAMC @FBOR56@
+1 FAMS @FBOR59@
+0 @IBOR104@ INDI
+1 SOUR @SBOR1@
+1 NAME Florence Mary /Aylmer/
+1 SEX F
+1 DEAT
+2 DATE 1907
+1 FAMC @FBOR60@
+1 FAMS @FBOR59@
+1 FAMS @FBOR61@
+0 @IBOR105@ INDI
+1 SOUR @SBOR1@
+1 NAME Michael /Aylmer/
+1 SEX M
+1 NOTE of Courtown, co. Kildare
+1 FAMS @FBOR60@
+0 @IBOR106@ INDI
+1 SOUR @SBOR1@
+1 NAME William /Gore/
+1 SEX M
+1 FAMS @FBOR61@
+0 @IBOR107@ INDI
+1 SOUR @SBOR1@
+1 NAME Eleanor Henriette de Rombillard /Borrowes/
+1 SEX F
+1 FAMC @FBOR59@
+0 @IBOR108@ INDI
+1 SOUR @SBOR1@
+1 NAME Henriette Mary /Borrowes/
+1 SEX F
+1 DEAT
+2 DATE 14 Jul 1895
+1 FAMC @FBOR56@
+1 FAMS @FBOR62@
+0 @IBOR109@ INDI
+1 SOUR @SBOR1@
+1 NAME Henry Meade /Hamilton/
+2 TITL Lieut.-Gen.
+1 SEX M
+1 NOTE C.B., 12th foot, of Grove, Meath
+1 FAMS @FBOR62@
+0 @IBOR110@ INDI
+1 SOUR @SBOR1@
+1 NAME Adelaide Charlotte Marianne /Borrowes/
+1 SEX F
+1 DEAT
+2 DATE 1896
+1 FAMC @FBOR56@
+1 FAMS @FBOR63@
+0 @IBOR111@ INDI
+1 SOUR @SBOR1@
+1 NAME Edward /Tipping/
+1 SEX M
+1 NOTE of Bellurgan Park, co. Louth
+1 FAMS @FBOR63@
+0 @IBOR112@ INDI
+1 SOUR @SBOR1@
+1 NAME Eleanor Caroline /Borrowes/
+1 SEX F
+1 DEAT
+2 DATE 1871
+1 FAMC @FBOR56@
+0 @IBOR113@ INDI
+1 SOUR @SBOR1@
+1 NAME Frederica Esten /Hutchinson/
+1 SEX F
+1 DEAT
+2 DATE 17 Aug 1886
+2 PLAC Barretstown Castle
+1 FAMC @FBOR65@
+1 FAMS @FBOR64@
+0 @IBOR114@ INDI
+1 SOUR @SBOR1@
+1 NAME George /Hutchinson/
+2 TITL Brigadier-Gen.
+1 SEX M
+1 NOTE Col. 97th Foot
+1 FAMS @FBOR65@
+0 @IBOR115@ INDI
+1 SOUR @SBOR1@
+1 NAME Kildare /Borrowes/
+2 TITL Sir 10th Bart.
+3 DATE Oct 1898
+1 SEX M
+1 BIRT
+2 DATE 21 Sep 1852
+1 NOTE of Barretstown Castle.
+1 NOTE J.P. and D.L. High Sheriff 1902, Lieut-Col., (retired), late 11th Hussars, sometime A.D.C.
+2 CONT to the lord lieutenant of Ireland 1879-80, A.D.C to the Viceroy of Ireland. 
+2 CONT Served in the Imperial Yeomanry in Transvaal War 1900. 
+2 CONT Served as Draft officer during the Great War (Mons star, two medals). 
+1 NOTE d.s.p. Title passed to his brother.
+1 EDUC
+2 PLAC Cheltenham College
+1 DEAT
+2 DATE 19 Oct 1924
+1 FAMC @FBOR64@
+1 FAMS @FBOR66@
+0 @IBOR116@ INDI
+1 SOUR @SBOR1@
+1 NAME Eustace Dixon /Borrowes/
+2 TITL Sir 11th Bart.
+1 SEX M
+1 NOTE of Gilltown.
+1 EDUC
+2 PLAC Cheltenham and Royal Agricultural Coll., Cirencester
+1 NOTE Employed on engineering staff, Buenos Ayres and Santa Fe Railway, 
+2 CONT in Bechuanaland Border Police, 1894-6 in Vol. Training Corps., Dublin, 1914
+2 CONT S. his brother 1924.
+1 BIRT
+2 DATE 31 Dec 1866
+1 FAMC @FBOR64@
+1 FAMS @FBOR74@
+1 FAMS @FBOR77@
+0 @IBOR117@ INDI
+1 SOUR @SBOR1@
+1 NAME Clara Ellen /Borrowes/
+1 SEX F
+1 DEAT
+2 DATE 19 Feb 1931
+1 FAMC @FBOR64@
+1 FAMS @FBOR68@
+0 @IBOR118@ INDI
+1 SOUR @SBOR1@
+1 NAME Flora /Borrowes/
+1 SEX F
+1 FAMC @FBOR64@
+1 FAMS @FBOR70@
+0 @IBOR119@ INDI
+1 SOUR @SBOR1@
+1 NAME Walter /Borrowes/
+1 SEX M
+1 BIRT
+2 DATE 22 Sep 1892
+1 DEAT
+2 DATE 15 Jan 1915
+2 CAUS Killed in action
+1 NOTE Lieut. R.N.
+1 FAMC @FBOR71@
+0 @IBOR120@ INDI
+1 SOUR @SBOR1@
+1 NAME Mary Adelaide Vernon /Borrowes/
+1 SEX F
+1 BIRT
+2 DATE 5 May 1889
+1 FAMC @FBOR71@
+1 FAMS @FBOR73@
+0 @IBOR121@ INDI
+1 SOUR @SBOR1@
+1 NAME Julia Aline /Holden/
+1 SEX F
+1 DEAT
+2 DATE 27 Jul 1930
+1 FAMC @FBOR67@
+1 FAMS @FBOR66@
+0 @IBOR122@ INDI
+1 SOUR @SBOR1@
+1 NAME William /Holden/
+1 SEX M
+1 NOTE of Palace House, co. Lancaster
+1 FAMS @FBOR67@
+0 @IBOR123@ INDI
+1 SOUR @SBOR1@
+1 NAME Duncan /Matheson/
+2 TITL Lieut.-Col.
+1 SEX M
+1 NOTE J.P. and D.L., of Achany and Lewis Castle, Stornaway, and 57, Victoria Road Kensington, W.8.
+2 CONT Late 6th Inniskilling Drags.,
+1 DEAT
+2 DATE 30 Aug 1930
+1 FAMC @FBOR69@
+1 FAMS @FBOR68@
+0 @IBOR124@ INDI
+1 SOUR @SBOR1@
+1 NAME Donald /Matheson/
+1 SEX M
+1 FAMS @FBOR69@
+0 @IBOR125@ INDI
+1 SOUR @SBOR1@
+1 NAME Arthur /Johnston/
+2 TITL Ven.
+1 SEX M
+1 NOTE B.D., M.A. Rector of Kilbride, Bray, and Archdeacon of Glendalough
+1 FAMS @FBOR70@
+0 @IBOR126@ INDI
+1 SOUR @SBOR1@
+1 NAME Florence Elizabeth /Ruxton/
+1 SEX F
+1 DEAT
+2 DATE 1 Dec 1935
+1 FAMC @FBOR72@
+1 FAMS @FBOR71@
+0 @IBOR127@ INDI
+1 SOUR @SBOR1@
+1 NAME William /Ruxton/
+1 SEX M
+1 NOTE of Ardee House, Ardee, D.L.
+1 FAMS @FBOR72@
+0 @IBOR128@ INDI
+1 SOUR @SBOR1@
+1 NAME Montagu Martindale /Parry-Jones/
+2 TITL Major
+1 SEX M
+1 NOTE M.C., Roy. Fus.
+1 FAMC @FBOR79@
+1 FAMS @FBOR73@
+0 @IBOR129@ INDI
+1 SOUR @SBOR1@
+1 NAME Philip /Parry-Jones/
+2 TITL Major
+1 SEX M
+1 NOTE of Valparaiso
+1 FAMS @FBOR79@
+0 @IBOR130@ INDI
+1 SOUR @SBOR1@
+1 NAME Louisa Margaret Winifred Mary /Royse/
+1 SEX F
+1 DEAT
+2 DATE 9 Nov 1918
+1 FAMC @FBOR75@
+1 FAMS @FBOR74@
+0 @IBOR131@ INDI
+1 SOUR @SBOR1@
+1 NAME John MacDonald /Royse/
+1 SEX M
+1 FAMS @FBOR75@
+0 @IBOR132@ INDI
+1 SOUR @SBOR1@
+1 NAME Elizabeth /Monck/
+1 SEX F
+1 FAMC @FBOR76@
+1 FAMS @FBOR75@
+0 @IBOR133@ INDI
+1 SOUR @SBOR1@
+1 NAME Charles /Monck/
+2 TITL 4th Viscount
+1 SEX M
+1 FAMS @FBOR76@
+0 @IBOR134@ INDI
+1 SOUR @SBOR1@
+1 NAME Kildare Henry /Borrowes/
+1 SEX M
+1 BIRT
+2 DATE 11 Mar 1900
+1 NOTE Midshipman R.N.
+1 DEAT
+2 DATE 31 May 1916
+2 CAUS Killed on H.M.S. Queen Mary in battle of Jutland.
+1 FAMC @FBOR74@
+0 @IBOR135@ INDI
+1 SOUR @SBOR1@
+1 NAME Margaret /Ray/
+1 SEX F
+1 FAMC @FBOR78@
+1 FAMS @FBOR77@
+0 @IBOR136@ INDI
+1 SOUR @SBOR1@
+1 NAME William /Ray/
+1 SEX M
+1 NOTE of Newport, Monmouthshire.
+1 FAMS @FBOR78@
+0 @IBOR137@ INDI
+1 SOUR @SBOR1@
+1 NAME John /Salisbury/
+1 SEX M
+1 NOTE of Barnabas Tottenham, of Ballyduff, co. Waterford.
+1 FAMS @FBOR17@
+0 @IBOR138@ INDI
+1 SOUR @SBOR1@
+1 NAME Erasmus Dixon /Borrowes/
+2 TITL Sir 6th Bart.
+3 DATE 22 Jun 1790
+1 SEX M
+1 BIRT
+2 DATE 20 Dec 1759
+1 NOTE of Colverstown, of Lauragh Queen's County and Barretstown co Kildare.
+2 CONT Sheriff of Queen's Co. 1800. Sheriff co. Kildare 1809.
+1 DEAT
+2 DATE 19 Sep 1814
+1 FAMC @FBOR32@
+1 FAMS @FBOR52@
+0 @IBOR139@ INDI
+1 SOUR @SBOR1@
+1 NAME Joseph /Higginson/
+1 SEX M
+1 NOTE of Mount Ophaley, co. Kildare
+1 FAMS @FBOR34@
+0 @IBOR140@ INDI
+1 NAME Alice /Clark/
+1 SOUR @SBOR2@
+1 SEX F
+1 FAMC @FBOR80@
+1 FAMS @FBOR20@
+0 @IBOR141@ INDI
+1 NAME Richard /Clark/
+1 SOUR @SBOR2@
+1 SEX M
+1 NOTE of Chimpton Hall, co. Suffolk.
+1 FAMS @FBOR80@
+0 @IBOR142@ INDI
+1 NAME Joan /Boyle/
+1 SOUR @SBOR2@
+1 SEX F
+1 NOTE of Chimpton Hall, co. Suffolk.
+1 FAMC @FBOR81@
+1 FAMS @FBOR24@
+0 @IBOR143@ INDI
+1 NAME Richard /Boyle/
+2 TITL 1st Earl of Cork
+1 SOUR @SBOR2@
+1 SEX M
+1 NOTE of Chimpton Hall, co. Suffolk.
+1 FAMS @FBOR81@
+0 @IBOR144@ INDI
+1 NAME Jane /Vaughan/
+1 SOUR @SBOR2@
+1 SEX F
+1 FAMC @FBOR82@
+1 FAMS @FBOR26@
+0 @IBOR145@ INDI
+1 NAME Walter /Vaughan/
+1 SOUR @SBOR2@
+1 SEX M
+1 NOTE of Golden Grove, King's County.
+1 FAMS @FBOR82@
+0 @IBOR146@ INDI
+1 NAME Mary /Eustace/
+1 SOUR @SBOR2@
+1 SEX F
+1 FAMC @FBOR83@
+1 FAMS @FBOR29@
+0 @IBOR147@ INDI
+1 NAME William /Eustace/
+1 SOUR @SBOR2@
+1 SEX M
+1 NOTE of Blackrath
+1 FAMS @FBOR83@
+0 @IBOR148@ INDI
+1 NAME Bridget /MOTTEY/
+1 SOUR @SBOR2@
+1 SEX F
+1 FAMS @FBOR34@
+1 FAMC @FBOR84@
+0 @IBOR149@ INDI
+1 NAME James /MOTTEY/
+1 SOUR @SBOR2@
+1 SEX M
+1 NOTE of Tullow, co. Carlow
+1 FAMS @FBOR84@
+0 @IBOR150@ INDI
+1 NAME Marianne /Hamon/
+1 SOUR @SBOR2@
+1 SEX F
+1 FAMC @FBOR85@
+1 FAMS @FBOR53@
+0 @IBOR151@ INDI
+1 NAME Isaac /Hamon/
+2 TITL Col.
+1 SOUR @SBOR2@
+1 SEX M
+1 FAMS @FBOR85@
+0 @IBOR152@ INDI
+1 NAME Mary /Wetherall/
+1 SOUR @SBOR2@
+1 SEX F
+1 FAMC @FBOR86@
+1 FAMS @FBOR57@
+0 @IBOR153@ INDI
+1 NAME John /Wetherall/
+1 SOUR @SBOR2@
+1 SEX M
+1 NOTE of Dublin, IRE
+1 FAMS @FBOR86@
+0 @IBOR154@ INDI
+1 NAME Blanche /Paulet/
+1 SOUR @SBOR2@
+1 SEX F
+1 FAMC @FBOR87@
+1 FAMS @FBOR67@
+0 @IBOR155@ INDI
+1 NAME J. /Paulet/
+1 SOUR @SBOR2@
+1 SEX M
+1 NOTE of Seaforth House
+1 FAMS @FBOR87@
+0 @NBOR2@ NOTE /////////////////////////FAMILY RECORDS///////////////////////////////////
+0 @FBOR1@ FAM
+1 SOUR @SBOR1@
+1 HUSB @IBOR1@
+1 CHIL @IBOR2@
+1 CHIL @IBOR3@
+0 @FBOR2@ FAM
+1 SOUR @SBOR1@
+1 HUSB @IBOR3@
+1 CHIL @IBOR4@
+0 @FBOR3@ FAM
+1 SOUR @SBOR1@
+1 HUSB @IBOR4@
+1 CHIL @IBOR5@
+0 @FBOR4@ FAM
+1 SOUR @SBOR1@
+1 HUSB @IBOR5@
+1 CHIL @IBOR6@
+1 CHIL @IBOR7@
+1 CHIL @IBOR8@
+0 @FBOR5@ FAM
+1 SOUR @SBOR1@
+1 HUSB @IBOR8@
+1 CHIL @IBOR9@
+2 NOTE Descendant of, Not Child of.
+0 @FBOR6@ FAM
+1 SOUR @SBOR1@
+1 HUSB @IBOR9@
+1 WIFE @IBOR11@
+1 CHIL @IBOR10@
+0 @FBOR7@ FAM
+1 SOUR @SBOR1@
+1 HUSB @IBOR12@
+1 CHIL @IBOR11@
+0 @FBOR8@ FAM
+1 SOUR @SBOR1@
+1 HUSB @IBOR10@
+1 WIFE @IBOR13@
+1 CHIL @IBOR17@
+0 @FBOR9@ FAM
+1 SOUR @SBOR1@
+1 HUSB @IBOR14@
+1 CHIL @IBOR13@
+0 @FBOR10@ FAM
+1 SOUR @SBOR1@
+1 HUSB @IBOR10@
+1 WIFE @IBOR15@
+1 MARR
+2 DATE 1585
+0 @FBOR11@ FAM
+1 SOUR @SBOR1@
+1 HUSB @IBOR16@
+1 CHIL @IBOR15@
+0 @FBOR12@ FAM
+1 SOUR @SBOR1@
+1 HUSB @IBOR17@
+1 WIFE @IBOR18@
+1 MARR
+2 DATE ABT 1620
+2 SOUR @SBOR2@
+1 CHIL @IBOR22@
+1 CHIL @IBOR23@
+1 CHIL @IBOR24@
+0 @FBOR13@ FAM
+1 SOUR @SBOR1@
+1 HUSB @IBOR19@
+1 WIFE @IBOR20@
+1 CHIL @IBOR18@
+2 NOTE Eldest Daughter.
+0 @FBOR14@ FAM
+1 SOUR @SBOR1@
+1 HUSB @IBOR21@
+1 CHIL @IBOR20@
+0 @FBOR15@ FAM
+1 SOUR @SBOR1@
+1 HUSB @IBOR25@
+1 WIFE @IBOR24@
+1 NOTE Had Issue.
+0 @FBOR16@ FAM
+1 SOUR @SBOR1@
+1 HUSB @IBOR17@
+1 WIFE @IBOR26@
+1 MARR
+2 DATE 13 Dec 1632
+2 NOTE by Licence
+0 @FBOR17@ FAM
+1 SOUR @SBOR1@
+1 HUSB @IBOR137@
+1 CHIL @IBOR26@
+0 @FBOR19@ FAM
+1 SOUR @SBOR1@
+1 HUSB @IBOR27@
+1 WIFE @IBOR26@
+0 @FBOR20@ FAM
+1 SOUR @SBOR1@
+1 HUSB @IBOR29@
+1 WIFE @IBOR140@
+1 CHIL @IBOR28@
+0 @FBOR21@ FAM
+1 SOUR @SBOR1@
+1 HUSB @IBOR17@
+1 WIFE @IBOR28@
+1 MARR
+2 DATE 11 Jan 1644
+2 NOTE by Licence
+0 @FBOR22@ FAM
+1 SOUR @SBOR1@
+1 HUSB @IBOR30@
+1 WIFE @IBOR28@
+0 @FBOR23@ FAM
+1 SOUR @SBOR1@
+1 HUSB @IBOR22@
+1 WIFE @IBOR31@
+1 MARR
+2 DATE 16 Feb 1656
+2 NOTE The ceremony being performed with great pomp before the Right Hon. Ridgeway Hatfield,
+3 CONT Lord Mayor of Dublin.
+1 CHIL @IBOR35@
+1 CHIL @IBOR36@
+0 @FBOR24@ FAM
+1 SOUR @SBOR1@
+1 HUSB @IBOR32@
+1 WIFE @IBOR142@
+1 CHIL @IBOR31@
+2 NOTE 3rd Daughter.
+0 @FBOR25@ FAM
+1 SOUR @SBOR1@
+1 HUSB @IBOR22@
+1 WIFE @IBOR33@
+1 NOTE No Issue
+0 @FBOR26@ FAM
+1 SOUR @SBOR1@
+1 HUSB @IBOR34@
+1 WIFE @IBOR144@
+1 CHIL @IBOR33@
+2 NOTE 5th Daughter.
+0 @FBOR27@ FAM
+1 SOUR @SBOR1@
+1 HUSB @IBOR37@
+1 WIFE @IBOR35@
+0 @FBOR28@ FAM
+1 SOUR @SBOR1@
+1 HUSB @IBOR36@
+1 WIFE @IBOR38@
+1 CHIL @IBOR41@
+1 CHIL @IBOR42@
+1 CHIL @IBOR43@
+1 CHIL @IBOR44@
+1 CHIL @IBOR45@
+0 @FBOR29@ FAM
+1 SOUR @SBOR1@
+1 HUSB @IBOR39@
+1 WIFE @IBOR146@
+1 CHIL @IBOR40@
+1 CHIL @IBOR38@
+0 @FBOR30@ FAM
+1 SOUR @SBOR1@
+1 HUSB @IBOR41@
+1 WIFE @IBOR46@
+1 MARR
+2 DATE 18 Mar 1720
+1 CHIL @IBOR48@
+1 CHIL @IBOR49@
+1 CHIL @IBOR50@
+0 @FBOR31@ FAM
+1 SOUR @SBOR1@
+1 HUSB @IBOR47@
+1 CHIL @IBOR46@
+0 @FBOR32@ FAM
+1 SOUR @SBOR1@
+1 HUSB @IBOR48@
+1 WIFE @IBOR51@
+1 MARR
+2 DATE Feb 1759
+2 SOUR @SBOR2@
+1 CHIL @IBOR138@
+1 CHIL @IBOR53@
+1 CHIL @IBOR54@
+1 CHIL @IBOR55@
+0 @FBOR33@ FAM
+1 SOUR @SBOR1@
+1 HUSB @IBOR52@
+1 WIFE @IBOR43@
+1 CHIL @IBOR51@
+0 @FBOR34@ FAM
+1 SOUR @SBOR1@
+1 HUSB @IBOR139@
+1 WIFE @IBOR148@
+1 CHIL @IBOR56@
+0 @FBOR35@ FAM
+1 SOUR @SBOR1@
+1 HUSB @IBOR48@
+1 WIFE @IBOR56@
+1 MARR
+2 DATE 10 May 1769
+1 CHIL @IBOR57@
+1 CHIL @IBOR61@
+1 CHIL @IBOR58@
+1 CHIL @IBOR59@
+1 CHIL @IBOR60@
+0 @FBOR36@ FAM
+1 SOUR @SBOR1@
+1 HUSB @IBOR57@
+1 WIFE @IBOR62@
+0 @FBOR37@ FAM
+1 SOUR @SBOR1@
+1 HUSB @IBOR63@
+1 CHIL @IBOR62@
+0 @FBOR38@ FAM
+1 SOUR @SBOR1@
+1 HUSB @IBOR64@
+1 WIFE @IBOR62@
+0 @FBOR39@ FAM
+1 SOUR @SBOR1@
+1 HUSB @IBOR61@
+1 WIFE @IBOR65@
+1 MARR
+2 DATE 1810
+1 CHIL @IBOR68@
+0 @FBOR40@ FAM
+1 SOUR @SBOR1@
+1 HUSB @IBOR66@
+1 CHIL @IBOR65@
+1 CHIL @IBOR67@
+0 @FBOR41@ FAM
+1 SOUR @SBOR1@
+1 HUSB @IBOR69@
+1 WIFE @IBOR68@
+1 MARR
+2 DATE 1844
+0 @FBOR42@ FAM
+1 SOUR @SBOR1@
+1 HUSB @IBOR58@
+1 WIFE @IBOR70@
+1 MARR
+2 DATE 22 Dec 1804
+1 CHIL @IBOR72@
+1 CHIL @IBOR75@
+1 CHIL @IBOR76@
+1 CHIL @IBOR78@
+1 CHIL @IBOR80@
+1 CHIL @IBOR82@
+0 @FBOR43@ FAM
+1 SOUR @SBOR1@
+1 HUSB @IBOR71@
+1 CHIL @IBOR70@
+0 @FBOR44@ FAM
+1 SOUR @SBOR1@
+1 HUSB @IBOR72@
+1 WIFE @IBOR73@
+1 MARR
+2 DATE 9 Jun 1859
+0 @FBOR45@ FAM
+1 SOUR @SBOR1@
+1 HUSB @IBOR74@
+1 CHIL @IBOR73@
+2 NOTE 3rd Daug.
+0 @FBOR46@ FAM
+1 SOUR @SBOR1@
+1 HUSB @IBOR77@
+1 WIFE @IBOR76@
+1 NOTE issue
+0 @FBOR47@ FAM
+1 SOUR @SBOR1@
+1 HUSB @IBOR79@
+1 WIFE @IBOR78@
+1 NOTE issue
+0 @FBOR48@ FAM
+1 SOUR @SBOR1@
+1 HUSB @IBOR81@
+1 WIFE @IBOR80@
+1 MARR
+2 DATE 4 Jul 1844
+0 @FBOR49@ FAM
+1 SOUR @SBOR1@
+1 HUSB @IBOR83@
+1 WIFE @IBOR82@
+1 MARR
+2 DATE 26 Jun 1849
+1 CHIL @IBOR84@
+0 @FBOR50@ FAM
+1 SOUR @SBOR1@
+1 HUSB @IBOR85@
+1 WIFE @IBOR82@
+1 MARR
+2 DATE 12 Aug 1858
+0 @FBOR51@ FAM
+1 SOUR @SBOR1@
+1 HUSB @IBOR86@
+1 WIFE @IBOR60@
+0 @FBOR52@ FAM
+1 SOUR @SBOR1@
+1 HUSB @IBOR138@
+1 WIFE @IBOR87@
+1 MARR
+2 DATE 1783
+1 CHIL @IBOR89@
+1 CHIL @IBOR90@
+1 CHIL @IBOR91@
+1 CHIL @IBOR92@
+1 CHIL @IBOR93@
+1 CHIL @IBOR94@
+1 CHIL @IBOR95@
+0 @FBOR53@ FAM
+1 SOUR @SBOR1@
+1 HUSB @IBOR88@
+1 WIFE @IBOR150@
+1 CHIL @IBOR87@
+2 NOTE Youngest Daughter.
+0 @FBOR54@ FAM
+1 SOUR @SBOR1@
+1 HUSB @IBOR77@
+1 WIFE @IBOR93@
+0 @FBOR55@ FAM
+1 SOUR @SBOR1@
+1 HUSB @IBOR96@
+1 WIFE @IBOR95@
+0 @FBOR56@ FAM
+1 SOUR @SBOR1@
+1 HUSB @IBOR92@
+1 WIFE @IBOR97@
+1 MARR
+2 DATE Mar 1825
+1 CHIL @IBOR101@
+1 CHIL @IBOR102@
+1 CHIL @IBOR103@
+1 CHIL @IBOR108@
+1 CHIL @IBOR110@
+1 CHIL @IBOR112@
+0 @FBOR57@ FAM
+1 SOUR @SBOR1@
+1 HUSB @IBOR98@
+1 WIFE @IBOR152@
+1 CHIL @IBOR97@
+2 NOTE 4th Daug.
+0 @FBOR58@ FAM
+1 SOUR @SBOR1@
+1 HUSB @IBOR100@
+1 CHIL @IBOR98@
+1 CHIL @IBOR99@
+0 @FBOR59@ FAM
+1 SOUR @SBOR1@
+1 HUSB @IBOR103@
+1 WIFE @IBOR104@
+1 MARR
+2 DATE 21 Mar 1882
+1 CHIL @IBOR107@
+0 @FBOR60@ FAM
+1 SOUR @SBOR1@
+1 HUSB @IBOR105@
+1 CHIL @IBOR104@
+0 @FBOR61@ FAM
+1 SOUR @SBOR1@
+1 HUSB @IBOR106@
+1 WIFE @IBOR104@
+1 MARR
+2 DATE 1895
+0 @FBOR62@ FAM
+1 SOUR @SBOR1@
+1 HUSB @IBOR109@
+1 WIFE @IBOR108@
+1 MARR
+2 DATE 5 Jun 1845
+1 NOTE issue, see (Burke's Landed Gentry)
+0 @FBOR63@ FAM
+1 SOUR @SBOR1@
+1 HUSB @IBOR111@
+1 WIFE @IBOR110@
+1 MARR
+2 DATE 5 Nov 1850
+1 NOTE Issue.
+0 @FBOR64@ FAM
+1 SOUR @SBOR1@
+1 HUSB @IBOR102@
+1 WIFE @IBOR113@
+1 MARR
+2 DATE 14 Aug 1851
+1 CHIL @IBOR115@
+1 CHIL @IBOR116@
+1 CHIL @IBOR117@
+1 CHIL @IBOR118@
+0 @FBOR65@ FAM
+1 SOUR @SBOR1@
+1 HUSB @IBOR114@
+1 CHIL @IBOR113@
+0 @FBOR66@ FAM
+1 SOUR @SBOR1@
+1 HUSB @IBOR115@
+1 WIFE @IBOR121@
+1 MARR
+2 DATE 31 Mar 1886
+2 PLAC St. Paul's, Knightsbridge
+0 @FBOR67@ FAM
+1 SOUR @SBOR1@
+1 HUSB @IBOR122@
+1 WIFE @IBOR154@
+1 CHIL @IBOR121@
+2 NOTE Youngest Daughter
+0 @FBOR68@ FAM
+1 SOUR @SBOR1@
+1 HUSB @IBOR123@
+1 WIFE @IBOR117@
+1 MARR
+2 DATE 31 Mar 1875
+0 @FBOR69@ FAM
+1 SOUR @SBOR1@
+1 HUSB @IBOR124@
+1 CHIL @IBOR123@
+2 NOTE Eldest Son
+0 @FBOR70@ FAM
+1 SOUR @SBOR1@
+1 HUSB @IBOR125@
+1 WIFE @IBOR118@
+0 @FBOR71@ FAM
+1 SOUR @SBOR1@
+1 HUSB @IBOR102@
+1 WIFE @IBOR126@
+1 MARR
+2 DATE 5 Oct 1887
+1 CHIL @IBOR119@
+1 CHIL @IBOR120@
+0 @FBOR72@ FAM
+1 SOUR @SBOR1@
+1 HUSB @IBOR127@
+1 CHIL @IBOR126@
+0 @FBOR73@ FAM
+1 SOUR @SBOR1@
+1 HUSB @IBOR128@
+1 WIFE @IBOR120@
+1 MARR
+2 DATE 3 Apr 1913
+1 NOTE had Issue.
+0 @FBOR74@ FAM
+1 SOUR @SBOR1@
+1 HUSB @IBOR116@
+1 WIFE @IBOR130@
+1 MARR
+2 DATE 19 Apr 1899
+1 CHIL @IBOR134@
+0 @FBOR75@ FAM
+1 SOUR @SBOR1@
+1 HUSB @IBOR131@
+1 WIFE @IBOR132@
+1 CHIL @IBOR130@
+0 @FBOR76@ FAM
+1 SOUR @SBOR1@
+1 HUSB @IBOR133@
+1 CHIL @IBOR132@
+0 @FBOR77@ FAM
+1 SOUR @SBOR1@
+1 HUSB @IBOR116@
+1 WIFE @IBOR135@
+1 MARR
+2 DATE 11 Nov 1931
+0 @FBOR78@ FAM
+1 SOUR @SBOR1@
+1 HUSB @IBOR136@
+1 CHIL @IBOR135@
+0 @FBOR79@ FAM
+1 SOUR @SBOR1@
+1 HUSB @IBOR129@
+1 CHIL @IBOR128@
+2 NOTE only son
+0 @FBOR80@ FAM
+1 SOUR @SBOR2@
+1 HUSB @IBOR141@
+1 CHIL @IBOR140@
+0 @FBOR81@ FAM
+1 SOUR @SBOR2@
+1 HUSB @IBOR143@
+1 CHIL @IBOR142@
+0 @FBOR82@ FAM
+1 SOUR @SBOR2@
+1 HUSB @IBOR145@
+1 CHIL @IBOR144@
+0 @FBOR83@ FAM
+1 SOUR @SBOR2@
+1 HUSB @IBOR147@
+1 CHIL @IBOR146@
+0 @FBOR84@ FAM
+1 SOUR @SBOR2@
+1 HUSB @IBOR149@
+1 CHIL @IBOR148@
+0 @FBOR85@ FAM
+1 SOUR @SBOR2@
+1 HUSB @IBOR151@
+1 CHIL @IBOR150@
+0 @FBOR86@ FAM
+1 SOUR @SBOR2@
+1 HUSB @IBOR153@
+1 CHIL @IBOR152@
+0 @FBOR87@ FAM
+1 SOUR @SBOR2@
+1 HUSB @IBOR155@
+1 CHIL @IBOR154@
+0  @SBOR1@ SOUR
+1 NOTE Burke's Peerage and Baronetage
+2 DATA Borrowes of Gilltown (Ireland) pg 347, 348
+1 NOTE It is scion of the ancient house of De Burgh, for centuries so eminent
+2 CONT under the names of Burgh, Bourke, Burke and Borough.<p>
+2 CONT Baronetage created 14 Feb 1645-6<p>
+0  @SBOR2@ SOUR
+1 NOTE C. Baronetage Pg 269, 270, 271
+0 TRLR

@@ -11806,16 +11806,25 @@
 1 SEX M
 1 BIRT
 2 DATE Mar 1841
+2 NOTE Calculation from Death Certificate indicates 1838.
+2 AGE 83
 2 PLAC Chester,Wales, NZL
 1 DEAT
-2 DATE 1921
-1 OCCU Ships Captain
+2 DATE 19 Sep 1921
+2 PLAC 60 Nixon Street, Wanganui, NZL.
+1 BURI
+2 DATE 20 Sep 1921
+2 PLAC Aramaho Cemetery, Wanganui
+2 NOTE Born England, Resident NZ 61 Years, Married Dunedin aged 28 to Margaret Elizabeth Armstrong
+3 CONT Children living: 6. Ages Male: 54, 52, 45, 41, 39, 34 Female 37, 35, 31, 29
+1 OCCU Master Mariner
 2 NOTE Ships "Mary Ann Christina", "Vixen" Waitara, retired to run Wanganui River steamers for Hatricks.
 3 CONT "Mary Ann Christina" Reg No. 40341, 42 ton wooden schooner, built 1862 by Joseph and Robert Dixon for 
 3 CONT T.McIntosh & J.Pawson, Little Akaloa. Launched March 1862 partially wrecked near Rakaia River mouth, 
 3 CONT August 1867, re-built Corsair Bay by Brown Brothers. Apparently stranded at Viti Levu, Fiji, while 
 3 CONT labour recruiting as 'blackbirder'. Lost Manning River, New South Wales, 1874.
 1 NOTE Arrived NZL 1859
+1 FAMC @F654@
 0 @IW1642@ INDI
 1 SOUR @SIW1@
 1 FAMS @FW730@
@@ -11837,6 +11846,7 @@
 2 PLAC Dublin, IRL
 1 DEAT
 2 DATE 20 Jun 1915
+2 PLAC Wanganui, NZL
 1 NOTE Assisted Immigrant. Dept Eng. 5 Nov 1862, Arrived NZL on the "John Duncan" at Dunedin 13 Feb 1863
 2 CONC Sailed to Wanganui NZL 1872.
 0 @IW1644@ INDI
@@ -11844,6 +11854,7 @@
 1 FAMS @FW731@
 1 NAME James /ARMSTRONG/
 1 SEX M
+1 OCCU Journalist
 1 NOTE Fought at Waterloo ( Pensioned )
 1 RESI
 2 ADDR Dublin. Ir.
@@ -12835,6 +12846,7 @@
 1 BIRT
 2 DATE ABT 1876
 2 SOUR NZ BDM 1876/14774
+1 FAMS @F655@
 0 @IW1780@ INDI
 1 SOUR @SIW1@
 1 FAMC @FW729@
@@ -12842,6 +12854,7 @@
 1 BIRT
 2 DATE ABT 1869
 2 SOUR NZ BDM 1869/33602
+1 NOTE Never Married
 0 @IW1781@ INDI
 1 SOUR @SIW1@
 1 FAMC @FW729@
@@ -12850,7 +12863,10 @@
 2 DATE 24 Jan 1875
 2 SOUR George himself. NZ BDM 1875/2673
 1 DEAT
-2 DATE 1975
+2 DATE 1973
+2 SOUR 1973/49970
+1 OCCU Bricklayer
+1 NOTE Never Married
 0 @IW1782@ INDI
 1 SOUR @SIW1@
 1 SEX M
@@ -12891,8 +12907,8 @@
 1 NAME Margaret Alice /JONES/
 1 SEX F
 1 BIRT
-2 DATE 14 Sep 1887
-2 NOTE NZ BDM registered in 1886?
+2 DATE 14 Sep 1886
+2 NOTE NZ BDM 1886/15245
 1 DEAT
 2 DATE 7 Sep 1989
 2 NOTE = 102yrs!
@@ -17017,6 +17033,13 @@
 1 SEX M
 1 FAMS @FW780@
 1 NAME Edwin Richard /PROUSE/
+1 BIRT
+2 DATE ABT 1883
+2 SOUR From date at death
+1 DEAT
+2 DATE 1963
+2 AGE 80
+2 SOUR NZ BDM 1963/43595
 0 @IWS701@ INDI
 1 SOUR @SIW1@
 1 NAME Jan /UNKNOWN/
@@ -22547,10 +22570,10 @@
 1 HUSB @IW1641@
 1 WIFE @IW1643@
 1 MARR
-2 DATE 13 Mar 1863
-2 PLAC Dunedin, NZL
-2 NOTE BDM records groom Aged 38 Bride Aged 36
-3 CONT Witness Margaret Jones
+2 DATE 9 Mar 1865
+2 PLAC St Paul's Church Dunedin, NZL
+2 NOTE BDM records groom Aged 28 Bride Aged 26
+3 CONT Witness Lewis Matheson and Elizabeth ?
 2 SUBM @KA_S1@
 1 CHIL @IW1783@
 1 CHIL @IW1782@
@@ -22948,6 +22971,9 @@
 1 WIFE @IW1784@
 1 HUSB @IWS698@
 1 CHIL @I1279@
+1 CHIL @I1482@
+1 CHIL @I1483@
+1 CHIL @I1484@
 1 MARR
 2 DATE 1913
 2 SOUR NZ BDM 1913/8931
@@ -26050,13 +26076,24 @@
 1 FAMS @F300@
 0 @I420@ INDI
 1 SEX F
-1 NAME Emily /BURROWES/
+1 NAME Maria Emily /BURROWES/
+1 BIRT
+2 DATE 22 FEB 1842
+2 PLAC Georgetown, British Guiana
+2 SOUR British Guiana Colonists Index
 1 FAMC @F268@
 1 FAMS @F301@
 0 @I421@ INDI
 1 SEX M
-1 NAME Frank /Conyers/
+1 NAME Francis (Frank) Albouy /Conyers/
+1 BIRT
+2 DATE 1 Jun 1836
+1 NOTE Argosy 1909
+2 CONT CONYERS, Frank Albuoys: Manager, British Guiana Bank (Robb Street, Robbstown), born Georgetown, 
+2 CONT ed. Queen's College, entered BG Bank as junior clerk; appointed Manager in 1904; 
+2 CONT used to be one of the best rifle shots in the colony.
 1 FAMS @F301@
+1 FAMC @F631@
 0 @I422@ INDI
 1 SEX F
 1 NAME Sarah Alleyne /MANSFIELD/
@@ -27667,16 +27704,51 @@
 0 @I671@ INDI
 1 NAME Edwin /Conyers/
 1 SEX M
+1 DEAT
+2 DATE BEF APR 1930
 1 FAMC @F301@
 1 FAMS @F392@
 0 @I672@ INDI
-1 NAME Dorothy /Conyers/
+1 NAME Dorothy May /Conyers/
+1 NOTE M.R.C.S., L.R.C.P
 1 SEX F
+1 BIRT
+2 DATE 1902
+2 PLAC British Guiana
 1 FAMC @F392@
+1 FAMS @F648@
 0 @I673@ INDI
-1 NAME James /Conyers/
+1 NAME James Hill /Conyers/
 1 SEX M
 1 OCCU Chief Surgeon
+1 DEAT
+2 DATE 4 FEB 1940
+1 NOTE British Medical Journal Feb 24 1940
+2 CONT J. H. CONYERS Late Surgeon-General, British Guiana
+2 CONT By the death of Dr. James Hill Conyers at Hove on February 4 (writes K. S. W.) there passed away one of the 
+2 CONT most distinguished and beloved members of the medical service of British Guiana. Few lives can have been 
+2 CONT more completely devoted to the service of his fellow people and few have commanded in an equal degree their 
+2 CONT full respect and complete confidence.
+2 CONT 
+2 CONT He was born in British Guiana in 1864, and his early education was passed in the schools of that Colony. He 
+2 CONT soon showed that ability and skill which was to characterize his work interest, and as an operating surgeon 
+2 CONT he continued his career and in 1908 was appointed assistant resident surgeon at the principal hospital. His 
+2 CONT skill and judgment in surgical treatment and his courtesy and kind,considerate manner soon brought him 
+2 CONT promotion,and in 1912 he took over the charge of the New Amsterdam Hospital.    His administrative qualities 
+2 CONT were soon evident,and his reconstruction of the different departments of this hospital being completed in an 
+2 CONT eminently satisfactory manner,he was called to take charge of the principal hospital in Georgetown.In 
+2 CONT 1919,when the Surgeon General of British Guiana was promoted to Trinidad, Dr. J.H.Convyers was recognized as 
+2 CONT the most suitable officer to fill the vacant position,and thus he reached the culminating point of his 
+2 CONT career by holding the principal administrative position in the medical service of the Colony. In 1921 
+2 CONT failing health necessitated his retirement, to the universal regret of al classes of the community. There 
+2 CONT after he lived in England,first at Margate, then in London, and lately at Hove.
+2 CONT 
+2 CONT To those who knew Dr. Conyers intimately he will be chiefly remembered not so much on account of the 
+2 CONT valuable work he accomplished during a long and active life as on account of what he was. He was a man of 
+2 CONT absolute integrity of character,unable to do an unkind,selfish,or unworthy action;afine gentleman of a 
+2 CONT disappearing generation,imbued through and through with a kindly courtesy and aninnate consideration for all 
+2 CONT people from the highest to the lowest. He leaves a widow.also  in the medical profession, and a married 
+2 CONT daughter.
 1 FAMC @F301@
 0 @I674@ INDI
 1 NAME Florence /Conyers/
@@ -28606,10 +28678,14 @@
 3 CONT Mary Dau of Philip and Mary Burrowes, b. 16 Nov 1780
 1 FAMC @F404@
 0 @I828@ INDI
-1 NAME Alice Bryden Autridge
+1 NAME Alice Bryden /Autridge/
 1 SEX F
 1 BIRT
 2 DATE 20 Nov 1909
+1 DEAT
+2 DATE 26 Oct 2004
+2 PLAC New Plymounth
+1 FAMC @F620@
 1 FAMS @F450@
 1 SUBM @FK_S1@
 0 @I829@ INDI
@@ -29313,6 +29389,8 @@
 1 FAMS @F580@
 1 FAMS @F489@
 1 FAMS @F577@
+1 FAMS @F618@
+1 FAMS @F619@
 1 FAMC @F576@
 0 @I935@ INDI
 1 NAME Eliza Anne /Dyer/
@@ -29713,7 +29791,7 @@
 1 NAME Jasmine Mae /Newton/
 1 SEX F
 1 BIRT
-2 DATE ABT 2003
+2 DATE 15 May 2002
 1 FAMC @F445@
 0 @I988@ INDI
 1 NAME Livia Susan /Mantelli/
@@ -31262,7 +31340,7 @@
 1 NAME Walter Riginal /Lawson/
 1 SEX M
 1 BIRT
-2 DATE 1871
+2 DATE 18 Apr 1871
 2 SOUR NZ BDM 1871/26739
 1 FAMC @F577@
 1 NOTE Possible NZ BDM 
@@ -31274,9 +31352,10 @@
 1 NAME George Henry /Lawson/
 1 SEX M
 1 BIRT
-2 DATE 1873
+2 DATE 17 Mar 1873
+2 PLAC Ross
 2 SOUR NZ BDM 1873/13110
-1 FAMC @F577@
+1 FAMC @F618@
 1 NOTE Possible NZ BDM 
 2 CONT 1890/1069    Emily Elizabeth     Potbury     George Henry    Lawson 
 2 CONT Death 1943/27582 Lawson  Emily Elizabeth     67Y
@@ -31286,17 +31365,19 @@
 1 NAME Elizabeth Florence Oliver /Lawson/
 1 SEX F
 1 BIRT
-2 DATE ABT 1875
+2 DATE 4 Nov 1874
 2 SOUR NZ BDM 1875/6151
-1 FAMC @F577@
+2 NOTE Father not recorded, but use of Oliver in her name suggests the father is George
+1 FAMC @F618@
 1 NOTE Possibly married NZ-BDM 1900/1242 Elizabeth Florence Lawson to Philip Lewis 
 0 @I1191@ INDI
 1 NAME Susan Oliver /Lawson/
 1 SEX F
 1 BIRT
-2 DATE ABT 1876
+2 DATE 22 Oct 1876
 2 SOUR NZ BDM 1876/13050
-1 FAMC @F577@
+2 NOTE Father not recorded, but use of Oliver in her name suggests the father is George
+1 FAMC @F618@
 1 NOTE Possible NZ BDM
 2 CONT 1899/3376    Susan   Lawson to Francis William   Allen 
 0 @I1192@ INDI
@@ -31397,9 +31478,9 @@
 1 NAME Maria /Lawson/
 1 SEX F
 1 BIRT
-2 DATE 1879
+2 DATE 1 Mar 1879
 2 SOUR NZ BDM 1879/2134
-1 FAMC @F577@
+1 FAMC @F619@
 0 @I1210@ INDI
 1 FAMC @F141@
 1 NAME Helen Oakley /Richards/
@@ -32525,7 +32606,7 @@
 1 NAME George Henry /Jones/
 1 SEX M
 1 BIRT
-2 DATE 1911
+2 DATE 31 Jul 1911
 2 SOUR NZ BDM 1911/17638
 1 FAMC @F616@
 0 @I1362@ INDI
@@ -32570,6 +32651,826 @@
 2 DATE 1896
 2 SOUR NZ BDM 1896/12110
 1 FAMC @F617@
+0 @I1368@ INDI
+1 NAME George Henry /Olliver/
+1 SEX M
+1 OCCU Miner
+1 FAMS @F618@
+0 @I1369@ INDI
+1 NAME Henry /Autridge/
+1 SEX M
+1 BIRT
+2 DATE  1879
+1 DEAT
+2 DATE 1943
+1 FAMS @F620@
+1 FAMC @F623@
+0 @I1370@ INDI
+1 NAME Caroline Julia /Austin/
+1 SEX F
+1 BIRT
+2 DATE 1881
+1 FAMS @F620@
+1 FAMC @F628@
+0 @I1371@ INDI
+1 NAME Clarence /Autridge/
+1 SEX M
+1 BIRT
+2 DATE 1903
+1 DEAT
+2 DATE 1971
+1 FAMC @F620@
+0 @I1372@ INDI
+1 NAME Maire /Autridge/
+1 SEX F
+1 BIRT
+2 DATE 5 Dec 1904
+1 DEAT
+2 DATE 1973
+1 FAMC @F620@
+1 FAMS @F621@
+0 @I1373@ INDI
+1 NAME James /Autridge/
+1 SEX M
+1 BIRT
+2 DATE 1845
+1 DEAT
+2 DATE 1923
+1 FAMS @F623@
+1 FAMC @F624@
+0 @I1374@ INDI
+1 NAME Olive /Autridge/
+1 SEX F
+1 BIRT
+2 DATE 1907
+1 FAMC @F620@
+1 FAMS @F622@
+0 @I1375@ INDI
+1 NAME James /Doolan/
+1 SEX M
+1 BIRT
+2 DATE 1 Oct 1899
+1 FAMS @F621@
+0 @I1376@ INDI
+1 NAME Newton /Taylor/
+1 SEX M
+1 FAMS @F622@
+0 @I1377@ INDI
+1 NAME Eliza //
+1 SEX F
+1 FAMS @F623@
+0 @I1378@ INDI
+1 NAME Charles /Autridge/
+1 SEX M
+1 BIRT
+2 DATE 1813 
+1 DEAT
+2 DATE 1891
+1 FAMS @F624@
+0 @I1379@ INDI
+1 NAME Frances //
+1 SEX F
+1 BIRT
+2 DATE 1824
+1 DEAT
+2 DATE 1910
+1 FAMS @F624@
+0 @I1380@ INDI
+1 NAME John /Autridge/
+1 SEX M
+1 FAMC @F624@
+0 @I1381@ INDI
+1 NAME Humphrey /Autridge/
+1 SEX M
+1 FAMC @F624@
+0 @I1382@ INDI
+1 NAME Henry /Autridge/
+1 SEX M
+1 FAMC @F624@
+0 @I1383@ INDI
+1 NAME Harriet /Autridge/
+1 SEX F
+1 FAMC @F624@
+0 @I1384@ INDI
+1 NAME Emma /Autridge/
+1 SEX F
+1 FAMC @F624@
+0 @I1385@ INDI
+1 NAME Thomas /Autridge/
+1 SEX M
+1 FAMC @F624@
+0 @I1386@ INDI
+1 NAME Charles /Autridge/
+1 SEX M
+1 FAMC @F624@
+0 @I1387@ INDI
+1 NAME Frances /Autridge/
+1 SEX F
+1 FAMC @F624@
+0 @I1388@ INDI
+1 NAME Lewis /Autridge/
+1 SEX M
+1 FAMC @F624@
+0 @I1389@ INDI
+1 NAME Sarah /Autridge/
+1 SEX F
+1 FAMC @F624@
+0 @I1390@ INDI
+1 NAME Harriet /Autridge/
+1 SEX F
+1 BIRT
+2 DATE 1885
+1 DEAT
+2 DATE 1892
+1 FAMC @F623@
+0 @I1391@ INDI
+1 NAME William /Autridge/
+1 SEX M
+1 BIRT
+2 DATE 1883
+1 DEAT
+2 DATE 1953
+1 FAMC @F623@
+0 @I1392@ INDI
+1 NAME Emma /Autridge/
+1 SEX F
+1 BIRT
+2 DATE 1881
+1 FAMC @F623@
+0 @I1393@ INDI
+1 NAME John /Autridge/
+1 SEX M
+1 BIRT
+2 DATE 1884
+1 DEAT
+2 DATE 1971
+1 FAMC @F623@
+1 FAMS @F627@
+0 @I1394@ INDI
+1 NAME Lewis Edward /Autridge/
+1 SEX M
+1 BIRT
+2 DATE 1878
+1 DEAT
+2 DATE 1963
+1 FAMC @F623@
+1 FAMS @F626@
+0 @I1395@ INDI
+1 NAME Emily /Autridge/
+1 SEX F
+1 BIRT
+2 DATE 1887
+1 DEAT
+2 DATE 1965
+1 FAMC @F623@
+1 FAMS @F625@
+0 @I1396@ INDI
+1 NAME John /Fawcett/
+1 SEX M
+1 FAMS @F625@
+0 @I1397@ INDI
+1 NAME Eliza //
+1 SEX F
+1 BIRT
+2 DATE 1847 
+1 DEAT
+2 DATE 1910
+1 FAMS @F626@
+0 @I1398@ INDI
+1 NAME Margaret Ann /Livingston/
+1 SEX F
+1 BIRT
+2 DATE 21 Jan 1886
+1 DEAT
+2 DATE 1986
+1 FAMS @F627@
+0 @I1399@ INDI
+1 NAME Louis Eric /Autridge/
+1 SEX M
+1 BIRT
+2 DATE 9 Jun 1912
+1 DEAT
+2 DATE 1999
+1 FAMC @F627@
+0 @I1400@ INDI
+1 NAME Elizabeth Alice /Austin/
+1 SEX F
+1 BIRT
+2 DATE ABT 1875
+2 SOUR NZ BDM 1875/689
+1 FAMC @F628@
+0 @I1401@ INDI
+1 NAME Frederick Thomas /Austin/
+1 SEX M
+1 BIRT
+2 DATE ABT 1876
+2 SOUR NZ BDM 1876/16122
+1 FAMC @F628@
+0 @I1402@ INDI
+1 NAME George Edmund /Austin/
+1 SEX M
+1 BIRT
+2 DATE ABT 1883
+2 SOUR NZ BDM 1883/6526
+1 FAMC @F628@
+0 @I1403@ INDI
+1 NAME Charles Hyram /Austin/
+1 SEX M
+1 BIRT
+2 DATE ABT 1887
+2 SOUR NZ BDM 1887/9502
+1 FAMC @F628@
+0 @I1404@ INDI
+1 NAME Stephen Henry /Austin/
+1 SEX M
+1 BIRT
+2 DATE ABT 1888
+2 SOUR NZ BDM 1888/7831
+1 FAMC @F628@
+0 @I1405@ INDI
+1 NAME Frederick /Austin/
+1 SEX M
+1 FAMS @F628@
+0 @I1406@ INDI
+1 NAME Phoebe Louisa //
+1 SEX F
+1 FAMS @F628@
+0 @I1407@ INDI
+1 NAME Charles /Conyers/
+1 SEX M
+1 BIRT
+2 DATE Abt. 1781
+2 PLAC Bermuda
+1 DEAT
+2 DATE 6 March 1862
+2 PLAC Brick Dam, Georgetown, Demerara, British Guiana
+1 FAMS @F629@
+1 FAMS @F631@
+1 FAMC @F632@
+0 @I1408@ INDI
+1 NAME SUSAN BUTTERFIELD /INGHAM/
+1 SEX F
+1 BIRT
+2 DATE Abt 1805
+2 PLAC Bermuda
+1 DEAT
+2 DATE 1 May 1866
+2 PLAC Georgetown, Demerara, British Guiana
+1 FAMC @F630@
+1 FAMS @F631@
+0 @I1409@ INDI
+1 NAME SAMUEL /INGHAM/
+1 SEX M
+1 FAMS @F630@
+0 @I1410@ INDI
+1 NAME Mary /BUTTERFIELD/
+1 SEX F
+1 FAMS @F630@
+0 @I1411@ INDI
+1 NAME CHARLES MORTIMER /Conyers/
+1 SEX M
+1 BIRT
+2 DATE Abt 1802
+2 PLAC Paget, Bermuda
+1 DEAT
+2 DATE 17 Jan 1856
+2 PLAC at home, Paget, Bermuda
+1 FAMC @F629@
+1 FAMS @F634@
+1 FAMS @F636@
+0 @I1412@ INDI
+1 NAME Samuel /Conyers/
+1 SEX M
+1 BIRT
+2 DATE Abt 1800
+1 DEAT
+2 DATE 2 Jan 1849
+2 PLAC Demerara, British Guiana
+1 FAMC @F629@
+0 @I1413@ INDI
+1 NAME MARY BUTTERFIELD /Conyers/
+1 SEX F
+1 FAMC @F631@
+0 @I1414@ INDI
+1 NAME ELIZA SARAH /Conyers/
+1 SEX F
+1 BIRT
+2 DATE 25 Aug 1833
+1 FAMC @F631@
+0 @I1415@ INDI
+1 NAME EMILY AUGUSTA /Conyers/
+1 SEX F
+1 BIRT
+2 DATE 22 Aug 1838
+1 FAMC @F631@
+0 @I1416@ INDI
+1 NAME JAMES FALTUS /Conyers/
+1 SEX M
+1 BIRT
+2 DATE 2 Jun 1841
+1 DEAT
+2 DATE 20 Dec 1896
+2 NOTE SATURDAY DECEMBER 26 1896 P 4 COL
+3 CONT Died
+3 CONT CONYERS - On the 20th December, 1896, in his 56th year, at residence of his nephew, Dr. J.E. Godfrey, 
+3 CONT 'Littledale', Friendship, Demerara, Brigade-Surgeon, James Faltus Conyers, M.D., on the retired list of the 
+3 CONT Army medical Staff, (formerly of the 8th King's); third son of the late Charles and Susan Butterfield
+3 CONT Conyers, of this Colony.
+1 FAMC @F631@
+0 @I1417@ INDI
+1 NAME /Conyers/
+1 SEX M
+1 FAMS @F632@
+0 @I1418@ INDI
+1 NAME Sarah /Conyers/
+1 SEX F
+1 BIRT
+2 DATE 1780
+2 PLAC Bermuda
+1 DEAT
+2 DATE 5 Jul 1852
+2 PLAC St Cloud, Paget, Bermuda
+1 FAMC @F632@
+0 @I1419@ INDI
+1 NAME James /Conyers/
+1 SEX M
+1 FAMS @F633@
+0 @I1420@ INDI
+1 NAME Sarah /HUTCHINGS/
+1 SEX F
+1 FAMS @F633@
+0 @I1421@ INDI
+1 NAME SARAH FRANCES /Conyers/
+1 SEX F
+1 BIRT
+2 DATE 1800
+2 PLAC Bermuda
+1 DEAT
+2 DATE 2 Dec 1844
+2 PLAC Harmony Hall, Paget, Bermuda
+1 FAMC @F633@
+1 FAMS @F634@
+0 @I1422@ INDI
+1 NAME ELIZA MARGARET /INGHAM/
+1 SEX F
+1 BIRT
+2 DATE Abt 1820
+2 DATE Paget, Bermuda
+1 DEAT
+2 DATE 24 Jan 1899
+2 PLAC Dudley, Paget, Bermuda
+1 FAMC @F635@
+1 FAMS @F636@
+0 @I1423@ INDI
+1 NAME CHARLES MARISCHAL MORTIMER /Conyers/
+1 SEX M
+1 BIRT
+2 DATE 7 Nov 1844
+2 PLAC Paget, Bermuda
+1 DEAT
+2 DATE 25 Mar 1888
+2 PLAC Brooklyn, NY
+1 FAMC @F634@
+1 FAMS @F641@
+0 @I1424@ INDI
+1 NAME VALERIA ANN LOCKHART /Conyers/
+1 SEX F
+1 BIRT
+2 DATE 25 Oct 1826
+2 PLAC Paget, Bermuda
+1 DEAT
+2 DATE 30 Aug 1892
+2 PLAC NYC, NY
+1 FAMC @F634@
+1 FAMS @F637@
+0 @I1425@ INDI
+1 NAME LAURA ELIZABETH /Conyers/
+1 SEX F
+1 BIRT
+2 DATE 23 Dec 1829
+2 PLAC Paget, Bermuda
+1 DEAT
+2 DATE 30 Dec 1853
+2 PLAC Norfolk, Virginia
+1 FAMC @F634@
+1 FAMS @F643@
+0 @I1426@ INDI
+1 NAME SARAH EMMA /Conyers/
+1 SEX F
+1 BIRT
+2 DATE 6 Jan 1834
+2 PLAC Paget, Bermuda
+1 DEAT
+2 DATE 1 Jun 1890
+2 PLAC St Cloud, Paget, Bermuda
+1 FAMC @F634@
+1 FAMS @F638@
+0 @I1427@ INDI
+1 NAME MARY LOUISA /Conyers/
+1 SEX F
+1 BIRT
+2 DATE 3 Feb 1839
+2 PLAC Paget, Bermuda
+1 FAMC @F634@
+1 FAMS @F639@
+0 @I1428@ INDI
+1 NAME /Conyers/
+1 BIRT
+2 DATE 6 Nov 1844
+2 PLAC Harmony Hall, Paget, Bermuda
+1 FAMC @F634@
+0 @I1429@ INDI
+1 NAME Lucy /Conyers/
+1 SEX F
+1 BIRT
+2 DATE 8 Apr Nov 1848
+2 PLAC Harmony Hall, Paget, Bermuda
+1 FAMC @F636@
+0 @I1430@ INDI
+1 NAME JOSEPH YATES /Conyers/
+1 SEX M
+1 BIRT
+2 DATE 15 Feb 1850
+2 PLAC Harmony Hall, Paget, Bermuda
+1 DEAT
+2 DATE 12 Sep 1908
+2 PLAC NY, NY
+1 FAMC @F636@
+0 @I1431@ INDI
+1 NAME HEBERT ALLEYNE /Conyers/
+1 SEX M
+1 BIRT
+2 DATE 2 Jul 1852
+2 PLAC St Cloud, Paget, Bermuda
+1 FAMC @F636@
+0 @I1432@ INDI
+1 NAME HELEN MARY SARGENT /Conyers/
+1 SEX F
+1 BIRT
+2 DATE 8 Apr 1848
+2 PLAC Cheapside, Paget, Bermuda
+1 FAMC @F636@
+1 FAMS @F640@
+0 @I1433@ INDI
+1 NAME ELIZA CHAPMAN /Conyers/
+1 SEX F
+1 BIRT
+2 DATE 24 Jul 1854
+2 PLAC Cheapside, Paget, Bermuda
+1 FAMC @F636@
+0 @I1434@ INDI
+1 NAME SAMUEL /INGHAM/
+1 SEX M
+1 FAMS @F635@
+0 @I1435@ INDI
+1 NAME ELIZABETH /FRITH/
+1 SEX F
+1 FAMS @F635@
+0 @I1436@ INDI
+1 NAME EDWIN AUGUSTUS /SMITH/
+1 SEX M
+1 BIRT
+2 DATE 9 Oct 1829
+2 PLAC Paget, Bermuda
+1 DEAT
+2 DATE 13 Jul 1893
+2 PLAC St Cloud, Paget, Bermuda.
+1 FAMS @F637@
+0 @I1437@ INDI
+1 NAME HENRY DANIEL SMITH /FRITH/
+1 SEX M
+1 BIRT
+2 DATE 1820
+2 PLAC Rosemount, Paget, Bermuda
+1 DEAT
+2 DATE 7 Dec 1871
+2 PLAC residence, Warwick, Bermuda
+1 FAMS @F638@
+0 @I1438@ INDI
+1 NAME ERASTUS BROWN /JONES/
+1 SEX M
+1 FAMS @F639@
+0 @I1439@ INDI
+1 NAME CHARLES WILLIAM /BAILLIE/
+1 SEX M
+1 FAMS @F640@
+0 @I1440@ INDI
+1 NAME MARY JANE /LYONS/
+1 SEX F
+1 BIRT
+2 DATE Glasgow, Scotland
+1 FAMS @F641@
+1 FAMC @F642@
+0 @I1441@ INDI
+1 NAME ROBERT /LYONS/
+1 SEX M
+1 FAMS @F642@
+0 @I1442@ INDI
+1 NAME CHARLES M /CONYERS/
+1 SEX M
+1 BIRT
+2 DATE 20 Nov 1868
+2 PLAC NYC, NY
+1 DEAT
+2 DATE 16 Jul 1869
+2 PLAC Wilton, Conn.
+1 FAMC @F641@
+0 @I1443@ INDI
+1 NAME JOSEPH C /CONYERS/
+1 SEX M
+1 BIRT
+2 DATE 11 Mar 1870
+2 PLAC Brooklyn, NY
+1 DEAT
+2 DATE 11 Mar 1870
+2 PLAC Brooklyn, NY.
+1 FAMC @F641@
+0 @I1444@ INDI
+1 NAME /Conyers/
+1 BIRT
+2 DATE 16 Jul 1872
+2 PLAC Brooklyn, NY
+1 FAMC @F641@
+0 @I1445@ INDI
+1 NAME MABEL LOUISE /CONYERS/
+1 SEX F
+1 BIRT
+2 DATE 21 Sep 1874
+2 PLAC Brooklyn, NY
+1 FAMC @F641@
+1 FAMS @F645@
+0 @I1446@ INDI
+1 NAME WILLIAM BAILLIE /CONYERS/
+1 SEX M
+1 BIRT
+2 DATE 13 Aug 1876
+2 PLAC Montclair, NJ
+1 DEAT
+2 DATE 4 Dec 1877
+2 PLAC Montclair, NJ
+1 FAMC @F641@
+0 @I1447@ INDI
+1 NAME /CONYERS/
+1 BIRT
+2 DATE 7 Mar 1878
+2 PLAC Montclair, NJ.
+1 FAMC @F641@
+0 @I1448@ INDI
+1 NAME MARY LOCKHART /CONYERS/
+1 SEX F
+1 BIRT
+2 DATE 17 Aug 1879
+2 PLAC Harlem, NY
+1 DEAT
+2 DATE 7 Jul 1880
+2 PLAC Denville, NY.
+1 FAMC @F641@
+0 @I1449@ INDI
+1 NAME GILBERT LOCKHART /CONYERS/
+1 SEX M
+1 BIRT
+2 DATE 14 Feb 1881
+2 PLAC Harlem, NY
+1 DEAT
+2 DATE 18 Oct 1883
+2 PLAC Harlem, NY.
+1 FAMC @F641@
+0 @I1450@ INDI
+1 NAME /CONYERS/
+1 BIRT
+2 DATE 20 Aug 1882
+2 PLAC Harlem, NY
+1 FAMC @F641@
+0 @I1451@ INDI
+1 NAME /CONYERS/
+1 BIRT
+2 DATE 19 Sep 1883
+2 PLAC Harlem, NY.
+1 FAMC @F641@
+0 @I1452@ INDI
+1 NAME /CONYERS/
+1 BIRT
+2 DATE 30 Jul 1885
+2 PLAC Harlem, NY
+1 FAMC @F641@
+0 @I1453@ INDI
+1 NAME ETHEL LILLIAN /CONYERS/
+1 SEX F
+1 BIRT
+2 DATE 8 Feb 1887
+2 PLAC Harlem, NY
+1 DEAT
+2 DATE 30 Jul 1887
+2 PLAC Harlem, NY.
+1 FAMC @F641@
+0 @I1454@ INDI
+1 NAME EDWIN AUGUSTUS /SMITH/
+1 SEX M
+1 BIRT
+2 DATE 9 Oct 1829
+2 PLAC Paget, Bermuda
+1 DEAT
+2 DATE 13 Jul 1893
+2 PLAC St Cloud, Paget, Bermuda.
+1 FAMS @F643@
+1 FAMC @F644@
+0 @I1455@ INDI
+1 NAME DANIEL /SMITH/
+1 SEX M
+1 FAMS @F644@
+0 @I1456@ INDI
+1 NAME SARAH /FOWLE/
+1 SEX F
+1 FAMS @F644@
+0 @I1457@ INDI
+1 NAME LAURA E CONYERS /SMITH/
+1 BIRT
+2 DATE Abt. 1853
+2 PLAC Warwick, Bermuda.
+1 FAMC @F643@
+1 FAMS @F647@
+0 @I1458@ INDI
+1 NAME FAIRLIE /INGHAM/
+1 SEX M
+1 BIRT
+2 DATE 22 Jan 1866
+2 PLAC Dudley, Paget, Bermuda
+1 FAMS @F645@
+1 FAMC @F646@
+0 @I1459@ INDI
+1 NAME PHILIP CHARLES NELSON /INGHAM/
+1 SEX M
+1 BIRT
+2 DATE 1894
+2 PLAC Paget, Bermuda
+1 FAMC @F645@
+0 @I1460@ INDI
+1 NAME SAMUEL /INGHAM/
+1 SEX M
+1 FAMS @F646@
+0 @I1461@ INDI
+1 NAME MARGARET /LEAYCRAFT/
+1 SEX F
+1 FAMS @F646@
+0 @I1462@ INDI
+1 NAME JAMES MORRISON /DARRELL/
+1 SEX M
+1 BIRT
+2 DATE Abt. 1850
+1 FAMS @F647@
+0 @I1463@ INDI
+1 NAME CONYERS /DARRELL/
+1 FAMC @F647@
+0 @I1464@ INDI
+1 NAME WALTER /DARRELL/
+1 SEX M
+1 FAMC @F647@
+0 @I1465@ INDI
+1 NAME EDITH CONYERS /DARRELL/
+1 SEX F
+1 BIRT
+2 DATE 24 Apr 1875
+2 PLAC Pleasant Retreat, Paget, Bermuda
+1 FAMC @F647@
+0 @I1466@ INDI
+1 NAME LAURA SMITH /DARRELL/
+1 SEX F
+1 BIRT
+2 DATE 30 Jan 1877
+2 PLAC Presbyterian Register, Bermuda.
+1 FAMC @F647@
+0 @I1467@ INDI
+1 NAME JAMES MORRISON /DARRELL/
+1 SEX M
+1 BIRT
+2 DATE 28 Oct 1880
+2 PLAC Pembroke, Bermuda.
+1 FAMC @F647@
+0 @I1468@ INDI
+1 NAME EDWIN SMITH /DARRELL/
+1 SEX M
+1 BIRT
+2 DATE 19 Jan 1888
+2 PLAC Presbyterian Register, Bermuda
+1 FAMC @F647@
+0 @I1469@ INDI
+1 NAME Roslyn /Ernst/
+1 SEX M
+1 NOTE M.B., B.S
+1 FAMS @F648@
+1 FAMC @F649@
+0 @I1470@ INDI
+1 NAME Max /Ernst/
+1 SEX M
+1 NOTE of Noak Hill, Essex
+1 FAMS @F649@
+0 @I1471@ INDI
+1 NAME Alfred James /Conyers/
+1 SEX M
+1 OCCU Barrister-at-law
+1 FAMC @F392@
+1 FAMS @F650@
+0 @I1472@ INDI
+1 NAME Margaret Severn (Peggy) /Barker/
+1 SEX F
+1 FAMS @F650@
+1 FAMC @F651@
+0 @I1473@ INDI
+1 NAME J H /Barker/
+1 SEX M
+1 NOTE of Four Winds, Church Stretton, Shropshire.
+1 FAMS @F651@
+0 @I1474@ INDI
+1 NAME Alfred William /Swain/
+1 SEX M
+1 FAMC @F652@
+1 FAMS @F653@
+0 @I1475@ INDI
+1 NAME Charles O /Swain/
+1 SEX M
+1 NOTE Assistant Commissary General
+1 FAMS @F652@
+0 @I1476@ INDI
+1 NAME Lily /Conyers/
+1 SEX F
+1 BIRT
+2 DATE Abt 1872
+1 DEAT
+2 DATE 17 Mar 1891
+2 AGE 18
+2 NOTE SATURDAY MARCH 21 1891 P 4 COL 1
+3 CONT CONYERS - At "the Cedars", Carmichael Street, on the 17th instant, Lily, the beloved daughter of Frank and 
+3 CONT Emily Conyers, aged 18 years.
+1 FAMC @F301@
+0 @I1477@ INDI
+1 NAME Dorothea /Cannon/
+1 SEX F
+1 FAMS @F392@
+0 @I1478@ INDI
+1 NAME Peter /Ernst/
+1 SEX M
+1 FAMC @F648@
+0 @I1479@ INDI
+1 NAME Emily /Conyers/
+1 SEX F
+1 FAMC @F301@
+1 FAMS @F653@
+0 @I1480@ INDI
+1 NAME Joseph Jones
+1 SEX M
+1 OCCU Gunsmith
+1 FAMS @F654@
+0 @I1481@ INDI
+1 NAME Mary Jane /Harris/
+1 SEX F
+1 FAMS @F655@
+0 @I1482@ INDI
+1 NAME Henry /Phillips/
+1 SEX M
+1 FAMC @FW778@
+1 FAMS @F656@
+0 @I1483@ INDI
+1 NAME Ruby /Phillips/
+1 SEX F
+1 FAMC @FW778@
+1 FAMS @F657@
+0 @I1484@ INDI
+1 NAME Olive Sarah /Phillips/
+1 SEX F
+1 FAMC @FW778@
+1 FAMS @F658@
+1 FAMS @F659@
+1 FAMS @F660@
+0 @I1485@ INDI
+1 NAME Dorothy //
+1 SEX F
+1 FAMS @F656@
+0 @I1486@ INDI
+1 NAME Ben /Coleman/
+1 SEX M
+1 OCCU Farmer, Bulls
+1 FAMS @F657@
+0 @I1487@ INDI
+1 NAME Stewart /Cameron/
+1 SEX M
+1 FAMS @F658@
+0 @I1488@ INDI
+1 NAME Ike /Cornwall/
+1 SEX M
+1 FAMS @F659@
+0 @I1489@ INDI
+1 NAME Bertram /Hodge/
+1 SEX M
+1 FAMS @F660@
+0 @I1490@ INDI
+1 NAME Donna Marie /Hodge/
+1 SEX F
+1 FAMC @F660@
+0 @I1491@ INDI
+1 NAME Gail Lorraine /Cameron/
+1 SEX F
+1 NOTE Adopted by first cousin
+1 FAMC @F658@
 0 @F1@ FAM
 1 HUSB @I1@
 1 WIFE @I2@
@@ -33700,10 +34601,14 @@
 0 @F301@ FAM
 1 HUSB @I421@
 1 WIFE @I420@
+1 MARR
+2 SOUR British Guiana Colonists Index
 1 CHIL @I670@
 1 CHIL @I671@
 1 CHIL @I673@
+1 CHIL @I1479@
 1 CHIL @I674@
+1 CHIL @I1476@
 0 @F302@ FAM
 1 HUSB @I423@
 1 WIFE @I422@
@@ -34159,7 +35064,9 @@
 1 CHIL @I663@
 0 @F392@ FAM
 1 HUSB @I671@
+1 WIFE @I1477@
 1 CHIL @I672@
+1 CHIL @I1471@
 0 @F393@ FAM
 1 HUSB @I664@
 1 WIFE @I677@
@@ -35344,10 +36251,6 @@
 1 CHIL @I1186@
 1 CHIL @I1187@
 1 CHIL @I1188@
-1 CHIL @I1189@
-1 CHIL @I1190@
-1 CHIL @I1191@
-1 CHIL @I1209@
 1 MARR
 2 PLAC Scots Church, Sydney NSW, Australia
 2 DATE 5 Feb 1864
@@ -35363,7 +36266,7 @@
 1 WIFE @I218@
 1 CHIL @I986@
 1 MARR
-2 DATE 2007
+2 DATE 25 Oct 2007
 0 @F579@ FAM
 1 HUSB @I217@
 1 WIFE @I1194@
@@ -35673,6 +36576,271 @@
 1 MARR
 2 DATE 1879
 2 SOUR NZ BDM 1879/468
+0 @F618@ FAM
+1 HUSB @I1368@
+1 WIFE @I934@
+1 CHIL @I1189@
+1 CHIL @I1190@
+1 CHIL @I1191@
+1 NOTE Not married.
+0 @F619@ FAM
+1 WIFE @I934@
+1 CHIL @I1209@
+1 NOTE No father recorded
+0 @F620@ FAM
+1 HUSB @I1369@
+1 WIFE @I1370@
+1 CHIL @I1371@
+1 CHIL @I1372@
+1 CHIL @I1374@
+1 CHIL @I828@
+1 MARR
+2 DATE 1903
+2 PLAC NZL
+2 SOUR NZ BDM 
+0 @F621@ FAM
+1 HUSB @I1375@
+1 WIFE @I1372@
+0 @F622@ FAM
+1 HUSB @I1376@
+1 WIFE @I1374@
+0 @F623@ FAM
+1 HUSB @I1373@
+1 WIFE @I1377@
+1 CHIL @I1369@
+1 CHIL @I1390@
+1 CHIL @I1391@
+1 CHIL @I1392@
+1 CHIL @I1393@
+1 CHIL @I1394@
+1 CHIL @I1395@
+0 @F624@ FAM
+1 HUSB @I1378@
+1 WIFE @I1379@
+1 CHIL @I1380@
+1 CHIL @I1373@
+1 CHIL @I1381@
+1 CHIL @I1382@
+1 CHIL @I1383@
+1 CHIL @I1384@
+1 CHIL @I1385@
+1 CHIL @I1386@
+1 CHIL @I1387@
+1 CHIL @I1388@
+1 CHIL @I1389@
+0 @F625@ FAM
+1 HUSB @I1396@
+1 WIFE @I1395@
+0 @F626@ FAM
+1 HUSB @I1394@
+1 WIFE @I1397@
+0 @F627@ FAM
+1 HUSB @I1393@
+1 WIFE @I1398@
+1 CHIL @I1399@
+0 @F628@ FAM
+1 HUSB @I1405@
+1 WIFE @I1406@
+1 CHIL @I1400@
+1 CHIL @I1401@
+1 CHIL @I1370@
+1 CHIL @I1402@
+1 CHIL @I1403@
+1 CHIL @I1404@
+1 NOTE <img src="/FamilyTree/pics/austin-72DPI.jpg">
+0 @F629@ FAM
+1 HUSB @I1407@
+1 CHIL @I1411@
+1 CHIL @I1412@
+0 @F630@ FAM
+1 HUSB @I1409@
+1 WIFE @I1410@
+1 CHIL @I1408@
+0 @F631@ FAM
+1 HUSB @I1407@
+1 WIFE @I1408@
+1 CHIL @I1413@
+1 CHIL @I1414@
+1 CHIL @I421@
+1 CHIL @I1415@
+1 CHIL @I1416@
+1 MARR
+2 DATE 18 JAN 1830
+2 PLAC Dudley Place, Paget, Bermuda
+0 @F632@ FAM
+1 HUSB @I1417@
+1 CHIL @I1407@
+1 CHIL @I1418@
+0 @F633@ FAM
+1 HUSB @I1419@
+1 WIFE @I1420@
+1 CHIL @I1421@
+0 @F634@ FAM
+1 HUSB @I1411@
+1 WIFE @I1421@
+1 MARR
+2 DATE 15 Nov 1825
+2 PLAC Paget, Bermuda
+1 CHIL @I1423@
+1 CHIL @I1424@
+1 CHIL @I1425@
+1 CHIL @I1426@
+1 CHIL @I1427@
+1 CHIL @I1428@
+0 @F635@ FAM
+1 HUSB @I1434@
+1 WIFE @I1435@
+1 CHIL @I1422@
+0 @F636@ FAM
+1 HUSB @I1411@
+1 WIFE @I1422@
+1 CHIL @I1429@
+1 CHIL @I1430@
+1 CHIL @I1431@
+1 CHIL @I1432@
+1 CHIL @I1433@
+1 MARR
+2 DATE 25 May 1847
+2 PLAC St Annes, Southampton, Bermuda
+0 @F637@ FAM
+1 HUSB @I1436@
+1 WIFE @I1424@
+1 MARR
+2 DATE 22 Nov 1864
+2 PLAC Tarrytown, NY
+0 @F638@ FAM
+1 HUSB @I1437@
+1 WIFE @I1426@
+1 MARR
+2 DATE 13 Dec 1870
+2 PLAC St Paul's, Paget, Bermuda
+0 @F639@ FAM
+1 HUSB @I1438@
+1 WIFE @I1427@
+1 MARR
+2 DATE 28 Apr 1887
+2 PLAC St Paul's, Paget, Bermuda
+0 @F640@ FAM
+1 HUSB @I1439@
+1 WIFE @I1432@
+1 MARR
+2 DATE 13 May 1867
+2 PLAC Paget, Bermuda.
+0 @F641@ FAM
+1 HUSB @I1423@
+1 WIFE @I1440@
+1 CHIL @I1442@
+1 CHIL @I1443@
+1 CHIL @I1444@
+1 CHIL @I1445@
+1 CHIL @I1446@
+1 CHIL @I1447@
+1 CHIL @I1448@
+1 CHIL @I1449@
+1 CHIL @I1450@
+1 CHIL @I1451@
+1 CHIL @I1452@
+1 CHIL @I1453@
+1 MARR
+2 DATE 21 Apr 1867
+2 PLAC NYC, NY
+0 @F642@ FAM
+1 HUSB @I1441@
+1 CHIL @I1440@
+0 @F643@ FAM
+1 HUSB @I1454@
+1 WIFE @I1425@
+1 MARR
+2 DATE 13 Sep 1853
+2 PLAC St Paul's, Paget, Bermuda
+1 CHIL @I1457@
+0 @F644@ FAM
+1 HUSB @I1455@
+1 WIFE @I1456@
+0 @F645@ FAM
+1 HUSB @I1458@
+1 WIFE @I1445@
+1 CHIL @I1459@
+1 MARR
+2 DATE 20 Jun 1893
+2 PLAC St Paul's, Paget, Bermuda
+0 @F646@ FAM
+1 HUSB @I1460@
+1 WIFE @I1461@
+1 CHIL @I1458@
+0 @F647@ FAM
+1 HUSB @I1462@
+1 WIFE @I1457@
+1 CHIL @I1463@
+1 CHIL @I1464@
+1 CHIL @I1465@
+1 CHIL @I1466@
+1 CHIL @I1467@
+1 CHIL @I1468@
+1 MARR
+2 DATE 9 Apr 1874
+2 PLAC St Paul's, Paget, Bermuda.
+0 @F648@ FAM
+1 HUSB @I1469@
+1 WIFE @I672@
+1 ENGA
+2 NOTE London Times 22nd Apr 1930
+3 CONT ERNST - CONYERS: The Eng is announced between M. Roslyn Ernst, M.B., B.S., only son of Mr. and 3 
+3 CONT Mrs. Max Ernst, of Noak Hill, Essex, and Dorothy M. Conyers, M.R.C.S., L.R.C.P., elder daughter 
+3 CONT of the late Mr. and Mrs. Edwin Conyers, of Georgetown, British Guiana. 
+1 CHIL @I1478@
+0 @F649@ FAM
+1 HUSB @I1470@
+1 CHIL @I1469@
+0 @F650@ FAM
+1 HUSB @I1471@
+1 WIFE @I1472@
+1 ENGA
+2 NOTE London Times 17 Oct 1928
+3 CONT CONYERS - BARKER: The Eng is announced between Alfred James Conyers, barrister-at-law of the 3
+3 CONT Inner Temple, son of the late Mr. and Mrs. Edwin Conyers, of Georgetown, British Guiana, and 
+3 CONT Margaret Severn (Peggy) Barker, eldest daughter of Mr. and Mrs. J.H. Barker, of Four Winds, 
+3 CONT Church Stretton, Shropshire.
+0 @F651@ FAM
+1 HUSB @I1473@
+1 CHIL @I1472@
+0 @F652@ FAM
+1 HUSB @I1475@
+1 CHIL @I1474@
+0 @F653@ FAM
+1 HUSB @I1474@
+1 WIFE @I1479@
+1 MARR
+2 NOTE Argosy Guiana SATURDAY NOVEMBER 23 1895 P 4 COL 1
+3 CONT SWAIN-CONYERS  On Thursday, 21st Nov., at St George's Cathedral, Georgetown, British Guiana, by 
+3 CONT the Right Revd. the Lord Bishop of the Diocese, assisted by the Very Revd. Dean Caswell, and the 
+3 CONT Revd. Canon Stevenson, Alfred William Swain, Lieut. in the British Guiana Militia, and fourth 
+3 CONT son of the late Assistant Commissary General, Charles O. Swain, to Emily, eldest daughter of 
+3 CONT Francis Albouy Conyers.Descendants of Conyers
+0 @F654@ FAM
+1 HUSB @I1480@
+1 CHIL @IW1641@
+0 @F655@ FAM
+1 HUSB @IW1779@
+1 WIFE @I1481@
+0 @F656@ FAM
+1 HUSB @I1482@
+1 WIFE @I1485@
+0 @F657@ FAM
+1 HUSB @I1486@
+1 WIFE @I1483@
+1 NOTE No Children
+0 @F658@ FAM
+1 HUSB @I1487@
+1 WIFE @I1484@
+1 CHIL @I1491@
+0 @F659@ FAM
+1 HUSB @I1488@
+1 WIFE @I1484@
+0 @F660@ FAM
+1 HUSB @I1489@
+1 WIFE @I1484@
+1 CHIL @I1490@
 0 @AG_S1@ SUBM
 1 NAME Anne /Galpin/
 1 NOTE Email May 2001 reference to Prouse Family Tree book written in 1998
