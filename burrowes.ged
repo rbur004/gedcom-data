@@ -3700,17 +3700,21 @@
 0 @IW473@ INDI
 1 SOUR @SIW1@
 1 FAMC @FW13@
-1 NAME Daniel /SHEEHAN/
+1 NAME Daniel Alphonso /SHEEHAN/
 1 BIRT
 2 DATE 1890
 2 PLAC Ashburton, NZL
 1 DEAT
 2 PLAC World War 1
+2 DATE 13 Apr 1919
+2 CAUS Drowned
+2 SOUR The Great War 1914 1918 New Zealand Expeditionary Force Roll of Honour
+2 NOTE 1919 Apr 13	54088	Private	SHEEHAN	Daniel Alphonso	CIR	Drowned	UK	Son of Patrick and Mary Sheehan, of Ashburton. Canterbury, New Zealand	UK - BROOKWOOD MILITARY CEMETERY
 0 @IW474@ INDI
 1 SOUR @SIW1@
 1 FAMS @FW258@
 1 FAMC @FW13@
-1 NAME Richard Patrick /SHEEHAN/
+1 NAME Richard Patrick Dominic /SHEEHAN/
 1 SEX M
 1 BIRT
 2 DATE 17 Mar 1892
@@ -9084,7 +9088,7 @@
 0 @IW1248@ INDI
 1 SOUR @SIW1@
 1 FAMC @FW116@
-1 NAME Anika /SIMPSON/
+1 NAME Annaka /SIMPSON/
 0 @IW1249@ INDI
 1 SOUR @SIW1@
 1 FAMC @FW594@
@@ -14424,8 +14428,11 @@
 0 @IWS233@ INDI
 1 SOUR @SIW1@
 1 FAMS @FW258@
-1 NAME Sarah Edith (Ettie) /HANSEN/
+1 NAME Sarah Edith (Ettie) Elizabeth /HANSEN/
 1 SEX F
+1 BIRT
+2 DATE 25 Jul 1890
+2 SOUR NZ BDM ref 1890/16943 Hansen Sarah Edith Elizabeth Mother: Lucy Elizabeth Father: Christian Ludwick
 0 @IWS234@ INDI
 1 SOUR @SIW1@
 1 FAMS @FW259@
@@ -19206,8 +19213,9 @@
 1 SOUR @SIW1@
 1 HUSB @IW474@
 1 WIFE @IWS233@
+1 NOTE https://www.bdmhistoricalrecords.dia.govt.nz search for 26/09/1917 Ref 1917/5181 Bride: Sarah Edith Elizabeth Hansen Groom Richard Patrick Dominic Sheehan
 1 MARR
-2 DATE 25 Sep 1917
+2 DATE 26 Sep 1917
 1 CHIL @IW493@
 1 CHIL @IW494@
 1 CHIL @IW495@
