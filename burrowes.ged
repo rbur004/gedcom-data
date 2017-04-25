@@ -24022,7 +24022,7 @@
 1 FAMC @F100@
 1 NOTE <img src="http://www.burrowes.org/FamilyTree/pics/EmmieBurrowes.png">
 1 BIRT
-2 DATE 1900
+2 DATE 27 May 1900
 2 NOTE Birth Index microfiche ref, 3031
 1 DEAT
 2 DATE 5 Nov 1981
@@ -24133,13 +24133,13 @@
 1 NAME Edwin Fitzherbert George (Bert) /BURROWES/
 1 BIRT
 2 DATE 15 Nov 1922
-2 PLAC Sanson?, NZL
-2 NOTE Birth Index microfiche ref, 589 (but 1923)
-1 NOTE named after his uncle who was killed WWI.
+2 PLAC Carrington Road, New Plymouth, NZL
+2 NOTE Birth Index microfiche ref, 1923/589
+1 NOTE named after his uncle who was killed Gallipoli WWI.
 1 DEAT
 2 DATE 17 Dec 1985
 2 PLAC 11 Norfolk Cres Fielding (At home), NZL
-2 NOTE Death Index microfiche ref, 22631
+2 NOTE Death Index microfiche ref, 1985/22631
 2 CAUS emphysema (also had lung cancer)
 1 CREM Y
 1 BURI
@@ -24246,6 +24246,8 @@
 1 NAME THELMA /RICHARDS/
 1 BIRT
 2 DATE 27 Dec 1921
+2 PLAC Mrs Hardgrave's Lemon Street New Plymouth NZL
+2 SOUR Birth Certificate
 1 NOTE First flight was in a Tiger Moth owned by Rural Aviation and flown by Husband.
 2 CONC See family photo of two tiger moths on field.
 1 FAMC @F116@
@@ -24334,26 +24336,29 @@
 1 NAME Grace Merinda /RICHARDS/
 1 SEX F
 1 BIRT
-2 DATE 1908
+2 DATE 19 Feb 1908
 2 SOUR NZ BDM 1908/1698
 1 FAMC @F131@
 0 @I133@ INDI
 1 NAME Jessie Gwendoline (Gwen) /RICHARDS/
 1 SEX F
 1 BIRT
-2 DATE 1911
+2 DATE 11 Feb 1911
 2 SOUR NZ BDM 1911/7417
 1 FAMC @F131@
 0 @I134@ INDI
 1 NAME Samuel Howard /RICHARDS/
 1 SEX M
 1 BIRT
-2 DATE 1911
-2 SOUR 1911/7418
+2 DATE 11 Feb 1911
+2 SOUR NZ BDM 1911/7418
 1 FAMC @F131@
 0 @I135@ INDI
-1 NAME ELLIS /RICHARDS/
+1 NAME Ellis Valmont /RICHARDS/
 1 FAMC @F131@
+1 BIRT
+2 DATE 08 Mar 1915
+2 SOUR NZ BDM 1915/22112
 0 @I137@ INDI
 1 NAME Don /RICHARDS/
 1 FAMC @F136@
@@ -25842,11 +25847,12 @@
 1 NAME Alleyne Fitzherbert /BURROWES/
 1 SEX M
 1 BIRT
-2 DATE 1893
+2 DATE 15 Oct 1893
 2 PLAC NZL
 2 NOTE Birth Index microfiche ref 3848
 1 DEAT
 2 PLAC NZL
+2 DATE 15 Nov 1893
 2 NOTE Died in infancy 4 weeks old.
 3 CONC Death Index microfiche ref 1893/5883
 1 FAMC @F100@
@@ -26441,8 +26447,12 @@
 1 SEX F
 1 FAMS @F317@
 0 @I461@ INDI
-1 NAME Norman /Deed/
+1 NAME William Norman /Deed/
 1 SEX M
+1 BIRT
+2 DATE 14 Feb 1899
+2 SOUR NZ BDM 1899/13813
+1 FAMC @F661@
 1 FAMS @F318@
 0 @I462@ INDI
 1 NAME Francis Allan (Frank) /Coburn/
@@ -33487,6 +33497,12 @@
 2 DATE 21 Feb 1860
 2 PLAC Camperdown Cemetery, Sydney NSW, Aus
 1 FAMC @F580@
+0 @I1493@ INDI
+1 NAME William /Foster/
+1 FAMS @F661@
+0 @I1494@ INDI
+1 NAME Mary Jane //
+1 FAMS @F661@
 0 @F1@ FAM
 1 HUSB @I1@
 1 WIFE @I2@
@@ -34041,7 +34057,7 @@
 1 CHIL @I134@
 1 CHIL @I135@
 1 MARR
-2 DATE 1907
+2 DATE 02 Aug 1907
 2 SOUR NZ BDM 1907/3580
 0 @F136@ FAM
 1 HUSB @I82@
@@ -34049,7 +34065,7 @@
 1 CHIL @I137@
 1 CHIL @I138@
 1 MARR
-2 DATE 1916
+2 DATE 08 Feb 1916
 2 SOUR NZ BDM 1916/3392
 0 @F139@ FAM
 1 HUSB @I78@
@@ -34172,6 +34188,8 @@
 0 @F206@ FAM
 1 HUSB @I207@
 1 WIFE @I143@
+1 MARR
+2 DATE 07 Sep 1921
 0 @F208@ FAM
 1 HUSB @I209@
 1 WIFE @I175@
@@ -34725,6 +34743,8 @@
 0 @F318@ FAM
 1 HUSB @I461@
 1 WIFE @I145@
+1 MARR
+2 DATE 16 Oct 1930
 0 @F319@ FAM
 1 HUSB @I466@
 1 WIFE @I158@
@@ -36849,6 +36869,10 @@
 1 HUSB @I1489@
 1 WIFE @I1484@
 1 CHIL @I1490@
+0 @F661@ FAM
+1 HUSB @I1493@
+1 WIFE @I1494@
+1 CHIL @I461@
 0 @AG_S1@ SUBM
 1 NAME Anne /Galpin/
 1 NOTE Email May 2001 reference to Prouse Family Tree book written in 1998
