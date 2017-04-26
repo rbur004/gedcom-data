@@ -345,7 +345,8 @@
 0 @IW27@ INDI
 1 SOUR @SIW1@
 1 FAMS @FW13@
-1 NAME Mary /REARDON/
+1 NAME Mary /Riordon/
+1 NOTE Also had surname as REARDON, but marriage cert says Riordon
 1 SEX F
 1 BIRT
 2 DATE 1849
@@ -14428,6 +14429,7 @@
 0 @IWS233@ INDI
 1 SOUR @SIW1@
 1 FAMS @FW258@
+1 FAMC @F662@
 1 NAME Sarah Edith (Ettie) Elizabeth /HANSEN/
 1 SEX F
 1 BIRT
@@ -19216,6 +19218,10 @@
 1 NOTE https://www.bdmhistoricalrecords.dia.govt.nz search for 26/09/1917 Ref 1917/5181 Bride: Sarah Edith Elizabeth Hansen Groom Richard Patrick Dominic Sheehan
 1 MARR
 2 DATE 26 Sep 1917
+2 PLAC The Roman Catholic Presbytery, Ashburton.
+2 NOTE Married by Father O'Connell
+2 NOTE Groom listed as 25, Motor Mechanic, Resident Tinwald, Mather Mary Riordon, Father Patrick Sheehan
+3 CONT Bride listed as 27, Domestic Duties, Resident Tinwald, Mother Lucy Elizabeth nee Hickman, Father Christian Ludwick Hansen
 1 CHIL @IW493@
 1 CHIL @IW494@
 1 CHIL @IW495@
@@ -33499,10 +33505,20 @@
 1 FAMC @F580@
 0 @I1493@ INDI
 1 NAME William /Foster/
+1 SEX M
 1 FAMS @F661@
 0 @I1494@ INDI
 1 NAME Mary Jane //
+1 SEX F
 1 FAMS @F661@
+0 @I1495@ INDI
+1 NAME Lucy Elizabeth /Hickman/
+1 SEX F
+1 FAMS @F662@
+0 @I1496@ INDI
+1 NAME Christian Ludwick /Hansen/
+1 SEX M
+1 FAMS @F662@
 0 @F1@ FAM
 1 HUSB @I1@
 1 WIFE @I2@
@@ -36873,6 +36889,10 @@
 1 HUSB @I1493@
 1 WIFE @I1494@
 1 CHIL @I461@
+0 @F662@ FAM
+1 WIFE @I1495@
+1 HUSB @I1496@
+1 CHIL @IWS233@
 0 @AG_S1@ SUBM
 1 NAME Anne /Galpin/
 1 NOTE Email May 2001 reference to Prouse Family Tree book written in 1998
