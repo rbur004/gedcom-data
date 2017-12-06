@@ -11842,11 +11842,21 @@
 1 NAME Samuel /ADAMS/
 1 SEX M
 1 BIRT
-2 DATE ABT 1855
+2 DATE ABT 1860
 2 PLAC Cty. Down IRL
 1 NOTE Assisted emmigration to New Zealand on Stadt Haarlem Arrived Wellington NZ Apr 1879
-2 CONT Adams Samuel Aged 23 Occupation Gardener, Listed with wife Eliza M.
+2 CONT Adams Samuel Aged 23 Occupation Gardener, Listed with wife Eliza M aged 22. 
+2 CONT Age at death indicates he was born in 1859/60 though, so was 19 when emmigrating. 
+2 CONT Death cert says 19 when married (Eliza's says she was 22), so again born ABT 1860. 
 1 OCCU Nurseryman
+1 DEAT
+2 DATE 24 Sep 1948
+2 PLAC Kai Iwi, NZL
+2 CAUS Heart Failure
+2 OCCU Gardener
+2 AGE 88
+2 NOTE Parents not listed, but father's occupation listed as Farmer
+3 CONT 68 Years in NZ, 
 1 BURI
 2 DATE 25 Sep 1948
 2 PLAC Wanganui Old Public Cemetery RN 31 from path 47
@@ -16871,15 +16881,17 @@
 1 FAMS @FW730@
 1 NAME Eliza Maria /MAGILTON/
 1 BIRT
-2 DATE ABT 1856
+2 DATE ABT 1857
 2 PLAC Cty. Down IRL
 1 NOTE Assisted emmigration to New Zealand on Stadt Haarlem Arrived Wellington NZ Apr 1879
 2 CONT Adams Eliza M Aged 22, Listed with husband Samuel.
+2 CONT Age at death also indicates she was born in 1857/58
 1 DEAT
 2 PLAC Wanganui, NZL
 2 DATE 2 Oct 1905
 2 NOTE Lists parents as Hugh Magelton Flower Miller and Margaret Ann (nee Week or Wick)
 2 SOUR Death Cert from NZ BDM
+2 AGE 47
 1 BURI
 2 DATE 5 Oct 1905
 2 PLAC Wanganui Old Public Cemetery RN 31 from path 46
