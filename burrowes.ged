@@ -11853,15 +11853,15 @@
 2 DATE 24 Sep 1948
 2 PLAC Kai Iwi, NZL
 2 CAUS Heart Failure
-2 OCCU Gardener
 2 AGE 88
-2 NOTE Parents not listed, but father's occupation listed as Farmer
+2 NOTE death Cert:
+3 CONT Occupation: Gardener. 
+3 CONT Parents not listed, but father's occupation was listed as Farmer
 3 CONT 68 Years in NZ, 
 1 BURI
 2 DATE 25 Sep 1948
 2 PLAC Wanganui Old Public Cemetery RN 31 from path 47
 2 SOUR Burial records Old Public Cemetery Wanganui.
-2 NOTE Possible site, as near known site of Wife's burial
 0 @IW1643@ INDI
 1 SOUR @SIW1@
 1 FAMC @FW731@
@@ -29500,7 +29500,7 @@
 2 DATE 1861
 2 PLAC Queensland, Australia
 2 SOUR Shayne Lake's Skinner.ged file.
-2 CONT Also reference by McMaster, to Robert's ship leaving Brisbane, and never been seen again.
+3 CONT Also reference by McMaster, to Robert's ship leaving Brisbane, and never been seen again.
 1 FAMS @F489@
 0 @I937@ INDI
 1 NAME John /McMaster/
