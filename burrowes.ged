@@ -11711,9 +11711,6 @@
 2 NOTE Service at Holy Trinity Anglican Church on Henui St, New Plymouth 
 1 NOTE Awarded The NZ Queen's Service Medal For Community Service 2002.
 0 @IW1634@ INDI
-1 SOUR @SIW1@
-1 FAMC @FW730@
-1 FAMS @FW725@
 1 NAME Hugh /ADAMS/
 1 SEX M
 1 BIRT
@@ -11727,6 +11724,9 @@
 2 AGE 85
 2 PLAC Wanganui, NZL
 2 SOUR NZ BDM 1969/45884
+1 SOUR @SIW1@
+1 FAMC @FW730@
+1 FAMS @FW725@
 0 @IW1635@ INDI
 1 SOUR @SIW1@
 1 SEX M
@@ -11772,8 +11772,6 @@
 0 @IW1638@ INDI
 1 SOUR @SIW1@
 1 SEX F
-1 FAMS @FW728@
-1 FAMC @FW725@
 1 NAME Elizabeth Gladys /ADAMS/
 1 BIRT
 2 DATE 1905
@@ -11782,6 +11780,8 @@
 1 DEAT
 2 PLAC Hamilton, NZL
 2 DATE 1979
+1 FAMS @FW728@
+1 FAMC @FW725@
 0 @IW1639@ INDI
 1 SOUR @SIW1@
 1 FAMC @FW725@
@@ -11795,8 +11795,6 @@
 2 SOUR NZ BDM 2005/9119 (Confirms birth date)
 0 @IW1640@ INDI
 1 SOUR @SIW1@
-1 FAMC @FW729@
-1 FAMS @FW725@
 1 NAME Gladys /JONES/
 1 SEX F
 1 BIRT
@@ -11807,6 +11805,8 @@
 2 DATE 29 May 1966
 2 PLAC Wanganui, NZL
 2 SOUR NZ BDM 1966/32007
+1 FAMC @FW729@
+1 FAMS @FW725@
 0 @IW1641@ INDI
 1 SOUR @SIW1@
 1 SUBM @KA_S1@
@@ -11863,9 +11863,6 @@
 2 PLAC Wanganui Old Public Cemetery RN 31 from path 47
 2 SOUR Burial records Old Public Cemetery Wanganui.
 0 @IW1643@ INDI
-1 SOUR @SIW1@
-1 FAMC @FW731@
-1 FAMS @FW729@
 1 NAME Margaret Elizabeth /ARMSTRONG/
 1 SEX F
 1 BIRT
@@ -11876,6 +11873,9 @@
 2 PLAC Wanganui, NZL
 1 NOTE Assisted Immigrant. Dept Eng. 5 Nov 1862, Arrived NZL on the "John Duncan" at Dunedin 13 Feb 1863
 2 CONC Sailed to Wanganui NZL 1872.
+1 FAMC @FW731@
+1 FAMS @FW729@
+1 SOUR @SIW1@
 0 @IW1644@ INDI
 1 SOUR @SIW1@
 1 FAMS @FW731@
@@ -25626,7 +25626,7 @@
 1 NAME Rachel /ADAMS/
 1 SEX F
 1 BIRT
-2 DATE ABT 1888
+2 DATE 4 Feb 1888
 2 SOUR NZ BDM 1888/1782
 1 FAMC @FW730@
 1 SOUR @IW1633@
@@ -25634,7 +25634,7 @@
 1 NAME James (Jim) /ADAMS/
 1 SEX M
 1 BIRT
-2 DATE ABT 1882
+2 DATE 7 Feb 1882
 2 SOUR NZ BDM 1882/6222
 1 FAMC @FW730@
 1 FAMS @F437@
@@ -25643,7 +25643,7 @@
 1 NAME Eliza Ann /ADAMS/
 1 SEX F
 1 BIRT
-2 DATE ABT 1880
+2 DATE 10 Nov 1880
 2 SOUR NZ BDM 1880/12850
 1 FAMC @FW730@
 1 NOTE Possible marriage NZ BDM 1903/4188 to William Mahoney
@@ -25653,7 +25653,7 @@
 1 NAME Adelaide Matilda (Ada) /ADAMS/
 1 SEX F
 1 BIRT
-2 DATE ABT 1890
+2 DATE 26 Jun 1890
 2 SOUR NZ BDM 1890/10183
 1 FAMC @FW730@
 1 FAMS @F597@
@@ -25988,7 +25988,7 @@
 1 BIRT
 2 DATE 28 Jan 1887
 2 SOUR BDM 1887/15380
-2 PLAC Crushington
+2 PLAC Crushington, NZL (Near Reefton)
 1 FAMC @F104@
 1 FAMS @F616@
 0 @I407@ INDI
@@ -27272,6 +27272,14 @@
 0 @I571@ INDI
 1 NAME Lorna /Burrowes/
 1 SEX F
+1 BIRT
+2 DATE ABT 1913
+1 BAPM
+2 DATE 10 Jul 1913
+2 PLAC St Stephen, Paddington, Westminter, London, England
+2 SOUR Church records. 
+2 CONT Abode: 12 Westlodge Avenue, West Acton, London, Eng
+2 CONT Fathers Occu: Comptroller of Customes, Nigeria.
 1 FAMC @F265@
 1 FAMS @F363@
 0 @I572@ INDI
@@ -32140,7 +32148,7 @@
 1 NAME Mary Josephine Curl /Adams/
 1 SEX F
 1 BIRT
-2 DATE ABT 1880
+2 DATE 10 Nov 1880
 2 SOUR NZ BDM 1880/12851
 1 DEAT
 2 DATE 1963
@@ -32152,7 +32160,7 @@
 1 NAME Christiana Dornan /Adams/
 1 SEX F
 1 BIRT
-2 DATE ABT 1879
+2 DATE 24 Oct 1879
 2 SOUR NZ BDM 1879/15628
 1 FAMC @FW730@
 0 @I1290@ INDI
@@ -32579,9 +32587,16 @@
 0 @I1347@ INDI
 1 NAME Thomas Fraser /Burrowes/
 1 SEX M
+1 BIRT
+2 DATE ABT 1849
+2 SOUR Estimated from Baptism date
 1 CHR
 2 DATE 09 Mar 1849
-2 PLAC Notting Hill, Middlesex, Eng
+2 PLAC St John, Notting Hill Middlesex, Eng
+1 DEAT
+2 DATE Q1 1868
+2 AGE 19
+2 PLAC Kensington, Eng
 1 FAMC @F610@
 0 @I1349@ INDI
 1 NAME George Philip /Burrowes/
@@ -32649,6 +32664,7 @@
 1 BIRT
 2 DATE 25 Sep 1888
 2 SOUR From Death Cert, and NZ BDM 1888/9117
+2 PLAC Blacks Point, NZL (Near Reefton)
 1 DEAT
 2 DATE 1979
 2 SOUR NZ BDM 1979/30022
@@ -34027,6 +34043,15 @@
 0 @F84@ FAM
 1 HUSB @I17@
 1 WIFE @I72@
+1 BANN
+2 DATE 2 Aug 1874
+2 DATE 9 Aug 1874
+2 DATE 16 Aug 1874
+2 PLAC Paul, Cornwall, Eng 
+2 SOUR Church Records
+1 MARR
+2 DATE 22 Aug 1874
+2 PLAC Paul, Cornwall, Eng 
 1 CHIL @I73@
 1 CHIL @I74@
 1 CHIL @I75@
@@ -34591,6 +34616,15 @@
 1 WIFE @I351@
 1 SOUR BIOGRAPHIES
 1 NOTE 2 Sons 2 Daughters
+1 MARB
+2 DATE 17 Jan 1909
+2 PLAC St Stephen, Paddington, Westminter, London, England.
+1 MARR
+2 DATE 3 Feb 1909
+2 PLAC St Stephen, Paddington, Westminter, London, England.
+2 SOUR Church Records
+2 NOTE Groom 34 Bachelor Civil Servant, 23 Stevens Squ, Father Herbert Stanley Burrowes (Deceased) Civil Servant
+2 CONT Bride 22 Spinster, 23 Stevens Squ, Father Hugh Sproston (Deceased) Ship Owner
 1 CHIL @I664@
 1 CHIL @I571@
 1 CHIL @I675@
@@ -34763,6 +34797,7 @@
 3 CONC     Page:      2286
 3 CONC     Burrowes, Thomas Fraser married Marianne L Alleyne on 27 Sept 1810 in
 3 CONC     St James Parish Barbados
+2 SOUR Parish Register
 1 CHIL @I356@
 1 CHIL @I1334@
 1 CHIL @I1338@
@@ -36735,6 +36770,10 @@
 3 CONT On Wednesday, the 21st inst., at Paddington Old Church, by Rev, G.H.Steventor. Philip Burrowes Esq., 
 3 CONT sergeon, second son of the late Thomas Fraser Burrowes, Esq., of Demerara. to Amelia Seymour, eldest 
 3 CONT daughter of Francis Alven, Esq., of 52 Great Ormond-street, Queen-square.
+2 SOUR Paddington Parish Records
+3 CONT Groom Bachelor, Surgeon, Father Thomas Fraser Burrowes, Gentleman
+3 CONT Bride Spinster, Father Francis Alven, Merchant
+2 PLAC Paddington Old Church, Paddington, Eng
 1 CHIL @I1344@
 1 CHIL @I1345@
 1 CHIL @I1346@
