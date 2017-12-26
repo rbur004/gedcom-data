@@ -27278,8 +27278,8 @@
 2 DATE 10 Jul 1913
 2 PLAC St Stephen, Paddington, Westminter, London, England
 2 SOUR Church records. 
-2 CONT Abode: 12 Westlodge Avenue, West Acton, London, Eng
-2 CONT Fathers Occu: Comptroller of Customes, Nigeria.
+3 CONT Abode: 12 Westlodge Avenue, West Acton, London, Eng
+3 CONT Fathers Occu: Comptroller of Customes, Nigeria.
 1 FAMC @F265@
 1 FAMS @F363@
 0 @I572@ INDI
@@ -34043,7 +34043,7 @@
 0 @F84@ FAM
 1 HUSB @I17@
 1 WIFE @I72@
-1 BANN
+1 MARB
 2 DATE 2 Aug 1874
 2 DATE 9 Aug 1874
 2 DATE 16 Aug 1874
@@ -34624,7 +34624,7 @@
 2 PLAC St Stephen, Paddington, Westminter, London, England.
 2 SOUR Church Records
 2 NOTE Groom 34 Bachelor Civil Servant, 23 Stevens Squ, Father Herbert Stanley Burrowes (Deceased) Civil Servant
-2 CONT Bride 22 Spinster, 23 Stevens Squ, Father Hugh Sproston (Deceased) Ship Owner
+3 CONT Bride 22 Spinster, 23 Stevens Squ, Father Hugh Sproston (Deceased) Ship Owner
 1 CHIL @I664@
 1 CHIL @I571@
 1 CHIL @I675@
