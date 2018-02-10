@@ -25442,8 +25442,32 @@
 2 DATE 12 Nov 2006
 2 PLAC Colchester Hospital, Eng.
 1 SOUR 1996 Who's Who
+1 OCCU Temporary Clerical Assistant, Colonial Secretariat
+2 DATE 1924
+1 OCCU Clerical Assistant, Post Office (Seconded to Colonial Secretariat)
+2 DATE 1925
+1 OCCU Sixth-Class Customs Officer (Seconded to Colonial Secretariat)
+2 DATE 1925
+1 OCCU Fifth-Class Clerk, Colonial Secretariat and Assistant Clerk of Councils
+2 DATE 1928
+1 OCCU Sectretary Cattle Committee
+2 DATE 1930
+1 OCCU Attached to Financial Commissioners
+2 DATE 1931
+1 OCCU Secretary, Stock Farm Committee
+2 DATE 1932
+1 OCCU Second-Grade Clerk - Secretary of Air Board
+2 DATE 1933
+1 OCCU Class II Clerk
+2 DATE 1934
+1 OCCU Secretary Broadcasting Committee - Local Secretary attached to West India Royal Commission
+2 DATE 1938
+1 OCCU Class I Clerk
+2 DATE 1939
+1 OCCU Inspector of Labour. Secretary, Advisory Committee, Development Trust Fund
+2 DATE 1940
 1 OCCU Colonial Secretariat BG 1924; Inspector of Labour 1940;
-1 OCCU Deputy Commissioner 
+1 OCCU Deputy Commissioner Bardados
 2 DATE 1945
 1 OCCU Labour Commissioner Barbados 
 2 DATE 1947
@@ -25965,6 +25989,10 @@
 0 @I404@ INDI
 1 NAME Margaret Josephine (Finny) /Spence/
 1 SEX F
+1 BIRT
+1 DATE 16 Jul 1847
+2 PLAC Pln. Waller's Delight
+2 SOUR British Guiana Colonists Index (https://www.vc.id.au/tb/bgcolonistsS.html)
 1 FAMC @F423@
 1 FAMS @F279@
 0 @I405@ INDI
@@ -26179,6 +26207,7 @@
 1 NAME Francis (Frank) Albouy /Conyers/
 1 BIRT
 2 DATE 1 Jun 1836
+2 PLAC Bermuda
 1 NOTE Argosy 1909
 2 CONT CONYERS, Frank Albuoys: Manager, British Guiana Bank (Robb Street, Robbstown), born Georgetown, 
 2 CONT ed. Queen's College, entered BG Bank as junior clerk; appointed Manager in 1904; 
@@ -26393,6 +26422,31 @@
 1 SEX M
 1 BIRT
 2 DATE 30 May 1904
+2 PLAC Georgetown, BG
+2 SOUR Who is Who in British Guiana - 1945 - 1948
+1 OCCU Surveyor's Assistant, Lands and Mines Dept
+2 DATE 1921
+1 OCCU 5th Class Officer, Lands and Mines Dept
+2 DATE 1926
+1 OCCU Acting Warden Magistrate, Mazaruni
+2 DATE 1929
+1 OCCU Government Surveyor
+2 DATE 1935
+1 OCCU Seconded to District Administration
+2 DATE 1936
+1 OCCU Class II Clerk Immigration and Repatriation Dept
+2 DATE 1937
+1 OCCU Class II Officer, Dept of Labour and Local Government - Transferred to Essequibo District
+2 DATE 1938
+1 OCCU Acting Assistant Commissioner, East Demerara
+2 DATE 1939
+1 OCCU Assistant District Commissioner, East Demerara
+2 DATE 1940
+1 OCCU Acting District Commissioner and Magistrate, North West District
+2 DATE 1941
+1 OCCU District Commissioner, Essequibo 
+2 DATE 1944
+1 OCCU Was Secretary to Economic Investigation Committee
 1 DEAT
 2 DATE 1980
 1 FAMC @F262@
@@ -26427,7 +26481,10 @@
 1 SEX M
 1 BIRT
 2 DATE 13 Sep 1905
-2 NOTE Grave has 1906 on it but it can't be correct as Edmund was born in 1906
+2 NOTE Grave has 1906, but Who's Who has 1905
+1 EDUC Queen's College, Georgetown
+1 OCCU Assistant Well-driller, Pure Water Supply Scheme, Public Works Dept
+2 DATE 1929
 1 DEAT
 2 DATE 11 Mar 1970
 1 BURI
@@ -26457,6 +26514,7 @@
 1 SEX M
 1 BIRT
 2 DATE ABT 1914
+1 OCCU Salesman, Demerar Tobacco Co.
 1 DEAT
 2 DATE ABT 1990
 1 FAMC @F262@
@@ -32525,6 +32583,9 @@
 1 CHR
 2 DATE 03 May 1820
 2 PLAC Battersea, Surrey, England 
+1 DEAT
+2 DATE AFT 1861
+2 SOUR British Guiana Colonists Index ( https://www.vc.id.au/tb/bgcolonistsA.html)
 1 FAMC @F611@
 1 FAMS @F610@
 0 @I1336@ INDI
@@ -34927,6 +34988,8 @@
 1 HUSB @I421@
 1 WIFE @I420@
 1 MARR
+2 DATE 24 Oct 1861
+2 PLAC Georgetown, BG
 2 SOUR British Guiana Colonists Index
 1 CHIL @I670@
 1 CHIL @I671@
@@ -35010,6 +35073,9 @@
 0 @F313@ FAM
 1 HUSB @I449@
 1 WIFE @I625@
+1 MARR
+2 DATE 1941
+2 SOUR Who is Who in British Guiana - 1945 - 1948
 1 CHIL @I452@
 1 CHIL @I451@
 1 CHIL @I626@
