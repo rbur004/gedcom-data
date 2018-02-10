@@ -27611,7 +27611,13 @@
 0 @I628@ INDI
 1 NAME Joseph Edward /de Freitas/
 1 SEX M
+1 BIRT
+2 DATE 16 Nov 1902
+2 PLAC Georgetown, BG
+2 SOUR Who is Who in British Guiana - 1945 - 1948
+1 OCCU Solicitor and Notary Public.
 1 FAMS @F381@
+1 FAMC @F664@
 0 @I629@ INDI
 1 NAME Paul /de Freitas/
 1 SEX M
@@ -33745,6 +33751,30 @@
 2 DATE 28 Feb 1880
 2 SOUR NZ BDM 1880/5372
 1 FAMC @F663@
+0 @I1515@ INDI
+1 NAME Dr. Joseph Manuel /De Freitas/
+1 SEX M
+1 BIRT
+2 DATE 9 Jun 1871
+2 PLAC Georgetown, BG
+1 OCCU General Medical Practitioner
+1 FAMS @F664@
+1 FAMS @F665@
+0 @I1516@ INDI
+1 NAME Mabel /Paddenburg/
+1 SEX F
+1 SOUR Who is Who in British Guiana - 1945 - 1948
+1 FAMS @F664@
+0 @I1517@ INDI
+1 NAME Dr. Jose Francisco /De Freitas/
+1 SEX M
+1 SOUR Who is Who in British Guiana - 1945 - 1948
+1 FAMS @F665@
+0 @I1518@ INDI
+1 NAME  /De Mendonca/
+1 SEX F
+1 SOUR Who is Who in British Guiana - 1945 - 1948
+1 FAMS @F665@
 0 @F1@ FAM
 1 HUSB @I1@
 1 WIFE @I2@
@@ -35308,6 +35338,9 @@
 1 CHIL @I630@
 1 CHIL @I632@
 1 CHIL @I633@
+1 MARR
+2 DATE 8 Feb 1941
+1 NOTE 2 Sons, 1 Daughter.
 0 @F382@ FAM
 1 HUSB @I629@
 1 WIFE @I634@
@@ -37165,6 +37198,15 @@
 1 CHIL @I1512@
 1 CHIL @I1513@
 1 CHIL @I1514@
+0 @F664@ FAM
+1 HUSB @I1515@
+1 WIFE @I1516@
+1 CHIL @I628@
+1 NOTE 3 Sons, 4 Daughters.
+0 @F665@ FAM
+1 HUSB @I1517@
+1 WIFE @I1518@
+1 CHIL @I1515@
 0 @AG_S1@ SUBM
 1 NAME Anne /Galpin/
 1 NOTE Email May 2001 reference to Prouse Family Tree book written in 1998
