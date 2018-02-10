@@ -25491,6 +25491,9 @@
 0 @I349@ INDI
 1 NAME William Henry Aglionby (Buddy) /BURROWES/
 1 SEX M
+1 BIRT
+2 PLAC Sth Cummingsbg
+2 SOUR British Guiana Colonists Index
 1 DEAT
 2 DATE 4 Nov 1922
 1 NOTE Imperial Service Order (ISO) 1911
@@ -25578,6 +25581,10 @@
 2 CONC A.A.Burrowes went to Guiana as A.D.C. to the Governor.<br>
 2 CONC A record of St George's, Hanover Square London records
 2 CONC the family as being of Cork.
+1 BIRT
+2 DATE 1811
+2 PLAC Pln. Ruby WC (could be Plantation Ruby)
+2 SOUR British Colonists Index on https://www.vc.id.au/tb/bgcolonistsB.html
 1 CHR
 2 DATE 12 Oct 1812
 2 PLAC St George Cathedral, Georgetown, Guyana
@@ -26158,6 +26165,9 @@
 1 BIRT
 2 DATE 22 FEB 1842
 2 PLAC Georgetown, British Guiana
+2 SOUR British Guiana Colonists Index
+1 DEAT
+2 DATE 14 AUG 1915
 2 SOUR British Guiana Colonists Index
 1 FAMC @F268@
 1 FAMS @F301@
@@ -32488,6 +32498,12 @@
 0 @I1334@ INDI
 1 NAME Philip /Burrowes/
 1 SEX M
+1 BIRT ABT 1816
+2 PLAC Demerara
+2 SOUR British Guiana Colonists Index (https://www.vc.id.au/tb/bgcolonistsB.html)
+1 DEAT
+2 DATE ABT JUN 1863
+2 SOUR British Guiana Colonists Index (https://www.vc.id.au/tb/bgcolonistsB.html)
 1 FAMC @F294@
 1 FAMS @F610@
 0 @I1335@ INDI
@@ -32525,11 +32541,20 @@
 1 SEX M
 1 BIRT
 2 DATE 1821
+2 PLAC Georgetown
+2 SOUR British Guiana Colonists index (https://www.vc.id.au/tb/bgcolonistsB.html)
+1 DEAT
+2 DATE AFT 1871
+2 SOUR British Guiana Colonists index (https://www.vc.id.au/tb/bgcolonistsB.html)
 1 FAMC @F294@
 1 FAMS @F612@
 0 @I1339@ INDI
 1 NAME Mary Jane /Burrowes/
 1 SEX F
+1 BIRT
+2 DATE ABT 1824
+2 PLAC Demerara
+2 SOUR British Guiana Colonists index (https://www.vc.id.au/tb/bgcolonistsB.html)
 1 DEAT
 2 DATE 25 Jul 1876
 2 NOTE London Times, 27 July 1876
@@ -34702,7 +34727,7 @@
 1 WIFE @I404@
 1 MARR
 2 DATE 17 Jun 1873
-2 PLAC St. Swithin's Church, West Bank
+2 PLAC St. Swithin's Church, West Bank, Demerara
 2 SOUR The Journal of B.M.H.S. Article by William Pollard of Devon.
 2 SOUR Corrected from posting by Anne Spence -- Thu, 03 May 2003
 2 NOTE An index of BDMs in The Colonist Newspaper , Georgetown, British Guiana 
