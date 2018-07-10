@@ -25990,7 +25990,7 @@
 1 NAME Margaret Josephine (Finny) /Spence/
 1 SEX F
 1 BIRT
-1 DATE 16 Jul 1847
+2 DATE 16 Jul 1847
 2 PLAC Pln. Waller's Delight
 2 SOUR British Guiana Colonists Index (https://www.vc.id.au/tb/bgcolonistsS.html)
 1 FAMC @F423@
@@ -31777,9 +31777,13 @@
 1 NAME Gladys May /Herbert/
 1 SEX F
 1 BIRT
-2 DATE ABT 1894
+2 DATE 8 Apr 1894 
 2 SOUR NZ BDM 1894/5982
+1 DEAT
+2 DATE 26 Nov 1980
+2 SOUR NZ BDM 1980/49618
 1 FAMC @F297@
+1 FAMS @F666@
 0 @I1229@ INDI
 1 NAME Francis Leslie /Herbert/
 1 SEX M
@@ -33836,6 +33840,11 @@
 1 SEX F
 1 SOUR Who is Who in British Guiana - 1945 - 1948
 1 FAMS @F665@
+0 @I1519@ INDI
+1 NAME  Frank /Roston/
+1 SEX M
+1 SOUR NZ BDM 
+1 FAMS @F666@
 0 @F1@ FAM
 1 HUSB @I1@
 1 WIFE @I2@
@@ -37273,6 +37282,12 @@
 1 HUSB @I1517@
 1 WIFE @I1518@
 1 CHIL @I1515@
+0 @F666@ FAM
+1 HUSB @I1519@
+1 WIFE @I1228@
+1 MARR
+2 DATE 23 Aug 1922
+2 SOUR NZ BDM 
 0 @AG_S1@ SUBM
 1 NAME Anne /Galpin/
 1 NOTE Email May 2001 reference to Prouse Family Tree book written in 1998
