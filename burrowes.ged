@@ -26072,6 +26072,7 @@
 0 @I409@ INDI
 1 SEX F
 1 NAME Martha Elizabeth (Bessie) /GADFIELD/
+1 NOTE <img width="132" src="http://www.burrowes.org/FamilyTree/pics/Martha_Elizabeth_Gadfield.jpg">
 1 BIRT
 2 DATE ABT 1859
 2 PLAC Withington? Hampnett, GLS, ENG
@@ -33842,7 +33843,8 @@
 1 SOUR Who is Who in British Guiana - 1945 - 1948
 1 FAMS @F665@
 0 @I1519@ INDI
-1 NAME  Frank /Roston/
+1 NAME Frank /Rostron/
+1 NAME Frank /Roston/
 1 SEX M
 1 SOUR NZ BDM marriage 1922/5648
 1 FAMS @F666@
