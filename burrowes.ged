@@ -273,8 +273,16 @@
 1 NAME Thomas James /GEE/
 1 SEX M
 1 BIRT
-2 DATE 1838
-2 PLAC Stepney, London, ENG
+2 DATE Oct 1837
+2 PLAC Newington, Surrey, England
+2 SOUR England & Wales, Civil Registration Birth Index, 1837-1915 Vol 4 pg 272
+1 DEAT
+2 DATE 20 Apr 1911
+2 PLAC Christchurch NZL
+2 SOUR NZ BDM
+1 BURI
+2 PLAC Linwood Cemetery Christchurch NZL
+2 DATE 1911
 0 @IW21@ INDI
 1 SOUR @SIW1@
 1 FAMC @FW319@
@@ -1258,8 +1266,11 @@
 1 SOUR @SIW1@
 1 FAMC @FW306@
 1 FAMS @FW69@
-1 NAME Polly (Mary Ann) /JONES/
+1 NAME Mary Ann (Polly) /JONES/
 1 SEX F
+1 BIRT
+2 DATE ABT 1862
+2 PLAC Walworth, Surrey, England
 0 @IW142@ INDI
 1 SOUR @SIW1@
 1 SEX F
@@ -1333,8 +1344,11 @@
 1 SOUR @SIW1@
 1 FAMC @FW306@
 1 FAMS @FW80@
-1 NAME Arthur /JONES/
+1 NAME Arthur S J /JONES/
 1 SEX M
+1 BIRT
+2 DATE ABT 1868
+2 PLAC Walworth, Surrey, England
 1 DEAT
 2 DATE 1900
 2 CAUS drowned Selwyn
@@ -1488,8 +1502,11 @@
 1 NAME Alice Jane /JONES/
 1 SEX F
 1 BIRT
-2 DATE 1862
+2 DATE 6 Oct 1863
 2 PLAC London, ENG
+1 DEAT
+2 DATE 12 OCT 1946
+2 PLAC Christchurch, Canterbury, NZL
 0 @IW171@ INDI
 1 SOUR @SIW1@
 1 FAMS @FW93@
@@ -4209,15 +4226,27 @@
 1 SEX M
 0 @IW537@ INDI
 1 SOUR @SIW1@
-1 FAMS @FW303@
-1 NAME Benjamin Joseph /GEE/
+1 NAME Benjamin /GEE/
 1 SEX M
+1 BIRT
+2 DATE ABT 1808
+2 PLAC Peckham, Surrey, England
+1 DEAT
+2 DATE 16 MAY 1864
+2 PLAC Ramsgate, Kent, England
+2 SOUR Probate
+1 FAMC @F671@
+1 FAMS @FW303@
 0 @IW538@ INDI
 1 SOUR @SIW1@
 1 FAMC @FW716@
 1 FAMS @FW303@
 1 NAME Mary Ann /ELDRIDGE/
 1 SEX F
+1 BIRT
+2 DATE 1809
+1 DEAT
+2 PLAC Christchurch, NZL
 0 @IW539@ INDI
 1 SOUR @SIW1@
 1 SEX M
@@ -4237,22 +4266,33 @@
 1 NAME Alfred George /GEE/
 1 SEX M
 1 BIRT
-2 DATE 1840
+2 DATE 1849
 1 DEAT
 2 DATE 1921
 0 @IW541@ INDI
 1 SOUR @SIW1@
 1 FAMS @FW306@
 1 FAMC @FW303@
-1 NAME Hepzibah /GEE/
+1 NAME Hephzibah /GEE/
 1 SEX F
 1 BIRT
-2 DATE 21 Feb 1836
+2 DATE 24 Jan 1836
 2 PLAC Camberwell London, ENG
+1 DEAT
+2 DATE 7 May 1918
+2 PLAC Christchurch, Canterbury, New Zealand
+2 SOUR NZ DBM 1918/4312
 0 @IW542@ INDI
 1 SOUR @SIW1@
 1 FAMC @FW303@
-1 NAME Benjamin /GEE/
+1 NAME Benjamin Joseph /GEE/
+1 SEX M
+1 BIRT
+2 DATE 1833
+2 PLAC Camberwell, Surrey, England
+1 DEAT
+2 DATE Jun 1872
+2 PLAC St Olave, Surrey, England
 0 @IW543@ INDI
 1 SOUR @SIW1@
 1 SEX M
@@ -11555,16 +11595,28 @@
 1 SOUR @SIW1@
 1 FAMS @FW716@
 1 FAMS @FW717@
-1 NAME Elizabeth /UNKNOWN/
+1 NAME Elizabeth /Dyer/
 1 SEX F
 0 @IW1604@ INDI
 1 SOUR @SIW1@
 1 FAMC @FW716@
-1 NAME William /ELDRIDGE/
+1 SEX M
+1 NAME William Mason /ELDRIDGE/
+1 BIRT
+2 DATE 24 Sep 1804
+2 PLAC Deptford, Kent, England
+1 DEAT
+2 DATE 1875
 0 @IW1605@ INDI
 1 SOUR @SIW1@
 1 FAMC @FW716@
 1 NAME Edward /ELDRIDGE/
+1 SEX M
+1 BIRT
+2 DATE 14 Dec 1811
+2 PLAC Deptford, Kent, England
+1 DEAT
+2 DATE 1891
 0 @IW1607@ INDI
 1 SOUR @SIW1@
 1 FAMS @FW718@
@@ -12690,8 +12742,19 @@
 0 @IW1755@ INDI
 1 SOUR @SIW1@
 1 FAMS @FW716@
-1 NAME Unknown /ELDRIDGE/
+1 FAMC @F672@
+1 NAME William /ELDRIDGE/
 1 SEX M
+1 BIRT
+2 DATE ABT 1765
+2 PLAC Bermondsey, Surrey, Eng
+1 BAPM
+2 DATE 9 Apr 1765
+2 PLAC St Mary, Rotherhithe Southwark, Surrey, Eng
+2 NOTE Father: William Eldridge, Mother: Joanna Eldridge
+1 DEAT
+2 DATE 1811
+2 PLAC Deptford, Kent, England
 0 @IW1756@ INDI
 1 SOUR @SIW1@
 1 FAMS @FW735@
@@ -14680,9 +14743,13 @@
 1 SEX F
 0 @IWS277@ INDI
 1 SOUR @SIW1@
+1 FAMC @F673@
 1 FAMS @FW306@
 1 NAME William John /JONES/
 1 SEX M
+1 BIRT
+2 DATE 30 NOV 1834
+2 PLAC St James, Paddington, London, England
 0 @IWS278@ INDI
 1 SOUR @SIW1@
 1 SEX F
@@ -19625,11 +19692,12 @@
 1 WIFE @IW538@
 1 MARR
 2 PLAC Islington London?, ENG
+1 CHIL @IW542@
+1 CHIL @IW541@
 1 CHIL @IW20@
+1 CHIL @I1536@
 1 CHIL @IW539@
 1 CHIL @IW540@
-1 CHIL @IW541@
-1 CHIL @IW542@
 0 @FW304@ FAM
 1 SOUR @SIW1@
 1 HUSB @IW539@
@@ -22546,8 +22614,11 @@
 1 SOUR @SIW1@
 1 WIFE @IW1603@
 1 HUSB @IW1755@
-1 CHIL @IW538@
+1 CHIL @I1531@
+1 CHIL @I1532@
+1 CHIL @I1533@
 1 CHIL @IW1604@
+1 CHIL @IW538@
 1 CHIL @IW1605@
 0 @FW717@ FAM
 1 SOUR @SIW1@
@@ -27152,8 +27223,7 @@
 1 NAME Archibald /Herbert/
 1 SEX M
 1 BIRT
-2 DATE 1886
-2 SOUR From aged at death
+2 DATE 12 Dec 1887
 2 SOUR NZ BDM 1888/3259
 1 BAPM
 2 DATE 3 Nov 1886
@@ -27161,10 +27231,10 @@
 2 NOTE Parents Joseph & Martha Elizabeth, Res Opawa Occu Gardener
 3 CONC Sponsors Joseph Herbert, Judge & Emma Gadfield
 1 DEAT
-2 DATE 1896
+2 DATE 11 May 1896
 1 BURI
 2 DATE 12 May 1896
-2 NOTE Next of kin Joseph Herbert, Res Sydenham, Aged 8 years (Should be 9 if b. Correct)
+2 NOTE Next of kin Joseph Herbert, Res Sydenham, Aged 8 years
 2 SOUR St. Johns Woollaston, 10 St Johns Str., Register SJW I 562
 1 FAMC @F297@
 0 @I551@ INDI
@@ -27232,6 +27302,10 @@
 1 RESI
 2 ADDR 3 Hutcheson Street, Christchurh, NZL
 2 SOUR WWI enlistment
+1 DEAT
+2 DATE 2 Apr 1967
+2 SOUR NZ BDM 1967/34918
+2 AGE 86
 1 FAMC @F297@
 1 FAMS @F590@
 0 @I556@ INDI
@@ -31771,6 +31845,13 @@
 1 BIRT
 2 DATE ABT 1883
 2 SOUR NZ BDM 1883/7961
+1 DEAT
+2 DATE 19 Feb 1965
+2 SOUR NZ BDM 1965/24776
+1 BURI
+2 PLAC Woodlawn Memorial Gardens, Christchurch, NZL
+2 DATE 1965
+2 NOTE https://billiongraves.com/grave/GLADYS-ROSTON/9186080
 1 FAMC @F297@
 0 @I1228@ INDI
 1 NAME Gladys May /Herbert/
@@ -31786,14 +31867,21 @@
 1 DEAT
 2 DATE 26 Nov 1980
 2 SOUR NZ BDM 1980/49618
+1 BURI
+2 PLAC Woodlawn Memorial Gardens, Christchurch, NZL
+2 DATE 1980
+2 NOTE https://billiongraves.com/grave/GLADYS-ROSTON/9186080
 1 FAMC @F297@
 1 FAMS @F666@
 0 @I1229@ INDI
 1 NAME Francis Leslie /Herbert/
 1 SEX M
 1 BIRT
-2 DATE ABT 1885
+2 DATE 28 Jun 1885
 2 SOUR NZ BDM 1885/12494
+1 DEAT
+2 DATE 2 Aug 1947
+2 SOUR NZ BDM 1947/29430	
 1 FAMC @F297@
 1 FAMS @F667@
 0 @I1230@ INDI
@@ -33850,6 +33938,16 @@
 1 NAME Frank /Roston/
 1 SEX M
 1 SOUR NZ BDM marriage 1922/5648
+1 BIRT
+2 DATE 23 Sep 1887
+2 SOUR NZ BDM Death 1982/47370
+1 DEAT
+2 DATE 12 Nov 1982
+2 SOUR NZ BDM 1982/47370
+1 BURI
+2 PLAC Woodlawn Memorial Gardens, Christchurch, NZL
+2 DATE 1982
+2 NOTE https://billiongraves.com/grave/GLADYS-ROSTON/9186080
 1 FAMS @F666@
 0 @I1520@ INDI
 1 NAME 	Rachel Elizabeth	/Miller/
@@ -33872,6 +33970,125 @@
 1 SEX M
 1 SOUR NZ BDM Marriage 1905/2320
 1 FAMS @F668@
+0 @I1523@ INDI
+1 NAME Norma Frances /Roston/
+1 SEX F
+1 BIRT
+2 DATE 14 Mar 1926
+2 SOUR Paula Green, Daughter (also NZ BDM Death 2013/23401)
+1 DEAT
+2 DATE 12 Sep 2013
+2 PLAC Princess Margaret Hospital
+2 AGE 87
+1 FAMC @F666@
+1 FAMS @F669@
+0 @I1524@ INDI
+1 NAME Frederick Trevor /Green/
+1 SEX M
+1 BIRT
+2 DATE ABT 1923
+2 PLAC Pembrokeshire, Wales
+2 SOUR Calc from age at death
+1 DEAT
+2 DATE 19 Feb 1980 
+2 AGE 56
+2 SOUR Cemetery Record
+1 BURI
+2 PLAC Waimairi Cemetery Lawn row 42 plot 1210
+1 FAMS @F669@
+0 @I1525@ INDI
+1 NAME Brynly Trevor /Green/
+1 SEX M
+1 BIRT
+2 DATE 1957
+2 SOUR Burial Record
+1 DEAT
+2 DATE 4 Jul 1991
+2 SOUR Burial Record
+1 BURI
+2 PLAC Lyttelton Catholic and Public Cemetery
+1 FAMC @F669@
+0 @I1526@ INDI
+1 NAME Paula /Green/
+1 SEX F
+1 FAMC @F669@
+0 @I1527@ INDI
+1 NAME Selwyn John
+1 SEX M
+1 BIRT
+2 DATE 5 May 1904
+2 SOUR NZ BDM 1904/621
+1 DEAT
+2 DATE 13 Mar 1955
+2 SOUR NZ BDM 1955/19327
+2 AGE 50Y
+1 FAMC @F521@
+1 FAMS @F670@
+0 @I1528@ INDI
+1 NAME Lilian /Penny/
+1 SEX F
+1 FAMS @F670@
+0 @I1529@ INDI
+1 NAME Joseph /Gee/
+1 SEX M
+1 BIRT
+2 DATE 1775
+2 PLAC Camberwell, London, England
+2 SOUR Burial Record
+1 DEAT
+2 DATE DEC 1850
+2 PLAC England
+2 AGE 73
+2 SOUR Burial Record
+1 BURI
+2 PLAC St Giles, Camberwell Southwark, England
+2 DATE 8 Dec 1850
+1 FAMS @F671@
+0 @I1530@ INDI
+1 NAME Alitha /Clarke/
+1 NAME Allathea /Clark/
+1 SEX F
+1 FAMS @F671@
+0 @I1531@ INDI
+1 NAME James /Eldridge/
+1 SEX M
+1 BIRT
+2 DATE 1767
+2 PLAC Rotherhithe, Surrey, England
+1 FAMC @FW716@
+0 @I1532@ INDI
+1 NAME Thomas James /Eldridge/
+1 SEX M
+1 BIRT
+2 DATE 20 Dec 1805
+2 PLAC London, England
+1 FAMC @FW716@
+0 @I1533@ INDI
+1 NAME James Pippet /Eldridge/
+1 SEX M
+1 BIRT
+2 DATE 29 NOV 1807
+2 PLAC Deptford, Kent, England
+1 FAMC @FW716@
+0 @I1534@ INDI
+1 NAME William /Eldridge/
+1 SEX M
+1 FAMS @F672@
+0 @I1535@ INDI
+1 NAME Joanna /Unknown/
+1 SEX F
+1 FAMS @F672@
+0 @I1536@ INDI
+1 NAME William /Gee/
+1 SEX M
+1 BIRT
+2 DATE 1843
+2 PLAC Newington, Surrey, England
+1 FAMC @FW303@
+0 @I1537@ INDI
+1 NAME William John /Jones/
+1 SEX M
+1 FAMS @F673@
 0 @F1@ FAM
 1 HUSB @I1@
 1 WIFE @I2@
@@ -36339,6 +36556,7 @@
 2 DATE 1884
 2 PLAC NZL
 1 CHIL @I1015@
+1 CHIL @I1527@
 1 CHIL @I1016@
 1 CHIL @I1017@
 0 @F522@ FAM
@@ -37313,6 +37531,7 @@
 0 @F666@ FAM
 1 HUSB @I1519@
 1 WIFE @I1228@
+1 CHIL @I1523@
 1 MARR
 2 DATE 23 Aug 1922
 2 PLAC NZL
@@ -37330,6 +37549,34 @@
 2 DATE 11 Jul 1905
 2 PLAC NZL
 2 SOUR NZ BDM 1905/2320	Ella Louisa	Herbert	Horatio	Barter
+0 @F669@ FAM
+1 HUSB @I1524@
+1 WIFE @I1523@
+1 MARR
+2 DATE ABT 1953
+2 SOUR Electoral Role. Spinster in 1949, Married in 1954
+1 CHIL @I1525@
+1 CHIL @I1526@
+0 @F670@ FAM
+1 HUSB @I1527@
+1 WIFE @I1528@
+1 MARR
+2 DATE 4 Jul 1929
+0 @F671@ FAM
+1 HUSB @I1529@
+1 WIFE @I1530@
+1 MARR
+2 DATE 12 Apr 1800
+2 PLAC St Giles, Camberwell Southwark, England
+2 SOUR London, England, Marriages and Banns, 1754-1921
+1 CHIL @IW537@
+0 @F672@ FAM
+1 HUSB @I1534@
+1 WIFE @I1535@
+1 CHIL @IW1755@
+0 @F673@ FAM
+1 HUSB @I1537@
+1 CHIL @IWS277@
 0 @AG_S1@ SUBM
 1 NAME Anne /Galpin/
 1 NOTE Email May 2001 reference to Prouse Family Tree book written in 1998
