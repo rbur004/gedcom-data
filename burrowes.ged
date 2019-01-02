@@ -52,11 +52,12 @@
 1 BIRT
 2 DATE 21 Mar 1894
 2 PLAC Washdyke, NZL
+2 SOUR NZ BDM 1894/6252
 1 DEAT
 2 DATE 21 Jan 1970
 2 PLAC New Plymouth, NZL
 1 BURI
-2 PLAC Te henui New Plymouth
+2 PLAC Plot 146, Block E, Services Area, Te henui New Plymouth
 1 NOTE Flt Lieut, 43 Sqd Royal Flying Corp. 28265
 1 OCCU Sales Engineer, Manager JJ Niven & Co.
 1 SOUR @SIW1@
@@ -100,7 +101,7 @@
 2 NOTE Service by Reverend David Pearce
 2 NOTE Casket Bearers: Patrick Adams, Matiu Adams, Paul Burrowes, Benjamin Burrowes, Tom Adams, Joseph O'Conell.
 1 BURI
-2 PLAC Te henui New Plymouth
+2 PLAC Plot 146, Block E, Services Area, Te henui New Plymouth
 1 SOUR @SIW1@
 1 FAMC @FW5@
 1 FAMS @FW2@
@@ -133,8 +134,13 @@
 2 DATE 3 Feb 1859
 2 PLAC Geelong, Victoria, AUS
 1 DEAT
-2 DATE 1948
+2 DATE 4 Jul 1944
 2 PLAC Auckland, NZL
+2 SOUR NZ BDM 1944/22411
+1 CREM
+2 DATE 6 Jul 1944
+1 BURI
+2 PLAC With 2nd Wife, Waikumete Cemetery, Eucalyptus Glade, Row Sc - Ash, Plot 0 (Auckland, NZL)
 1 OCCU Consulting Mechanical Engineer.
 1 NOTE Came to NZL age 3 in 1862
 1 FAMC @FW8@
@@ -238,6 +244,8 @@
 1 DEAT
 2 DATE 9 Jun 1919
 2 PLAC Lower Hutt, NZL
+2 SOUR NZ BDM 1919/4316
+2 AGE 82
 0 @IW17@ INDI
 1 SOUR @SIW1@
 1 FAMC @FW300@
@@ -599,24 +607,28 @@
 1 SOUR @SIW1@
 1 FAMS @FW27@
 1 FAMC @FW4@
-1 NAME Cecil /CROLL/
+1 NAME Cecil Willie /CROLL/
 1 SEX M
 1 BIRT
-2 DATE 1886
+2 DATE 1885
+2 SOUR NZ BDM 1885/10825
 1 DEAT
-2 DATE 1958
+2 DATE 1943
 2 PLAC Christchurch, NZL
+2 SOUR NZ BDM 1943/17502
 0 @IW58@ INDI
 1 SOUR @SIW1@
 1 FAMC @FW4@
-1 NAME Lillian /CROLL/
+1 NAME 	Lilian Mary /CROLL/
 1 BIRT
 2 DATE 1884
 2 PLAC Washdyke, NZL
+2 SOUR NZ BDM 1884/881
 1 NOTE single
 1 DEAT
-2 DATE 1958
+2 DATE 4 May 1959
 2 PLAC Christchurch, NZL
+2 SOUR NZ DBM 1959/24654
 0 @IW59@ INDI
 1 SOUR @SIW1@
 1 FAMS @FW28@
@@ -628,6 +640,7 @@
 2 PLAC Washdyke, NZL
 1 DEAT
 2 DATE 1963
+2 SOUR NZ BDM 1963/42465
 0 @IW60@ INDI
 1 SOUR @SIW1@
 1 FAMS @FW29@
@@ -636,12 +649,17 @@
 1 SEX F
 1 BIRT
 2 DATE 14 Aug 1897
+2 SOUR NZ BDM 1897/18679
 0 @IW61@ INDI
 1 SOUR @SIW1@
 1 SEX F
 1 FAMS @FW30@
 1 FAMC @FW27@
-1 NAME Joan /CROLL/
+1 NAME Joan Vivienne /CROLL/
+1 BIRT
+2 DATE 1917
+2 PLAC NZL
+2 SOUR 1917/16055
 0 @IW62@ INDI
 1 SOUR @SIW1@
 1 SEX F
@@ -2247,18 +2265,29 @@
 0 @IW260@ INDI
 1 SOUR @SIW1@
 1 FAMS @FW159@
+1 FAMS @F675@
 1 FAMC @FW8@
 1 NAME Cecil Harry Grundy /CROLL/
 1 SEX M
 1 BIRT
 2 DATE 1862
 2 PLAC AUS
+1 DEAT
+2 PLAC NZL
+2 DATE 1942
+2 SOUR 1942/25257
 0 @IW261@ INDI
 1 SOUR @SIW1@
 1 FAMS @FW160@
 1 FAMC @FW8@
 1 NAME Arthur Charles /CROLL/
 1 SEX M
+1 BIRT
+2 DATE ABT 1871
+2 NOTE Calc from age at death
+1 DEAT
+2 DATE 1942
+2 SOUR NZ BDM 1942/21071
 0 @IW262@ INDI
 1 SOUR @SIW1@
 1 SEX M
@@ -2271,6 +2300,7 @@
 1 DEAT
 2 DATE 20 Oct 1943
 2 PLAC New Plymouth, NZL
+2 SOUR NZ BDM 1943/21014
 1 BURI
 2 PLAC Te Henui Cemetery, New Plymouth, NZL
 0 @IW263@ INDI
@@ -2322,6 +2352,7 @@
 1 DEAT
 2 DATE 27 Oct 1876
 2 PLAC Addington, NZL
+2 SOUR NZ BDM 1876/4008
 0 @IW268@ INDI
 1 SOUR @SIW1@
 1 SEX M
@@ -2333,7 +2364,23 @@
 1 SEX M
 1 FAMS @FW165@
 1 FAMC @FW160@
-1 NAME Donald George /CROLL/
+1 NAME Donald George MacDonald /CROLL/
+1 OCCU Architect Draughtsman
+1 NOTE Civil Engineering Degree
+1 BIRT
+2 DATE 9 Apr 1898
+2 PLAC Palmerston North
+2 SOUR WWI military record
+1 DEAT
+2 DATE 22 Feb 1946
+2 AGE 47
+2 NOTE Army 1941 record list concerns over high blood pressure 22/140 (was 210/112 when he enlisted).
+2 SOUR Grave
+1 BURI
+2 PLAC Tauranga Public Anglican Cemetery. Ref 13. 907, NZL
+2 NOTE Warrant Officer Class 1
+3 CONT Son of Arthur Charles and Sara Enid Croll, of Palmerston North; husband of Sheila Rose Croll, of Waipukurau, Hawke's Bay. Also served in 1914-18 War.35
+1 NOTE Service number WWI 72465, WWII 43035 Sgt Major
 0 @IW270@ INDI
 1 SOUR @SIW1@
 1 FAMS @FW166@
@@ -2343,6 +2390,9 @@
 1 BIRT
 2 DATE 5 Nov 1903
 2 PLAC Wellington, NZL
+1 DEAT
+2 DATE 1976
+2 SOUR NZ BDM 1976/38974
 0 @IW271@ INDI
 1 NAME Margaret Jean /CROLL/
 1 SEX F
@@ -4197,11 +4247,14 @@
 1 NAME William /CROLL/
 1 SEX M
 1 BIRT
-2 DATE 1815
+2 DATE 23 Aug 1809
 2 PLAC Dundee (Angus), SCT
 1 DEAT
 2 DATE 21 Mar 1861
-2 PLAC Geelong, AUS
+2 PLAC At home, Ryrie Street, Geelong, Vic AUS
+1 BURI
+2 PLAC Geelong Eastern Cemetery
+1 NOTE Owned the Vulcan Foundary, Creswick Road, Geelong.
 0 @IW534@ INDI
 1 SOUR @SIW1@
 1 FAMC @FW736@
@@ -7351,10 +7404,14 @@
 0 @IW984@ INDI
 1 SOUR @SIW1@
 1 FAMC @FW159@
-1 NAME Vera /CROLL/
+1 NAME Vera Annie Haywyward /CROLL/
 1 NOTE single
+1 BIRT
+2 DATE 1889
+2 SOUR NZ BDM 1889/12758
 1 DEAT
-2 DATE ABT 1965
+2 DATE 1964
+2 SOUR NZ BDM 1964/31110
 0 @IW985@ INDI
 1 SOUR @SIW1@
 1 FAMC @FW52@
@@ -12109,8 +12166,11 @@
 1 NAME Andrew Hutchinson /CROLL/
 1 SEX M
 1 BIRT
-2 DATE 1837
+2 DATE 1839
 2 PLAC Dundee, SCT
+1 DEAT
+2 DATE 4 Sep 1897
+2 PLAC Vic, Aus
 0 @IW1669@ INDI
 1 SOUR @SIW1@
 1 FAMC @FW299@
@@ -12169,7 +12229,7 @@
 1 SOUR @SIW1@
 1 FAMC @FW741@
 1 FAMS @FW299@
-1 NAME Jane /HUTCHINSON/
+1 NAME Jane (Jean?) /HUTCHINSON/
 1 SEX F
 1 BIRT
 2 DATE 1813
@@ -12278,6 +12338,8 @@
 1 BIRT
 2 DATE 16 Apr 1780
 2 PLAC Dundee (Angus), SCT
+1 DEAT
+2 DATE 1841
 0 @IW1687@ INDI
 1 SOUR @SIW1@
 1 FAMC @FW742@
@@ -12388,6 +12450,10 @@
 1 FAMS @FW742@
 1 NAME Issabella /BURNS/
 1 SEX F
+1 BIRT
+2 DATE 1786
+1 DEAT
+2 DATE 1836
 0 @IW1705@ INDI
 1 SOUR @SIW1@
 1 FAMC @FW738@
@@ -13067,13 +13133,21 @@
 0 @IWS9@ INDI
 1 SOUR @SIW1@
 1 FAMS @FW27@
-1 NAME Naomi (Tosh) /UNKNOWN/
+1 NAME Naomi Ruby Zealandia (Tosh) /UNKNOWN/
 1 SEX F
+1 BIRT
+2 DATE 21 Mar 1894
+2 SOUR Death Record
+1 DEAT
+2 DATE 1974
+2 SOUR NZ BDM 1974/27823
 0 @IWS10@ INDI
 1 SOUR @SIW1@
 1 FAMS @FW28@
-1 NAME Daisy /DIDDAMS/
+1 NAME Daisie /DIDDAMS/
 1 SEX F
+1 DEAT
+2 NOTE Likely to be NZ BDM 1977/50849. Record show DoB 29 Oct 1891
 0 @IWS11@ INDI
 1 SOUR @SIW1@
 1 SEX M
@@ -13888,7 +13962,7 @@
 0 @IWS135@ INDI
 1 SOUR @SIW1@
 1 FAMS @FW159@
-1 NAME Annie Louisa /UNKNOWN/
+1 NAME Annie Louisa /Chappell/
 1 SEX F
 1 BIRT
 2 DATE 1861
@@ -13896,12 +13970,15 @@
 2 DATE 15 Nov 1889
 2 PLAC Wellington, NZL
 0 @IWS136@ INDI
-1 NAME Sarah Elliot /BEAUCHAMP/
+1 NAME Sarah Elliott /BEAUCHAMP/
 1 SEX F
 1 BIRT
 2 DATE 1869
 2 PLAC Ballarat , Aus
 2 SOUR email from Gillian Croll
+1 DEAT
+2 DATE 1937
+2 SOUR NZ BDM 1937/21052
 1 SOUR @SIW1@
 1 FAMC @F500@
 1 FAMS @FW160@
@@ -13909,13 +13986,14 @@
 1 SOUR @SIW1@
 1 SEX F
 1 FAMS @FW161@
-1 NAME Mary Elizabeth /YORKE/
+1 NAME Mary Elizabeth /York/
 1 BIRT
 2 DATE 1873
 2 PLAC Woolston, NZL
 1 DEAT
 2 DATE Nov 1949
 2 PLAC Christchurch, NZL
+2 SOUR NZ BDM 1949/31360
 1 BURI
 2 PLAC Te Henui Cemtery, New Plymouth, NZL
 0 @IWS138@ INDI
@@ -13943,7 +14021,7 @@
 1 SOUR @SIW1@
 1 SEX F
 1 FAMS @FW165@
-1 NAME Honey /UNKNOWN/
+1 NAME Sheila Rose /UNKNOWN/
 0 @IWS142@ INDI
 1 NAME Jean /CAMPBELL/
 1 SEX F
@@ -16161,7 +16239,19 @@
 1 SOUR @SIW1@
 1 SEX F
 1 FAMS @FW578@
-1 NAME Lulla /UNKNOWN/
+1 NAME Alice Marion (Lulla) /Allard/
+1 BIRT
+2 DATE 1876
+2 SOUR NZ BDM 1876/10103
+1 DEAT
+2 DATE 24 Oct 1945
+2 PLAC NZL
+2 SOUR 1945/25907
+1 CREM
+2 DATE 26 Oct 1945
+1 BURI
+2 PLAC With Husband, Waikumete Cemetery, Eucalyptus Glade, Row Sc - Ash, Plot 09 (Auckland NZL)
+1 FAMC @F674@
 0 @IWS527@ INDI
 1 SOUR @SIW1@
 1 FAMS @FW581@
@@ -17262,6 +17352,7 @@
 1 MARR
 2 DATE 8 Apr 1925
 2 PLAC Riverton, NZL
+2 SOUR NZ BDM 1925/5405
 1 CHIL @IW40@
 1 CHIL @IW2@
 0 @FW3@ FAM
@@ -17534,6 +17625,9 @@
 1 SOUR @SIW1@
 1 HUSB @IW59@
 1 WIFE @IWS10@
+1 MARR
+2 DATE 15 Dec 1915
+2 SOUR NZ BDM 1915/5120
 1 CHIL @IW62@
 1 CHIL @IW63@
 0 @FW29@ FAM
@@ -18608,6 +18702,9 @@
 1 SOUR @SIW1@
 1 HUSB @IW260@
 1 WIFE @IWS135@
+1 MARR
+2 DATE 1887
+2 SOUR Ref NZ BDM 1887/1167
 1 CHIL @IW984@
 0 @FW160@ FAM
 1 SOUR @SIW1@
@@ -18617,8 +18714,9 @@
 1 CHIL @IW269@
 1 CHIL @IW270@
 1 MARR
-2 DATE 1895
+2 DATE 26 Dec 1895
 2 PLAC Wellington
+2 SOUR NZ BDM ref 1895/1928
 0 @FW161@ FAM
 1 SOUR @SIW1@
 1 HUSB @IW262@
@@ -18626,6 +18724,7 @@
 1 MARR
 2 DATE 7 Apr 1896
 2 PLAC StJohns Woolston, NZL
+2 SOUR NZ BDM ref 1896/1603
 0 @FW162@ FAM
 1 SOUR @SIW1@
 1 HUSB @IW263@
@@ -21640,6 +21739,9 @@
 1 SOUR @SIW1@
 1 HUSB @IW8@
 1 WIFE @IWS526@
+1 MARR
+2 DATE 23 Jul 1930
+2 SOUR NZ BDM 1930/11039
 0 @FW579@ FAM
 1 SOUR @SIW1@
 1 HUSB @IW1207@
@@ -24042,9 +24144,9 @@
 2 PLAC Georgetown Demerara British Guiana GUY
 1 DEAT
 2 AGE 84
-2 DATE 12 Aug 1936
+2 DATE 12 Aug 1937
 2 PLAC Son Stanley's Home in New Plymouth, NZL
-2 NOTE Death Index microfiche ref, 2536
+2 NOTE Death Index microfiche ref, 2536 (1937/27098)
 1 BURI
 2 DATE 14 Aug 1937
 2 SOUR Cemetery Records.
@@ -24159,7 +24261,7 @@
 1 NOTE <img src="http://www.burrowes.org/FamilyTree/pics/EmmieBurrowes.png">
 1 BIRT
 2 DATE 27 May 1900
-2 NOTE Birth Index microfiche ref, 3031
+2 NOTE Birth Index microfiche ref, 3031 (NZ BDM 1900/13066)
 1 DEAT
 2 DATE 5 Nov 1981
 2 AGE 81
@@ -34111,6 +34213,89 @@
 2 DATE 9 Aug 1906
 2 SOUR NZ BDM 1906/16116
 1 FAMC @F668@
+0 @I1541@ INDI
+1 NAME Mary Ann /Rastrick/
+1 SEX F
+1 FAMS @F674@
+0 @I1542@ INDI
+1 NAME Alfred /Allard/
+1 SEX M
+1 FAMS @F674@
+0 @I1543@ INDI
+1 NAME Alfred James /Allard/
+1 SEX M
+1 BIRT
+2 DATE 1873
+2 PLAC NZL
+2 SOUR 1873/41024
+1 FAMC @F674@
+0 @I1544@ INDI
+1 NAME Agnes Ada /Allard/
+1 SEX F
+1 BIRT
+2 DATE 1878
+2 PLAC NZL
+2 SOUR NZ BDM 1878/17283
+1 FAMC @F674@
+0 @I1545@ INDI
+1 NAME 	Charles Richard Leader /Allard/
+1 SEX M
+1 BIRT
+2 DATE 1880
+2 PLAC NZL
+2 SOUR NZ BDM 1880/14752
+1 FAMC @F674@
+0 @I1546@ INDI
+1 NAME Jessie /Allard/
+1 SEX F
+1 BIRT
+2 PLAC NZL
+2 DATE 1883
+2 SOUR NZ BDM 1883/3709
+1 FAMC @F674@
+0 @I1547@ INDI
+1 NAME 	Herbert Robinson /Allard/
+1 SEX M
+1 BIRT
+2 DATE 1886
+2 PLAC NZL
+2 SOUR NZ BDM 1886/3135
+1 FAMC @F674@
+0 @I1548@ INDI
+1 NAME Lucy Wright /Allard/
+1 SEX F
+1 BIRT
+2 DATE 1888
+2 PLAC NZL
+2 SOUR NZ BDM 1888/9633
+1 FAMC @F674@
+0 @I1549@ INDI
+1 NAME Dorothy /Allard/
+1 SEX F
+1 BIRT
+2 DATE 1891
+2 PLAC NZL
+2 SOUR NZ BDM 1891/5726
+1 FAMC @F674@
+0 @I1550@ INDI
+1 NAME George Reginald /Allard/
+1 SEX M
+1 BIRT
+2 DATE 1893
+2 PLAC NZL
+2 SOUR NZ BDM 1893/15227
+1 FAMC @F674@
+0 @I1551@ INDI
+1 NAME Sarah Annie Jack /Mitchinson/
+1 SEX F
+1 BIRT
+2 DATE ABT 1869
+2 SOUR Calculated from age at death
+1 DEAT
+2 DATE 1953
+2 SOUR NZ BDM 1953/32956
+2 AGE 84
+1 FAMS @F675@
 0 @F1@ FAM
 1 HUSB @I1@
 1 WIFE @I2@
@@ -34540,7 +34725,7 @@
 3 CONT Bride 22, Res. Hawera
 3 CONT Witnesses, Edwin Fitzherbert Burrowes, Drover Sanson
 3 CONT Lily Riley McCrabe, Domestic Duties, Sanson
-2 NOTE Marriage Index microfiche ref, 2278
+2 NOTE Marriage Index microfiche ref, 2278 (NZ BDM 1920/8755)
 1 NOTE <IMG SRC="http://www.burrowes.org/FamilyTree/pics/Burrowes-Fam-1945.jpg">
 0 @F113@ FAM
 1 HUSB @I112@
@@ -34549,7 +34734,7 @@
 1 MARR
 2 DATE 27 Oct 1924
 2 PLAC Residence of Edwin F. Burrowes (father), Sanson.
-2 NOTE Marriage Index microfiche ref, 9724
+2 NOTE Marriage Index microfiche ref, 9724 (NZ BDM 1924/7354)
 2 NOTE Groom Age 41, Ploughman, Bachelor, Born Carradale, Argyll, Scotland
 3 CONC Father Donald McConachie, Fisherman, Mother Mary Bannatyne
 3 CONC Bride 28, Domestic Duties, Spinster, Born Blenheim, NZL
@@ -37602,6 +37787,27 @@
 0 @F673@ FAM
 1 HUSB @I1537@
 1 CHIL @IWS277@
+0 @F674@ FAM
+1 HUSB @I1542@
+1 WIFE @I1541@
+1 MARR
+2 DATE 1872
+2 SOUR NZ BDM 1872/6149
+1 CHIL @I1543@
+1 CHIL @IWS526@
+1 CHIL @I1544@
+1 CHIL @I1545@
+1 CHIL @I1546@
+1 CHIL @I1547@
+1 CHIL @I1548@
+1 CHIL @I1549@
+1 CHIL @I1550@
+0 @F675@ FAM
+1 HUSB @IW260@
+1 WIFE @I1551@
+1 MARR
+2 DATE 1891
+2 SOUR NZ BDM 1891/537
 0 @AG_S1@ SUBM
 1 NAME Anne /Galpin/
 1 NOTE Email May 2001 reference to Prouse Family Tree book written in 1998
