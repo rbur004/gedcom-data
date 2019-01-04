@@ -58,7 +58,7 @@
 2 PLAC New Plymouth, NZL
 1 BURI
 2 PLAC Plot 146, Block E, Services Area, Te henui New Plymouth
-1 NOTE Flt Lieut, 43 Sqd Royal Flying Corp. 28265
+1 NOTE Flt Lieut, 43 Sqd Royal Flying Corp. 28265 (<a href="http://ndhadeliver.natlib.govt.nz/delivery/DeliveryManagerServlet?dps_pid=IE20706748">War Record</a>)
 1 OCCU Sales Engineer, Manager JJ Niven & Co.
 1 SOUR @SIW1@
 1 FAMC @FW4@
@@ -2378,9 +2378,9 @@
 2 SOUR Grave
 1 BURI
 2 PLAC Tauranga Public Anglican Cemetery. Ref 13. 907, NZL
-2 NOTE Warrant Officer Class 1
-3 CONT Son of Arthur Charles and Sara Enid Croll, of Palmerston North; husband of Sheila Rose Croll, of Waipukurau, Hawke's Bay. Also served in 1914-18 War.35
-1 NOTE Service number WWI 72465, WWII 43035 Sgt Major
+2 NOTE Burial Record: Warrant Officer Class 1
+3 CONT Son of Arthur Charles and Sara Enid Croll, of Palmerston North; husband of Sheila Rose Croll, of Waipukurau, Hawke's Bay. Also served in 1914-18 War
+1 NOTE Service number WWI 72465 Private Machine Gun Corp, WWII 43035 Sargent Major, Warrant Officer class 1. <a href="http://ndhadeliver.natlib.govt.nz/delivery/DeliveryManagerServlet?dps_pid=IE19280516">War record</a>
 0 @IW270@ INDI
 1 SOUR @SIW1@
 1 FAMS @FW166@
@@ -4253,7 +4253,9 @@
 2 DATE 21 Mar 1861
 2 PLAC At home, Ryrie Street, Geelong, Vic AUS
 1 BURI
-2 PLAC Geelong Eastern Cemetery
+2 DATE 21 Mar 1861
+2 AGE 49
+2 PLAC Row OLD, Grave 109, Geelong Eastern Cemetery, Vic, Aus
 1 NOTE Owned the Vulcan Foundary, Creswick Road, Geelong.
 0 @IW534@ INDI
 1 SOUR @SIW1@
@@ -12229,14 +12231,18 @@
 1 SOUR @SIW1@
 1 FAMC @FW741@
 1 FAMS @FW299@
-1 NAME Jane (Jean?) /HUTCHINSON/
+1 NAME Jean /HUTCHINSON/
 1 SEX F
 1 BIRT
 2 DATE 1813
 2 PLAC Dundee, SCT
 1 DEAT
-2 DATE 8 Jan 1859
+2 DATE 8 Jan 1858
 2 PLAC Geelong, AUS
+2 AGE 45
+2 SOUR Grave, visited by Robin Vowels
+1 BURI
+2 PLAC Row OLD, Grave 107, Geelong Eastern Cemetery, Vic, Aus
 0 @IW1674@ INDI
 1 SOUR @SIW1@
 1 FAMS @FW741@
@@ -12365,6 +12371,10 @@
 1 DEAT
 2 DATE 7 Aug 1879
 2 PLAC Geelong, AUS
+1 BURI
+2 DATE 8 Aug 1879
+2 PLAC Row OLD, Grave 106, Geelong Eastern Cemetery, Vic, Aus
+2 AGE 65
 0 @IW1690@ INDI
 1 SOUR @SIW1@
 1 FAMC @FW742@
@@ -12626,6 +12636,9 @@
 2 DATE 1880
 1 DEAT
 2 DATE 1880
+1 BURI
+2 NOTE Possibly Row OLDP, Grave 038, Geelong Eastern Cemetery, 20th Jul 1880.
+2 DATE 20 Jul 1880
 0 @IW1728@ INDI
 1 SOUR @SIW1@
 1 FAMC @FW740@
@@ -19771,6 +19784,7 @@
 1 CHIL @IW1670@
 1 CHIL @IW1671@
 1 CHIL @IW1672@
+1 CHIL @I1553@
 0 @FW300@ FAM
 1 SOUR @SIW1@
 1 HUSB @IW534@
@@ -23339,6 +23353,7 @@
 2 PLAC At Home Waiatarua, Auckland, NZL
 2 NOTE Birth Index microfiche ref, 30801
 1 FAMC @F1@
+1 FAMS @F683@
 0 @I5@ INDI
 1 NAME Astra Caroline /BURROWES/
 1 SEX F
@@ -23348,6 +23363,7 @@
 2 PLAC At Friends Home: Old Forrest Hill Rd., Waiatarua, Auckland, NZL
 2 NOTE Birth Index microfiche ref, 52140?
 1 FAMC @F1@
+1 FAMS @F680@
 0 @I7@ INDI
 1 NAME Thomas /RICHARDS/
 1 SEX M
@@ -24038,7 +24054,7 @@
 2 CONC Left NZL 29 July 1916.
 2 CONC The Roll lists his occupation as "Reporter" and his next of kin as
 2 CONC F Richards (Father) Avenue Rd, New Plymouth.
-1 NOTE WWI 81921 Sargent 3rd Batt NZRB
+1 NOTE WWI 81921 CQMS 3rd Batt NZRB.
 1 OCCU Farmer (post WWI).
 1 OCCU House Manager Whakatane Hospital.
 1 OCCU Grocer
@@ -25214,8 +25230,7 @@
 1 FAMC @F246@
 0 @I250@ INDI
 1 NAME Natasha Lynn /STIVEN/
-1 NOTE Born Natasha Tanya Cherie /BURROWES/ But adopted to the /STIVEN/ Family
-1 NOTE Father is unknown.
+1 NOTE Born Natasha Tanya Sheree Anne /BURROWES/ But adopted to the /STIVEN/ Family
 1 BIRT
 2 DATE 2 JAN 1985
 2 NOTE Birth Index microfiche ref, 3136
@@ -25223,6 +25238,8 @@
 1 SEX F
 1 ADOP Y
 1 FAMC @F249@
+1 FAMS @F677@
+1 FAMS @F678@
 0 @I251@ INDI
 1 NAME Graham Charles /BUTCHER/
 1 SEX M
@@ -25605,6 +25622,7 @@
 2 DATE 3 Aug 1946
 2 AGE 74
 1 FAMS @F262@
+1 FAMC @F676@
 0 @I346@ INDI
 1 NAME Edmund Stanley Spencer /BURROWES/ GMG
 2 NOTE called Bunny by the family
@@ -30100,8 +30118,11 @@
 1 FAMC @F509@
 1 FAMS @F508@
 0 @I980@ INDI
-1 NAME Noelene /Olsen/
+1 NAME Noelene Anne /Olsen/
 1 SEX F
+1 BIRT
+2 DATE 7 Feb 1970
+2 PLAC Parramatta, NSW, Aus
 1 FAMS @F511@
 0 @I981@ INDI
 1 NAME Tania /Lamberton/
@@ -31717,7 +31738,7 @@
 1 SEX M
 1 FAMS @F578@
 0 @I1193@ INDI
-1 NAME Ashton /Burrowes/
+1 NAME Ashton James Ray /Burrowes/
 1 SEX M
 1 BIRT
 2 DATE 10 Sept 2007
@@ -34296,6 +34317,111 @@
 2 SOUR NZ BDM 1953/32956
 2 AGE 84
 1 FAMS @F675@
+0 @I1552@ INDI
+1 NAME Nicholas Darnell /Davis/
+1 SEX M
+1 FAMS @F676@
+0 @I1553@ INDI
+1 NAME Infant Son /Croll/
+1 BIRT
+2 DATE 1852
+1 DEAT
+2 DATE Nov 1852
+2 SOUR Grave
+1 BURI
+2 PLAC Geelong Eastern Cemetery, Vic, Aus
+2 NOTE Infant Son, Nov 1852
+1 FAMC @FW299@
+0 @I1554@ INDI
+1 NAME /Scott/
+1 SEX M
+1 FAMS @F677@
+0 @I1555@ INDI
+1 NAME Jonathon William /Barnett/
+1 SEX M
+1 BIRT
+2 DATE 27 Jul 1980
+1 FAMS @F678@
+0 @I1556@ INDI
+1 NAME Jaedyn Thomas /Stiven-Scott/
+1 SEX M
+1 BIRT
+2 DATE 23 Nov 2004
+1 FAMC @F677@
+0 @I1557@ INDI
+1 NAME Brooke Jacqueline /Barnett/
+1 SEX F
+1 BIRT
+2 DATE 24 Oct 2007
+1 FAMC @F678@
+0 @I1558@ INDI
+1 NAME William James /Barnett/
+1 SEX M
+1 BIRT
+2 DATE 14 Mar 2011 
+1 FAMC @F678@
+0 @I1559@ INDI
+1 NAME Elijah Jonathon George /Barnett/
+1 SEX M
+1 BIRT
+2 DATE 16 Dec 2012
+1 FAMC @F678@
+0 @I1560@ INDI
+1 NAME Gearge Elijah /Barnett/
+1 SEX M
+1 DEAT
+1 NOTE Elijah's twin. Died In Utero.
+1 FAMC @F678@
+0 @I1561@ INDI
+1 NAME Vienna Sarah Natasha /Barnett/
+1 SEX F
+1 BIRT
+2 DATE 2014
+1 FAMC @F678@
+0 @I1562@ INDI
+1 NAME Quin /Burrowes/
+1 SEX M
+1 BIRT
+2 DATE 23 Apr 2018
+2 PLAC Wellington, NZL
+1 FAMC @F508@
+0 @I1563@ INDI
+1 NAME Samuel Leo /Kronfeld/
+1 SEX M
+1 BIRT
+2 DATE 13 Oct 1989
+2 PLAC Auckland, NZL
+1 FAMC @F679@
+1 FAMS @F680@
+0 @I1564@ INDI
+1 NAME Julie Lorraine /Donaldson/
+1 SEX F
+1 FAMS @F679@
+1 FAMS @F681@
+0 @I1565@ INDI
+1 NAME Michael Peter /Kronfeld/
+1 SEX M
+1 FAMS @F679@
+0 @I1566@ INDI
+1 NAME Brook /Paterson/
+1 SEX M
+1 FAMS @F681@
+0 @I1567@ INDI
+1 NAME Mathilde Julia Gabrielle /Duriau/
+1 SEX F
+1 BIRT
+2 DATE 28 Nov 1981
+2 PLAC Clamart France
+1 FAMC @F682@
+1 FAMS @F683@
+0 @I1568@ INDI
+1 NAME Frederique Anne /Legrauclaude de Gravelaine/
+1 SEX F
+1 FAMS @F682@
+0 @I1569@ INDI
+1 NAME Jean Frederic Louis /Duriau/
+1 SEX M
+1 FAMS @F682@
 0 @F1@ FAM
 1 HUSB @I1@
 1 WIFE @I2@
@@ -34748,8 +34874,9 @@
 1 CHIL @I115@
 1 MARR
 2 DATE 8 May 1919
-2 PLAC Stoke-upon-Trent, Staffordshire, Eng
+2 PLAC Selton, Stoke-upon-Trent, Staffordshire, Eng
 2 SOUR Vol 6b, Pg 540 Stoke-upon-Trent, Staffordshire, BDM
+3 CONT Also WWI record, which show officiating clergyman as G Gordon
 1 DIV
 2 DATE 24 Feb 1932
 2 SOUR Marr. Cert 2nd Marriage
@@ -36650,6 +36777,7 @@
 2 PLAC 19B Manawa Road, Remuera, Auckland, New Zealand
 3 NOTE Residence of Loraine King, Groom's Mother's Cousin.
 2 NOTE Married by Kubi Witten-Hannah
+1 CHIL @I1562@
 0 @F509@ FAM
 1 WIFE @I977@
 1 CHIL @I979@
@@ -37808,6 +37936,48 @@
 1 MARR
 2 DATE 1891
 2 SOUR NZ BDM 1891/537
+0 @F676@ FAM
+1 HUSB @I1552@
+1 CHIL @I345@
+1 SOUR Ron Weatherhead @I596@
+0 @F677@ FAM
+1 HUSB @I1554@
+1 WIFE @I250@
+1 CHIL @I1556@
+0 @F678@ FAM
+1 HUSB @I1555@
+1 WIFE @I250@
+1 MARR
+2 DATE 7 Feb 2009
+1 CHIL @I1557@
+1 CHIL @I1558@
+1 CHIL @I1559@
+1 CHIL @I1560@
+1 CHIL @I1561@
+0 @F679@ FAM
+1 HUSB @I1565@
+1 WIFE @I1564@
+0 @F680@ FAM
+1 HUSB @I1563@
+1 WIFE @I5@
+1 MARR
+2 DATE 19 Feb 2019
+2 PLAC Cassels, Waitakakere, Auckland, NZL
+0 @F681@ FAM
+1 HUSB @I1566@
+1 WIFE @I1564@
+1 MARR
+2 DATE 2017
+0 @F682@ FAM
+1 HUSB @I1569@
+1 WIFE @I1568@
+1 CHIL @I1567@
+0 @F683@ FAM
+1 HUSB @I4@
+1 WIFE @I1567@
+1 MARR
+2 DATE 12 Apr 2014
+2 PLAC Karekare waterfall, Lone Kauri Road, Karekare, Auckland, NZL
 0 @AG_S1@ SUBM
 1 NAME Anne /Galpin/
 1 NOTE Email May 2001 reference to Prouse Family Tree book written in 1998
