@@ -774,15 +774,17 @@
 1 NAME John James (Jack) /GEE/
 1 SEX M
 1 SOUR @SIW1@
-1 FAMS @FW39@
-1 FAMS @FW40@
-1 FAMC @FW5@
 1 BIRT
 2 DATE 12 Jun 1908
 2 PLAC Invercargill, NZL
 1 DEAT
 2 DATE 25 Feb 1975
 2 PLAC Invercargill, NZL
+1 BURI
+2 PLAC Invercargill, NZ
+1 FAMS @FW39@
+1 FAMS @FW40@
+1 FAMC @FW5@
 0 @IW79@ INDI
 1 SOUR @SIW1@
 1 FAMS @FW41@
@@ -13221,7 +13223,7 @@
 1 NAME Agnes May (Nessie) /McNatty/
 1 SEX F
 1 BIRT
-2 DATE 1909
+2 DATE 8 Mar 1909
 2 PLAC Invercargill, NZL
 2 SOUR NZ BDM 1909/22390
 1 DEAT
@@ -17732,7 +17734,7 @@
 1 HUSB @IW77@
 1 WIFE @IWS20@
 1 MARR
-2 DATE ABT 1936
+2 DATE 12 Dec 1936
 2 PLAC Invercargill, NZL
 1 SOUR NZ BDM 1936/13797
 1 CHIL @IW84@
@@ -29942,11 +29944,11 @@
 1 SEX M
 1 BIRT
 2 DATE 5 Mar 1876
-2 PLAC Invercargill
+2 PLAC Invercargill, NZL
 2 SOUR NZ BDM 1876/6361
 1 DEAT
 2 DATE 1960
-2 PLAC Invercargill, NZ
+2 PLAC Invercargill, NZL
 2 SOUR NZ BDM 1960/21274
 1 OCCU Bootmaker
 1 FAMC @F496@
@@ -29958,11 +29960,11 @@
 1 SOUR email from Bill McNatty
 1 SEX F
 1 BIRT
-2 DATE ABT 1878
-2 SOUR Age at death
+2 DATE 1877
+2 PLAC Partick, Glasgow
 1 DEAT
-2 DATE BEF 5 Mar 1946
-2 PLAC NZL
+2 DATE 3 Mar 1946
+2 PLAC Invercargill, NZL
 2 SOUR Burial
 1 BURI
 2 DATE 5 MAR 1946
@@ -30013,12 +30015,32 @@
 1 NAME James /McNatty/
 1 SOUR email from Bill McNatty
 1 SEX M
+1 BIRT
+2 DATE 1832
+2 PLAC County Down, Ireland
+1 DEAT
+2 DATE 28 Sep 1931
+2 PLAC Christchurch, NZ
+2 CAUS Senile Decay
+1 BURI
+2 DATE 29 Sep 1931
+2 PLAC Bromley Cemetry, Christchurch
 1 FAMC @F498@
 1 FAMS @F497@
 0 @I950@ INDI
 1 NAME Agnes /Kagin/
+1 NAME Agnes /Caging/
 1 SOUR email from Bill McNatty
 1 SEX F
+1 BIRT
+2 DATE ABT 1833
+2 PLAC Ireland
+1 DEAT
+2 DATE 17 Aug 1890
+2 PLAC Richmond Grove, Invercargill, NZL
+1 BURI
+2 DATE 19 Aug 1890
+2 PLAC Eastern Cemetry, Invercargill, NZL
 1 FAMS @F497@
 0 @I951@ INDI
 1 NAME James /McNatty/
@@ -32881,7 +32903,8 @@
 0 @I1334@ INDI
 1 NAME Philip /Burrowes/
 1 SEX M
-1 BIRT ABT 1816
+1 BIRT 
+2 DATE ABT 1816
 2 PLAC Demerara
 2 SOUR British Guiana Colonists Index (https://www.vc.id.au/tb/bgcolonistsB.html)
 1 DEAT
@@ -37191,14 +37214,22 @@
 1 HUSB @I947@
 1 WIFE @I948@
 1 MARR
-2 DATE ABT 1875
-2 PLAC NZL
+2 DATE 24 Nov 1875
+2 PLAC St Johns Presbyterian Church, Invercargill
 2 SOUR NZ BDM 1875/2910
 1 CHIL @I945@
 1 SOUR email from Bill McNatty
 0 @F497@ FAM
 1 HUSB @I949@
 1 WIFE @I950@
+1 MARR
+2 DATE 13 Mar 1853
+2 PLAC Girvan, Ayrshire, Scotland
+2 NOTE From Bill McNatty: The Girvan marriage records of 1853 show a record of an Agnes Caging married a 
+3 CONT James McNaught on 1week earlier (6 March 1853) than the marriage recorded of an Agnes Caging married to a
+3 CONT James McNatty (13 March 1853). There is no presumption that the events are the same but this
+3 CONT note is included here to not limit  the seach  for ancestors to the McNatty name. There is a
+3 CONT possibility that the  first wedding is a church wedding and the second  the civil registration date
 1 CHIL @I947@
 1 SOUR email from Bill McNatty
 0 @F498@ FAM
