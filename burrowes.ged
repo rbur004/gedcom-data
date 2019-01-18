@@ -13223,11 +13223,34 @@
 1 BIRT
 2 DATE 1909
 2 PLAC Invercargill, NZL
+2 SOUR NZ BDM 1909/22390
 1 DEAT
-2 DATE ABT 1940
+2 DATE 19 DEC 1942
 2 PLAC Invercargill, NZL
+2 AGE 33
 2 CAUS Kidney Failure after birth of second child.
 3 CONT The child was either stillborn or died soon after birth.
+2 SOUR NZ BDM 1942/32673	Gee	Agnes May	33Y
+1 BURI
+2 DATE 21 December 1942
+2 PLAC Block/Plot: General - 23 / 252, Invercargill Eastern cemetery, NZL
+2 NOTE Undertaker: J Fraser & Sons.  
+2 NOTE With Infant: Stillborn. Buri Saturday, 12 December 1942 (Agnes May's child)
+3 CONT With Infant: McNatty (Dorothy Thelma) Buri Wednesday, 20 June 1917
+3 CONT With JAMES WILLIAM, MCNATTY, Aged 83 Buri: Monday, 28 December 1959
+2 NOTE Inscription
+3 CONT  In loving memory of
+3 CONT  Agnes May (Nessie)
+3 CONT  Beloved wife of John J Gee
+3 CONT  & only daughter of James W & Agnes McNatty
+3 CONT  Died 19th Dec 1942 aged 33 years
+3 CONT  In loving memory of
+3 CONT  Agnes F.G.
+3 CONT  Beloved wife of James W McNatty
+3 CONT  Died 3rd March 1945 aged 68 years
+3 CONT  Also her husband
+3 CONT  James W McNatty
+3 CONT  Died 24th Dec 1959 aged 83 years
 1 FAMS @FW39@
 1 FAMC @F495@
 0 @IWS21@ INDI
@@ -17709,9 +17732,11 @@
 1 HUSB @IW77@
 1 WIFE @IWS20@
 1 MARR
-2 DATE 1935
+2 DATE ABT 1936
 2 PLAC Invercargill, NZL
+1 SOUR NZ BDM 1936/13797
 1 CHIL @IW84@
+1 CHIL @I1634@
 0 @FW40@ FAM
 1 SOUR @SIW1@
 1 HUSB @IW77@
@@ -29916,30 +29941,73 @@
 1 SOUR email from Bill McNatty
 1 SEX M
 1 BIRT
-2 DATE 1876
+2 DATE 5 Mar 1876
+2 PLAC Invercargill
+2 SOUR NZ BDM 1876/6361
 1 DEAT
 2 DATE 1960
+2 PLAC Invercargill, NZ
+2 SOUR NZ BDM 1960/21274
+1 OCCU Bootmaker
 1 FAMC @F496@
 1 FAMS @F495@
+1 BURI
+2 PLAC Eastern Cemetery, Invercargill, NZL
 0 @I946@ INDI
 1 NAME Agnes Ferguson Caldwell /Rattray/
 1 SOUR email from Bill McNatty
 1 SEX F
+1 BIRT
+2 DATE ABT 1878
+2 SOUR Age at death
+1 DEAT
+2 DATE BEF 5 Mar 1946
+2 PLAC NZL
+2 SOUR Burial
+1 BURI
+2 DATE 5 MAR 1946
+2 AGE 68
+2 PLAC Block/Plot: General - 23 / 252, Invercargill Eastern Cemetery, NZL 
 1 FAMS @F495@
 0 @I947@ INDI
 1 NAME John /McNatty/
 1 SOUR email from Bill McNatty
 1 SEX M
+1 BIRT
+2 DATE 22 Feb 1854
+2 PLAC Girvan, Ayrshire, Scotland
+1 CHR
+2 DATE 21 Mar 1854
 1 IMMI
 2 DATE 4 Sep 1864
 2 PLAC New Zealand
 2 NOTE Ship Sevilla Bluff
+1 DEAT
+2 DATE 4 Jul 1940
+2 PLAC Dunedin
+1 BURI
+2 PLAC Andersons Bay Cemetery, Dunedin
 1 FAMC @F497@
 1 FAMS @F496@
 0 @I948@ INDI
-1 NAME Hannah /Farrow/
+1 NAME Hannah (Helen) /Farrow/
 1 SOUR email from Bill McNatty
 1 SEX F
+1 BIRT
+2 DATE ABT 1853
+2 PLAC Edmontan, London, England
+1 DEAT
+2 DATE 10 March 1921
+2 PLAC Invercargill, NZL
+2 SOUR burial
+1 BURI
+2 DATE 12 March 1921
+2 PLAC Block/Plot: General - 10 / 78, Invercargill Eastern Cemetery, NZL
+2 NOTE With MCNATTY ELIZABETH SIMPSON 78 Years Eastern Cemetery Female. buri Wednesday, 14 June 1939
+3 CONT      MCNATTY ERNEST T Infant Eastern Cemetery Male, buri Thursday, 16 October 1890
+3 CONT      MCNATTY GEORGE VALENTINE Child Eastern Cemetery Male, buri Saturday, 28 March 1885
+3 CONT      MCNATTY THOMAS ERNEST Infant Eastern Cemetery Male, buri Monday, 05 September 1887
+3 CONT      MCNATTY THOMAS Adult Eastern Cemetery Male, buri Wednesday, 22 November 1893
 1 FAMS @F496@
 0 @I949@ INDI
 1 NAME James /McNatty/
@@ -34785,26 +34853,41 @@
 1 NAME Amy /Blackmore/
 1 SEX F
 1 FAMS @F701@
-0 @I11630@ INDI
+0 @I1630@ INDI
 1 NAME Derek /Fausett/
 1 SEX M
 1 FAMS @F702@
-0 @I11631@ INDI
+0 @I1631@ INDI
 1 NAME Briar Rose /Wood/
 1 SEX F
 1 FAMS @F703@
-0 @I11632@ INDI
+0 @I1632@ INDI
 1 NAME Helaina Elizabeth /Adams-Wood/
 1 SEX F
 1 BIRT
 2 DATE 24 Sep 2014
 1 FAMC @F703@
-0 @I11633@ INDI
+0 @I1633@ INDI
 1 NAME Ivy Juliet /Adams-Wood/
 1 SEX F
 1 BIRT
 2 DATE 23 Nov 2017
 1 FAMC @F703@
+0 @I1634@ INDI
+1 NAME NR /Gee/
+1 BIRT
+2 DATE 11 December 1942
+2 PLAC NZL
+2 SOUR NZ BDM 1942/84357
+1 NOTE Still born.
+1 DEAT
+2 DATE 11 December 1942
+2 PLAC NZL
+2 SOUR NZ BDM Birth rec 1942/84357
+1 BURI
+2 DATE 12 December 1942
+2 PLAC Invercargill Eastern cemetery, Block/Plot: General - 23 / 252
+1 FAMC @FW39@
 0 @F1@ FAM
 1 HUSB @I1@
 1 WIFE @I2@
@@ -37098,11 +37181,19 @@
 0 @F495@ FAM
 1 HUSB @I945@
 1 WIFE @I946@
+1 MARR
+2 DATE ABT 1905
+2 PLAC NZL
+2 SOUR NZ BDM 1905/4393
 1 CHIL @IWS20@
 1 SOUR email from Bill McNatty
 0 @F496@ FAM
 1 HUSB @I947@
 1 WIFE @I948@
+1 MARR
+2 DATE ABT 1875
+2 PLAC NZL
+2 SOUR NZ BDM 1875/2910
 1 CHIL @I945@
 1 SOUR email from Bill McNatty
 0 @F497@ FAM
@@ -38479,16 +38570,16 @@
 1 MARR
 2 DATE 30 Mar 2019
 0 @F702@ FAM
-1 HUSB @I11630@
+1 HUSB @I1630@
 1 WIFE @I238@
 1 CHIL @I1584@
 0 @F703@ FAM
 1 HUSB @IW48@
-1 WIFE @I11631@
+1 WIFE @I1631@
 1 MARR
 2 DATE 1 Oct 2010
-1 CHIL @I11632@
-1 CHIL @I11633@
+1 CHIL @I1632@
+1 CHIL @I1633@
 0 @AG_S1@ SUBM
 1 NAME Anne /Galpin/
 1 NOTE Email May 2001 reference to Prouse Family Tree book written in 1998
