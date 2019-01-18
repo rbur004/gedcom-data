@@ -13239,7 +13239,7 @@
 2 NOTE Undertaker: J Fraser & Sons.  
 2 NOTE With Infant: Stillborn. Buri Saturday, 12 December 1942 (Agnes May's child)
 3 CONT With Infant: McNatty (Dorothy Thelma) Buri Wednesday, 20 June 1917
-3 CONT With JAMES WILLIAM, MCNATTY, Aged 83 Buri: Monday, 28 December 1959
+3 CONT With JAMES WILLIAM, McNatty, Aged 83 Buri: Monday, 28 December 1959
 2 NOTE Inscription
 3 CONT  In loving memory of
 3 CONT  Agnes May (Nessie)
@@ -29987,8 +29987,12 @@
 1 DEAT
 2 DATE 4 Jul 1940
 2 PLAC Dunedin
+2 SOUR Burial
 1 BURI
-2 PLAC Andersons Bay Cemetery, Dunedin
+2 PLAC Block 42. Plot 24, Andersons Bay Cemetery, Dunedin
+2 AGE 89
+1 NOTE Address given as SIGNAL HILL ROAD, DUNEDIN
+2 CONT Actual age 86
 1 FAMC @F497@
 1 FAMS @F496@
 0 @I948@ INDI
@@ -30005,12 +30009,194 @@
 1 BURI
 2 DATE 12 March 1921
 2 PLAC Block/Plot: General - 10 / 78, Invercargill Eastern Cemetery, NZL
-2 NOTE With MCNATTY ELIZABETH SIMPSON 78 Years Eastern Cemetery Female. buri Wednesday, 14 June 1939
-3 CONT      MCNATTY ERNEST T Infant Eastern Cemetery Male, buri Thursday, 16 October 1890
-3 CONT      MCNATTY GEORGE VALENTINE Child Eastern Cemetery Male, buri Saturday, 28 March 1885
-3 CONT      MCNATTY THOMAS ERNEST Infant Eastern Cemetery Male, buri Monday, 05 September 1887
-3 CONT      MCNATTY THOMAS Adult Eastern Cemetery Male, buri Wednesday, 22 November 1893
+2 NOTE With McNatty ELIZABETH SIMPSON 78 Years Eastern Cemetery Female. buri Wednesday, 14 June 1939
+3 CONT      McNatty ERNEST T Infant Eastern Cemetery Male, buri Thursday, 16 October 1890
+3 CONT      McNatty GEORGE VALENTINE Child Eastern Cemetery Male, buri Saturday, 28 March 1885
+3 CONT      McNatty THOMAS ERNEST Infant Eastern Cemetery Male, buri Monday, 05 September 1887
+3 CONT      McNatty THOMAS Adult Eastern Cemetery Male, buri Wednesday, 22 November 1893
+1 NOTE Signed the NZ Sufferage petition. 
 1 FAMS @F496@
+0 @IBM162@ INDI
+1 NAME Walter Ernest /McNatty/
+2 SURN McNatty
+2 GIVN Walter Ernest
+2 NPFX Sergeant
+1 SEX M
+1 BIRT
+2 DATE ABT 1894
+2 SOUR NZ BDM  1894/15471
+2 NOTE Son of John and Hannah McNatty, of 72, East Rd., Invercargill, New Zealand.
+1 DEAT
+2 SOUR NZ BDM 1918/64750	McNatty	Walter Ernest	21Y
+1 FAMC @F496@
+1 NOTE served during whole of Gallipoli operations from landing to evacuation.
+0 @IBM163@ INDI
+1 NAME Henry John /McNatty/
+2 SURN McNatty
+2 GIVN Henry John
+2 NPFX Private
+1 SEX M
+1 BIRT
+2 DATE 17 Sep 1889
+2 PLAC Invercargill
+2 SOUR NZ BDM 1889/15138
+1 DEAT
+2 DATE 6 Aug 1915
+2 PLAC Gallipoli, Turkey
+2 CAUS WW1 Killed  in  action Dardenelles
+2 NOTE NZ BDM 1918/70403	McNatty	Henry John	25Y
+1 BURI
+2 PLAC Chunuk Bair CWCG Cemetery Turkey
+1 NOTE Henry John McNatty 
+2 CONT WW1 SERVICE No. 8/250 RANK Private SURNAME McNatty FIRST NAMES/INITIALS Henry Joh
+2 CONC n BODY OR DRAFT Main Body UNIT Otago Infantry Regiment OCCUPATION 
+2 CONT n/a
+2 CONT ADDRESS Gore, Southland, New Zealand NEXT OF KIN John & Hannah McNatty, East Road, Invercargi
+2 CONC ll, Southland, New Zealand BORN n/a DIED 06th August 1915 Gallipoli, Turkey BURIED Chunuk Bai
+2 CONC r New Zealand Memorial, Turkey GRAVE/MEMORIAL REFERENCE 16. SERVICE MEDALS & CLASPS 1914-191
+2 CONC 5 Star: Britsh War Medal: Victory Medal; Gallipoli Medallion. ADDITIONAL INFORMATION Killed i
+2 CONC n Action. Brother of 3/167A Private Walter Ernest McNatty died of wounds, France, 03rd Octobe
+2 CONC r 1917. 4/2202 Sapper Charles Burton McNatty, 65117 Private Frank Kingsland McNatty, 59033 Pr
+2 CONC ivate Robert McNatty.
+2 CONT 
+2 CONT ref http://www.familytreecircles.com/journal_17348.html
+2 CONT 
+2 CONT McNatty, Private, HENRY JOHN, 8/250. Otago Regiment, N.Z.E.F.. Killed in action 6th August 19
+2 CONC 15. Age 25. Son of John and Hannah McNatty, of 72, East Rd., Invercargill. 16.
+1 FAMC @F496@
+0 @IBM165@ INDI
+1 NAME Agnes Charlotte /McNatty/
+2 SURN McNatty
+2 GIVN Agnes Charlotte
+1 SEX F
+1 BIRT
+2 DATE ABT 1878
+1 SOUR NZ BDM 1878/6440
+1 CHR
+2 PLAC Lower Hutt
+1 NOTE Marriage record ref @FBM64@ McNatty.
+1 DEAT
+2 DATE 1963
+2 SOUR NZ BDM 1963/41268	Bonifant	Agnes Charlotte	83Y
+2 AGE 83
+1 FAMC @F496@
+0 @IBM166@ INDI
+1 NAME Thomas Farrow /McNatty/
+2 SURN McNatty
+2 GIVN Thomas Farrow
+1 SEX M
+1 BIRT
+2 DATE ABT 1881
+2 SOUR NZ BDM 1881/5678
+1 CHR
+2 PLAC Dunedin
+1 DEAT
+2 DATE 11 May 1959
+2 PLAC Dunedin
+2 SOUR NZ BDM 1959/41356	McNatty	Thomas Farrow	77Y
+2 AGE 77
+1 NOTE Electoral Role:   
+2 CONT 1922, McNatty, Thomas Farrow, 10, Young Street, St Kilda, Bootmaker, 15549, 7, 0, , MKNT11, TMS111, 
+2 CONT 1925, McNatty, Thomas Farrow, 10, Young Street, St Kilda, Bootmaker, 820, 7, 0, , MKNT11, TMS111, 
+2 CONT 1928, McNatty, Thomas Farrow, 10, Young Street, St Kilda, Bootmaker, 315, 4, 0, , MKNT11, TMS111, 
+2 CONT ref: http://caversham.otago.ac.nz/electors/erid.php?erkey=37490
+1 NOTE Marriage Record ref McNatty @FBM63@ 
+2 CONT m. 1911/9016	Annie Pearl	Hodgson	Thomas Farrow	McNatty
+2 CONT d. Possibly 1963/45353	McNatty	Pearl Annie	75Y
+1 FAMC @F496@
+0 @IBM167@ INDI
+1 NAME Frank Kingsland /McNatty/
+2 SURN McNatty
+2 GIVN Frank Kingsland
+2 NPFX Sergeant
+1 SEX M
+1 BIRT
+2 DATE 5 May 1886
+2 PLAC Melbourne, Victoria, Australia
+1 DEAT
+2 DATE 2 Dec 1973
+2 PLAC Christchurch
+2 SOUR death ref 1973/36262
+1 BURI
+2 DATE 5 Dec 1973
+2 PLAC Bromley Cemetery, Christchurch
+1 FAMC @F496@
+0 @IBM168@ INDI
+1 NAME Charles Burton /McNatty/
+2 SURN McNatty
+2 GIVN Charles Burton
+1 SEX M
+1 BIRT
+2 DATE ABT 1888
+1 CHR
+2 PLAC Cambridge
+1 DEAT
+2 DATE Abt 1982 (93)
+2 PLAC Christchurch
+1 NOTE Marriage Record refer McNatty @FBM49@
+2 CONT NZ BDM 1926/3455	Wilhelmina Calder	Ramsay	Charles Burton	McNatty
+2 CONT d. 1969/34295	McNatty	Wilhelmina Calder	67Y
+1 FAMC @F496@
+1 NOTE Birth  ref 1888/10916
+2 CONT 
+2 CONT Death #1569 Christchurch
+2 CONT Marriage #2827
+2 CONT Ref 4371
+0 @IBM169@ INDI
+1 NAME Lillian May /McNatty/
+2 SURN McNatty
+2 GIVN Lillian May
+1 SEX F
+1 BIRT
+2 DATE ABT 1893
+2 SOUR NZ BDM 1893/14683
+1 CHR
+2 PLAC Invercargill, NZL
+1 DEAT
+2 DATE 7 Aug 1969
+2 PLAC Invercargill, NZL
+2 AGE 75
+2 SOUR NZ BDM 1969/33423	Dalton	Lilian May	75Y
+1 BURI
+2 DATE 9 Aug 1969
+2 PLAC Block/Plot: General - 39 / 948, Invercargill Eastern Cemetery, NZL
+2 NOTE Widow
+1 NOTE Marriage record refer McNatty @FBM65@
+2 CONT NZ BDM 1920/6638	Lilian May	McNatty	John Percival	Dalton
+2 CONT d. 1955/36036	Dalton	John Percival	63Y
+1 FAMC @F496@
+0 @IBM2314@ INDI
+1 NAME George Valentine /McNatty/
+1 SEX M
+1 BIRT
+2 DATE ABT Feb 1884
+2 SOUR NZ BDM 1884/10604	McNatty	George Ballantyne	Hannah	John
+2 NOTE Grave, burial notice in paper, and Death record gives second name as Valentine
+1 DEAT
+2 DATE Bef Mar 1885
+2 SOUR NZ BDM 1885/6084	McNatty	George Valentine 13M
+2 AGE 13M
+1 BURI
+2 DATE 28 Mar 1885
+2 PLAC Block/Plot: General - 10 / 78, Invercargill Eastern Cemetery, NZL
+2 SOUR Cemetery records.
+1 FAMC @F496@
+0 @IBM2375@ INDI
+1 NAME John Henry Farrow /McNatty/
+2 SURN McNatty
+2 GIVN John Henry Farrow
+1 SEX M
+1 BIRT
+2 DATE ABT 1880
+2 SOUR NZ BDM 1880/9030
+1 DEAT
+2 DATE May 1880
+2 SOUR NZ BDM 1880/1422	McNatty	John Henry Farron	5W
+1 BURI
+2 DATE 7 Jun 1880
+2 PLAC Plot 15, Invercargill Eastern Cemetery, NZL
+2 SOUR Cemetery Records.
+1 FAMC @F496@
 0 @I949@ INDI
 1 NAME James /McNatty/
 1 SOUR email from Bill McNatty
@@ -30046,11 +30232,29 @@
 1 NAME James /McNatty/
 1 SOUR email from Bill McNatty
 1 SEX M
+1 BIRT
+2 DATE ABT 1790
+2 PLAC County Down, Ireland
+1 DEAT
+2 DATE BEF 1859
+1 NOTE Moved to Girvan, Ayrshire, Scotland, before 1840
+1 OCCU Stonebreaker
+2 DATE 1840
 1 FAMS @F498@
 0 @I952@ INDI
 1 NAME Jane /Morrison/
 1 SOUR email from Bill McNatty
 1 SEX F
+1 BIRT
+2 DATE 12 Feb 1801
+2 PLAC Parish of Inch, Northern Ireland
+1 DEAT
+2 DATE 15 Feb 1889
+2 PLAC Vermont USA
+1 BURI
+2 PLAC Main Cemetery, Stannard, VT, USA
+1 OCCU Cotton Winder
+2 DATE 1840
 1 FAMS @F498@
 0 @I953@ INDI
 1 NAME John /Beauchamp/
@@ -37218,6 +37422,15 @@
 2 PLAC St Johns Presbyterian Church, Invercargill
 2 SOUR NZ BDM 1875/2910
 1 CHIL @I945@
+1 CHIL @IBM165@
+1 CHIL @IBM2375@
+1 CHIL @IBM166@
+1 CHIL @IBM2314@
+1 CHIL @IBM167@
+1 CHIL @IBM163@
+1 CHIL @IBM168@
+1 CHIL @IBM169@
+1 CHIL @IBM162@
 1 SOUR email from Bill McNatty
 0 @F497@ FAM
 1 HUSB @I949@
