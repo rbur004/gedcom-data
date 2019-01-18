@@ -30001,7 +30001,7 @@
 1 SEX F
 1 BIRT
 2 DATE ABT 1853
-2 PLAC Edmontan, London, England
+2 PLAC Edmonton, London, England
 1 DEAT
 2 DATE 10 March 1921
 2 PLAC Invercargill, NZL
@@ -30014,8 +30014,9 @@
 3 CONT      McNatty GEORGE VALENTINE Child Eastern Cemetery Male, buri Saturday, 28 March 1885
 3 CONT      McNatty THOMAS ERNEST Infant Eastern Cemetery Male, buri Monday, 05 September 1887
 3 CONT      McNatty THOMAS Adult Eastern Cemetery Male, buri Wednesday, 22 November 1893
-1 NOTE Signed the NZ Sufferage petition. 
+1 NOTE Signed the NZ Sufferage petition. Sheet 362.
 1 FAMS @F496@
+1 FAMC @F704@
 0 @IBM162@ INDI
 1 NAME Walter Ernest /McNatty/
 2 SURN McNatty
@@ -35121,6 +35122,14 @@
 2 DATE 12 December 1942
 2 PLAC Invercargill Eastern cemetery, Block/Plot: General - 23 / 252
 1 FAMC @FW39@
+0 @I1635@ INDI
+1 NAME William /Farrow/
+1 SEX M
+1 FAMS @F704@
+0 @I1636@ INDI
+1 NAME Susan /Jennings/
+1 SEX F
+1 FAMS @F704@
 0 @F1@ FAM
 1 HUSB @I1@
 1 WIFE @I2@
@@ -38830,6 +38839,11 @@
 2 DATE 1 Oct 2010
 1 CHIL @I1632@
 1 CHIL @I1633@
+0 @F704@ FAM
+1 HUSB @I1635@
+1 WIFE @I1636@
+1 SOUR <a href="https://nzhistory.govt.nz/suffragist/hannah-mcnatty">NZ Sufferage Petition website</a>
+1 CHIL @I948@
 0 @AG_S1@ SUBM
 1 NAME Anne /Galpin/
 1 NOTE Email May 2001 reference to Prouse Family Tree book written in 1998
