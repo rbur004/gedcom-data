@@ -30235,6 +30235,19 @@
 1 BURI
 2 DATE 29 Sep 1931
 2 PLAC Bromley Cemetry, Christchurch
+1 IMMI
+2 DATE 4 Sep 1864
+2 PLAC New Zealand
+2 NOTE Ship Sevilla Bluff
+1 NOTE Immigrated to NZ
+2 CONT Sevilla, 800 tons, Captain Kerr from Glasgow - Morrison, Law & Co, agents. 
+2 CONT Arrived at Bluff 4th September 1864, Left Glasgow 21st or 23rd May 1864
+2 CONT James McNATTY
+2 CONT Mrs McNATTY
+2 CONT Child McNATTY X 6
+2 CONT Thompson McNATTY
+2 CONT Mrs McNATTY
+2 CONT Child McNATTY X 3
 1 FAMC @F498@
 1 FAMS @F497@
 0 @I950@ INDI
@@ -30251,6 +30264,10 @@
 1 BURI
 2 DATE 19 Aug 1890
 2 PLAC Eastern Cemetry, Invercargill, NZL
+1 IMMI
+2 DATE 4 Sep 1864
+2 PLAC New Zealand
+2 NOTE Ship Sevilla Bluff
 1 FAMS @F497@
 0 @I951@ INDI
 1 NAME James /McNatty/
