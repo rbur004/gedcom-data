@@ -35130,6 +35130,49 @@
 1 NAME Susan /Jennings/
 1 SEX F
 1 FAMS @F704@
+0 @I1637@ INDI
+1 NAME Dorothy Thelma /McNatty/
+1 SEX F
+1 BIRT
+2 DATE 16 Jun 1917
+2 SOUR NZ BDM 1917/19137	McNatty	Dorothy Thelma	Agnes Ferguson Caldwell	James William
+1 DEAT
+2 DATE 19 Jun 1917
+2 AGE 3D
+2 SOUR NZ BDM 1917/4589	McNatty	Dorothy Thelma 3D
+1 BURI
+2 DATE 20 June 1917
+2 PLAC General - 23 / 252, Invercargill Eastern cemetery, NZL
+1 FAMC @F495@
+0 @I1638@ INDI
+1 NAME Eric /McNatty/
+1 SEX M
+1 BIRT
+2 DATE 31 July 1907
+2 PLAC NZL
+2 SOUR NZ BDM 1907/18663 	McNatty	Eric	Agnes Ferguson Caldwell	James William
+1 DEAT
+2 DATE 26 May 1997
+2 PLAC NZL
+2 SOUR NZ BDM 1997/40513	McNatty	Eric	31 July 1907
+2 AGE 89
+1 BURI
+2 DATE 28 May 1997
+2 PLAC Block/Plot: General - 43 / 99, Invercargill Eastern Cemetery,  NZL
+2 NOTE Undertaker: J Fraser & Sons.
+2 NOTE With Irene Clara McNatty.
+2 NOTE In loving memory of
+3 CONT Irene Clara McNatty
+3 CONT Beloved wife of Eric
+3 CONT Died 16th Sep 1989
+3 CONT Aged 74 years
+3 CONT Eric McNatty
+3 CONT Beloved husband of Irene
+3 CONT Died 26th May 1997
+3 CONT Aged 89 years
+3 CONT Loved father, grandfather & great grandfather
+3 CONT Till we meet again
+1 FAMC @F495@
 0 @F1@ FAM
 1 HUSB @I1@
 1 WIFE @I2@
@@ -37428,6 +37471,8 @@
 2 PLAC NZL
 2 SOUR NZ BDM 1905/4393
 1 CHIL @IWS20@
+1 CHIL @I1638@
+1 CHIL @I1637@
 1 SOUR email from Bill McNatty
 0 @F496@ FAM
 1 HUSB @I947@
