@@ -30023,13 +30023,19 @@
 2 NPFX Sergeant
 1 SEX M
 1 BIRT
-2 DATE ABT 1894
-2 SOUR NZ BDM  1894/15471
+2 DATE 18 Oct 1894
+2 SOUR NZ BDM  1894/15471 and WW1 record
 2 NOTE Son of John and Hannah McNatty, of 72, East Rd., Invercargill, New Zealand.
 1 DEAT
-2 SOUR NZ BDM 1918/64750	McNatty	Walter Ernest	21Y
+2 DATE 13 October 1917
+2 PLAC Belgium
+2 CAUS Died of wounds on no 29 Ambulance train (Head)
+2 SOUR WW1 Record and NZ BDM 1918/64750	McNatty	Walter Ernest	21Y
+1 BURI
+2 PLAC St Sever Cemetery Extension, Rouen, Seine-Maritime, France,  P. III. H. 6B.
 1 FAMC @F496@
-1 NOTE served during whole of Gallipoli operations from landing to evacuation.
+1 NOTE served during whole of Gallipoli operations from landing to evacuation, then Western Front.
+1 NOTE 3/167A, Sergeant New Zealand Medical Corps, 4 Field Ambulance
 0 @IBM163@ INDI
 1 NAME Henry John /McNatty/
 2 SURN McNatty
