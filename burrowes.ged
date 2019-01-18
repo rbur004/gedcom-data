@@ -13246,13 +13246,6 @@
 3 CONT  Beloved wife of John J Gee
 3 CONT  & only daughter of James W & Agnes McNatty
 3 CONT  Died 19th Dec 1942 aged 33 years
-3 CONT  In loving memory of
-3 CONT  Agnes F.G.
-3 CONT  Beloved wife of James W McNatty
-3 CONT  Died 3rd March 1945 aged 68 years
-3 CONT  Also her husband
-3 CONT  James W McNatty
-3 CONT  Died 24th Dec 1959 aged 83 years
 1 FAMS @FW39@
 1 FAMC @F495@
 0 @IWS21@ INDI
@@ -29947,14 +29940,27 @@
 2 PLAC Invercargill, NZL
 2 SOUR NZ BDM 1876/6361
 1 DEAT
-2 DATE 1960
+2 DATE 24th Dec 1959
+2 AGE 83
 2 PLAC Invercargill, NZL
 2 SOUR NZ BDM 1960/21274
 1 OCCU Bootmaker
+1 BURI
+2 DATE 28 December 1959
+2 AGE 83
+2 PLAC Block/Plot: General - 23 / 252, Invercargill Eastern Cemetery, NZL
+2 NOTE With Infant: Stillborn. Buri Saturday, 12 December 1942 (Daug. Agnes May's child)
+3 CONT With Infant: McNatty (Dorothy Thelma) Buri Wednesday, 20 June 1917
+2 NOTE Inscription
+3 CONT  In loving memory of
+3 CONT  Agnes F.G.
+3 CONT  Beloved wife of James W McNatty
+3 CONT  Died 3rd March 1945 aged 68 years
+3 CONT  Also her husband
+3 CONT  James W McNatty
+3 CONT  Died 24th Dec 1959 aged 83 years
 1 FAMC @F496@
 1 FAMS @F495@
-1 BURI
-2 PLAC Eastern Cemetery, Invercargill, NZL
 0 @I946@ INDI
 1 NAME Agnes Ferguson Caldwell /Rattray/
 1 SOUR email from Bill McNatty
@@ -29969,7 +29975,18 @@
 1 BURI
 2 DATE 5 MAR 1946
 2 AGE 68
-2 PLAC Block/Plot: General - 23 / 252, Invercargill Eastern Cemetery, NZL 
+2 PLAC Block/Plot: General - 23 / 252, Invercargill Eastern Cemetery, NZL
+2 NOTE With Infant: Stillborn. Buri Saturday, 12 December 1942 (Agnes May's child)
+3 CONT With Infant: McNatty (Dorothy Thelma) Buri Wednesday, 20 June 1917
+3 CONT With JAMES WILLIAM, McNatty, Aged 83 Buri: Monday, 28 December 1959
+2 NOTE Inscription
+3 CONT  In loving memory of
+3 CONT  Agnes F.G.
+3 CONT  Beloved wife of James W McNatty
+3 CONT  Died 3rd March 1945 aged 68 years
+3 CONT  Also her husband
+3 CONT  James W McNatty
+3 CONT  Died 24th Dec 1959 aged 83 years
 1 FAMS @F495@
 0 @I947@ INDI
 1 NAME John /McNatty/
