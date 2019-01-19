@@ -30361,6 +30361,83 @@
 2 PLAC Wellington
 1 NOTE Marriage details see McNatty @FBM48@
 1 FAMC @F497@
+0 @IBM21@ INDI
+1 NAME Thomson /MCNATTY/
+1 SEX M
+1 BIRT
+2 DATE 1835
+2 PLAC Ireland
+1 DEAT
+2 DATE 28 Sep 1910
+2 PLAC Invercargill
+2 NOTE Death 1910 #3069 Invercargill
+3 CONT 28 September 1910 Age  78  years
+3 CONT 
+3 CONT 11 cildren
+3 CONT Born  Ayrshire Scotland m 25 yrs Annie  Watson
+3 CONT Issue m 47 , 45, 39, 36; f 52, 50, 43, 40, 34, 32
+3 CONT
+3 CONT  Church of  England - minister  officiating  at  funeral
+1 BURI
+2 PLAC St Johns  Cemetery, Invercargill
+1 AFN 20GT-VZF
+1 NOTE Arrived  "Sevilla"  890 tons Bluff 4 September 1864 (Southland Daily News- Mon Sept 5 1864)
+2 CONT Southland Times 3 September 1864 Thompson M'Natty and  family (5)
+1 SOUR @SBM18@
+1 NOTE Marriage details see McNatty  @FBM7@
+1 FAMC @F498@
+0 @IBM25@ INDI
+1 NAME Jane /McNATTY/
+1 NOTE _MARNM McDarall/ Mcdole/McDowell/McDowall/
+1 SEX F
+1 BIRT
+2 DATE 18 Oct 1823
+2 PLAC County Down, Ireland
+1 DEAT
+2 DATE 18 Jan 1892
+2 PLAC Wheelock, Caledonia,  VT
+2 SOUR @SBM35@
+3 PAGE p329
+3 NOTE Copy  of  record on file
+3 DATA
+4 DATE Jan 1892
+2 NOTE Death - Jane McDowell, d. Jan. 18, 1892, age 68 yrs, 3 mos. Parents: James McNulty & Jane Marsden (Book 1, p. 121)
+1 BURI
+2 PLAC Main Cemetery Stannard, VT
+2 SOUR @SBM34@
+3 NOTE Image  of  headstone  on  record
+2 SOUR @SBM34@
+1 NOTE From census records 1880 US Vermont
+2 CONT 
+2 CONT Census Place Stannard, Caledonia, Vermont Family History Library Film 1255342 Year: 1880; Cen
+2 CONC sus Place: Stannard, Caledonia, Vermont; Roll: T9_1342; Family History Film: 1255342; Page: 1
+2 CONC 57C; Enumeration District: 53;
+2 CONT 
+1 NOTE Marriage details see McNatty  @FBM37@
+1 FAMC @F498@
+0 @IBM26@ INDI
+1 NAME Samuel /MCNATTY/
+1 SEX M
+1 BIRT
+2 DATE ABT 1830
+2 PLAC Parish of Inch, County Down, Northern Ireland
+1 DEAT
+2 DATE 23 Nov 1883
+2 PLAC Invercargill
+2 SOUR Death #1916 Invercargill 4th
+2 NOTE Death Cert indicates Samuel was born Parish of Inch, County Down
+3 CONT 
+3 CONT Source Information: 
+3 CONT Batch No.: Dates: Source Call No.: Type: Printout Call No.: Type:  IMG
+3 CONT  M115941  1855 - 1875 6035516
+3 CONT 
+3 CONT The  Death notice  indicates  that  Samuel was a member  of  the Orange  Lodge  in Invercargill
+1 BURI
+2 DATE 24 Nov 1883
+2 PLAC Eastern Cemetry, Invercargill
+1 NOTE Shipping Index IM 15/63
+1 NOTE Marriage details see McNatty  @FBM10@
+1 FAMC @F498@
 0 @I951@ INDI
 1 NAME James /McNatty/
 1 SOUR email from Bill McNatty
@@ -37642,7 +37719,10 @@
 0 @F498@ FAM
 1 HUSB @I951@
 1 WIFE @I952@
+1 CHIL @IBM25@
+1 CHIL @IBM26@
 1 CHIL @I949@
+1 CHIL @IBM21@
 1 SOUR email from Bill McNatty
 0 @F499@ FAM
 1 HUSB @I954@
@@ -39900,6 +39980,13 @@
 1 SUBM @SI_S1@
 1 HUSB @IS89@
 1 WIFE @IS81@
+0 @SBM18@ SOUR
+1 REPO @REPO1@
+1 TITL Ancestral File (R)
+1 AUTH The Church of Jesus Christ of Latter-day Saints
+1 PUBL Copyright (c) 1987, June 1998, data as of 5 January 1998
+0 @SBM35@ SOUR
+1 TITL Vermont  Vital Records
 0 @SIP1@ SOUR
 1 NOTE ******* Start of Pollard families **********
 2 CONC All INDI records start IP. All FAM records start FP.
