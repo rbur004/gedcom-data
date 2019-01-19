@@ -30245,9 +30245,6 @@
 2 CONT James McNATTY
 2 CONT Mrs McNATTY
 2 CONT Child McNATTY X 6
-2 CONT Thompson McNATTY
-2 CONT Mrs McNATTY
-2 CONT Child McNATTY X 3
 1 FAMC @F498@
 1 FAMS @F497@
 0 @I950@ INDI
@@ -30381,8 +30378,16 @@
 1 BURI
 2 PLAC St Johns  Cemetery, Invercargill
 1 AFN 20GT-VZF
-1 NOTE Arrived  "Sevilla"  890 tons Bluff 4 September 1864 (Southland Daily News- Mon Sept 5 1864)
-2 CONT Southland Times 3 September 1864 Thompson M'Natty and  family (5)
+1 IMMI
+2 DATE 4 Sep 1864
+2 PLAC New Zealand
+2 NOTE Ship Sevilla Bluff
+1 NOTE Southland Times 3 September 1864 Thompson M'Natty and  family (5)
+2 CONT Sevilla, 800 tons, Captain Kerr from Glasgow - Morrison, Law & Co, agents. 
+2 CONT Arrived at Bluff 4th September 1864, Left Glasgow 21st or 23rd May 1864
+2 CONT Thompson McNATTY
+2 CONT Mrs McNATTY
+2 CONT Child McNATTY X 3
 1 SOUR @SBM18@
 1 NOTE Marriage details see McNatty  @FBM7@
 1 FAMC @F498@
