@@ -30269,6 +30269,98 @@
 2 PLAC New Zealand
 2 NOTE Ship Sevilla Bluff
 1 FAMS @F497@
+0 @IBM144@ INDI
+1 NAME Mary /McNatty/
+1 SEX F
+1 BIRT
+2 DATE ABT 1852
+2 PLAC Girvan, Ayrshire, Scotland
+1 DEAT
+2 DATE 19 Dec 1932 (80)
+2 PLAC Dunedin
+1 BURI
+2 DATE 21 Dec 1932
+2 PLAC Eastern Cemetery, Invercargill
+1 NOTE Marriage details see McNatty @FBM40@
+1 FAMC @F497@
+0 @IBM146@ INDI
+1 NAME James /McNatty/
+1 SEX M
+1 BIRT
+2 DATE 2 May 1856
+2 PLAC Girvan, Ayrshire, Scotland
+1 DEAT
+2 DATE 10 Mar 1930
+1 BURI
+2 PLAC Andersons Bay Cemetery, Dunedin
+1 NOTE Marriage details see McNatty @FBM42@
+1 FAMC @F497@
+0 @IBM147@ INDI
+1 NAME Jane /McNatty/
+1 SEX F
+1 BIRT
+2 DATE 21 Oct 1858
+2 PLAC Girvan, Ayrshire, Scotland
+1 DEAT
+2 DATE ABT 1928
+2 PLAC Invercargill
+1 NOTE Marriage details see McNatty @FBM43@
+1 FAMC @F497@
+0 @IBM152@ INDI
+1 NAME Thomas /McNatty/
+1 SEX M
+1 BIRT
+2 DATE 19 Apr 1867
+2 PLAC Girvan, Ayrshire, Scotland
+1 DEAT
+2 DATE ABT 1893/1929
+2 NOTE Possible Death 1893  #2209 Invercargill  4th  
+3 CONT or Death 1929 #2910 Timaru 3rd
+1 NOTE Marriage details see McNatty @FBM44@
+1 FAMC @F497@
+0 @IBM153@ INDI
+1 NAME Agnes /McNatty/
+1 SEX F
+1 BIRT
+2 DATE 11 Oct 1863
+2 PLAC Kirkmichael, Ayrshire, Scotland
+1 DEAT
+2 DATE 21 Jul 1938
+1 NOTE Marriage details see McNatty @FBM45@
+1 FAMC @F497@
+0 @IBM154@ INDI
+1 NAME Elizabeth /McNatty/
+1 SEX F
+1 BIRT
+2 DATE ABT 1866
+2 PLAC Invercargill
+1 DEAT
+2 DATE 5 Jul 1935
+2 PLAC Papakura, Auckland
+1 NOTE Marriage details see McNatty @FBM46@
+1 FAMC @F497@
+0 @IBM155@ INDI
+1 NAME Isabella /McNatty/
+1 SEX F
+1 BIRT
+2 DATE ABT 1868
+2 PLAC Invercargill
+1 DEAT
+2 DATE 12 Oct 1928
+2 PLAC Invercargill
+1 BURI
+2 DATE 15 Oct 1928
+2 PLAC Eastern Cemetery, Invercargill
+1 NOTE Marriage details see McNatty @FBM47@
+1 FAMC @F497@
+0 @IBM156@ INDI
+1 NAME Minnie Edna /McNatty/
+1 SEX F
+1 DEAT
+2 DATE ABT 1947
+2 PLAC Wellington
+1 NOTE Marriage details see McNatty @FBM48@
+1 FAMC @F497@
 0 @I951@ INDI
 1 NAME James /McNatty/
 1 SOUR email from Bill McNatty
@@ -37537,7 +37629,15 @@
 3 CONT James McNatty (13 March 1853). There is no presumption that the events are the same but this
 3 CONT note is included here to not limit  the seach  for ancestors to the McNatty name. There is a
 3 CONT possibility that the  first wedding is a church wedding and the second  the civil registration date
+1 CHIL @IBM144@
 1 CHIL @I947@
+1 CHIL @IBM146@
+1 CHIL @IBM147@
+1 CHIL @IBM152@
+1 CHIL @IBM153@
+1 CHIL @IBM154@
+1 CHIL @IBM155@
+1 CHIL @IBM156@
 1 SOUR email from Bill McNatty
 0 @F498@ FAM
 1 HUSB @I951@
