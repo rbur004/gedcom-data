@@ -28150,11 +28150,6 @@
 1 NAME Florence /Conyers/
 1 SEX F
 1 FAMC @F301@
-0 @I675@ INDI
-1 NAME John /Burrowes/
-1 SEX M
-1 NOTE Not Sure his name was John (Source Edmund S. S. Burrowes)
-1 FAMC @F265@
 0 @I676@ INDI
 1 NAME Ruth /Burrowes/
 1 SEX F
@@ -30719,6 +30714,7 @@
 1 BIRT
 2 DATE 1 Jul 1922
 2 PLAC Antigua
+1 FAMC @F265@
 1 FAMS @F515@
 1 SOUR Daughter Joy
 0 @I992@ INDI
@@ -36292,7 +36288,7 @@
 3 CONT Bride 22 Spinster, 23 Stevens Squ, Father Hugh Sproston (Deceased) Ship Owner
 1 CHIL @I664@
 1 CHIL @I571@
-1 CHIL @I675@
+1 CHIL @I991@
 1 CHIL @I676@
 0 @F266@ FAM
 1 HUSB @I352@
