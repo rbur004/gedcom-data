@@ -26645,6 +26645,7 @@
 1 BIRT
 2 DATE 16 Aug 1970
 1 FAMC @F310@
+1 FAMS @F705@
 0 @I443@ INDI
 1 NAME Herbert (Herbie) Stanley /Burrowes/
 1 SEX M
@@ -27629,9 +27630,15 @@
 1 SEX F
 1 FAMC @F367@
 0 @I581@ INDI
-1 NAME Juliet Ann /Burrowes/
+1 NAME Juliet Ann (Ann) /Burrowes/
 1 SEX F
 1 NOTE 1996 living Yorkshire
+1 BIRT
+2 DATE 27 Jul 1935
+2 PLAC Georgetown British Guiana
+1 DEAT
+2 DATE 8 May 2019
+2 PLAC High Wycombe Buckinghamshire Eng
 1 FAMC @F263@
 1 FAMS @F368@
 0 @I582@ INDI
@@ -27639,6 +27646,9 @@
 1 SEX M
 1 BIRT
 2 DATE 21 Apr 1937
+1 DEAT
+2 DATE 2018
+2 PLAC Adelaide Aus
 1 FAMC @F263@
 1 FAMS @F369@
 0 @I583@ INDI
@@ -27663,6 +27673,8 @@
 0 @I585@ INDI
 1 NAME Eric /Hobkirk/
 1 SEX M
+1 DEAT
+2 DATE 16 Nov 2014
 1 FAMS @F368@
 0 @I586@ INDI
 1 NAME Jytte /Unknown/
@@ -35377,6 +35389,40 @@
 3 CONT Loved father, grandfather & great grandfather
 3 CONT Till we meet again
 1 FAMC @F495@
+0 @I1639@ INDI
+1 NAME Angus Anderson /Burrowes/
+1 SEX M
+1 BIRT
+2 DATE 19 Nov 2003 
+1 FAMC @F421@
+0 @I1640@ INDI
+1 NAME Flora Anderson /Burrowes/
+1 SEX F
+1 BIRT
+2 DATE 1 Aug 2008 
+1 FAMC @F421@
+0 @I1641@ INDI
+1 NAME Nicholas /Wild/
+1 SEX M
+1 FAMS @F705@
+0 @I1642@ INDI
+1 NAME Saul Nicholas /Wild/
+1 SEX M
+1 BIRT
+2 DATE 18 Jan 2008
+1 FAMC @F705@
+0 @I1643@ INDI
+1 NAME Jules Casey /Wild/
+1 SEX M
+1 BIRT
+2 DATE 18 Jun 2009
+1 FAMC @F705@
+0 @I1644@ INDI
+1 NAME Dexter Cody /Wild/
+1 SEX M
+1 BIRT
+2 DATE 2 Dec 2011
+1 FAMC @F705@
 0 @F1@ FAM
 1 HUSB @I1@
 1 WIFE @I2@
@@ -37182,6 +37228,8 @@
 1 MARR
 2 DATE 27 May 2000
 2 PLAC Thurso, Caithness, Scotland
+1 CHIL @I1639@
+1 CHIL @I1640@
 0 @F422@ FAM
 1 HUSB @I217@
 1 WIFE @I804@
@@ -39104,6 +39152,14 @@
 1 WIFE @I1636@
 1 SOUR Details from <a href="https://nzhistory.govt.nz/suffragist/hannah-mcnatty">NZ Sufferage Petition website</a>
 1 CHIL @I948@
+0 @F705@ FAM
+1 HUSB @I1641@
+1 WIFE @I442@
+1 CHIL @I1642@
+1 CHIL @I1643@
+1 CHIL @I1644@
+1 MARR
+2 DATE 2 Sep 2012
 0 @AG_S1@ SUBM
 1 NAME Anne /Galpin/
 1 NOTE Email May 2001 reference to Prouse Family Tree book written in 1998
