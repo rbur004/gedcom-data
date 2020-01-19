@@ -25350,6 +25350,7 @@
 2 SOUR Verbal history from Thelma Burrowes (nee Richards)
 1 BIRT
 2 PLAC Opotiki, NZL
+2 DATE 1947
 1 FAMC @F127@
 1 FAMS @F255@
 0 @I259@ INDI
@@ -25781,8 +25782,19 @@
 0 @I350@ INDI
 1 NAME Thomas Fraser /BURROWES/
 1 SEX M
+1 BIRT
+2 DATE ABT 1874
 1 DEAT
-2 DATE 1947
+2 DATE 18 Aug 1947
+2 AGE 73
+2 NOTE Inscription: St John's Cathedral, Antigua
+3 CONT In memory of
+3 CONT THOMAS FRASER BURROWES,CBE
+3 CONT beloved husband of
+3 CONT LENA BURROWES
+3 CONT Chancellor of the Diocese
+3 CONT 1931-1937
+3 CONT Died 18th August 1947 Aged 73 years
 1 NOTE C.B.E 1918
 1 OCCU Compt. of Customs and Receiver of Enemy Estates, Nigeria.
 1 OCCU J.P. Barrister at Law
