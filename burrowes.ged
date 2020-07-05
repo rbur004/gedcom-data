@@ -35462,6 +35462,29 @@
 1 BIRT
 2 DATE 2 Dec 2011
 1 FAMC @F705@
+0 @I1645@ INDI
+1 NAME William /Burrowes/
+1 SEX M
+1 BIRT
+2 DATE 15 Jun 2020
+2 PLAC Waitakere Hospital, Auckland, NZL
+1 FAMC @F683@
+0 @I1646@ INDI
+1 NAME Isabelle /Burrowes/
+1 SEX F
+1 BIRT
+2 DATE 22 Jun 2020
+2 PLAC Ca
+2 NOTE Twin
+1 FAMC @F690@
+0 @I1647@ INDI
+1 NAME Kaiden /Burrowes/
+1 SEX M
+1 BIRT
+2 DATE 22 Jun 2020
+2 PLAC Ca
+2 NOTE Twin
+1 FAMC @F690@
 0 @F1@ FAM
 1 HUSB @I1@
 1 WIFE @I2@
@@ -39071,6 +39094,7 @@
 1 MARR
 2 DATE 12 Apr 2014
 2 PLAC Karekare waterfall, Lone Kauri Road, Karekare, Auckland, NZL
+1 CHIL @I1645@
 0 @F684@ FAM
 1 HUSB @I1570@
 1 WIFE @I248@
@@ -39124,6 +39148,8 @@
 1 MARR
 2 DATE 4 Jun 2011
 1 CHIL @I1590@
+1 CHIL @I1646@
+1 CHIL @I1647@
 0 @F691@ FAM
 1 WIFE @I1580@
 1 CHIL @I1591@
