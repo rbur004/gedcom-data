@@ -30680,12 +30680,21 @@
 0 @I977@ INDI
 1 NAME Zimei /Hu/
 1 SEX F
+1 BIRT
+2 DATE 25 Feb 1956
+2 PLAC China
 1 FAMS @F509@
 1 FAMS @F510@
+1 FAMC @F706@
 0 @I978@ INDI
 1 NAME Shiping /Yan/
 1 SEX M
+1 BIRT
+2 DATE 1953
+2 PLAC China
+1 OCCU Businessman
 1 FAMS @F510@
+1 FAMC @F707@
 0 @I979@ INDI
 1 NAME Huaning (Nellie) /Yang/
 1 SEX F
@@ -35485,6 +35494,103 @@
 2 PLAC Ca
 2 NOTE Twin
 1 FAMC @F690@
+0 @I1648@ INDI
+1 NAME Jiajue /Hu/
+1 SEX M
+1 BIRT
+2 PLAC China
+1 OCCU Electrical Engineer
+1 FAMS @F706@
+0 @I1649@ INDI
+1 NAME Aihua /Wang/
+1 SEX F
+1 BIRT
+2 PLAC China
+2 DATE 1928
+1 OCCU High School English Teacher
+1 FAMS @F706@
+0 @I1650@ INDI
+1 NAME Zicheng /Hu/
+1 SEX M
+1 BIRT
+2 PLAC China
+2 DATE 1953
+1 OCCU Business Man
+1 FAMC @F706@
+1 FAMS @F708@
+0 @I1651@ INDI
+1 NAME Ling /Hu/
+1 SEX F
+1 BIRT
+2 DATE 1958
+2 PLAC China
+1 OCCU Draftsperson
+1 FAMC @F706@
+1 FAMS @F710@
+0 @I1652@ INDI
+1 NAME Ziheng /Hu/
+1 SEX M
+1 BIRT
+2 DATE 19 May 1963
+2 PLAC China
+1 OCCU Electrical Engineer
+1 FAMC @F706@
+1 FAMS @F709@
+0 @I1653@ INDI
+1 NAME Shian /Yan/
+1 SEX M
+1 BIRT
+2 DATE China
+1 OCCU Assoc Prof Ancient Chiness History and Philosophy
+1 FAMC @F707@
+0 @I1654@ INDI
+1 NAME Chunyun /Tian/
+1 SEX F
+1 BIRT
+2 DATE 1953
+2 PLAC China
+1 OCCU Govt Officer
+1 FAMS @F708@
+0 @I1655@ INDI
+1 NAME Pan /Hu/
+1 SEX M
+1 BIRT
+2 DATE 2 May 1984
+2 PLAC China
+1 OCCU IT Programmer
+1 FAMC @F708@
+1 FAMS @F711@
+0 @I1656@ INDI
+1 NAME Jie /Chen/
+1 SEX F
+1 BIRT
+2 PLAC China
+1 OCCU Electrical Engineer
+1 FAMS @F709@
+0 @I1657@ INDI
+1 NAME Yimin (Benjamin) /Mao/
+1 SEX M
+1 BIRT
+2 PLAC China
+1 OCCU Computer Programmer
+1 FAMS @F710@
+0 @I1658@ INDI
+1 NAME Run (George) /Mao/
+1 SEX M
+1 BIRT
+2 DATE 16 May 1987
+2 PLAC China
+1 OCCU Student Biochemical Engineering Northwestern University
+1 FAMC @F710@
+0 @I1659@ INDI
+1 NAME Richard /Hu/
+1 SEX M
+1 BIRT
+2 PLAC Auckland NZL
+1 FAMC @F711@
+0 @I1660@ INDI
+1 SEX F
+1 FAMS @F711@
 0 @F1@ FAM
 1 HUSB @I1@
 1 WIFE @I2@
@@ -39225,6 +39331,31 @@
 1 CHIL @I1644@
 1 MARR
 2 DATE 2 Sep 2012
+0 @F706@ FAM
+1 HUSB @I1648@
+1 WIFE @I1649@
+1 CHIL @I1650@
+1 CHIL @I977@
+1 CHIL @I1651@
+1 CHIL @I1652@
+0 @F707@ FAM
+1 CHIL @I978@
+1 CHIL @I1653@
+0 @F708@ FAM
+1 HUSB @I1650@
+1 WIFE @I1654@
+1 CHIL @I1655@
+0 @F709@ FAM
+1 HUSB @I1652@
+1 WIFE @I1656@
+0 @F710@ FAM
+1 HUSB @I1657@
+1 WIFE @I1651@
+1 CHIL @I1658@
+0 @F711@ FAM
+1 HUSB @I1655@
+1 WIFE @I1660@
+1 CHIL @I1659@
 0 @AG_S1@ SUBM
 1 NAME Anne /Galpin/
 1 NOTE Email May 2001 reference to Prouse Family Tree book written in 1998
