@@ -36,9 +36,6 @@
 2 PLAC Christchurch, NZL
 2 DATE 30 May 1997
 0 @IW3@ INDI
-1 SOUR @SIW1@
-1 FAMC @FW3@
-1 FAMS @FW1@
 1 NAME Shirley Yvonne /NISH/
 1 SEX F
 1 BIRT
@@ -46,6 +43,12 @@
 2 PLAC Ashburton, NZL
 1 OCCU Education Administrator
 1 NOTE Mountaineer (NZAC)
+1 DEAT
+2 DATE 22 May 2017
+2 SOUR NZ BDM 2017/13662
+1 SOUR @SIW1@
+1 FAMC @FW3@
+1 FAMS @FW1@
 0 @IW4@ INDI
 1 NAME Eric Percival /CROLL/
 1 SEX M
@@ -490,9 +493,6 @@
 2 DATE 16 Dec 1893
 2 PLAC Christchurch, NZL
 0 @IW40@ INDI
-1 SOUR @SIW1@
-1 FAMS @FW20@
-1 FAMC @FW2@
 1 NAME Ngaere /CROLL/
 1 SEX F
 1 BIRT
@@ -501,6 +501,15 @@
 1 NOTE A.R.A.N.Z.
 1 OCCU Accountant
 1 OCCU Potter
+1 DEAT
+2 DATE 12 Sep 2014
+2 PLAC Wellington, NZL
+2 SOUR NZ BDM 2014/23683
+1 CREM
+2 NOTE Ashes Adams Point, Te Henui Stream Reserve.
+1 SOUR @SIW1@
+1 FAMS @FW20@
+1 FAMC @FW2@
 0 @IW42@ INDI
 1 SOUR @SIW1@
 1 FAMS @FW22@
@@ -512,16 +521,15 @@
 2 DATE 11 Aug 1954
 2 PLAC New Plymouth, NZL
 0 @IW43@ INDI
-1 SOUR @SIW1@
-1 FAMS @FW23@
-1 FAMS @FW47@
-2 NOTE partnered (2nd)
-1 FAMC @FW20@
 1 NAME Virginia Clare /ADAMS/
 1 SEX F
 1 BIRT
 2 DATE 10 Oct 1956
 2 PLAC New Plymouth, NZL
+1 SOUR @SIW1@
+1 FAMS @FW23@
+1 FAMS @FW47@
+1 FAMC @FW20@
 0 @IW44@ INDI
 1 SOUR @SIW1@
 1 FAMS @FW24@
@@ -666,14 +674,17 @@
 2 PLAC NZL
 2 SOUR 1917/16055
 0 @IW62@ INDI
-1 SOUR @SIW1@
-1 SEX F
-1 FAMS @FW31@
-1 FAMC @FW28@
 1 NAME Betty /CROLL/
 1 BIRT
 2 DATE 30 Apr 1920
 2 PLAC Wellington, NZL
+1 SOUR @SIW1@
+1 SEX F
+1 DEAT
+2 DATE 6 May 2010
+2 SOUR NZ BDM 2010/10656
+1 FAMS @FW31@
+1 FAMC @FW28@
 0 @IW63@ INDI
 1 NAME Barbara /CROLL/
 1 SEX F
@@ -11840,9 +11851,6 @@
 2 DATE 11 Mar 1991
 2 PLAC Christchurch, NZL
 0 @IW1633@ INDI
-1 SOUR @SIW1@
-1 FAMC @FW725@
-1 FAMS @FW20@
 1 NAME Frederick Keith (Keith) /ADAMS/ QSM
 1 SEX M
 1 BIRT
@@ -11858,7 +11866,11 @@
 2 DATE 
 2 PLAC New Plymouth
 2 NOTE Service at Holy Trinity Anglican Church on Henui St, New Plymouth 
+2 NOTE Ashes Adams Point, Te Henui Stream Reserve.
 1 NOTE Awarded The NZ Queen's Service Medal For Community Service 2002.
+1 SOUR @SIW1@
+1 FAMC @FW725@
+1 FAMS @FW20@
 0 @IW1634@ INDI
 1 NAME Hugh /ADAMS/
 1 SEX M
@@ -13215,13 +13227,16 @@
 1 FAMS @FW30@
 1 NAME Unknown /ROBILLIARD/
 0 @IWS12@ INDI
-1 SOUR @SIW1@
-1 SEX M
-1 FAMS @FW31@
 1 NAME Edward Bruno /ARCHIBALD/
 1 BIRT
 2 DATE 3 Apr 1921
 2 PLAC Auckland, NZL
+1 DEAT
+2 DATE 30 Aug 2005
+2 SOUR NZ BDM 2005/20972
+1 SOUR @SIW1@
+1 SEX M
+1 FAMS @FW31@
 0 @IWS13@ INDI
 1 NAME Charles Raymond /SPACKMAN/
 1 SEX M
