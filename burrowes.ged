@@ -14116,11 +14116,16 @@
 1 SEX F
 1 BIRT
 2 DATE 1869
-2 PLAC Ballarat , Aus
-2 SOUR email from Gillian Croll
+2 PLAC Ballarat, Vic, Aus
+2 SOUR Vic BDM 6281/1869 email from Gillian Croll
 1 DEAT
-2 DATE 1937
+2 DATE 19 Dec 1936
+2 AGE 66
 2 SOUR NZ BDM 1937/21052
+1 EMIG
+2 NOTE Melbourne, Vic, Aus, to Wellington, NZ, with Mother and Siblings.
+2 AGE 15
+2 DATE 1864
 1 SOUR @SIW1@
 1 FAMC @F500@
 1 FAMS @FW160@
@@ -30661,11 +30666,15 @@
 1 FAMS @F499@
 1 SOUR Email Gillian Croll
 0 @I956@ INDI
-1 NAME Sarah /Ransom/
+1 NAME Sarah Elliot /Ransom/
 1 SEX F
 1 BIRT
 2 DATE 1839
 2 PLAC Rotherhithe
+1 EMIG
+2 NOTE Melbourne, Vic, Aus, to Wellington, NZ, with Mother and Siblings.
+2 AGE 43
+2 DATE 1864
 1 FAMC @F502@
 1 FAMS @F500@
 1 SOUR Email Gillian Croll
@@ -35884,6 +35893,66 @@
 2 PLAC NZL
 1 SOUR NZ BDM 1866/23263	
 1 FAMC @F716@
+0 @I1680@ INDI
+1 NAME Edward /Beauchamp/
+1 SEX M
+1 BIRT
+2 DATE 1867
+2 PLAC Emerald H, Vic, Aus
+2 SOUR Vic BDM 8058/1867
+1 EMIG
+2 NOTE Melbourne, Vic, Aus, to Wellington, NZ, with Mother and Siblings.
+2 AGE 17
+2 DATE 1864
+1 FAMC @F500@
+0 @I1681@ INDI
+1 NAME Arthur John /Beauchamp/
+1 SEX M
+1 BIRT
+2 DATE 1870
+2 PLAC Emerald H, Vic, Aus
+2 SOUR Vic BDM 6894/1870
+1 EMIG
+2 NOTE Melbourne, Vic, Aus, to Wellington, NZ, with Mother and Siblings.
+2 AGE 13
+2 DATE 1864
+1 FAMC @F500@
+0 @I1682@ INDI
+1 NAME William Waghorn /Beauchamp/
+1 SEX M
+1 BIRT
+2 DATE 1873
+2 PLAC Ballarat, Vic, Aus
+2 SOUR Vic BDM 543/1873
+1 EMIG
+2 NOTE Melbourne, Vic, Aus, to Wellington, NZ, with Mother and Siblings.
+2 AGE 10
+2 DATE 1864
+1 FAMC @F500@
+0 @I1683@ INDI
+1 NAME Ernest Robert /Beauchamp/
+1 SEX M
+1 BIRT
+2 DATE 1876
+2 PLAC Ballarat, Vic, Aus
+2 SOUR Vic BDM 6829/1876
+1 EMIG
+2 NOTE Melbourne, Vic, Aus, to Wellington, NZ, with Mother and Siblings.
+2 AGE 7
+2 DATE 1864
+1 FAMC @F500@
+0 @I1684@ INDI
+1 NAME Eva Harriet /Beauchamp/
+1 SEX F
+1 BIRT
+2 DATE 1877
+2 PLAC Ballarat, Vic, Aus
+2 SOUR Vic BDM 13048/1877
+1 EMIG
+2 NOTE Melbourne, Vic, Aus, to Wellington, NZ, with Mother and Siblings.
+2 AGE 6
+2 DATE 1864
+1 FAMC @F500@
 0 @F1@ FAM
 1 HUSB @I1@
 1 WIFE @I2@
@@ -38242,8 +38311,13 @@
 0 @F500@ FAM
 1 HUSB @I953@
 1 WIFE @I956@
-1 NCHI 5
+1 CHIL @I1680@
 1 CHIL @IWS136@
+1 CHIL @I1681@
+1 CHIL @I1682@
+1 CHIL @I1683@
+1 CHIL @I1684@
+1 CHIL @I1685@
 0 @F501@ FAM
 1 HUSB @I960@
 1 CHIL @I958@
