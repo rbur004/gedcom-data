@@ -13286,12 +13286,24 @@
 0 @IWS17@ INDI
 1 SOUR @SIW1@
 1 FAMS @FW36@
-1 NAME Peter /MEACHEN/
+1 NAME Peter John /MEACHEN/
 1 NOTE J.P.
 1 SEX M
 1 BIRT
 2 DATE 5 Sep 1928
 2 PLAC Woodville, NZL
+1 DEAT
+2 DATE 28 Mar 2019
+2 SOUR NZ BDM 2019/8789
+2 NOTE MEACHEN, Peter John J.P. (Retired). Passed away peacefully surrounded by family on
+3 CONT the 28th March 2019, aged 90 years. Much loved and cherished husband of
+3 CONT Mary (62 years) and doting father of Anne and Wallace and Linda and Trevor. 
+3 CONT Dearly loved grandfather of Amy and Brent and Samantha and Seth. 
+3 CONT Great grandfather of Alasana, Sydney and Aurelia, and loyal companion of his furry
+3 CONT friend Rosie. A special thank you to Katrina and the wonderful staff of Northaven
+3 CONT hospital, Weiti wing for their care over the last six months. A memorial service
+3 CONT will be held at a date and venue to be advised. All communications to 9 Pacific
+3 CONT Parade, Army Bay, Whangaparaoa.
 0 @IWS18@ INDI
 1 SOUR @SIW1@
 1 FAMS @FW37@
