@@ -85687,8 +85687,21 @@
 1 NOTE of NZ
 1 BIRT
 2 DATE 25 Mar 1842
+2 PLAC Ashbourne, Derbyshire, Eng
+1 SOUR England and Wales Birth Reg index 1837-2008 Vol 19, Line 11
+1 CHR
+2 DATE 28 Apr 1942
+2 PLAC Tissington, Derbyshire, Eng
+2 NOTE Christening by Father, who was the Curate.
+2 NOTE Gives address as Sandy Brook near Ashburn.
 1 DEAT
 2 DATE 30 Oct 1873
+2 PLAC Jamaica
+1 PROB
+2 DATE 13 Apr 1897
+2 NOTE Records death as 30 Oct 1873
+2 NOTE Beneficiaries James Fitz-Herbert, secondary Janet MacLean Richards and William Richards.
+2 SOUR England and Wales, National Index of Wills and Administrations, 1858-1957
 1 FAMC @FB180@
 1 FAMS @FB182@
 1 FAMS @FB216@
@@ -89160,6 +89173,8 @@
 1 WIFE @IB399@
 1 MARR
 2 DATE 27 Apr 1868
+2 NOTE Notices in Sheffield Daily Telegraph, Pg 3, 9th Jul 1868, and pg 9 on the 11th.
+3 CONT Lincolnshire Chronicle, pg 8 10th Jul. Lincoln Rutland and Stamford Mercury p5 10th Jul. 
 1 CHIL @IB507@
 1 CHIL @IB516@
 1 CHIL @IB517@
