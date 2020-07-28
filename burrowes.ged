@@ -36003,6 +36003,10 @@
 2 PLAC Tawa Flat Cemetery, NZL
 1 SOUR Tawa Flat Cemetery Burial records
 1 FAMC @FB182@
+0 @I1688@ INDI
+1 NAME William /Richards/
+1 SEX M
+1 FAMS @F717@
 0 @F1@ FAM
 1 HUSB @I1@
 1 WIFE @I2@
@@ -39815,6 +39819,13 @@
 1 CHIL @I1678@
 1 CHIL @I1679@
 1 CHIL @I1551@
+0 @F717@ FAM
+1 HUSB @I1688@
+1 WIFE @IB399@
+1 MARR
+2 DATE 1879
+2 PLAC NZL
+2 SOUR NZ BDM 1879/3356
 0 @AG_S1@ SUBM
 1 NAME Anne /Galpin/
 1 NOTE Email May 2001 reference to Prouse Family Tree book written in 1998
@@ -86264,6 +86275,7 @@
 1 SEX F
 1 FAMC @FB217@
 1 FAMS @FB216@
+1 FAMS @F717@
 0 @IB400@ INDI
 1 SOUR @SIB3@
 1 NAME Frederick John /Knox/
