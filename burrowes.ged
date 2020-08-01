@@ -36230,6 +36230,11 @@
 1 SEX M
 1 FAMS @F723@
 1 SOUR http://www.thepeerage.com/p40989.htm
+0 @I1719@ INDI
+1 NAME Jane Mary /Unknown/
+1 SEX F
+1 SOUR Daughter's Grave
+1 FAMS @FB146@
 0 @F1@ FAM
 1 HUSB @I1@
 1 WIFE @I2@
@@ -85436,21 +85441,26 @@
 1 SOUR @SIB3@
 1 NAME Mary Lucy /Marshall/
 1 SEX F
+1 BIRT
+2 DATE ABT 1860
 1 DEAT
-2 DATE 1942
+2 DATE 8 Oct 1942
+2 AGE 82
 2 SOUR NZ BDM 1942/31232
+1 BURI
+2 PLAC St John's Anglican Church Cemetery, Marton, NZL
 1 FAMC @FB146@
 1 FAMS @FB145@
 0 @IB264@ INDI
 1 SOUR @SIB3@
-1 NAME Unknown /Marshall/
+1 NAME John Williams /Marshall/
 1 TITL Major
 1 SEX M
 1 NOTE 65th Regt.
 1 FAMS @FB146@
 0 @IB265@ INDI
 1 SOUR @SIB3@
-1 NAME Arthur Geoffrey Marshall /Fitz-Herbert/
+1 NAME Arthur Geoffrey Marshall (Geoffrey) /Fitz-Herbert/
 1 SEX M
 1 NOTE Served in NZ Contingent In S African War 1901-02 and with
 2 CONC NZ Expiditionary Force WWI 1915-17
@@ -85459,9 +85469,11 @@
 1 BIRT
 2 DATE 1882
 1 DEAT
-2 DATE 1975
+2 DATE 23 Dec 1974
 2 AGE 92
 2 SOUR NZ BDM 1975/28257
+1 BURI
+2 PLAC St John's Anglican Church Cemetery, Marton, NZL
 1 FAMC @FB145@
 1 FAMS @FB147@
 0 @IB266@ INDI
@@ -85476,6 +85488,9 @@
 2 PLAC NZL
 2 AGE 80
 2 SOUR 1963/38201
+1 BURI
+2 PLAC St John's Anglican Church Cemetery, Marton, NZL
+2 NOTE Grave says died 13 Apr 1966. Need to check NZ BDM
 1 FAMC @FB148@
 1 FAMS @FB147@
 0 @IB267@ INDI
@@ -85494,9 +85509,11 @@
 1 BIRT
 2 DATE 2 Sep 1922
 1 DEAT
-2 DATE 2003
+2 DATE 27 Jul 2003
 2 PLAC NZL
 2 SOUR NZ BDM 2003/16848
+1 BURI
+2 PLAC St John's Anglican Church Cemetery, Marton, NZL
 1 FAMC @FB147@
 1 FAMS @FB149@
 0 @IB269@ INDI
@@ -85773,9 +85790,11 @@
 2 SOUR NZ BDM 1891/1989 (Death record says 16th)
 2 PLAC NZL
 1 DEAT
-2 DATE 1984
+2 DATE 12 Feb 1984
 2 SOUR NZ BDM 1984/29330
 2 PLAC NZL
+1 BURI
+2 PLAC St John's Anglican Church Cemetery, Marton, NZL
 1 FAMC @FB145@
 0 @IB300@ INDI
 1 SOUR @SIB3@
@@ -85819,6 +85838,9 @@
 2 PLAC NZL
 2 AGE 61
 2 SOUR NZ BDM 1925/1865
+1 BURI
+2 PLAC Terrace End Cemetery, Palmerston North, NZL
+2 NOTE Grave has death as 18th
 1 FAMC @FB143@
 1 FAMS @FB164@
 0 @IB305@ INDI
@@ -85829,9 +85851,11 @@
 2 DATE ABT 1868
 2 SOUR Calc from age at death
 1 DEAT
-2 DATE 1954
+2 DATE 12 Feb 1954
 2 SOUR NZ BDM 1954/30252
 2 AGE 86
+1 BURI
+2 PLAC Terrace End Cemetery, Palmerston North, NZL
 1 FAMC @FB165@
 1 FAMS @FB164@
 0 @IB306@ INDI
@@ -85850,6 +85874,8 @@
 2 DATE 4 APR 1960
 2 SOUR NZ BDM 1960/38247
 2 PLAC NZL
+1 BURI
+2 PLAC Terrace End Cemetery, Palmerston North, NZL
 1 NOTE d.unm.
 1 FAMC @FB164@
 0 @IB308@ INDI
@@ -87135,12 +87161,14 @@
 1 NAME Florence Grace /Gregory/
 1 SEX F
 1 BIRT
-2 DATE ABT 1869
+2 DATE ABT Dec 1868
 2 SOUR Age at death
 1 DEAT
 2 DATE 3 Apr 1905
 2 AGE 36
 2 SOUR NZ BDM 1905/2891
+1 BURI
+2 PLAC Heads Road Whanganui Cemetery, NZL
 1 FAMC @FB251@
 1 FAMS @FB250@
 0 @IB466@ INDI
@@ -87252,11 +87280,13 @@
 1 NAME Herbert /Fitz-Herbert/
 1 SEX M
 1 BIRT
-2 DATE 1887
+2 DATE 1886
 1 DEAT
 2 DATE 29 Dec 1958
 2 PLAC NZL
 2 SOUR NZ BDM 1959/21504
+1 BURI
+2 PLAC Ashhurst Cemetery, Manawatu, NZL
 1 FAMC @FB258@
 1 FAMS @FB259@
 0 @IB479@ INDI
@@ -87264,7 +87294,9 @@
 1 NAME Winifred /Walpole/
 1 SEX F
 1 DEAT
-2 DATE 1932
+2 DATE 15 Jul 1932
+1 BURI
+2 PLAC Ashhurst Cemetery, Manawatu, NZL
 1 FAMC @FB260@
 1 FAMS @FB259@
 0 @IB480@ INDI
@@ -87397,6 +87429,8 @@
 2 SOUR 2010/11631
 1 RESI
 2 ADDR 5 Clifford Road, Johnsonville, NZL
+1 BURI
+2 PLAC Ashhurst Cemetery, Manawatu, NZL
 1 FAMC @FB259@
 0 @IB494@ INDI
 1 SOUR @SIB3@
@@ -87541,10 +87575,13 @@
 2 SOUR NZ BDM 1903/21628
 2 PLAC NZL
 1 DEAT
-2 DATE 1924
+2 DATE 4 Jul 1924
+2 CAUS Accident
 2 AGE 21
 2 PLAC NZL
 2 SOUR NZ BDM 1924/3059
+1 BURI
+2 PLAC Inglewood Cemetery, NZL
 1 FAMC @FB275@
 0 @IB511@ INDI
 1 SOUR @SIB3@
@@ -89263,6 +89300,7 @@
 0 @FB146@ FAM
 1 SOUR @SIB3@
 1 HUSB @IB264@
+1 WIFE @I1719@
 1 CHIL @IB263@
 0 @FB147@ FAM
 1 SOUR @SIB3@
