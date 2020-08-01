@@ -85549,6 +85549,7 @@
 0 @IB294@ INDI
 1 SOUR @SIB3@
 1 NAME Hugh Blois /Fitz-Herbert/
+1 NOTE Hugo or Hugh?
 1 SEX M
 1 RESI
 2 ADDR 139 Glasgow Str, Wanganui, N.Z.
@@ -86474,8 +86475,15 @@
 1 FAMC @FB213@
 0 @IB399@ INDI
 1 SOUR @SIB3@
-1 NAME Janet Maclean /Knox/
+1 NAME Janet MacLean /Knox/
 1 SEX F
+1 BIRT
+2 DATE ABT 1847
+2 SOUR Age at death
+1 DEAT
+2 DATE 1923
+2 AGE 76
+2 SOUR NZ BDM 1923/7856
 1 FAMC @FB217@
 1 FAMS @FB216@
 1 FAMS @F717@
