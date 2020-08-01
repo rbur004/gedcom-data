@@ -36079,6 +36079,17 @@
 2 PLAC NZL
 2 SOUR NZ BDM 1896/1839
 1 FAMC @FB276@
+0 @I1699@ INDI
+1 NAME Margaret /Russell/
+1 SEX F
+1 BIRT
+2 DATE ABT 1803
+2 SOUR Age at death
+1 DEAT
+2 DATE 1883
+2 SOUR NZ BDM 1883/3877
+2 PLAC NZL
+1 FAMS @FB217@
 0 @F1@ FAM
 1 HUSB @I1@
 1 WIFE @I2@
@@ -85826,6 +85837,7 @@
 2 NOTE Records death as 30 Oct 1873
 2 NOTE Beneficiaries James Fitz-Herbert, secondary Janet MacLean Richards and William Richards.
 2 SOUR England and Wales, National Index of Wills and Administrations, 1858-1957
+1 OCCU veterinary surgeon
 1 FAMC @FB180@
 1 FAMS @FB182@
 1 FAMS @FB216@
@@ -86863,7 +86875,7 @@
 1 FAMS @FB252@
 0 @IB469@ INDI
 1 SOUR @SIB3@
-1 NAME Stella Marguerite /Seymour/
+1 NAME Stella Marguerite Main /Seymour/
 1 SEX F
 1 FAMC @FB253@
 1 FAMS @FB252@
@@ -89352,6 +89364,7 @@
 0 @FB217@ FAM
 1 SOUR @SIB3@
 1 HUSB @IB400@
+1 WIFE @I1699@
 1 CHIL @IB399@
 0 @FB218@ FAM
 1 SOUR @SIB3@
@@ -89548,6 +89561,7 @@
 1 WIFE @IB469@
 1 MARR
 2 DATE Aug 1934
+2 SOUR NZ BDM 1934/10676
 0 @FB253@ FAM
 1 SOUR @SIB3@
 1 HUSB @IB470@
