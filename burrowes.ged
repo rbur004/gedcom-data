@@ -85428,13 +85428,18 @@
 1 NAME Arthur Richard /Fitz-Herbert/
 1 SEX M
 1 NOTE of Somersal Martin, NZL
-2 CONC Served as Trooper in NZ Expiditionary Force WWI
+2 CONC Served as Trooper in NZ Expiditionary Force WWI Wellington Mounted Riffles 7/1724
 1 BIRT
 2 DATE 9 Nov 1853
+2 PLAC Eng
+2 NOTE Army record has him born 1876, but that has to be made up, so he could enlist
 1 DEAT
 2 DATE 29 Mar 1917
-2 CAUS of wounds received in action
+2 CAUS Mortally wounded Gaza 26th. 
 2 SOUR NZ BDM 1918/39995
+1 OCCU Farmer
+1 RESI
+2 ADDR Oxford Street, Martin, NZL
 1 FAMC @FB143@
 1 FAMS @FB145@
 0 @IB263@ INDI
@@ -85726,8 +85731,7 @@
 1 FAMC @FB156@
 0 @IB294@ INDI
 1 SOUR @SIB3@
-1 NAME Hugh Blois /Fitz-Herbert/
-1 NOTE Hugo or Hugh?
+1 NAME Hugo Blois /Fitz-Herbert/
 1 SEX M
 1 RESI
 2 ADDR 139 Glasgow Str, Wanganui, N.Z.
@@ -87153,6 +87157,10 @@
 2 PLAC NZL
 2 SOUR NZ BDM 1944/24626
 2 AGE 81
+1 RESI
+2 ADDR THe Vicarage, Little River, Canterbury, NZ
+2 DATE 1916
+2 NOTE From Son's WW1 enlistment
 1 FAMC @FB182@
 1 FAMS @FB250@
 1 FAMS @FB255@
@@ -87187,7 +87195,21 @@
 2 ADDR Sydney, Australia
 1 BIRT
 2 DATE 27 Dec 1896
+2 PLAC Feilding, NZL
 2 SOUR NZ BDM 1897/17125
+1 DEAT
+2 DATE 31 Aug 1949
+2 SOUR Note added to Aus war record.
+1 RESI
+2 ADDR East Parade, Sutherland, NSW, AUS
+2 DATE 12 Jun 1935
+2 NOTE from letter in service record.
+1 RESI
+2 ADDR Lonergan's Dairy, Botany Rd, Mascot, NSW, AUS
+2 DATE 5 Jan 1916
+2 NOTE from letter in service record.
+1 OCCU Milk Carter
+2 DATE 5 Jan 1916
 1 FAMC @FB250@
 0 @IB468@ INDI
 1 SOUR @SIB3@
