@@ -85468,17 +85468,20 @@
 1 NAME Arthur Geoffrey Marshall (Geoffrey) /Fitz-Herbert/
 1 SEX M
 1 NOTE Served in NZ Contingent In S African War 1901-02 and with
-2 CONC NZ Expiditionary Force WWI 1915-17
+2 CONC NZ Expiditionary Force WWI 1915-17 11/1285
 1 RESI
 2 ADDR Tutaenui Rd, Marton, NZL
 1 BIRT
-2 DATE 1882
+2 DATE 5 Aug 1882
 1 DEAT
 2 DATE 23 Dec 1974
 2 AGE 92
 2 SOUR NZ BDM 1975/28257
 1 BURI
 2 PLAC St John's Anglican Church Cemetery, Marton, NZL
+1 RESI
+2 ADDR Wellington Road, Martin, NZL
+2 DATE 1915
 1 FAMC @FB145@
 1 FAMS @FB147@
 0 @IB266@ INDI
@@ -85808,6 +85811,7 @@
 2 CONC Served in S.Africa War 1900-01 and WWI 1914-19. d.s.p
 1 BIRT
 2 DATE 3 Jan 1858
+2 PLAC Nettleworth Hall, Mansfield, Notts, Eng 
 1 DEAT
 2 DATE 21 Feb 1943
 1 FAMC @FB143@
@@ -89329,7 +89333,8 @@
 1 HUSB @IB265@
 1 WIFE @IB266@
 1 MARR
-2 DATE 1908
+2 DATE 15 May 1909
+2 NOTE Rev Gordon
 1 CHIL @IB273@
 1 CHIL @IB268@
 0 @FB148@ FAM
@@ -89423,6 +89428,8 @@
 1 WIFE @IB301@
 1 MARR
 2 DATE 28 Apr 1908
+2 PLAC Parish Church, Somersal Herbert, Derby, Eng
+2 NOTE Officiated by his brother, the Rev R.H.C Fitzherbert
 0 @FB162@ FAM
 1 SOUR @SIB3@
 1 HUSB @IB302@
