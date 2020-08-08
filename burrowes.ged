@@ -36235,6 +36235,18 @@
 1 SEX F
 1 SOUR Daughter's Grave
 1 FAMS @FB146@
+0 @I1720@ INDI
+1 NAME Infant /Fitz-Herbert/
+1 SEX M
+1 BIRT
+2 DATE 1927
+1 DEAT
+2 DATE June 1927
+1 BURI
+2 DATE 27 June 1927
+2 PLAC Aramoho Cemetery, Wanganui
+2 NOTE s/b of H.B.
+1 FAMC @FB157@
 0 @F1@ FAM
 1 HUSB @I1@
 1 WIFE @I2@
@@ -85432,14 +85444,25 @@
 1 BIRT
 2 DATE 9 Nov 1853
 2 PLAC Eng
-2 NOTE Army record has him born 1876, but that has to be made up, so he could enlist
+2 NOTE Army record has him born 1876, which is wrong by 23 years.
 1 DEAT
-2 DATE 29 Mar 1917
+2 DATE 27 Mar 1917
 2 CAUS Mortally wounded Gaza 26th. 
 2 SOUR NZ BDM 1918/39995
 1 OCCU Farmer
 1 RESI
 2 ADDR Oxford Street, Martin, NZL
+1 BURI
+2 PLAC Gaza
+2 NOTE Brass Plague in Tututotara Cemetery, Porewa church, NZL
+3 CONT To the glory of God and in loving memory of Arthur Richard Fitzherbert,
+3 CONT son of Lt Col Richard Fitzherbert (Rifle Brigade) of Somersal Herbert, Derbyshire.
+3 CONT At the age of 62 he heard the call and volunteered as a trooper in the N.Z.E.F. He 
+3 CONT served in Egypt and Palestine and laid down his life on 27th March 1917 fighting heroically
+3 CONT against the Turk by the Gate of Gaza. His body rests nearby at Deir el Belah. His was a
+3 CONT rare spirit, cheerful in adversity, faithful under temptation, of incomparable courage, 
+3 CONT beloved by friends and honoured by all.  Though far away the shattered body fill a desert
+3 CONT grave the spirit still lives in sure hope of the great reunion.
 1 FAMC @FB143@
 1 FAMS @FB145@
 0 @IB263@ INDI
@@ -85454,6 +85477,10 @@
 2 SOUR NZ BDM 1942/31232
 1 BURI
 2 PLAC St John's Anglican Church Cemetery, Marton, NZL
+2 NOTE Also have this as Tututotara Cemetery, Wanganui, Rangitikei, Porewa
+2 NOTE In loving memory of Mary Lucy beloved wife of Arthur Richard Fitzherbert
+3 CONT and daughter of John Williams and Jane Mary Marshall, died 8th October 1942
+3 CONT in her 83rd year.
 1 FAMC @FB146@
 1 FAMS @FB145@
 0 @IB264@ INDI
@@ -85479,6 +85506,9 @@
 2 SOUR NZ BDM 1975/28257
 1 BURI
 2 PLAC St John's Anglican Church Cemetery, Marton, NZL
+2 NOTE Also have it as Tututotara Cemetery, Wanganui, Rangitikei, Porewa
+2 NOTE In Loving Memory fo Arthur Geoffrey Marshall beloved husband of
+3 CONT Hilda Eunice, died 23rd December 1974 in his 93rd year.
 1 RESI
 2 ADDR Wellington Road, Martin, NZL
 2 DATE 1915
@@ -85492,13 +85522,15 @@
 2 DATE ABT 1886
 2 SOUR Age at death
 1 DEAT
-2 DATE 1963
+2 DATE 13 Apr 1966
 2 PLAC NZL
 2 AGE 80
-2 SOUR 1963/38201
+2 SOUR 1966/32015
 1 BURI
 2 PLAC St John's Anglican Church Cemetery, Marton, NZL
-2 NOTE Grave says died 13 Apr 1966. Need to check NZ BDM
+2 NOTE Also have it as Tututotara Cemetery, Wanganui, Rangitikei, Porewa
+2 NOTE In loving memory of Hilda Eunice beloved wife of A. Geoffrey M. Fitzherbert
+3 CONT died 13 April 1966 in her 81st year.
 1 FAMC @FB148@
 1 FAMS @FB147@
 0 @IB267@ INDI
@@ -85593,6 +85625,14 @@
 2 AGE 85
 2 PLAC NZL
 2 SOUR NZ BDM 1969/47624
+1 CREM
+2 DATE 17 Jul 1969
+1 BURI
+2 DATE 16 Sep 1969
+2 PLAC Purewa Cemetery, NZL
+1 RESI
+2 PLAC 8 Brookfield Street
+2 DATE 1969
 1 FAMC @FB145@
 1 FAMS @FB152@
 0 @IB277@ INDI
@@ -85603,9 +85643,14 @@
 2 DATE 21 Feb 1893
 2 SOUR Death record
 1 DEAT
-2 DATE 1985
+2 DATE 4 May 1985
 2 PLAC NZL
 2 SOUR NZ BDM 1985/32447
+1 CREM
+2 DATE 7 May 1985
+1 BURI
+2 PLAC Purewa Cemetery
+2 DATE 14 May 1986
 1 RESI
 2 ADDR 8 Brookfield Str., St. Heliers Bay, Auckland, N.Z.
 1 FAMC @FB153@
@@ -85741,9 +85786,17 @@
 1 BIRT
 2 DATE 1885
 1 DEAT
-2 DATE 1969
+2 DATE 3 Jun 1969
 2 PLAC NZL
 2 SOUR NZ BDM 1969/48591
+1 BURI
+2 PLAC Block E row 13 Aramoho, Wanganui, Rangitikei, NZL
+2 DATE 5 June 1969
+2 NOTE Hugo B. Fitzherbert died 3rd June 1969; his first wife Phyllis (nee Wilson)
+3 CONT and infant child, died 1st July 1927; and his wife Margaret Windifred (nee Wotton)
+3 CONT died 10th Dec 1978. (Brick surround in unusual arrangement)
+2 AGE 83
+1 OCCU Wool Classer
 1 FAMC @FB145@
 1 FAMS @FB157@
 1 FAMS @FB158@
@@ -85755,10 +85808,14 @@
 2 DATE ABT 1904
 2 SOUR Age at death
 1 DEAT
-2 DATE 1927
+2 DATE 1 Jul 1927
 2 PLAC NZL
 2 AGE 23
 2 SOUR NZ BDM 1927/7270
+2 CAUS After Child Birth.
+1 BURI
+2 DATE 4 Jul 1927
+2 PLAC Block E, row 13, Alamoho, Wanganui, NZL
 1 FAMC @FB159@
 1 FAMS @FB157@
 0 @IB296@ INDI
@@ -85775,9 +85832,12 @@
 2 DATE 29 Sep 1896
 2 SOUR Death record
 1 DEAT
-2 DATE 1978
+2 DATE 10 Dec 1978
 2 PLAC NZL
 2 SOUR NZ BDM 1978/45081
+1 BURI
+2 DATE 12 Dec 1978
+2 PLAC Block E row 13 Aramoho Cemetery Wanganui, Rangitikei, NZL
 1 FAMC @FB160@
 1 FAMS @FB158@
 0 @IB298@ INDI
@@ -85802,6 +85862,8 @@
 2 PLAC NZL
 1 BURI
 2 PLAC St John's Anglican Church Cemetery, Marton, NZL
+2 NOTE In loving memory of Mildred Mary Fitzherbert, loved daughter of Lucy and Arthur
+3 CONT Died 12 February 1984, in her 93rd year.
 1 FAMC @FB145@
 0 @IB300@ INDI
 1 SOUR @SIB3@
@@ -85847,7 +85909,8 @@
 2 AGE 61
 2 SOUR NZ BDM 1925/1865
 1 BURI
-2 PLAC Terrace End Cemetery, Palmerston North, NZL
+2 PLAC Block 035 Plot 049 Terrace End Cemetery, Palmerston North, NZL
+2 DATE 20 Mar 1925
 2 NOTE Grave has death as 18th
 1 FAMC @FB143@
 1 FAMS @FB164@
@@ -85863,7 +85926,15 @@
 2 SOUR NZ BDM 1954/30252
 2 AGE 86
 1 BURI
-2 PLAC Terrace End Cemetery, Palmerston North, NZL
+2 PLAC Block 035 Plot 047 Terrace End Cemetery, Palmerston North, NZL
+2 DATE 13 Feb 1954
+2 NOTE Anglican Block 35 - Plots 47 and 49:
+3 CONT Purchased by Catherine A. Fitzherbert, P.N. 20.3.1925
+3 CONT B/R. Plot 47: (a) Fitzherbert, Catherine Anne - 13.2.1954, 86 yrs, 36 Ihaka St, P.N., Widow
+3 CONT               (b) Fitzherbert, Dulce - 6.4.1960 (Ashes)
+3 CONT      Plot 49: Fitzherbert, Anthony Francis - 20.3.1925, 61yrs, P.N., farmer
+3 CONT H/S. Anthony Francis husband of Catherine Anne Fitzherbert, died at Palmerston North
+3 CONT      18 March 1925; and Catherine Anne Fitzherbert died 12 February 1954
 1 FAMC @FB165@
 1 FAMS @FB164@
 0 @IB306@ INDI
@@ -85877,13 +85948,17 @@
 1 NAME Dulce /Fitz-Herbert/
 1 SEX F
 1 BIRT
-2 DATE 1894
+2 DATE 20 Dec 1894
+2 SOUR NZ BDM 1895/2745
 1 DEAT
 2 DATE 4 APR 1960
+2 AGE 65
 2 SOUR NZ BDM 1960/38247
 2 PLAC NZL
+1 CREM Y
 1 BURI
-2 PLAC Terrace End Cemetery, Palmerston North, NZL
+2 PLAC Block 035 Plot 047 Terrace End Cemetery, Palmerston North, NZL
+2 DATE 6 Apr 1960
 1 NOTE d.unm.
 1 FAMC @FB164@
 0 @IB308@ INDI
@@ -86727,10 +86802,14 @@
 1 BIRT
 2 DATE 29 Nov 1852
 1 DEAT
-2 DATE 1917
+2 DATE May 1917
 2 AGE 64
 2 PLAC NZL
 2 SOUR 1917/2345
+1 BURI
+2 DATE 29 May 1917
+2 PLAC Block B row 4 Aramoho, Wanganui, NZL
+2 NOTE 65yrs, labr
 1 FAMC @FB180@
 1 FAMS @FB220@
 0 @IB405@ INDI
@@ -87161,10 +87240,16 @@
 1 BIRT
 2 DATE 20 Oct 1863
 1 DEAT
-2 DATE 1944
+2 DATE 6 Sep 1944
 2 PLAC NZL
 2 SOUR NZ BDM 1944/24626
 2 AGE 81
+1 BURI
+2 PLAC 100 RS 11 Heads Road Wanganui, Ragitikei, NZL
+2 DATE 8 Sep 1944
+2 NOTE In loving memory of Florence Grace wife of Egbert Fitzherbert, Born
+3 CONT Dec 1867, died 3 April 1905, aged 36; also Egbert husband of the above,
+3 CONT died 7 September 1944 aged 82 years.
 1 RESI
 2 ADDR THe Vicarage, Little River, Canterbury, NZ
 2 DATE 1916
@@ -87177,14 +87262,15 @@
 1 NAME Florence Grace /Gregory/
 1 SEX F
 1 BIRT
-2 DATE ABT Dec 1868
-2 SOUR Age at death
+2 DATE ABT Dec 1867
+2 SOUR Age at death, and grave.
 1 DEAT
 2 DATE 3 Apr 1905
 2 AGE 36
 2 SOUR NZ BDM 1905/2891
 1 BURI
-2 PLAC Heads Road Whanganui Cemetery, NZL
+2 PLAC 97 RS 11 Heads Road Whanganui Cemetery, NZL
+2 DATE 5 Apr 1905
 1 FAMC @FB251@
 1 FAMS @FB250@
 0 @IB466@ INDI
@@ -87297,9 +87383,13 @@
 1 BIRT
 2 DATE 5 Jan 1865
 1 DEAT
-2 DATE 1931
+2 DATE 30 Jul 1931
 2 AGE 67
 2 SOUR NZ BDM 1931/7435
+1 BURI
+2 PLAC Putaruru Lawn, NZL
+2 NOTE Resident with N Fitzherbert (Son), Putararu
+2 DATE 31 Jul 1931
 1 FAMC @FB182@
 1 FAMS @FB258@
 0 @IB477@ INDI
@@ -87315,20 +87405,25 @@
 2 DATE 1886
 1 DEAT
 2 DATE 29 Dec 1958
+2 AGE 72
 2 PLAC NZL
 2 SOUR NZ BDM 1959/21504
 1 BURI
-2 PLAC Ashhurst Cemetery, Manawatu, NZL
+2 PLAC Block 8 Plot 12 Ashhurst Cemetery, Manawatu, NZL
 1 FAMC @FB258@
 1 FAMS @FB259@
 0 @IB479@ INDI
 1 SOUR @SIB3@
 1 NAME Winifred /Walpole/
 1 SEX F
+1 BIRT
+2 DATE ABT 1885
+2 SOUR Calculated from age at death
 1 DEAT
 2 DATE 15 Jul 1932
 1 BURI
-2 PLAC Ashhurst Cemetery, Manawatu, NZL
+2 PLAC Block 008, Plot 011 Ashhurst Cemetery, Manawatu, NZL
+2 AGE 47
 1 FAMC @FB260@
 1 FAMS @FB259@
 0 @IB480@ INDI
@@ -87348,6 +87443,15 @@
 2 PLAC NZL
 2 SOUR NZ BDM 1961/40961
 2 AGE 72
+1 BURI
+2 AGE 72
+2 PLAC Block Lawn Circle, Plot 119. Putaruru Lawn Cemetery, NZL
+2 NOTE N. Fitzherbert 46013, 1st NZEF, Pte, Otago Regt, Died 9.12.1961, Aged 72 yrs,
+3 CONT Also Evelyn F. Fitzherbert, Died 30.8.1992, Aged 99 years.
+2 DATE 11 Dec 1961
+1 RESI
+2 PLAC RD2, Putaruru, NZL
+1 OCCU Farmer
 1 FAMC @FB258@
 1 FAMS @FB261@
 0 @IB482@ INDI
@@ -87360,9 +87464,15 @@
 2 DATE 7 Oct 1892
 2 SOUR Death record
 1 DEAT
-2 DATE 1992
-2 PLAC NZL
+2 DATE 30 Aug 1992
+2 PLAC Tirau Str, Waikata, NZL
 2 SOUR NZ BDM 1992/47867	
+1 BURI
+2 AGE 99
+2 PLAC Block Lawn Circle, Plot 119, with Norman Fitzherbert. Putaruru Lawn Cemetery, NZL
+2 DATE 2 Sep 1992
+1 RESI
+2 PLAC 31 Russell Terrace, Putaruru, NZL
 1 FAMC @FB262@
 1 FAMS @FB261@
 0 @IB483@ INDI
@@ -87451,18 +87561,20 @@
 1 FAMS @FB266@
 0 @IB493@ INDI
 1 SOUR @SIB3@
-1 NAME Eleanor Margaret /Fitz-Herbert/
+1 NAME Eleanor Margaret (Margaret) /Fitz-Herbert/
 1 SEX F
 1 BIRT
 2 DATE 18 Feb 1919
 1 DEAT
-2 DATE 2010
+2 DATE 14 May 2010
 2 PLAC NZL
+2 AGE 91
 2 SOUR 2010/11631
 1 RESI
 2 ADDR 5 Clifford Road, Johnsonville, NZL
 1 BURI
-2 PLAC Ashhurst Cemetery, Manawatu, NZL
+2 PLAC Block 008 Plot 012, Ashhurst Cemetery, Manawatu, NZL
+2 DATE 17 May 2010
 1 FAMC @FB259@
 0 @IB494@ INDI
 1 SOUR @SIB3@
@@ -87471,8 +87583,10 @@
 1 BIRT
 2 DATE 24 Sep 1920
 1 DEAT
-2 DATE 2017
+2 DATE 20 Jul 2017
 2 SOUR NZ BDM 2017/20551
+1 BURI
+2 PLAC Waikato, NZL
 1 RESI
 2 ADDR 4 Fitzherbert Str., Putaruru, NZL
 1 FAMC @FB261@
@@ -87490,6 +87604,15 @@
 2 PLAC NZL
 2 SOUR NZ BDM 1967/32956
 2 AGE 44
+1 BURI
+2 PLAC Putaruru Lawn Cemetery
+2 NOTE In loving memory of Martha Betty, Dearly beloved wife of John Anthony Fitzherbert
+3 CONT and loved mother of David, Catherine, Timothy and Allison, Died 26th January 1967, Aged 45
+2 AGE 44
+2 DATE 28 Jan 1967
+1 RESI
+2 PLAC 4 Fitzherbert St, Putaruru
+2 DATE 1967
 1 FAMC @FB268@
 1 FAMS @FB267@
 0 @IB496@ INDI
@@ -87618,6 +87741,8 @@
 2 SOUR NZ BDM 1924/3059
 1 BURI
 2 PLAC Row 8, Plot 34S, Inglewood Cemetery, Taranaki NZL
+2 NOTE Family plot, part concrete surround, 2 headstones, first badly weathered cross:
+3 CONT ILM of Donald B. Fitzherbert accidentally killed 4 July 1924 aged 21 years
 2 DATE 6 Jul 1924
 1 FAMC @FB275@
 0 @IB511@ INDI
@@ -87866,10 +87991,16 @@
 2 DATE ABT 1883
 2 SOUR Age at death
 1 DEAT
-2 PLAC NZL
+2 PLAC Palmerston North Public Hospital NZL
 2 AGE 87
-2 DATE 1970
+2 DATE 14 Oct 1970
 2 SOUR 1970/35899
+1 CREM
+2 DATE Oct 1970
+2 PLAC Kelvin Grove Cemetery & Crem, Palmerston North, NZL
+2 AGE 84
+2 SOUR Palmerston North Cemetery records.
+1 OCCU Music Teacher
 1 FAMC @FB220@
 0 @IB539@ INDI
 1 SOUR @SIB3@
@@ -89427,6 +89558,7 @@
 1 WIFE @IB295@
 1 MARR
 2 DATE 1926
+1 CHIL @I1720@
 0 @FB158@ FAM
 1 SOUR @SIB3@
 1 HUSB @IB294@
