@@ -36151,6 +36151,10 @@
 2 DATE 1950
 1 DEAT
 2 DATE 1981
+2 PLAC Mangere Hospital
+1 CREM
+2 DATE 9 Jun 1981
+2 PLAC Purewa Cemetery, NZL
 1 FAMC @F719@
 1 SOUR http://www.thepeerage.com/p40989.htm
 0 @I1707@ INDI
@@ -36237,7 +36241,6 @@
 1 FAMS @FB146@
 0 @I1720@ INDI
 1 NAME Infant /Fitz-Herbert/
-1 SEX M
 1 BIRT
 2 DATE 1927
 1 DEAT
@@ -86820,7 +86823,8 @@
 2 DATE ABT 1857
 2 SOUR Age at death
 1 DEAT
-2 DATE Oct 1909
+2 DATE 30 Oct 1909
+2 AGE 52
 2 SOUR NZ BDM 1909/6879
 1 BURI
 2 PLAC Section CH Eng, Plot 58 M, Karori, Wellington, NZL
@@ -86830,8 +86834,24 @@
 1 FAMS @FB220@
 0 @IB406@ INDI
 1 SOUR @SIB3@
-1 NAME W.F. /Kennedy/
+1 NAME William Fleming /Kennedy/
 1 SEX M
+1 BIRT
+2 DATE ABT 1822
+2 SOUR Age at death
+1 DEAT
+2 DATE 27 Jun 1902
+2 AGE 80
+2 SOUR NZ BDM 1902/5016
+1 BURI
+2 PLAC Area 01 Block A Row 06 Plot 58, Karori, Wellington, NZL
+2 NOTE With Catherine Jane Kennedy, d. 4 Apr 1906, Age 73;
+3 CONT Martha Fitz-Herbert (dau) d. 30 Oct 1909 Age 52;
+3 CONT Margaret Elizabeth Kennedy d 7 Dec 1921 Age 53;
+3 CONT [Helyer] Isabella Jane Kennedy d 27 Jun 1945 Age 78;
+3 CONT William F Kennedy d 13 Jul 1945 Age 81;
+3 CONT Catherine Grace Kennedy b 16 Jul 1874, d 12 Apr 1957.
+3 CONT Maisie Harriet Fitz-Herbert d 14 Oct 1970 Age 84.
 1 NOTE of Wellington N.Z.
 1 FAMS @FB221@
 0 @IB407@ INDI
@@ -87788,7 +87808,8 @@
 2 SOUR NZ BDM 1975/32009
 1 BURI
 2 PLAC Waikumete Cemetery, Roman Catholic Division F, Row 1, Plot 35, Auckland, NZL
-1 BURI 14 May 1975
+1 BURI 
+2 DATE 14 May 1975
 1 FAMC @FB275@
 0 @IB514@ INDI
 1 SOUR @SIB3@
@@ -88000,6 +88021,8 @@
 2 PLAC Kelvin Grove Cemetery & Crem, Palmerston North, NZL
 2 AGE 84
 2 SOUR Palmerston North Cemetery records.
+1 BURI
+2 PLAC Area 01 Block A Row )6 Plot 058 Karori Wellington, NZL
 1 OCCU Music Teacher
 1 FAMC @FB220@
 0 @IB539@ INDI
