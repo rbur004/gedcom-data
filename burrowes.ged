@@ -23623,12 +23623,9 @@
 2 DATE 12 Sep 1922
 2 PLAC New Plymouth, NZL
 1 BURI
-2 PLAC Te Henui New Plymouth
+2 PLAC Anglican Row 25, Beside Salaman Temple, Te Henui New Plymouth
 2 NOTE he shares a <a href="http://www.burrowes.org/FamilyTree/richardsGrave.html">plot </a>
-3 CONC with his wife and son William
-3 CONC It is beside the Mosque. The headstone is an Angle on a Cross
-3 CONC (marble) One wing is broken. The plot is filled with a
-3 CONC hebe.
+3 CONC with his wife and son William. The headstone is an Angel on a Cross
 1 OCCU Farm Lab., Corwell Eng.
 1 OCCU Expressman, NZL.
 1 NOTE Emigrated to NZL with his wife (both 21) on Howrah which left England 26 Aug 1874.
@@ -24085,11 +24082,9 @@
 2 DATE 9 Apr 1924
 2 PLAC Avenue Road (now Coronation Ave) New Plymouth, NZL
 1 BURI
-2 PLAC Te Henui New Plymouth
+2 PLAC Anglican Row 25, Beside Salaman Temple, Te Henui New Plymouth
 2 NOTE <img src="http://www.burrowes.org/FamilyTree/pics/richards-grave.jpg">
-2 NOTE She shares a plot with her husband and son William
-3 CONT It is beside the Mosque. The headstone is an Angel on a Cross
-3 CONT (marble) One wing is broken. The plot is filled with a hebe.
+2 NOTE She shares a plot with her husband and son William. The headstone is an Angel on a Cross
 1 NOTE Emigrated to New Zealand with Husband both aged 21 (no Children).
 2 CONT on Howrah which left England 26 Aug 1874 bound for New Plymouth.
 2 CONT Passaged was payed for under the Assisted Emigration policy and cost £29.
@@ -24102,6 +24097,7 @@
 1 BIRT
 2 DATE 20 Oct 1875
 2 PLAC New Plymouth, NZL
+2 SOUR NZ BDM 1875/13500
 1 DEAT
 2 DATE 3 Oct 1944
 2 AGE 68
@@ -24114,6 +24110,7 @@
 1 BIRT
 2 DATE 26 Mar 1877
 2 PLAC New Plymouth, NZL
+2 SOUR NZ BDM 1877/3792
 1 DEAT
 2 DATE 3 May 1934
 1 FAMC @F84@
@@ -24131,6 +24128,7 @@
 1 BIRT
 2 DATE 7 Mar 1879
 2 PLAC New Plymouth, NZL
+2 SOUR NZ BDM 1879/4441
 1 DEAT
 2 DATE 15 Jul 1948
 1 FAMC @F84@
@@ -24140,7 +24138,8 @@
 1 BIRT
 2 DATE 22 Aug 1880
 2 PLAC New Plymouth, NZL
-2 NOTE WWI record says born 1881, also says 1882. NZ BDM has 1880/17808
+2 SOUR NZ BDM 1880/17808
+2 NOTE WWI record says born 1881, also says 1882
 1 NOTE WWI 3/1872 NZMC H.S.Maheno
 1 FAMC @F84@
 1 FAMS @F154@
@@ -24150,6 +24149,7 @@
 1 BIRT
 2 DATE 18 Mar 1882
 2 PLAC New Plymouth, NZL
+2 SOUR NZ BDM 1882/6015
 1 DEAT
 2 DATE 13 Mar 1913
 2 AGE 30
@@ -24158,11 +24158,8 @@
 2 NOTE They had known there was Typhod in the area when they went there on their
 3 CONT honeymoon but had dismissed the possibility that they could catch it.
 1 BURI
-2 PLAC Te Henui New Plymouth
-2 NOTE he shares a plot with his Parents
-3 CONT It is beside the Mosque. The headstone is an Angle on a Cross
-3 CONT (marble) One wing is broken. The plot is filled with a
-3 CONT hebe.
+2 PLAC Anglican Row 25, Beside Salaman Temple, Te Henui New Plymouth
+2 NOTE he shares a plot with his Parents. The headstone is an Angel on a Cross
 2 NOTE <img src="http://www.burrowes.org/FamilyTree/pics/richards-grave.jpg">
 1 FAMC @F84@
 1 FAMS @F139@
@@ -24192,6 +24189,7 @@
 1 BIRT
 2 DATE 4 Nov 1887
 2 PLAC New Plymouth, NZL
+2 SOUR NZ BDM 1888/1612
 1 FAMC @F84@
 1 FAMS @F131@
 0 @I81@ INDI
@@ -24210,8 +24208,15 @@
 1 BIRT
 2 DATE 9 Nov 1889
 2 PLAC New Plymouth, NZL
+2 SOUR NZ BDM 1890/949
 1 DEAT
-2 DATE 1973
+2 DATE 14 Nov 1970
+2 SOUR NZ DBM 1970/36300
+1 CREM
+2 PLAC New Plymounth, NZL
+2 DATE 16 Nov 1970
+1 BURI
+2 PLAC Garden of Remembrance, New Plymounth, NZL
 1 FAMC @F84@
 1 FAMS @F136@
 0 @I83@ INDI
@@ -24220,6 +24225,7 @@
 1 BIRT
 2 DATE 15 Aug 1895
 2 PLAC New Plymouth, NZL
+1 SOUR NZL 1895/16394
 1 DEAT
 2 DATE 26 Oct 1965
 2 PLAC Hamilton Hospital, NZL
@@ -25225,8 +25231,14 @@
 1 FAMC @F196@
 1 FAMS @F360@
 0 @I203@ INDI
-1 NAME Rosetta (Rose) /Sawkins/
+1 NAME Rosetta (Rose) Pearl /Sawkins/
 1 SEX F
+1 BIRT
+2 DATE 6 September 1904
+2 SOUR Death record
+1 DEAT
+2 DATE 1986
+2 SOUR NZ BDM 1986/49645
 1 FAMS @F202@
 0 @I204@ INDI
 1 NAME Jonnette /RICHARDS/
@@ -27017,7 +27029,19 @@
 0 @I459@ INDI
 1 NAME Elizabeth Hannah /Groombridge/
 1 SEX F
+1 BIRT
+2 DATE ABT 1885
+2 SOUR Age at death
 1 DEAT
+2 DATE 3 Mar 1980
+2 AGE 85
+1 CREM
+2 PLAC New Plymouth, NZL
+2 DATE 5 Mar 1980
+1 BURI
+2 PLAC Garden of Remembrance, New Plymouth, NZL
+1 RESI
+2 PLAC 33 Mangorei Rd,, New Plymouth
 2 DATE 1980
 1 FAMS @F136@
 0 @I460@ INDI
@@ -32618,6 +32642,11 @@
 1 BIRT
 2 DATE 1904
 2 SOUR NZ BDM 1904/6783
+1 DEAT
+2 DATE 1904
+2 AGE 12H
+1 BURI
+2 PLAC St Lukes Burial Ground, Bell Block, Taranaki, NZL
 0 @I1211@ INDI
 1 FAMC @F141@
 1 NAME Hubert /Richards/
@@ -32625,6 +32654,13 @@
 1 BIRT
 2 DATE 1905
 2 SOUR NZ BDM 1905/2981
+1 DEAT
+2 DATE 1906
+2 AGE 6M
+2 PLAC Taranaki, NZL
+2 SOUR 1906/1525
+1 BURI
+2 PLAC Te Henui Cemetery, New Plymouth, NZL
 0 @I1212@ INDI
 1 NAME William /Madder/
 1 SEX M
