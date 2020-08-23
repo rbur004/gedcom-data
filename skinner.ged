@@ -6521,12 +6521,20 @@
 1 SEX F
 1 BIRT
 2 DATE 1853
+2 PLAC London, Eng
 2 SOUR @SK_S3@
 1 DEAT
 2 DATE 29 Oct 1934
 2 PLAC Ballarat East, Victoria, Australia
 2 SOUR @SK_S3@
+2 NOTE RAISBECK. - On the 29th October, at her residence, 113 Humffray Street, North Ballarat, Emily, 
+3 CONT dearly beloved wife of the late Edwin Raisbeck, and loving mother of Thomas, Kit. 
+3 CONT (Mrs.Byers, deceased) and Ned. Aged 74 years.
+3 CONT The Herald, Melbourne, Monday Evening, October 29 1934
 1 _UID E4C6B0CAA67F4A42849B535C66927FEC0682
+1 BURI
+2 PLAC Private A, Section 06, Row 1, Grave 36, Ballarat New Cemetery, Invermay Park, Ballarat City VIC, AUS
+2 SOUR Cemetery records.
 1 CHAN
 2 DATE 12 Jun 2004
 1 FAMS @SK_F147@
@@ -17901,10 +17909,31 @@
 2 GIVN Edwin Sheffield
 2 SURN Raisbeck
 2 SOUR @SK_S3@
+1 BIRT
+2 DATE Feb 1844
+2 SOUR Age at death, and Grave stone
+1 DEAT
+2 DATE 29 July 1918
+2 SOUR Death notice, Ballarat Star, Aus. 30 Jul 1918
+2 NOTE RAISBECK. On July 29th at his residence, 113 Humffray Street North
+3 CONT Ballarat East, Edwin Sheffield Raisbeck, dearly beloved husband of 
+3 CONT husband of Emily and father of Thomas Edwin, Edward Charles and Mrs
+3 CONT R.J.Byers; Aged 74 years.
+1 BURI
+2 PLAC Private A, Section 06, Row 1, Grave 35 Ballarat New Cemetery, Invermay Park, Ballarat City VIC, AUS
+2 DATE 30 Jul 1918
+2 SOUR Funeral notice, Ballarat Star, Aus.  30 Jul 1918
+2 NOTE RAISBECK - The friends of the late Mr Edwin Sheffield Raisbeck are
+3 CONT respectfully invited to follow his remains to the place of interment,
+3 CONT the Ballarat New Cemetery. The funeral cortege is appointed to move
+3 CONT from his late residence, 113 Humffray Street North, this day
+3 CONT (Tuesday July 30th) at 3.30 o'clock p.m..
+3 CONT GEORGE LUDBROOK. Undertaker and Funeral Director, 8 Peel Street Ballarat East. Phone 378
 1 SEX M
 1 FAMS @SK_F147@
+1 FAMC @SKN_F4@
 0 @SK_I1179@ INDI
-1 NAME Edward Charles /Raisbeck/
+1 NAME Edward Charles (Ned) /Raisbeck/
 2 GIVN Edward Charles
 2 SURN Raisbeck
 2 SOUR @SK_S3@
@@ -17917,6 +17946,9 @@
 2 DATE 1970
 2 PLAC Ballarat, Victoria, Australia
 1 _UID 4F82BE56095C40F5A572D5FA4D070521DF67
+1 BURI
+2 PLAC Lawn D, Row 02, Grave 06 Ballarat New Cemetery, Invermay Park, Ballarat City VIC, AUS
+2 SOUR Cemetery records
 1 CHAN
 2 DATE 28 Jun 2004
 1 FAMS @SK_F387@
@@ -18529,7 +18561,7 @@
 2 SOUR @SK_S3@
 1 SEX M
 0 @SK_I1239@ INDI
-1 NAME Catherine Mary /Raisbeck/
+1 NAME Catherine Mary (Kit) /Raisbeck/
 2 GIVN Catherine Mary
 2 SURN Raisbeck
 2 SOUR @SK_S3@
@@ -18538,9 +18570,13 @@
 2 DATE 1886
 2 SOUR @SK_S3@
 1 DEAT
-2 DATE 1933
+2 DATE Feb 1933
+2 AGE 47
 2 PLAC Prahran, Victoria, Australia
 2 SOUR @SK_S3@
+1 BURI
+2 DATE 7 Feb 1933
+2 PLAC Independent, Compartment C, Grave 423, St Kilda Cemetery, St Kilda East, Port Philip City, VIC AUS With inlaws
 1 _UID CC4FEAED1A8448F1AAD8B860606A6A0CA369
 1 CHAN
 2 DATE 12 Jun 2004
@@ -38345,7 +38381,19 @@
 2 SURN Byers
 2 SOUR @SK_S3@
 1 SEX M
+1 BIRT
+2 DATE 20 Aug 1875
+2 PLAC Prahran, Vic, Aus
+1 DEAT
+2 DATE 20 Aug 1941
+2 PLAC Caulfield Vic, AUS
+1 BURI
+2 DATE 20 Aug 1941
+2 PLAC Independent, Compartment C, Grave 423, St Kilda Cemetery, St Kilda East, Port Philip City, VIC AUS
+2 SOUR Cemetery Records
+1 NOTE Fought in Boer War. Was a prisoner of war
 1 FAMS @SK_F390@
+1 FAMC @SKN_F1@
 0 @SK_I3170@ INDI
 1 NAME David /Chamberlain/
 2 GIVN David
@@ -38611,6 +38659,12 @@
 2 SURN Byers
 2 SOUR @SK_S3@
 1 SEX F
+1 BIRT
+2 DATE 1908
+2 PLAC VIC, AUS
+1 DEAT
+2 DATE 1989
+2 PLAC Vic, AUS
 1 FAMS @SK_F809@
 1 FAMC @SK_F390@
 0 @SK_I3195@ INDI
@@ -38665,6 +38719,7 @@
 1 CHAN
 2 DATE 27 Jun 2004
 1 FAMC @SK_F390@
+1 FAMS @SKN_F3@
 0 @SK_I3198@ INDI
 1 NAME Eric Robert /Byers/
 2 GIVN Eric Robert
@@ -38683,6 +38738,7 @@
 1 CHAN
 2 DATE 27 Jun 2004
 1 FAMC @SK_F390@
+1 FAMS @SKN_F2@
 0 @SK_I3199@ INDI
 1 NAME Mary Margaret /Roberts/
 2 GIVN Mary Margaret
@@ -65990,6 +66046,179 @@
 2 DATE 18 Mar 2013
 3 TIME 10:56
 1 FAMC @SK_F1292@
+0 @SKN_I1@ INDI
+1 NAME William /Byers/
+1 SEX M
+1 BIRT
+2 DATE ABT 25 Dec 1842
+2 PLAC Corraneden, Cavan, Ireland
+1 EMMI
+2 PLAC Melbourne, VIC, AUS
+2 DATE BEF 1862
+2 NOTE With his sister Isabella.
+1 DEAT
+2 DATE 20 Dec 1919
+2 PLAC Alfred Hospital, Melbourne, VIC, AUS
+2 AGE 76
+2 NOTE The Argus Tue 30th Dec 1919, Melbourne VIC AUS
+3 CONT BYERS.- On the 20th December, at Windsor,
+3 CONT William Byers, relict of late Anne Jane, eldest
+3 CONT son of late Robert and Margaret Watson (Cavan),
+3 CONT son-in-law of late Francis Alexander and Olivia
+3 CONT Toppin (Belfast, Ireland), loved father of Robt.
+3 CONT James (Kyneton), Wm. Francis (Kelvin), Alex.
+3 CONT Wm. (Cavendish); Mrs. Phil Smart (Strathbogie),
+3 CONT Mrs. John Hird (Brighton), Mrs. Duncan Stewart
+3 CONT (Hopetown), Olivia (Lily), and late Margaret
+3 CONT Watson, brother of Mrs. John Stewart (Windsor),
+3 CONT aged 76 years. (Home papers please copy.)
+3 CONT Father in Thy gracious keeping,
+3 CONT Leave we now our loved one
+1 BURI
+2 PLAC St Kilda Cemetery, Melbourne, VIC, AUS
+1 NOTE See https://www.byersfamilies.com/family-of-robert-byers-of-corraneden-and-drumagol.php
+1 SOUR Cathryn Warren and Byersfamily.com
+1 FAMS @SKN_F1@
+0 @SKN_I2@ INDI
+1 NAME Anne Jane /Toppin/
+1 SEX F
+1 BIRT
+2 DATE 24 May 1844
+2 PLAC Corraneden, Cavan, Ireland
+2 NOTE Possibly Fivemiletown, Co Tyrone, Ireland, 1846. 
+3 CONT This would fit better with her age at death.
+1 EMMI
+2 DATE 1868
+2 PLAC Melbourne, VIC, AUS
+1 DEAT
+2 DATE 6 October 1917
+2 AGE 70
+2 PLAC Melbourne, VIC, AUS
+2 NOTE The Argus Sat 13th Oct 1917, Melbourne, Vic, AUS
+3 CONT BYERS. - On the 6th October, at the residence of 
+3 CONT her son-in-law, Mr. J. P. Hird, Anne Jane, dearly
+3 CONT loved wife of William Byers, late of Strathbogie,
+3 CONT only daughter of the late Francis Alexander and
+3 CONT Olivia Toppin, of Belfast, Ireland, loved mother
+3 CONT of Olivia (Lily), Robert and James (A.I.F.), Wil-
+3 CONT liam Francis (Kelvin View), Alex. Wm. (Warbur-
+3 CONT ton), Mrs. Phil. Smart (Strathbogie), Mrs. J. P.
+3 CONT Hird (Clayton), Mrs. Duncan Stewart (Hope-
+3 CONT toun), and the late Margaret Watson; sister-in-
+3 CONT law of Mrs. John Stewart, Windsor, aged 70
+3 CONT years. At rest.
+2 NOTE Mother: Olivia Toppin (nee Faulkner)
+1 BURI
+2 PLAC St Kilda Cemetery, Melbourne, VIC, AUS
+1 SOUR Cathryn Warren and Byersfamily.com
+1 FAMS @SKN_F1@
+0 @SKN_I3@ INDI
+1 NAME Margaret Watson /Byers/
+1 SEX F
+1 BIRT
+2 DATE 13 Jan 1874
+2 PLAC Prahran. VIC, AUS
+1 DEAT
+2 DATE 1874
+2 PLAC Prahran, VIC, AUS
+1 SOUR Cathryn Warren and Byersfamily.com
+1 FAMC @SKN_F1@
+0 @SKN_I4@ INDI
+1 NAME Olivia Jane /Byers/
+1 SEX F
+1 BIRT
+2 DATE 13 Jan 1874
+2 PLAC Prahran. VIC, AUS
+1 DEAT
+2 DATE 16 Jun 1933
+2 PLAC Barham, NSW, AUS
+1 SOUR Cathryn Warren and Byersfamily.com
+1 FAMC @SKN_F1@
+0 @SKN_I5@ INDI
+1 NAME Isabella Anne /Byers/
+1 SEX F
+1 BIRT
+2 DATE 1877
+2 PLAC Prahran. VIC, AUS
+1 DEAT
+2 DATE 1941
+2 PLAC Yarraville, VIC, AUS
+1 SOUR Cathryn Warren and Byersfamily.com
+1 NOTE Married Phillip Smart, son of James Smart on 18 Aug 1897 in Strathbogie, VIC, AUS
+1 FAMC @SKN_F1@
+0 @SKN_I6@ INDI
+1 NAME May /Byers/
+1 SEX F
+1 BIRT
+2 DATE 1879
+2 PLAC Whittlesea. VIC, AUS
+1 DEAT
+2 DATE 12 Nov 1956
+2 PLAC Brighton, VIC, AUS
+1 NOTE Married John Popplewell Hird on 1 Jan 1913 in Strathbogie, VIC, AUS.
+2 CONT John bornt 1860 in Luddinton, Lincolnshire ENG, d. 1947, VIC, AUS
+1 SOUR Cathryn Warren and Byersfamily.com
+1 FAMC @SKN_F1@
+0 @SKN_I7@ INDI
+1 NAME Margaret /Byers/
+1 SEX F
+1 BIRT
+2 DATE 1882
+2 PLAC Prahran. VIC, AUS
+1 DEAT
+2 DATE 1970
+2 PLAC Shaw, VIC, AUS
+1 NOTE Married Duncan Stewart on 11 Nov 1903 in Strathbogie VIC AUS
+1 SOUR Cathryn Warren and Byersfamily.com
+1 FAMC @SKN_F1@
+0 @SKN_I8@ INDI
+1 NAME William Francis /Byers/
+1 SEX M
+1 BIRT
+2 DATE 1884
+2 PLAC Prahran. VIC, AUS
+1 DEAT
+2 DATE 1960
+2 PLAC Mooroopna, VIC, AUS
+1 NOTE Married Gertrude Eveline Shepherdson on 17 Mar 1909 in Euroa, VIC, AUS
+1 SOUR Cathryn Warren and Byersfamily.com
+1 FAMC @SKN_F1@
+0 @SKN_I9@ INDI
+1 NAME Alexander William /Byers/
+1 SEX M
+1 BIRT
+2 DATE 7 Nov 1887
+2 PLAC Williamstown. VIC, AUS
+1 DEAT
+2 DATE 9 Oct 1952
+2 PLAC Bairnsdale, VIC, AUS
+1 NOTE Married Elsa Wilhelmina Trost 26 Feb 1912, VIC, AUS
+2 CONT Daughter of Franz Trost and Georgina Josephine Mouritz.
+2 CONT She died 16 May 1969, Noble Park, Vic, AUS.
+1 SOUR Cathryn Warren and Byersfamily.com
+1 FAMC @SKN_F1@
+0 @SKN_I10@ INDI
+1 NAME Kathleen Flora /Thompson/
+1 SEX F
+1 FAMS @SKN_F2@
+0 @SKN_I11@ INDI
+1 NAME Florence  Evelyn /Levy/
+1 SEX F
+1 FAMS @SKN_F3@
+0 @SKN_I12@ INDI
+1 NAME Edward Charles /Raisbeck/
+1 SEX M
+1 BIRT
+2 DATE ABT 1801
+2 PLAC Middlesex, ENG
+1 DEAT
+2 DATE 8 Oct 1897
+2 PLAC London, ENG
+1 FAMS @SKN_F4@
+0 @SKN_I13@ INDI
+1 NAME Catherine /Swan/
+1 SEX F
+1 FAMS @SKN_F4@
 0 @SK_F1@ FAM
 1 HUSB @SK_I3025@
 2 _PREF Y
@@ -68196,6 +68425,9 @@
 2 _PREF Y
 1 WIFE @SK_I364@
 2 _PREF Y
+1 MARR
+2 DATE 4 Nov 1883
+2 SOUR Billion Graves transcription.
 1 CHIL @SK_I1183@
 2 _PREF Y
 1 CHIL @SK_I1239@
@@ -71203,6 +71435,9 @@
 2 _PREF Y
 1 WIFE @SK_I1239@
 2 _PREF Y
+1 MARR
+2 DATE 1906
+2 PLAC VIC, AUS
 1 CHIL @SK_I3194@
 1 CHIL @SK_I3197@
 1 CHIL @SK_I3198@
@@ -82352,6 +82587,36 @@
 1 CHAN
 2 DATE 18 Mar 2013
 3 TIME 10:51
+0 @SKN_F1@ FAM
+1 HUSB @SKN_I1@
+1 WIFE @SKN_I2@
+1 CHIL @SKN_I3@
+1 CHIL @SKN_I4@
+1 CHIL @SK_I3169@
+1 CHIL @SKN_I5@
+1 CHIL @SKN_I6@
+1 CHIL @SKN_I7@
+1 CHIL @SKN_I8@
+1 CHIL @SKN_I9@
+0 @SKN_F2@ FAM
+1 HUSB @SK_I3198@
+1 WIFE @SKN_I10@
+1 MARR
+2 DATE 1942
+2 PLAC VIC, AUS
+0 @SKN_F3@ FAM
+1 HUSB @SK_I3197@
+1 WIFE @SKN_I11@
+1 MARR
+2 DATE 1940
+2 PLAC VIC, AUS
+0 @SKN_F4@ FAM
+1 HUSB @SKN_I12@
+1 WIFE @SKN_I13@
+1 MARR
+2 PLAC St Andrews Holborn London Eng
+2 DATE 9 Jan 1831
+1 CHIL @SK_I1178@
 0 _PLAC_DEFN
 1 PLAC Harston, Cambridgeshire, UK
 2 ABBR Harston, Cambridgeshire, UK
