@@ -12726,6 +12726,15 @@
 2 DATE 1883
 2 PLAC Geelong, Vic, AUS
 2 SOUR Victoria BDM ref 2883/1883. Recorded as Crole.
+1 DEAT
+2 PLAC Ararat Mental Asylum
+2 DATE 6 Sep 1957
+2 CAUS Senility
+2 AGE 74
+2 NOTE Under name Jack Crowl
+2 SOUR Vic BDM Ref 20921/1957 and Andrew Warland http://www.andrewwarland.com.au/robertson_australia/robertsoncroll.html
+1 BURI
+2 PLAC grave number 4697 (location no longer known), Ararat Cemetery, Vic, AUS
 1 SOUR @SIW1@
 1 FAMC @FW740@
 0 @IW1729@ INDI
@@ -14292,7 +14301,7 @@
 1 DEAT
 2 DATE 17 May 1947
 2 PLAC Cheviot, NZL
-1 NOTE 22nd Prime Minister of New Zealand 28 May 1930 – 6 December 1935
+1 NOTE 22nd Prime Minister of New Zealand 28 May 1930 √ê 6 December 1935
 0 @IWS157@ INDI
 1 SOUR @SIW1@
 1 FAMS @FW181@
@@ -23629,7 +23638,7 @@
 1 OCCU Farm Lab., Corwell Eng.
 1 OCCU Expressman, NZL.
 1 NOTE Emigrated to NZL with his wife (both 21) on Howrah which left England 26 Aug 1874.
-2 CONC Passaged was payed for under the Assisted Emigration policy and cost £29
+2 CONC Passaged was payed for under the Assisted Emigration policy and cost ¬£29
 2 CONC The old home was in Avenue Rd New Plymouth (now called Coronation Av)
 2 CONC The house is gone, The orchard is part of the Intermediate School grounds.
 1 FAMC @F21@
@@ -24087,7 +24096,7 @@
 2 NOTE She shares a plot with her husband and son William. The headstone is an Angel on a Cross
 1 NOTE Emigrated to New Zealand with Husband both aged 21 (no Children).
 2 CONT on Howrah which left England 26 Aug 1874 bound for New Plymouth.
-2 CONT Passaged was payed for under the Assisted Emigration policy and cost £29.
+2 CONT Passaged was payed for under the Assisted Emigration policy and cost ¬£29.
 2 CONT (Source: Ships records held at New Plymouth Museum)
 1 FAMS @F84@
 1 FAMC @F518@
@@ -44166,17 +44175,17 @@
 2 NOTE Abode: Mossley Hill
 3 CONT   Age: 69
 3 CONT   Buried by: J. Newlon? Offg. Min.
-3 CONT   Register: Burials 1898 – 1919, Page 20, Entry 158
+3 CONT   Register: Burials 1898 √ê 1919, Page 20, Entry 158
 3 CONT   Source: LDS Film 2147881
 1 WILL Y
 2 NOTE The Times (London), 16 August 1906
 3 CONT WILLS AND BEQUESTS---The Liverpool Courier states that under the will of
 3 CONC the late Mr. WILLIAM IMRIE, of Ismay, Imrie and Co., owners of the White
 3 CONC Star Line, several Liverpool institutions benefit largely. It is
-3 CONC understood that Mr. Imrie left £300,000, the interest on which he
+3 CONC understood that Mr. Imrie left ¬£300,000, the interest on which he
 3 CONC bequeaths to his young daughter for life. The residue of the estate at
-3 CONC her death will be allocated as follows: ---£100,000 to the Liverpool
-3 CONC Cathedral fund, £50,000 each to the Liverpool Seamen's Orphanage and the
+3 CONC her death will be allocated as follows: ---¬£100,000 to the Liverpool
+3 CONC Cathedral fund, ¬£50,000 each to the Liverpool Seamen's Orphanage and the
 3 CONC Homes for Aged Mariners at Egremont, and the remainder to be divided
 3 CONC between other Liverpool charities and institutions. [Balance of
 3 CONC article, relating to other wills and bequests, deleted.]
@@ -44184,14 +44193,14 @@
 3 CONT The Times (London), 15 October 1906
 3 CONC Mr. William Imrie, of Holmstead, Liverpool, and late of the firm of
 3 CONC Ismay, Imrie, and Co., of the White Star line, who left by his will
-3 CONC £264,378 in net personalty, and the gross value of the whole of his
-3 CONC estate has been entered at £278, 472, bequeathed to his niece and
+3 CONC ¬£264,378 in net personalty, and the gross value of the whole of his
+3 CONC estate has been entered at ¬£278, 472, bequeathed to his niece and
 3 CONC adopted daughter, Miss Amy Elizabeth Rosalie Imrie, of Holmstead,
-3 CONC £10,000, his household effects, and, during her life, certain pictures
+3 CONC ¬£10,000, his household effects, and, during her life, certain pictures
 3 CONC which, after her death, are to be offered to the National gallery, the
 3 CONC Tate Gallery, the Walker Art Gallery, and the Seamen's Orphanage. Miss
 3 CONC Imrie is to have the income from the residuary estate during her life,
-3 CONC with power of appointment of £50,000 thereof in favor of her issue, and,
+3 CONC with power of appointment of ¬£50,000 thereof in favor of her issue, and,
 3 CONC subject to her interest, the testator, as already announced in The
 3 CONC Times, left the ultimate residue of his estate in truest, as to
 3 CONC one-third for the Liverpool Cathedral, as to one-third for the William
@@ -69941,7 +69950,7 @@
 1 BURI
 2 PLAC St. Denis
 1 OCCU King of France
-1 NOTE King of France 987-996, Count of Poitou, Count of Orl»ans,
+1 NOTE King of France 987-996, Count of Poitou, Count of Orl√àans,
 2 CONC first of the Capetian Kings of France.
 1 SOUR Weis. 53-20.
 1 SOUR Weis. 141-19
@@ -70993,7 +71002,7 @@
 2 DATE 6 OCT 869
 2 PLAC St. Dennis
 2 SOUR @S14@
-1 NOTE of Orl»ans
+1 NOTE of Orl√àans
 1 SOUR Weis. 148-15.
 1 SOUR Weis. 162-16.
 1 FAMC @FHL2008@
@@ -71008,7 +71017,7 @@
 1 DEAT
 2 DATE 10 APR 879
 2 SOUR @S14@
-2 PLAC CompiÀgne
+2 PLAC Compi√ãgne
 2 SOUR @S14@
 1 OCCU King of Neustria and Aquitaine; King of the West Franks
 1 SOUR @S14@
@@ -71039,7 +71048,7 @@
 1 DEAT
 2 DATE 876
 2 SOUR @S14@
-1 NOTE Abbot of St. M»dard of Soissons, then Abbot of Echternach
+1 NOTE Abbot of St. M√àdard of Soissons, then Abbot of Echternach
 1 SOUR @S14@
 1 FAMC @FR1211@
 0 @IR2579@ INDI
@@ -71356,7 +71365,7 @@
 2 PLAC Reims, France
 2 SOUR @S14@
 1 BURI
-2 PLAC St. R»my, Reims, France
+2 PLAC St. R√àmy, Reims, France
 2 SOUR @S14@
 1 SOUR @S14@
 1 NOTE Louis IV, d'Outre-Mer, King of the Franks, 893-922.
@@ -71394,7 +71403,7 @@
 1 DEAT
 2 DATE 994
 2 NOTE Also have from royal92.ged 986
-2 PLAC Orl»ans
+2 PLAC Orl√àans
 2 SOUR @S14@
 1 BURI
 2 PLAC St. Servatius, Maastricht
@@ -96290,7 +96299,7 @@
 2 DATE 0999
 1 DEAT
 2 DATE 7 JAN 1079
-1 NOTE Count of Brittany, Count of PenthiÀve (1034).
+1 NOTE Count of Brittany, Count of Penthi√ãve (1034).
 1 SOUR Weis. 214-23.
 1 FAMS @FHL1873@
 1 FAMC @FHL1872@
@@ -96936,7 +96945,7 @@
 2 DATE 5 SEP 1993
 0 @IHL3671@ INDI
 1 SUBM @SIHL1@
-1 NAME R»gnier /of Hainaut/
+1 NAME R√àgnier /of Hainaut/
 1 SEX M
 1 BIRT
 2 DATE ABT 0850
@@ -96960,7 +96969,7 @@
 2 DATE ABT 0890
 1 DEAT
 2 DATE 2 OCT 0939
-1 NOTE Duke of Lorraine, lay Abbot of Echternach, Luxembourg. Stated by the Abb» Chaume
+1 NOTE Duke of Lorraine, lay Abbot of Echternach, Luxembourg. Stated by the Abb√à Chaume
 2 CONC to be son of Hersent.
 1 SOUR Weis. 50-19.
 1 SOUR Weis. 140-19.
@@ -96972,13 +96981,13 @@
 2 DATE 6 MAR 1994
 0 @IHL3673@ INDI
 1 SUBM @SIHL1@
-1 NAME R»gnier /of Hainaut/
+1 NAME R√àgnier /of Hainaut/
 1 SEX M
 1 BIRT
 2 DATE ABT 0890
 1 DEAT
 2 DATE 0932
-1 NOTE R»gnier II, Count of Hainaut.
+1 NOTE R√àgnier II, Count of Hainaut.
 1 SOUR Weis. 240-18.
 1 SOUR Weis. 155-18.
 1 FAMS @FHL1982@
@@ -96996,13 +97005,13 @@
 2 DATE 6 MAR 1994
 0 @IHL4171@ INDI
 1 SUBM @SIHL1@
-1 NAME R»gnier /of Hainaut/
+1 NAME R√àgnier /of Hainaut/
 1 SEX M
 1 BIRT
 2 DATE ABT 0920
 1 DEAT
 2 DATE 0973
-1 NOTE R»gnier III, Count of Hainaut.
+1 NOTE R√àgnier III, Count of Hainaut.
 1 SOUR Weis. 155-19.
 1 FAMS @FHL2264@
 1 FAMC @FHL1982@
@@ -97092,11 +97101,11 @@
 2 DATE 5 SEP 1993
 0 @IHL4169@ INDI
 1 SUBM @SIHL1@
-1 NAME R»gnier /of Hainaut/
+1 NAME R√àgnier /of Hainaut/
 1 SEX M
 1 DEAT
 2 DATE 1013
-1 NOTE R»gnier IV, Count of Hainaut.
+1 NOTE R√àgnier IV, Count of Hainaut.
 1 SOUR Weis. 106-21.
 1 SOUR Weis. 155-19.
 1 SOUR Roberts. The Royal Descents of 500 Immigrants. p 444.
@@ -97106,7 +97115,7 @@
 2 DATE 27 AUG 1994
 0 @IHL4172@ INDI
 1 SUBM @SIHL1@
-1 NAME AdÀle /of Louvain/
+1 NAME Ad√ãle /of Louvain/
 1 SEX F
 1 DEAT
 2 DATE 0961
@@ -97166,7 +97175,7 @@
 2 DATE 25 APR 1995
 0 @IHL4174@ INDI
 1 SUBM @SIHL1@
-1 NAME R»gnier /of Hainaut/
+1 NAME R√àgnier /of Hainaut/
 1 SEX M
 1 DEAT
 2 DATE ABT 1039
@@ -97175,7 +97184,7 @@
 2 DATE 5 SEP 1993
 0 @IHL3400@ INDI
 1 SUBM @SIHL1@
-1 NAME AdÀle /of France/
+1 NAME Ad√ãle /of France/
 1 TITL Princess
 1 SEX F
 1 DEAT
@@ -97322,7 +97331,7 @@
 1 DEAT
 2 DATE 16 JUN 0956
 2 PLAC Deurdan
-1 NOTE Count of Paris, Orl»ans, Vexin and Le Mans, Duke of France.
+1 NOTE Count of Paris, Orl√àans, Vexin and Le Mans, Duke of France.
 1 SOUR Weis. 53-19.
 1 SOUR Moriarty. The Origin of the Capets. New England Historical and Genealogical Register. Jan. 1945 pp 130-131.
 1 FAMS @FHL755@
@@ -97654,7 +97663,7 @@
 1 DEAT
 2 DATE 15 MAR 0973
 1 NOTE He is called the 8th son of Herbert II, Count of Vermandois, but is not so given
-2 CONC by PÀre Anselme; though Anselme does give Hugh, Archbishop of Rheims, as a son of
+2 CONC by P√ãre Anselme; though Anselme does give Hugh, Archbishop of Rheims, as a son of
 2 CONC Herbert II.
 1 SOUR Weis. 151-19.
 1 FAMS @FHL2269@
@@ -97722,7 +97731,7 @@
 1 NAME Adalof /of Boulogne/
 1 TITL Count
 1 SEX M
-1 OCCU Count of Boulogne Sur Mer and of Th»rouanne
+1 OCCU Count of Boulogne Sur Mer and of Th√àrouanne
 1 SOUR @S16@
 1 FAMC @FR844@
 1 CHAN
@@ -98114,9 +98123,9 @@
 2 DATE 24 JUL 1994
 0 @IHL3541@ INDI
 1 SUBM @SIHL1@
-1 NAME Aubri /of Orl»ans/
+1 NAME Aubri /of Orl√àans/
 1 SEX M
-1 NOTE Vicomte of Orl»ans 957-966.
+1 NOTE Vicomte of Orl√àans 957-966.
 1 SOUR Moriarty. The Origin of the Plantagenets. New England Historical and Genealogical Register. Jan. 1945 pp 34-37.
 1 FAMC @FHL1898@
 1 CHAN
@@ -98132,9 +98141,9 @@
 2 DATE 6 MAR 1994
 0 @IHL3526@ INDI
 1 SUBM @SIHL1@
-1 NAME Geoffrey I /of Orl»ans/
+1 NAME Geoffrey I /of Orl√àans/
 1 SEX M
-1 NOTE Geoffrey I Vicomte of Orl»ans. Witness to the Charter of Hugh the Great,
+1 NOTE Geoffrey I Vicomte of Orl√àans. Witness to the Charter of Hugh the Great,
 2 CONC Duke of France 939.
 1 SOUR Moriarty. The Origin of the Plantagenets. New England Historical and Genealogical
 2 CONC Register. Jan. 1945 pp 34-37.
@@ -98225,7 +98234,7 @@
 2 DATE 24 JUL 1994
 0 @IHL3530@ INDI
 1 SUBM @SIHL1@
-1 NAME Aubri /of F»zensac/
+1 NAME Aubri /of F√àzensac/
 1 SEX M
 1 DEAT
 2 DATE 0801
@@ -98249,7 +98258,7 @@
 2 DATE 24 JUL 1994
 0 @IHL3532@ INDI
 1 SUBM @SIHL1@
-1 NAME Gu»rin //
+1 NAME Gu√àrin //
 1 SEX M
 1 NOTE Count in the Thurgovie 757-772.
 1 SOUR Moriarty. The Origin of the Plantagenets. New England Historical and Genealogical Register. Jan. 1945 pp 34-37.
@@ -99091,7 +99100,7 @@
 2 DATE 23 AUG 1994
 0 @IHL4060@ INDI
 1 SUBM @SIHL1@
-1 NAME GisÀle /of France/
+1 NAME Gis√ãle /of France/
 1 SEX F
 1 BIRT
 2 DATE 0820
@@ -99117,9 +99126,9 @@
 2 DATE 30 JUL 1994
 0 @IHL3714@ INDI
 1 SUBM @SIHL1@
-1 NAME Odo /of Orl»ans/
+1 NAME Odo /of Orl√àans/
 1 SEX M
-1 NOTE Count of Orl»ans.
+1 NOTE Count of Orl√àans.
 1 SOUR Weis. 148-15.
 1 FAMS @FHL2008@
 1 CHAN
@@ -100066,7 +100075,7 @@
 1 DEAT
 2 DATE OCT 1193
 1 NOTE Baron of Dunster. Was a minor at his father's death and in ward to the king.
-2 CONC For his maintenance the sum of £18 was allowed for eighteen months, presumably
+2 CONC For his maintenance the sum of ¬£18 was allowed for eighteen months, presumably
 2 CONC until he came of afe, for he had livery of his lands in 1177. He was a benefactor of
 2 CONC Bruton, and confirmed the gifts of his father and grandfather, and granted the
 2 CONC tithe of certain of his mills in Normandy to the abbey of the Holy Trinity of
@@ -100285,7 +100294,7 @@
 2 DATE 6 MAR 1994
 0 @IHL1715@ INDI
 1 SUBM @SIHL1@
-1 NAME Eleanor /de PenthiÀvre/
+1 NAME Eleanor /de Penthi√ãvre/
 1 SEX F
 1 NOTE She is said to have married Oliver II, Lord of Dinan but this is disputed.
 1 SOUR Weis. 214-25.
@@ -101850,7 +101859,7 @@
 2 DATE 30 JUL 1994
 0 @IHL4050@ INDI
 1 SUBM @SIHL1@
-1 NAME GisÀle /of Italy/
+1 NAME Gis√ãle /of Italy/
 1 SEX F
 1 BIRT
 2 DATE BEF 0890
@@ -102198,7 +102207,7 @@
 2 DATE 5 MAR 1994
 0 @IHL4098@ INDI
 1 SUBM @SIHL1@
-1 NAME GisÀle /of Luxembourg/
+1 NAME Gis√ãle /of Luxembourg/
 1 SEX F
 1 BURI
 2 PLAC Chapel of St. Lawrence, Ghent
@@ -102252,7 +102261,7 @@
 2 DATE 30 JUL 1994
 0 @IHL4102@ INDI
 1 SUBM @SIHL1@
-1 NAME Cun»gonde //
+1 NAME Cun√àgonde //
 1 SEX F
 1 BIRT
 2 DATE 0890/0895
@@ -102564,7 +102573,7 @@
 1 DEAT
 2 DATE BEF NOV 0836
 1 OCCU Count of Tours and Bourges
-1 NOTE Hugh le M»fiant, Count of Tours and Bourges. He died Sep/Nov 836.
+1 NOTE Hugh le M√àfiant, Count of Tours and Bourges. He died Sep/Nov 836.
 1 SOUR Stuart. Royalty for Commoners. 264-39, 167-41.
 1 FAMS @FHL5724@
 1 CHAN
@@ -104037,11 +104046,11 @@
 0 @S13@ SOUR
 1 TITL Williams. The Parliamentary History of the County of Gloucester. JN563.G6W6
 0 @S14@ SOUR
-1 TITL Europîische Stammtafeln. Bd. II Tafel 1.
+1 TITL Europ¬îische Stammtafeln. Bd. II Tafel 1.
 0 @S15@ SOUR
-1 TITL Europîische Stammtafeln. Bd 2 Tafel 2.
+1 TITL Europ¬îische Stammtafeln. Bd 2 Tafel 2.
 0 @S16@ SOUR
-1 TITL Europîische Stammtafeln. Bd 2 Tafel 5.
+1 TITL Europ¬îische Stammtafeln. Bd 2 Tafel 5.
 0 @S17@ SOUR
 1 TITL Weis. 184b-5.
 0 @S18@ SOUR
@@ -106267,7 +106276,7 @@
 3 TEXT Gadfield Hen: de Minster Lovell
 4 CONT 
 4 CONT In the Name of God Amen. First and Principally I bequeath my soul unto the hands of Almight
-4 CONC y God that gave […] trusting in Gods […..] free pardon for all my sins & offences that I hav
+4 CONC y God that gave [√â] trusting in Gods [√â..] free pardon for all my sins & offences that I hav
 4 CONC e committed And as for my Body to be Interred at the Discrection of my Executrix hereafter me
 4 CONC ntioned. Item I give and bequeath to my Son Henry Gadfield one Guinea of good & lawful mone
 4 CONC y to be paid him by my Executor within six months after my Decease. Item I give & bequeath t
@@ -106275,9 +106284,9 @@
 4 CONC hin six months after my decease. All the Rest of my Goods & Chattles unbequeath I give & bequ
 4 CONC eath unto my loving Wife Sarah Gadfield whom I make my whole & sole Executrix of this my las
 4 CONC t Will & Testament Revoking all former Wills and paying all my Debts & Legacys whatsoever an
-4 CONC d I do farther order it that what my Wife Sarah Gadfield shall die [….] of go to my Daughte
+4 CONC d I do farther order it that what my Wife Sarah Gadfield shall die [√â.] of go to my Daughte
 4 CONC r Sarah ye wife of James Shaylor & her her Heirs and I do nominate Richard Harris & Moses Bro
-4 CONC oks [….] to this my last Will and Testament and to see that my Wife be not wronged of any thi
+4 CONC oks [√â.] to this my last Will and Testament and to see that my Wife be not wronged of any thi
 4 CONC ng and that she her self do not unadvisedly squander it any. In Witness where of I have hereu
 4 CONC nto sett my hand and seal this Thirtith Day of July Anno Domi 1716 Henry Gadfield signed seal
 4 CONC ed & declared in ye presence of us Henry Carter, Abel Brooks.
@@ -106323,16 +106332,16 @@
 4 CONC f law full money to be paid within one year after my decease. Item I give & bequeath unto m
 4 CONC y Son Henry ye younger my great best Coate & fourscore pounds of lawfull money to be paid wit
 4 CONC hin one year after my decease & I do further give & bequeath unto my younger Son Henry one se
-4 CONC tt of Curtains & [valen…] & one pr of white Blankets & one pr of sheets one trunke & all ye w
-4 CONC earing appareell that were his Mothers & two pewter dishes & a shillett & halfe a [d…] of pew
-4 CONC ter [p…rs] & oe warming pan & one new […] waistcoate. Item all my goods at Sutton in Stanto
+4 CONC tt of Curtains & [valen√â] & one pr of white Blankets & one pr of sheets one trunke & all ye w
+4 CONC earing appareell that were his Mothers & two pewter dishes & a shillett & halfe a [d√â] of pew
+4 CONC ter [p√ârs] & oe warming pan & one new [√â] waistcoate. Item all my goods at Sutton in Stanto
 4 CONC n Harcourt parish & all other goods & chattly that is unbeqeathed I give & bequeath unto my s
 4 CONC on John above named whom I do make my sole Exto. Of this my last will & Testamt provided tha
 4 CONC t he pay my debts & legacies & I do hereby make void & disanull all former wills heretofore m
 4 CONC ade by me & do ratifie & confirme this & none other to be my last will & testamt In witness w
 4 CONC hereof I yesd Thomas Gadfeild have hereunto sett my hand & seale ye day & yeare above writte
 4 CONC n (Thomas Gadfeild his mark) signed sealed published pronounced & declared by yesd Testate i
-4 CONC n ye […] of us whose names are here subscribed John Howlett his marke Richard Howlett Geo Nob
+4 CONC n ye [√â] of us whose names are here subscribed John Howlett his marke Richard Howlett Geo Nob
 4 CONC le.
 4 CONT 
 4 CONT Proved 25 November 1693
