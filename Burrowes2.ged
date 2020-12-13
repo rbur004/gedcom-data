@@ -1,0 +1,1110 @@
+0 HEAD
+1 SOUR NOT_GEDCOM
+2 NAME "Burrowes of Stradone"
+2 CORP Burke's
+2 DATA Burke
+3 DATE 1976
+1 GEDC
+2 VERS 5.3
+1 NOTE Data From Burke's Irish Family Records 1976
+0 @IBI1@ INDI
+1 NAME Robert /Borowe/
+1 SEX M
+1 DEAT
+2 DATE 20 Mar 1614
+1 NOTE Settled at Drumlane, co. Cavan, temp James I
+1 FAMS @FBI1@
+0 @IBI2@ INDI
+1 NAME Fancis /Leigh/
+1 SEX F
+1 FAMS @FBI1@
+0 @IBI3@ INDI
+1 NAME Thomas /Borowes/
+1 SEX M
+1 NOTE Became possessed of Stradone (of which estate he also received a patent of
+2 CONT confirmation from King Charles I 1638), co. Cavan JP (1664).
+1 DEAT
+2 DATE 1679
+1 FAMC @FBI1@
+1 FAMS @FBI5@
+0 @IBI4@ INDI
+1 NAME Richard /Borowe/
+1 SEX M
+1 FAMC @FBI1@
+0 @IBI5@ INDI
+1 NAME Samuel /Borowe/
+1 SEX M
+1 FAMC @FBI1@
+0 @IBI6@ INDI
+1 NAME Margaret /Borowe/
+1 SEX F
+1 FAMC @FBI1@
+1 FAMS @FBI2@
+0 @IBI7@ INDI
+1 NAME Katherine /Borowe/
+1 SEX F
+1 FAMC @FBI1@
+1 FAMS @FBI3@
+0 @IBI8@ INDI
+1 NAME Frances /Borowe/
+1 SEX F
+1 FAMC @FBI1@
+1 FAMS @FBI4@
+0 @IBI9@ INDI
+1 NAME Mary /Borowe/
+1 SEX F
+1 FAMC @FBI1@
+0 @IBI10@ INDI
+1 NAME Elizabeth /Borowe/
+1 SEX F
+1 FAMC @FBI1@
+0 @IBI11@ INDI
+1 NAME Anne /Borowe/
+1 SEX F
+1 FAMC @FBI1@
+0 @IBI12@ INDI
+1 NAME Unknown /McCabe/
+1 SEX M
+1 FAMS @FBI2@
+0 @IBI13@ INDI
+1 NAME Unknown /Brereton/
+1 SEX M
+1 FAMS @FBI3@
+0 @IBI14@ INDI
+1 NAME Charles /Forster/
+1 SEX M
+1 FAMS @FBI4@
+0 @IBI15@ INDI
+1 NAME Cecily /Lill/
+1 SEX F
+1 FAMC @FBI6@
+1 FAMS @FBI5@
+0 @IBI16@ INDI
+1 NAME Robert /Lill/
+1 SEX M
+1 NOTE JP of Trim, co. Meath
+1 FAMS @FBI6@
+0 @IBI17@ INDI
+1 NAME Robert /Borowes/
+1 SEX M
+1 DEAT
+2 DATE 1725
+1 NOTE d.s.p
+1 FAMC @FBI5@
+0 @IBI18@ INDI
+1 NAME Hugh /Borowes/
+1 SEX M
+1 FAMC @FBI5@
+0 @IBI19@ INDI
+1 NAME Thomas /Borowes/
+1 SEX M
+1 DEAT
+2 DATE BEF 1732
+1 FAMC @FBI5@
+1 FAMS @FBI23@
+0 @IBI20@ INDI
+1 NAME Alexander /Borowes/
+1 SEX M
+1 NOTE of Ferensboro', Ranaghan, co, Longford, Had a lease of Killyconnan from his brother
+2 CONT Robert 21 Mar 1717
+1 BIRT
+2 DATE ABT 1695
+1 DEAT
+2 DATE ABT 1732
+1 FAMC @FBI5@
+1 FAMS @FBI8@
+0 @IBI21@ INDI
+1 NAME Martha /Borowes/
+1 SEX F
+1 FAMC @FBI5@
+0 @IBI22@ INDI
+1 NAME Ellen /Borowes/
+1 SEX F
+1 FAMC @FBI5@
+1 FAMS @FBI7@
+0 @IBI23@ INDI
+1 NAME Thomas /Fleming/
+1 SEX M
+1 NOTE of Lisnelong, Co. Cavan
+1 FAMS @FBI7@
+0 @IBI24@ INDI
+1 NAME Mary /Unknown/
+1 SEX F
+1 FAMS @FBI8@
+0 @IBI25@ INDI
+1 NAME Thomas /Borowes/
+1 SEX M
+1 NOTE of Ranaghan and Killyconnan, eldest son and Heir (Chancery Bill 17 Nov 1729,
+2 CONT Borowes vs. Borowes).
+1 BIRT
+2 DATE ABT 1700
+1 DEAT
+2 DATE ABT 1760
+1 FAMC @FBI8@
+1 FAMS @FBI9@
+0 @IBI26@ INDI
+1 NAME Anne /Harris/
+1 SEX F
+1 NOTE Widow of his cousin Robert Burrowes of Stradone
+1 FAMS @FBI10@
+1 FAMS @FBI9@
+0 @IBI27@ INDI
+1 NAME Alexander /Burrowes/
+1 SEX M
+1 NOTE of Ferensboro', co Longford
+1 BIRT
+2 DATE 1705
+1 DEAT
+2 DATE 1 Nov 1783
+1 FAMC @FBI8@
+1 FAMS @FBI11@
+0 @IBI28@ INDI
+1 NAME Martha Mary /Beatty/
+1 SEX F
+1 DEAT
+2 DATE 16 Jan 1789
+1 FAMC @FBI12@
+1 FAMS @FBI11@
+0 @IBI29@ INDI
+1 NAME John /Beatty/
+1 SEX M
+1 NOTE of Springtown, co. Longford.
+1 FAMS @FBI12@
+0 @IBI30@ INDI
+1 NAME Alexander /Burrowes/
+1 SEX M
+1 NOTE of Ferensboro', co. Longford. Lieut. R. Irish Arty, d.s.p
+1 BIRT
+2 DATE ABT 1743
+1 DEAT
+2 DATE 1788
+1 FAMC @FBI11@
+1 FAMS @FBI13@
+0 @IBI31@ INDI
+1 NAME Mary /Ferall/
+1 SEX F
+1 FAMC @FBI14@
+1 FAMS @FBI13@
+0 @IBI32@ INDI
+1 NAME John /Ferall/
+2 TITL Dr.
+1 SEX M
+1 FAMS @FBI14@
+0 @IBI33@ INDI
+1 NAME Thomas /Burrowes/
+1 SEX M
+1 NOTE of Ferensboro', co. Longford, d.s.p.
+1 BIRT
+2 DATE ABT 1744
+1 DEAT
+2 DATE 1806
+1 FAMC @FBI11@
+0 @IBI34@ INDI
+1 NAME John /Burrowes/
+2 TITL Rev.
+1 SEX M
+1 NOTE of Prospect (were he had a school), Curate of Monkstown, co. Dublin
+1 BIRT
+2 DATE ABT 1746
+1 EDUC
+2 PLAC Trinity Colledge, Dublin
+2 NOTE BA LLB 1771, LLD 1787
+1 DEAT
+2 DATE 7 Mar 1797
+1 FAMC @FBI11@
+1 FAMS @FBI15@
+0 @IBI35@ INDI
+1 NAME Rachel /Hodgson/
+1 SEX F
+1 DEAT
+2 DATE 1788
+1 FAMS @FBI15@
+0 @IBI36@ INDI
+1 NAME Robert /Burrowes/
+1 SEX M
+1 NOTE d.s.p
+1 BIRT
+2 DATE ABT 1771
+1 EDUC
+2 PLAC Trinity Colledge, Dublin
+2 NOTE BA 
+1 FAMC @FBI15@
+0 @IBI37@ INDI
+1 NAME Alexander (Alick) /Burrowes/
+1 SEX M
+1 NOTE of Ferensboro', co. Longford, High Sheriff 1816, Major R Irish Srty, Barrister-at-law
+2 CONT 1795
+1 BIRT
+2 DATE 1773
+1 EDUC
+2 PLAC Trinity Colledge, Dublin
+2 NOTE BA 
+1 DEAT
+2 DATE 17 Apr 1834
+1 FAMC @FBI15@
+1 FAMS @FBI16@
+0 @IBI38@ INDI
+1 NAME Margaret /Forth/
+1 SEX F
+1 FAMC @FBI17@
+1 FAMS @FBI16@
+0 @IBI39@ INDI
+1 NAME Samuel /Forth/
+1 SEX M
+1 NOTE Serjeant-at-Arms, of Hume Street, Dublin
+1 FAMS @FBI17@
+0 @IBI40@ INDI
+1 NAME Stephen Moore /Burrowes/
+1 SEX M
+1 NOTE Capt. Dragoon Guards, emigrated Austrailia ca. 1820
+1 BIRT
+2 DATE ABT 1774
+1 DEAT
+2 DATE 17 Jan 1871
+1 FAMC @FBI15@
+1 FAMS @FBI18@
+0 @IBI41@ INDI
+1 NAME Mary /Vance/
+1 SEX F
+1 FAMS @FBI18@
+0 @IBI42@ INDI
+1 NAME John Thomas /Burrowes/
+1 SEX M
+1 NOTE of Ferrensboro', co. Longford
+1 BIRT
+2 DATE ABT 1777
+1 DEAT
+2 DATE 17 Jan 1861
+1 FAMC @FBI15@
+1 FAMS @FBI19@
+0 @IBI43@ INDI
+1 NAME Elizabeth /Burrowes/
+1 SEX F
+1 BIRT
+2 DATE 7 Mar 1781
+1 DEAT
+2 DATE AFT 1830
+1 FAMC @FBI15@
+0 @IBI44@ INDI
+1 NAME Sophia /Burrowes/
+1 SEX F
+1 BIRT
+2 DATE 1783
+1 DEAT
+2 DATE 1804
+1 FAMC @FBI15@
+0 @IBI45@ INDI
+1 NAME Rachel /Burrowes/
+1 SEX F
+1 BIRT
+2 DATE ABT 1784
+1 DEAT
+2 DATE AFT 1830
+1 FAMC @FBI15@
+0 @IBI46@ INDI
+1 NAME Sarah /Burrowes/
+1 SEX F
+1 BIRT
+2 DATE ABT 1786
+1 DEAT
+2 DATE AFT 1830
+1 FAMC @FBI15@
+1 FAMS @FBI20@
+0 @IBI47@ INDI
+1 NAME Martha /Burrowes/
+1 SEX F
+1 BIRT
+2 DATE ABT 1787
+1 DEAT
+2 DATE AFT 1830
+1 FAMC @FBI15@
+1 FAMS @FBI21@
+0 @IBI48@ INDI
+1 NAME Charlotte /Burrowes/
+1 SEX F
+1 BIRT
+2 DATE ABT 1795
+1 DEAT
+2 DATE AFT 1830
+1 FAMC @FBI15@
+1 FAMS @FBI22@
+0 @IBI49@ INDI
+1 NAME Unknown /Burke/
+1 SEX M
+1 FAMS @FBI20@
+0 @IBI50@ INDI
+1 NAME Unknown /Pilsworth/
+1 SEX M
+1 FAMS @FBI21@
+0 @IBI51@ INDI
+1 NAME R. /Munchin/
+2 TITL Capt.
+1 SEX M
+1 FAMS @FBI22@
+0 @IBI52@ INDI
+1 NAME Mary /Unknown/
+1 SEX F
+1 FAMS @FBI23@
+0 @IBI53@ INDI
+1 NAME Thomas /Borowes/
+1 SEX M
+1 NOTE of Stradone and Lisnannagh, co. Cavan, JP (1725)
+1 DEAT
+2 DATE 18 Aug 1729
+1 FAMC @FBI23@
+1 FAMS @FBI25@
+0 @IBI54@ INDI
+1 NAME Robert /Borowes/
+1 SEX M
+1 NOTE of Stradone and Killygoan, co. Cavan, JP (1725)
+1 DEAT
+2 DATE ABT 1729
+1 FAMC @FBI23@
+1 FAMS @FBI10@
+0 @IBI55@ INDI
+1 NAME Martha /Borowes/
+1 SEX F
+1 DEAT
+2 DATE 1746
+1 FAMC @FBI23@
+1 FAMS @FBI24@
+0 @IBI56@ INDI
+1 NAME James /Thornton/
+1 SEX M
+1 NOTE of Grenville, co. Cavan
+1 FAMS @FBI24@
+0 @IBI57@ INDI
+1 NAME Ann /Davenport/
+1 SEX F
+1 FAMC @FBI26@
+1 FAMS @FBI27@
+1 FAMS @FBI25@
+0 @IBI58@ INDI
+1 NAME Edward /Davenport/
+1 SEX M
+1 NOTE of Cullintragh, Edwardstown, co. Cavan
+1 FAMS @FBI26@
+0 @IBI59@ INDI
+1 NAME Unknown /Close/
+1 SEX M
+1 FAMS @FBI27@
+0 @IBI60@ INDI
+1 NAME Mary /Borowes/
+1 SEX F
+1 NOTE of Lisnananagh
+1 FAMC @FBI25@
+1 FAMS @FBI28@
+0 @IBI61@ INDI
+1 NAME Thomas /Burrowes/
+2 TITL Col.
+1 SEX M
+1 NOTE of Stradone House, co. Cavan, JP (1744), High Sheriff 1743
+1 DEAT
+2 DATE Apr 1764
+1 FAMC @FBI10@
+1 FAMS @FBI32@
+0 @IBI62@ INDI
+1 NAME James /Borowes/
+2 TITL Lieut.
+1 SEX M
+1 NOTE Lieut. Cavan Militia 1756 High Sheriff (1769)
+1 BIRT
+2 DATE 1721
+1 DEAT
+2 DATE 1756
+1 FAMC @FBI10@
+1 FAMS @FBI29@
+0 @IBI63@ INDI
+1 NAME Margery /Nesbitt/
+1 SEX F
+1 FAMC @FBI30@
+1 FAMS @FBI29@
+1 FAMS @FBI31@
+0 @IBI64@ INDI
+1 NAME Thomas /Nesbitt/
+2 TITL Col.
+1 SEX M
+2 CONT MP, of Lismore House, co. Cavan
+1 FAMS @FBI30@
+0 @IBI65@ INDI
+1 NAME Unknown /Stock/
+1 SEX M
+1 FAMS @FBI31@
+0 @IBI66@ INDI
+1 NAME Jane /Borowes/
+1 SEX F
+1 FAMC @FBI29@
+0 @IBI67@ INDI
+1 NAME Robert /Borowes/
+1 SEX M
+1 FAMC @FBI10@
+1 FAMS @FBI28@
+0 @IBI68@ INDI
+1 NAME Jane /Nesbitt/
+1 SEX F
+1 FAMC @FBI30@
+1 FAMS @FBI32@
+0 @IBI69@ INDI
+1 NAME Robert /Burrowes/
+1 SEX M
+1 NOTE of Stradone House, co. Cavan, High Sheriff 1773
+1 FAMC @FBI32@
+1 FAMS @FBI52@
+0 @IBI70@ INDI
+1 NAME Thomas /Burrowes/
+1 SEX M
+1 NOTE of Dangan Castle, co. Meath, Benarth, Conway, Caernarvonshire, and 3 Hill Street,
+2 CONT Berkeley Square, London W, Col HEICS, MP for co. Longford
+1 BIRT
+2 DATE ABT 1742
+1 FAMC @FBI32@
+1 FAMS @FBI33@
+1 FAMS @FBI34@
+1 FAMS @FBI38@
+0 @IBI71@ INDI
+1 NAME Mary /Dawkes/
+1 SEX F
+1 BIRT
+2 DATE ABT 1756
+2 NOTE Calculated from age at death
+1 DEAT
+2 DATE 19 Apr 1778
+2 AGE 22
+1 FAMS @FBI33@
+0 @IBI72@ INDI
+1 NAME Arnold /Burrowes/
+1 SEX M
+1 BIRT
+2 DATE 2 Feb 1778
+1 DEAT
+2 DATE 27 Sep 1779
+1 FAMC @FBI33@
+0 @IBI73@ INDI
+1 NAME Sarah /Greenland/
+1 SEX F
+1 DEAT
+2 DATE 23 May 1789
+2 PLAC Tanjore India
+1 FAMC @FBI35@
+1 FAMS @FBI34@
+0 @IBI74@ INDI
+1 NAME Unknown /Greenland/
+2 TITL Capt.
+1 SEX M
+1 FAMS @FBI35@
+0 @IBI75@ INDI
+1 NAME Arnold Robinson /Burrowes/
+1 SEX M
+1 BIRT
+2 DATE 1788
+1 NOTE of Benarth, Caernarvonshire (sold 1834), and Strathmore, Brantford, Ontario, Canada,
+2 CONT Col Brantford LI, formerly Major Scots Fus Guards, served in Peninsular War 1808-14
+2 CONT as ADC to FM Viscount Beresford, emigrated to Canada 1834 and raised a regt in the
+2 CONT Mackenzie Rebellion 1837
+1 EDUC
+2 PLAC Oriel Coll. Oxford.
+1 DEAT
+2 DATE 28 Aug 1851
+1 FAMC @FBI34@
+1 FAMS @FBI36@
+0 @IBI76@ INDI
+1 NAME Harriet /Beresford/
+1 SEX F
+1 BIRT
+2 DATE ABT 1801
+2 NOTE Calculated from age at death
+1 DEAT
+2 DATE 31 Mar 1882
+2 AGE 81
+1 FAMC @FBI37@
+1 FAMS @FBI36@
+0 @IBI77@ INDI
+1 NAME Richard /Beresford/
+2 TITL Col.
+1 SEX M
+1 NOTE RHG of Fenny Bentley, Ashbourne, Derbys (See Burke's Peerage, Waterford, M)
+1 FAMS @FBI37@
+0 @IBI78@ INDI
+1 NAME Frances /Beresford/
+2 TITL Hon.
+1 SEX F
+1 NOTE 4th Daughter
+1 DEAT
+2 DATE 7 Oct 1864
+1 FAMC @FBI39@
+1 FAMS @FBI38@
+0 @IBI79@ INDI
+1 NAME Unknown /Beresford/
+2 TITL Most Rev. 1st Baron Decies, Archbishop of Tuam
+1 SEX M
+1 NOTE (See Burke's Peerage)
+1 FAMS @FBI39@
+0 @IBI80@ INDI
+1 NAME William Nesbitt /Burrowes/
+1 SEX M
+1 NOTE of Dangan Castle, co. Meath, (s. his father), Lt-Col. 17th Lancers
+1 FAMC @FBI38@
+1 FAMS @FBI40@
+0 @IBI81@ INDI
+1 NAME Susanna Henrietta Bermingham /Sewell/
+1 SEX F
+1 DEAT
+2 DATE 11 Sep 1886
+1 FAMC @FBI42@
+1 FAMS @FBI40@
+1 FAMS @FBI41@
+0 @IBI82@ INDI
+1 NAME Unknown /Unknown/
+2 TITL 14th Earl of Perth
+1 SEX M
+1 NOTE See Burke's Peerage
+1 DEAT
+2 DATE 28 Feb 1902
+1 FAMS @FBI41@
+0 @IBI83@ INDI
+1 NAME Thomas Bermingham Daly Henry /Sewell/
+1 SEX M
+1 NOTE Claimed the Barony of Athenry (see Burke's Dormant and Extinct Peerages) by his wife
+2 CONT the Hon. Harriet Beresford
+1 FAMS @FBI42@
+0 @IBI84@ INDI
+1 NAME Harriet /Beresford/
+2 TITL Hon.
+1 SEX F
+1 NOTE 3rd Daughter
+1 FAMC @FBI39@
+1 FAMS @FBI42@
+0 @IBI85@ INDI
+1 NAME Elizabeth Catherine /Burrowes/
+1 SEX F
+1 FAMC @FBI38@
+1 FAMS @FBI43@
+0 @IBI86@ INDI
+1 NAME Auguste /De Cetto/
+2 TITL Baron
+1 SEX M
+1 NOTE Bavarian Min to Court of St. James's
+1 FAMS @FBI43@
+0 @IBI87@ INDI
+1 NAME Unknown /de Cetto/
+1 SEX M
+1 FAMC @FBI43@
+0 @IBI88@ INDI
+1 NAME Arnold /Burrowes/
+2 TITL Rev
+1 SEX M
+1 NOTE Sr Mil Chaplain at Bombay (HEICS), d.unm.
+1 BIRT
+2 DATE 1749
+1 DEAT
+2 DATE 3 May 1819
+1 FAMC @FBI32@
+0 @IBI89@ INDI
+1 NAME Brinsley /Burrowes/
+1 SEX M
+1 EDUC
+2 PLAC Trin. Coll. Dublin
+2 NOTE BA
+1 DEAT
+2 DATE Mar 1775
+1 FAMC @FBI32@
+0 @IBI90@ INDI
+1 NAME Cosby /Burrowes/
+1 SEX M
+1 NOTE (HEICS) 1775-96, (Judge and Mag of Jessore), returned to England 1795
+1 BIRT
+2 DATE 1757
+1 DEAT
+2 DATE 3 Sep 1811
+1 FAMC @FBI32@
+1 FAMS @FBI44@
+0 @IBI91@ INDI
+1 NAME Charlotte /Unknown/
+1 SEX F
+1 FAMS @FBI44@
+0 @IBI92@ INDI
+1 NAME Robert /Burrowes/
+1 SEX M
+1 NOTE Lieut. Bengal Arty
+1 BIRT
+2 DATE 28 Aug 1797
+1 DEAT
+2 DATE 28 Dec 1824
+1 FAMC @FBI44@
+1 FAMS @FBI45@
+0 @IBI93@ INDI
+1 NAME Catherine /Anderson/
+1 SEX F
+1 FAMS @FBI45@
+0 @IBI94@ INDI
+1 NAME Cosby /Burrowes/
+1 SEX M
+1 NOTE Lieut. 45th Bengal NI
+1 BIRT
+2 DATE 8 Dec 1801
+1 DEAT
+2 DATE 9 Dec 1829
+1 FAMC @FBI44@
+1 FAMS @FBI46@
+0 @IBI95@ INDI
+1 NAME Sophia Mary /Wilkie/
+1 SEX F
+1 FAMC @FBI47@
+1 FAMS @FBI46@
+0 @IBI96@ INDI
+1 NAME John /Wilkie/
+2 TITL Capt.
+1 NOTE 45th Bengal NI
+1 SEX M
+1 FAMC @FBI48@
+1 FAMS @FBI47@
+0 @IBI97@ INDI
+1 NAME David /Wilkie/
+2 TITL Sir
+1 NOTE The painter.
+1 SEX M
+1 FAMC @FBI48@
+0 @IBI98@ INDI
+1 NAME Margery /Burrowes/
+1 SEX F
+1 NOTE d.unm.
+1 DEAT
+2 DATE BEF 1810
+1 FAMC @FBI32@
+0 @IBI99@ INDI
+1 NAME Anne /Burrowes/
+1 SEX F
+1 FAMC @FBI32@
+1 FAMS @FBI49@
+0 @IBI100@ INDI
+1 NAME Martha /Burrowes/
+1 SEX F
+1 NOTE d.unm
+1 FAMC @FBI32@
+0 @IBI101@ INDI
+1 NAME Jane /Burrowes/
+1 SEX F
+1 FAMC @FBI32@
+1 FAMS @FBI50@
+0 @IBI102@ INDI
+1 NAME William /Wade/
+2 TITL Rev.
+1 SEX M
+1 NOTE Rector of Dromore, co. Tyrone
+1 FAMS @FBI49@
+0 @IBI103@ INDI
+1 NAME James /Purefoy/
+1 SEX M
+1 NOTE of Woodfield, co. Galway
+1 FAMS @FBI50@
+0 @IBI104@ INDI
+1 NAME Ven Joseph /Story/
+2 TITL Archdeacon of Kilmore
+1 SEX M
+1 NOTE see 1912 Edn, STORY of Bingfield
+1 FAMS @FBI51@
+0 @IBI105@ INDI
+1 NAME Sophia /Story/
+1 SEX F
+1 FAMC @FBI51@
+1 FAMS @FBI52@
+0 @IBI106@ INDI
+1 NAME Thomas /Burrowes/
+2 TITL Major
+1 SEX M
+1 NOTE of Stradone House, co. Cavan, High Sheriff 1803
+1 BIRT
+2 DATE 1772
+1 EDUC
+2 PLAC Trin. Coll. Dublin
+1 DEAT
+2 DATE 3 Apr 1836
+1 FAMC @FBI52@
+1 FAMS @FBI53@
+0 @IBI107@ INDI
+1 NAME Susan /Seward/
+1 SEX F
+1 DEAT
+2 DATE 13 May 1867
+1 FAMC @FBI54@
+1 FAMS @FBI53@
+0 @IBI108@ INDI
+1 NAME Henry /Seward/
+2 TITL Rev
+1 SEX M
+1 NOTE of Badsey, Worcs.
+1 FAMS @FBI54@
+0 @IBI109@ INDI
+1 NAME Jane /Burrowes/
+1 SEX F
+1 FAMC @FBI52@
+1 FAMS @FBI55@
+0 @IBI110@ INDI
+1 NAME Sophia /Burrowes/
+1 SEX F
+1 FAMC @FBI52@
+1 FAMS @FBI56@
+0 @IBI111@ INDI
+1 NAME Anne /Burrowes/
+1 SEX F
+1 DEAT
+2 DATE 27 Aug 1844
+1 FAMC @FBI52@
+1 FAMS @FBI57@
+0 @IBI112@ INDI
+1 NAME Frances /Burrowes/
+1 SEX F
+1 NOTE d.unm
+1 FAMC @FBI52@
+0 @IBI113@ INDI
+1 NAME Samuel /Moore/
+1 SEX M
+1 NOTE of Moyne Hall, co. Cavan
+1 FAMS @FBI55@
+0 @IBI114@ INDI
+1 NAME Brabazon /Noble/
+1 SEX M
+1 FAMS @FBI56@
+0 @IBI115@ INDI
+1 NAME George /Gore/
+2 TITL Very Rev. Hon.
+1 SEX M
+1 NOTE 3rd Son, KP (see Burke's Peerage)
+1 DEAT
+2 DATE 16 Sep 1819
+1 FAMC @FBI58@
+1 FAMS @FBI57@
+0 @IBI116@ INDI
+1 NAME Unknown /Gore/
+2 TITL Earl of Arran
+1 SEX M
+1 NOTE  (see Burke's Peerage)
+1 FAMS @FBI58@
+0 @IBI117@ INDI
+1 NAME Jane /Parker/
+1 SEX F
+1 FAMS @FBI19@
+0 @IBI118@ INDI
+1 NAME Robert /Burrowes/
+1 SEX M
+1 BIRT
+2 DATE 1810
+2 SOUR Obiturary in Times
+1 DEAT
+2 DATE 1881
+2 SOUR Obiturary Times 5 Dec 1881, Pg 9
+3 CONT Mr Robert Burrowes, of Stradone, county Cavan,
+3 CONT Whose death is recorded to-day as having happend a few
+3 CONT days since at his seat in Ireland, in the 72d year of his
+3 CONT age, was the eldest son of the late Major Thomas Burrowes,
+3 CONT of Stradone, by his marriag with Susan, daughter of the
+3 CONT Rev. Henry Seward, of Badsey, Warwickshire. He war born in
+3 CONT the year 1810, and was educated at Harrow, and subsequently
+3 CONT at Magdalen College Cambridge. He was a magstrate and
+3 CONT Deputy-Lieutenant for Cavan, of which he served as High Sheriff
+3 CONT in 1858. He sat in the Conservative interest for Cavan county
+3 CONT from 1855 to 1857, when he retired. He Married, in 1838, Miss
+3 CONT Ann Frances Craven, only daughter of the late Mr. John Craven,
+3 CONT of Barnane, county Tipperary, by whom he has left a family.
+1 FAMC @FBI53@
+1 FAMS @FBI59@
+0 @IBI119@ INDI
+1 NAME Anne Frances /Craven/
+1 SEX F
+1 FAMC @FBI60@
+1 FAMS @FBI59@
+1 SOUR Obituary of Husband
+0 @IBI120@ INDI
+1 NAME John /Craven/
+1 SEX M
+1 FAMS @FBI60@
+1 SOUR Obituary of Son inlaw Robert Burrowes
+0 @FBI1@ FAM
+1 HUSB @IBI1@
+1 WIFE @IBI2@
+1 CHIL @IBI3@
+1 CHIL @IBI4@
+1 CHIL @IBI5@
+1 CHIL @IBI6@
+1 CHIL @IBI7@
+1 CHIL @IBI8@
+1 CHIL @IBI9@
+1 CHIL @IBI10@
+1 CHIL @IBI11@
+0 @FBI2@ FAM
+1 HUSB @IBI12@
+1 WIFE @IBI6@
+0 @FBI3@ FAM
+1 HUSB @IBI13@
+1 WIFE @IBI7@
+0 @FBI4@ FAM
+1 HUSB @IBI14@
+1 WIFE @IBI8@
+1 MARR
+2 DATE 1644
+0 @FBI5@ FAM
+1 HUSB @IBI3@
+1 WIFE @IBI15@
+1 CHIL @IBI17@
+1 CHIL @IBI18@
+1 CHIL @IBI19@
+1 CHIL @IBI20@
+1 CHIL @IBI21@
+1 CHIL @IBI22@
+0 @FBI6@ FAM
+1 HUSB @IBI16@
+1 CHIL @IBI15@
+0 @FBI7@ FAM
+1 HUSB @IBI23@
+1 WIFE @IBI22@
+0 @FBI8@ FAM
+1 HUSB @IBI20@
+1 WIFE @IBI24@
+1 CHIL @IBI25@
+1 CHIL @IBI27@
+1 MARR
+2 DATE ABT 1695
+0 @FBI9@ FAM
+1 HUSB @IBI25@
+1 WIFE @IBI26@
+0 @FBI10@ FAM
+1 HUSB @IBI54@
+1 WIFE @IBI26@
+1 CHIL @IBI61@
+1 CHIL @IBI62@
+1 CHIL @IBI67@
+0 @FBI11@ FAM
+1 HUSB @IBI27@
+1 WIFE @IBI28@
+1 CHIL @IBI30@
+1 CHIL @IBI33@
+1 CHIL @IBI34@
+0 @FBI12@ FAM
+1 HUSB @IBI29@
+1 CHIL @IBI28@
+0 @FBI13@ FAM
+1 HUSB @IBI30@
+1 WIFE @IBI31@
+1 MARR
+2 DATE 20 Jan 1778
+0 @FBI14@ FAM
+1 HUSB @IBI32@
+1 CHIL @IBI31@
+0 @FBI15@ FAM
+1 HUSB @IBI34@
+1 WIFE @IBI35@
+1 CHIL @IBI36@
+1 CHIL @IBI37@
+1 CHIL @IBI40@
+1 CHIL @IBI42@
+1 CHIL @IBI43@
+1 CHIL @IBI44@
+1 CHIL @IBI45@
+1 CHIL @IBI46@
+1 CHIL @IBI47@
+1 CHIL @IBI48@
+1 MARR
+2 DATE 1770
+0 @FBI16@ FAM
+1 HUSB @IBI37@
+1 WIFE @IBI38@
+1 MARR
+2 DATE 12 Feb 1805
+1 NOTE Issue to be entered
+0 @FBI17@ FAM
+1 HUSB @IBI39@
+1 CHIL @IBI38@
+0 @FBI18@ FAM
+1 HUSB @IBI40@
+1 WIFE @IBI41@
+1 MARR
+2 DATE ABT 1814
+0 @FBI19@ FAM
+1 HUSB @IBI42@
+1 WIFE @IBI117@
+0 @FBI20@ FAM
+1 HUSB @IBI49@
+1 WIFE @IBI46@
+0 @FBI21@ FAM
+1 HUSB @IBI50@
+1 WIFE @IBI47@
+0 @FBI22@ FAM
+1 HUSB @IBI51@
+1 WIFE @IBI48@
+0 @FBI23@ FAM
+1 HUSB @IBI19@
+1 WIFE @IBI52@
+1 CHIL @IBI53@
+1 CHIL @IBI54@
+1 CHIL @IBI55@
+0 @FBI24@ FAM
+1 HUSB @IBI56@
+1 WIFE @IBI55@
+0 @FBI25@ FAM
+1 HUSB @IBI53@
+1 WIFE @IBI57@
+1 CHIL @IBI60@
+1 MARR
+2 DATE Jun 1723
+0 @FBI26@ FAM
+1 HUSB @IBI58@
+1 CHIL @IBI57@
+0 @FBI27@ FAM
+1 HUSB @IBI59@
+1 WIFE @IBI57@
+0 @FBI28@ FAM
+1 HUSB @IBI67@
+1 WIFE @IBI60@
+1 MARR
+2 DATE 1745
+0 @FBI29@ FAM
+1 HUSB @IBI62@
+1 WIFE @IBI63@
+1 CHIL @IBI66@
+1 MARR
+2 DATE ABT 8 Dec 1750
+0 @FBI30@ FAM
+1 HUSB @IBI64@
+1 CHIL @IBI63@
+1 CHIL @IBI68@
+0 @FBI31@ FAM
+1 HUSB @IBI65@
+1 WIFE @IBI63@
+0 @FBI32@ FAM
+1 HUSB @IBI61@
+1 WIFE @IBI68@
+1 CHIL @IBI69@
+1 CHIL @IBI70@
+1 CHIL @IBI88@
+1 CHIL @IBI89@
+1 CHIL @IBI90@
+1 CHIL @IBI98@
+1 CHIL @IBI99@
+1 CHIL @IBI100@
+1 CHIL @IBI101@
+1 MARR
+2 DATE 1740
+0 @FBI33@ FAM
+1 HUSB @IBI70@
+1 WIFE @IBI71@
+1 CHIL @IBI72@
+1 MARR
+2 DATE 2 Apr 1777
+0 @FBI34@ FAM
+1 HUSB @IBI70@
+1 WIFE @IBI73@
+1 CHIL @IBI75@
+1 MARR
+2 DATE 1787
+0 @FBI35@ FAM
+1 HUSB @IBI74@
+1 CHIL @IBI73@
+0 @FBI36@ FAM
+1 HUSB @IBI75@
+1 WIFE @IBI76@
+1 MARR
+2 DATE 4 Nov 1816
+0 @FBI37@ FAM
+1 HUSB @IBI77@
+1 CHIL @IBI76@
+2 NOTE Only child
+0 @FBI38@ FAM
+1 HUSB @IBI70@
+1 WIFE @IBI78@
+1 CHIL @IBI80@
+1 CHIL @IBI85@
+1 MARR
+2 DATE 1797
+0 @FBI39@ FAM
+1 HUSB @IBI79@
+1 CHIL @IBI84@
+1 CHIL @IBI78@
+2 NOTE Only child
+0 @FBI40@ FAM
+1 HUSB @IBI80@
+1 WIFE @IBI81@
+1 NOTE Cousins
+0 @FBI41@ FAM
+1 HUSB @IBI82@
+1 WIFE @IBI81@
+1 MARR
+2 DATE 1847
+0 @FBI42@ FAM
+1 HUSB @IBI83@
+1 WIFE @IBI84@
+1 CHIL @IBI81@
+0 @FBI43@ FAM
+1 HUSB @IBI86@
+1 WIFE @IBI85@
+1 CHIL @IBI87@
+0 @FBI44@ FAM
+1 HUSB @IBI90@
+1 WIFE @IBI91@
+1 CHIL @IBI92@
+1 CHIL @IBI94@
+0 @FBI45@ FAM
+1 HUSB @IBI92@
+1 WIFE @IBI93@
+1 MARR
+2 DATE 9 Sep 1819
+0 @FBI46@ FAM
+1 HUSB @IBI94@
+1 WIFE @IBI95@
+1 MARR
+2 DATE 20 Nov 1825
+0 @FBI47@ FAM
+1 HUSB @IBI96@
+1 CHIL @IBI95@
+0 @FBI48@ FAM
+1 CHIL @IBI96@
+1 CHIL @IBI97@
+0 @FBI49@ FAM
+1 HUSB @IBI102@
+1 WIFE @IBI99@
+0 @FBI50@ FAM
+1 HUSB @IBI103@
+1 WIFE @IBI101@
+0 @FBI51@ FAM
+1 HUSB @IBI104@
+1 CHIL @IBI105@
+0 @FBI52@ FAM
+1 HUSB @IBI69@
+1 WIFE @IBI105@
+1 CHIL @IBI106@
+1 CHIL @IBI109@
+1 CHIL @IBI110@
+1 CHIL @IBI111@
+1 CHIL @IBI112@
+0 @FBI53@ FAM
+1 HUSB @IBI106@
+1 WIFE @IBI107@
+1 MARR
+2 DATE 1805
+2 NOTE Could be Nov 1 1807, based on Times Thusday Nov 5 1807
+3 CONT At Litchfield, on Sunday Nov 1, Major Burrowes, of Stradone,
+3 CONT County Cavan, Ireland, to Miss Seward, of Litchfield.
+1 CHIL @IBI118@
+0 @FBI54@ FAM
+1 HUSB @IBI108@
+1 CHIL @IBI107@
+0 @FBI55@ FAM
+1 HUSB @IBI113@
+1 WIFE @IBI109@
+0 @FBI56@ FAM
+1 HUSB @IBI114@
+1 WIFE @IBI110@
+0 @FBI57@ FAM
+1 HUSB @IBI115@
+1 WIFE @IBI111@
+0 @FBI58@ FAM
+1 HUSB @IBI116@
+1 CHIL @IBI115@
+0 @FBI59@ FAM
+1 HUSB @IBI118@
+1 WIFE @IBI119@
+1 MARR
+2 DATE 1838
+0 @FBI60@ FAM
+1 HUSB @IBI120@
+1 CHIL @IBI119@
+0 TRLR

@@ -12026,15 +12026,18 @@
 0 @IW1642@ INDI
 1 SOUR @SIW1@
 1 FAMS @FW730@
+1 FAMC @F729@
 1 NAME Samuel /ADAMS/
 1 SEX M
 1 BIRT
 2 DATE ABT 1860
-2 PLAC Cty. Down IRL
+2 PLAC Lissara, County Down IRL
 1 NOTE Assisted emmigration to New Zealand on Stadt Haarlem Arrived Wellington NZ Apr 1879
-2 CONT Adams Samuel Aged 23 Occupation Gardener, Listed with wife Eliza M aged 22. 
+2 CONT Adams Samuel Aged 23 (19) Occupation Gardener, Listed with wife Eliza M aged 22 (20). 
 2 CONT Age at death indicates he was born in 1859/60 though, so was 19 when emmigrating. 
 2 CONT Death cert says 19 when married (Eliza's says she was 22), so again born ABT 1860. 
+1 NOTE Likely candidate is 22 Dec 1859, to James and Eliza Adams, Lissara, County Down.
+2 CONT Ireland Births and Baptisms, 1620-1881 LDS Book 941.65 L1 V26L, Batch C70038-1.
 1 OCCU Nurseryman
 1 DEAT
 2 DATE 24 Sep 1948
@@ -12047,7 +12050,7 @@
 3 CONT 68 Years in NZ, 
 1 BURI
 2 DATE 25 Sep 1948
-2 PLAC Wanganui Old Public Cemetery RN 31 from path 47
+2 PLAC Heads Road, Old Public Cemetery RN 31 from path 47, Wanganui, NZL
 2 SOUR Burial records Old Public Cemetery Wanganui.
 0 @IW1643@ INDI
 1 NAME Margaret Elizabeth /ARMSTRONG/
@@ -17204,21 +17207,23 @@
 1 FAMS @FW730@
 1 NAME Eliza Maria /MAGILTON/
 1 BIRT
-2 DATE ABT 1857
+2 DATE ABT 1860
 2 PLAC Cty. Down IRL
 1 NOTE Assisted emmigration to New Zealand on Stadt Haarlem Arrived Wellington NZ Apr 1879
-2 CONT Adams Eliza M Aged 22, Listed with husband Samuel.
+2 CONT Adams Eliza M Aged 22 (20), Listed with husband Samuel 21 (19).
 2 CONT Age at death also indicates she was born in 1857/58
 1 DEAT
 2 PLAC Porirua, NZL
 2 DATE 2 Oct 1905
-2 NOTE Lists parents as Hugh Magelton, Flower Miller, and Margaret Ann (nee Week or Wick)
-2 SOUR Death Cert from NZ BDM
-2 AGE 47
+2 NOTE Lists parents as Hugh Magelton, Flour Miller, and Margaret Ann (nee Dick)
+2 SOUR Death Cert from NZ BDM (NZ BDM 1905/7045 Age 47, and 1905/8501 Age 45)
+3 CONT Both death certs are for Eliza, though they record her as Elizabeth and have different ages.
+2 AGE 45
 1 BURI
 2 DATE 5 Oct 1905
 2 PLAC Wanganui Old Public Cemetery RN 31 from path 46
-2 SOUR Death Cert, and Burial records Old Public Cemetery Wanganui. 
+2 SOUR Death Cert, and Burial records Old Public Cemetery Wanganui.
+1 FAMC @F727@
 0 @IWS669@ INDI
 1 SOUR @SIW1@
 1 SEX F
@@ -25085,6 +25090,14 @@
 1 BIRT
 2 DATE 18 Jun 1964
 2 NOTE Birth Index microfiche ref, 3460
+1 DEAT
+2 DATE 2 Nov 2020
+2 PLAC Palmerston North Hospital, NZL
+1 CREM
+2 DATE Nov 2020
+1 BURI
+2 DATE 27 Nov 2020
+2 PLAC Feilding, NZL
 1 SEX F
 1 FAMC @F117@
 1 FAMS @F249@
@@ -36406,6 +36419,63 @@
 2 DATE 1900
 2 SOUR NZ BDM 1900/2948
 1 FAMC @F726@
+0 @I1731@ INDI
+1 NAME Hugh /MAGILTON/
+1 SEX M
+1 BIRT
+2 DATE ABT 1827
+2 SOUR Age when married
+1 OCCU Flour Miller
+1 FAMC @F728@
+1 FAMS @F727@
+0 @I1732@ INDI
+1 NAME Margaret Ann /Dick/
+1 SEX F
+1 FAMS @F727@
+0 @I1733@ INDI
+1 NAME Hugh /MAGILTON/
+1 SEX M
+1 OCCU Farmer
+1 FAMS @F728@
+0 @I1734@ INDI
+1 NAME Adelaide Matilda
+1 SEX F
+1 BIRT
+2 DATE 20 Dec 1867
+2 PLAC Killyleagh, Ire
+2 SOUR Parish records: husband of Margaret Ann Dick; father of Adelaide Matilda b. 20 Dec 1867
+1 FAMC @F727@
+0 @I1735@ INDI
+1 NAME James /Adams/
+1 SEX M
+1 FAMS @F729@
+0 @I1736@ INDI
+1 NAME Eliza //
+1 SEX F
+1 FAMS @F729@
+0 @I1737@ INDI
+1 NAME Hebden Leigh /Atkinson/
+1 SEX M
+1 BIRT
+2 NOTE Probably 1905, Melbourne Vic Aus, to Harry Leigh Atkinson. Mother Maiden name Isabel Morgan. Ref. 19862
+1 FAMS @F730@
+1 SOUR @S38@
+0 @I1738@ INDI
+1 NAME Margot /Atkinson/
+1 SEX F
+1 FAMC @F730@
+1 SOUR @S38@
+0 @I1739@ INDI
+1 NAME Jenifer /Atkinson/
+1 SEX F
+1 FAMC @F730@
+1 SOUR @S38@
+0 @I1740@ INDI
+1 NAME Anthony Leigh /Atkinson/
+1 SEX M
+1 DEAT
+1 FAMC @F730@
+1 SOUR @S38@
 0 @F1@ FAM
 1 HUSB @I1@
 1 WIFE @I2@
@@ -40296,6 +40366,33 @@
 1 CHIL @I1728@
 1 CHIL @I1729@
 1 CHIL @I1730@
+0 @F727@ FAM
+1 HUSB @I1731@
+1 WIFE @I1732@
+1 MARR
+2 DATE 23 Jun 1848
+2 PLAC Strangford Presbyterian Church, Ire
+2 SOUR Ireland Civil Registration Marr Index, 1845-1958, Vol 4, Pg 741, FHL Film Number 101242
+2 NOTE of Ballyculter; a miller; son of Hugh Magilton (a farmer; aged 21, married Margaret Ann Dick 23 Jun 1848 
+3 CONT at Strangford Presbyterian Church by Rev. Thomas Irvine, witnesses were James Seed & Robert Dick
+2 SOUR Ballyculter  PR; LR 2005 P66
+1 CHIL @IWS668@
+1 CHIL @I1734@
+0 @F728@ FAM
+1 HUSB @I1733@
+1 CHIL @I1731@
+0 @F729@ FAM
+1 HUSB @I1735@
+1 WIFE @I1736@
+1 CHIL @IW1642@
+0 @F730@ FAM
+1 HUSB @I1737@
+1 WIFE @SK_I2663@
+1 MARR
+1 SOUR @S38@
+1 CHIL @I1738@
+1 CHIL @I1739@
+1 CHIL @I1740@
 0 @AG_S1@ SUBM
 1 NAME Anne /Galpin/
 1 NOTE Email May 2001 reference to Prouse Family Tree book written in 1998
@@ -104094,6 +104191,8 @@
 0 @S37@ SOUR
 1 TITL <a href="/html?record=I969">Robert Andrew Pocknell</a>
 1 NOTE email 2 Jan 2003
+0 @S38@ SOUR
+1 NOTE email 4 Dec 2020 Virginia Butler (née Sipos), re: her Great grandmother Martha Maria Lane (nee Shearer)
 0 @GAD_HEAD@ SOUR
 1 NOTE Gadfield research by Craig Pickup
 1 CHAN
