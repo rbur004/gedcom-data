@@ -27836,7 +27836,13 @@
 0 @I572@ INDI
 1 NAME Guy Prescott /Dawes/
 1 SEX M
-1 NOTE Moved to Seychelles
+1 BIRT
+2 DATE ABT 1907
+2 SOUR AGE 41 at Death
+1 DEAT
+2 DATE 15 Jul 1948
+2 PLAC Jamaica
+2 SOUR Newspaper Clipping, Andrews Newspaper Index Cards 1790-1976
 1 FAMS @F363@
 1 FAMC @F732@
 0 @I573@ INDI
@@ -36523,6 +36529,16 @@
 1 NAME Elizabeth Mary /Armstrong/
 1 SEX F
 1 FAMS @F733@
+0 @I1748@ INDI
+1 NAME Michael /Dawes/
+1 SEX M
+1 FAMC @F363@
+1 SOUR England, Andrews Newspaper Index Cards, 1790-1976. Death notice for father Guy
+0 @I1749@ INDI
+1 NAME Joan /Dawes/
+1 SEX F
+1 FAMC @F363@
+1 SOUR England, Andrews Newspaper Index Cards, 1790-1976. Death notice for father Guy
 0 @F1@ FAM
 1 HUSB @I1@
 1 WIFE @I2@
@@ -37994,6 +38010,8 @@
 3 CONT Colonial Service (retired), and Mrs Burrowes, of
 3 CONT Antigua, will take place on December 7 at 
 3 CONT St.John's Cathedral, Antigua.
+1 CHIL @I1748@
+1 CHIL @I1749@
 0 @F364@ FAM
 1 HUSB @I575@
 1 WIFE @I573@
