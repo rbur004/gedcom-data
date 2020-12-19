@@ -28507,6 +28507,10 @@
 0 @I691@ INDI
 1 NAME Barbara /Burrowes/
 1 SEX F
+1 BIRT
+2 DATE 31 Jan 1938
+2 PLAC St. John's Antigua
+2 SOUR Notice Times 11 Feb 1938
 1 FAMC @F393@
 0 @I692@ INDI
 1 NAME Sean /de Freitas/
