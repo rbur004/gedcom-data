@@ -27843,8 +27843,14 @@
 2 DATE 15 Jul 1948
 2 PLAC Jamaica
 2 SOUR Newspaper Clipping, Andrews Newspaper Index Cards 1790-1976
-1 FAMS @F363@
+1 NOTE Incoming passenger Lists, 1878-1960. 29 Jan 1948, S.S.Tatela
+2 CONT Arrival Avonmounth, UK. Boarded Kingston Jamaica.
+2 CONT Guy.P.Dawes 41, Lorna Dawes 34, Michael B Dawes 11, Joan L. Dawes 9.
+2 CONT Guy's occupation: Cononial Police.
+2 CONT Proposed Address in the UK: The Cottage, Portland Ave, Exmouth.
+2 CONT (Brother's widow lived in Exmouth)
 1 FAMC @F732@
+1 FAMS @F363@
 0 @I573@ INDI
 1 NAME Millie /Burrowes/
 1 SEX F
@@ -28776,6 +28782,7 @@
 2 ADDR
 2 PLAC 28 Hitchens Str, Allman Town, Jamacia
 1 OCCU Storekeeper
+1 NOTE Possibly: From the Kingston 1878 Jamaica Directory; Burrowes W. R. P., with Pinnock, Surridge & Co., h 31 Prince Albert st., Allman Town
 1 FAMS @F412@
 1 SOUR Carlos /Burrowes/ @I725@
 1 SOUR Listed as father on Birth Cert. of unamed son in 1885
@@ -36530,13 +36537,19 @@
 1 SEX F
 1 FAMS @F733@
 0 @I1748@ INDI
-1 NAME Michael /Dawes/
+1 NAME Michael B /Dawes/
 1 SEX M
+1 BIRT
+2 DATE ABT 1937
+2 SOUR Age 11 on passenger list 29 Jan 1948
 1 FAMC @F363@
 1 SOUR England, Andrews Newspaper Index Cards, 1790-1976. Death notice for father Guy
 0 @I1749@ INDI
-1 NAME Joan /Dawes/
+1 NAME Joan L /Dawes/
 1 SEX F
+1 BIRT
+2 DATE ABT 1939
+2 SOUR Age 9 on passenger list 29 Jan 1948
 1 FAMC @F363@
 1 SOUR England, Andrews Newspaper Index Cards, 1790-1976. Death notice for father Guy
 0 @F1@ FAM
