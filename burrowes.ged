@@ -26038,35 +26038,6 @@
 1 NAME Hugh /SPROSTON/
 1 SEX M
 1 FAMS @F266@
-0 @I353@ INDI
-1 NAME Hugh /BURROWES/
-1 TITL His Honour
-1 SEX M
-1 BIRT
-2 DATE 16 Dec 1909
-1 NOTE Educated Antigua Grammar School.
-1 OCCU Barrister-at-Law, Lincoln's Inn, 
-2 DATE 1935
-1 OCCU District Officer, Dominica, BWI 
-2 DATE 1937
-1 OCCU Warden of Nevis, BWI 
-2 DATE 1939
-1 OCCU Commissioner of Montserrat BWI, 
-2 DATE 1946
-1 OCCU Administrator of St Kitts-Nevis and Angulia, BWI 
-2 DATE BET 1946 AND 1956
-1 RESI
-2 ADDR c/o Colonial Office, 
-3 ADR1 The Church House, 
-3 ADR2 Great Smith Street, S.W.1.
-2 DATE 1960
-1 SOUR Who's Who 1960.
-1 FAMS @F267@
-0 @I354@ INDI
-1 NAME Margaret Ethel Lakeman /COLLIUS/
-1 SEX F
-1 SOUR Who's Who 1960.
-1 FAMS @F267@
 0 @I355@ INDI
 1 NAME Sarah Maria /POLLARD/
 1 SEX F
@@ -27863,10 +27834,11 @@
 1 FAMC @F265@
 1 FAMS @F363@
 0 @I572@ INDI
-1 NAME Unknown /Dawes/
+1 NAME Guy Prescott /Dawes/
 1 SEX M
 1 NOTE Moved to Seychelles
 1 FAMS @F363@
+1 FAMC @F732@
 0 @I573@ INDI
 1 NAME Millie /Burrowes/
 1 SEX F
@@ -28359,9 +28331,28 @@
 1 FAMC @F391@
 0 @I664@ INDI
 1 NAME Hugh /Burrowes/
+2 NPFX His Honour
+1 SEX M
 1 SEX M
 1 BIRT
 2 DATE 16 Dec 1909
+1 NOTE Educated Antigua Grammar School.
+1 OCCU Barrister-at-Law, Lincoln's Inn, 
+2 DATE 1935
+1 OCCU District Officer, Dominica, BWI 
+2 DATE 1937
+1 OCCU Warden of Nevis, BWI 
+2 DATE 1939
+1 OCCU Commissioner of Montserrat BWI, 
+2 DATE 1946
+1 OCCU Administrator of St Kitts-Nevis and Angulia, BWI 
+2 DATE BET 1946 AND 1956
+1 RESI
+2 ADDR c/o Colonial Office, 
+3 ADR1 The Church House, 
+3 ADR2 Great Smith Street, S.W.1.
+2 DATE 1960
+2 SOUR Who's Who 1960.
 1 FAMC @F265@
 1 FAMS @F393@
 0 @I665@ INDI
@@ -28449,6 +28440,7 @@
 1 NAME Margaret Ethel Lakemann /Collins/
 1 SEX F
 1 FAMS @F393@
+1 FAMC @F731@
 0 @I678@ INDI
 1 NAME Cicely /Bligh/
 1 SEX F
@@ -36476,6 +36468,57 @@
 1 DEAT
 1 FAMC @F730@
 1 SOUR @S38@
+0 @I1741@ INDI
+1 NAME Thomas Lakeman /Collins/
+1 SEX M
+1 DEAT
+2 DATE BEF 8 Apr 1927
+1 NOTE Estate sale: Times 8 Apr 1927
+1 NOTE Possible Parents: Death notice Times 6 Apr 1939 of Mary Elizabeth Collins, aged 91, dau. of Thomas Lakeman, Widow of Francis A Collins.
+1 FAMS @F731@
+0 @I1742@ INDI
+1 NAME /Collins/
+1 SEX F
+1 RESI
+2 ADDR 22 Inverness Terrace. W.2
+2 SOUR Times 24 Aug 1935, Daughter's Wedding annoucement.
+1 FAMS @F731@
+0 @I1743@ INDI
+1 NAME Nicholas Bernard Edwin /Dawes/
+2 NPFX Captain
+1 NOTE Royal Engineers
+1 BIRT
+2 DATE 23 Jan 1878
+2 SOUR Genealogy.com
+1 DEAT
+2 DATE 30 Jul 1909
+2 SOUR Genealogy.com
+1 NOTE referred to as Bernard, in both Son's engagment notice's in the Times
+1 SEX M
+1 FAMC @F733@
+1 FAMS @F732@
+0 @I1744@ INDI
+1 NAME Edwin Geoffrey /Dawes/
+2 NPFX Lieut.-Colonel
+1 NOTE Royal Engineers
+1 NOTE Engagement to Sheelah Darley Harvey announced Times 23 Apr 1938
+1 SEX M
+1 DEAT
+2 DATE 15 Nov 1946
+2 PLAC Hospital, Exmouth, Eng
+1 FAMC @F732@
+0 @I1745@ INDI
+1 NAME Lilian Natalie /Jessie/
+1 SEX F
+1 FAMS @F732@
+0 @I1746@ INDI
+1 NAME Edwin /Dawes/
+1 SEX M
+1 FAMS @F733@
+0 @I1747@ INDI
+1 NAME Elizabeth Mary /Armstrong/
+1 SEX F
+1 FAMS @F733@
 0 @F1@ FAM
 1 HUSB @I1@
 1 WIFE @I2@
@@ -37393,11 +37436,6 @@
 1 HUSB @I352@
 1 CHIL @I351@
 1 SOUR BIOGRAPHIES
-0 @F267@ FAM
-1 HUSB @I353@
-1 WIFE @I354@
-1 NOTE 1 Daughter
-1 SOUR Who's Who 1960.
 0 @F268@ FAM
 1 HUSB @I356@
 1 WIFE @I355@
@@ -37936,6 +37974,22 @@
 0 @F363@ FAM
 1 HUSB @I572@
 1 WIFE @I571@
+1 MARR
+2 DATE 7 Dec 1935
+2 PLAC St.John's Cathedral, Antigua
+2 SOUR Engagement, Times 9 Sep 1935.
+1 ENGA
+2 DATE ABT 9 Sep 1935
+2 SOUR Times 9 Sep 1935
+2 NOTE Mr G.P.Dawes and Miss Burrowes
+3 CONT The marriage arranged between Mr. Guy
+3 CONT Prescott Dawes, Leeward Islands Police, younger
+3 CONT son of the late Captain Bernard Dawes, Royal
+3 CONT Engineers, and Mrs Dawes, of Exmouth, and Lorna
+3 CONT elder daughter of Mr. Thomas Burrowes C.B.E., 
+3 CONT Colonial Service (retired), and Mrs Burrowes, of
+3 CONT Antigua, will take place on December 7 at 
+3 CONT St.John's Cathedral, Antigua.
 0 @F364@ FAM
 1 HUSB @I575@
 1 WIFE @I573@
@@ -38114,7 +38168,9 @@
 1 WIFE @I677@
 1 CHIL @I691@
 1 MARR
-2 DATE 1935
+2 DATE 22 Aug 1935
+2 PLAC Christ Church, Lancaster Gate. 
+2 SOUR Times 24 Aug 1935
 0 @F394@ FAM
 1 WIFE @I680@
 1 CHIL @I682@
@@ -40393,6 +40449,19 @@
 1 CHIL @I1738@
 1 CHIL @I1739@
 1 CHIL @I1740@
+0 @F731@ FAM
+1 HUSB @I1741@
+1 WIFE @I1742@
+1 MARR Y
+1 CHIL @I677@
+0 @F732@ FAM
+1 HUSB @I1743@
+1 WIFE @I1745@
+1 CHIL @I1744@
+1 CHIL @I572@
+0 @F733@ FAM
+1 HUSB @I1746@
+1 WIFE @I1747@
 0 @AG_S1@ SUBM
 1 NAME Anne /Galpin/
 1 NOTE Email May 2001 reference to Prouse Family Tree book written in 1998
