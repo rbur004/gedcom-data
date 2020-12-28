@@ -322,9 +322,10 @@
 2 DATE 29 Oct 1849
 2 PLAC Smoogrow
 1 DEAT
-2 DATE 1938
-2 NOTE 29th but Month unknown
+2 DATE 29 Jul 1937
+2 AGE 87
 2 PLAC Invercargill, NZL
+2 SOUR NZ BDM 1937/29591
 0 @IW23@ INDI
 1 SOUR @SIW1@
 1 FAMC @FW462@
@@ -27846,7 +27847,7 @@
 1 NOTE Incoming passenger Lists, 1878-1960. 29 Jan 1948, S.S.Tatela
 2 CONT Arrival Avonmounth, UK. Boarded Kingston Jamaica.
 2 CONT Guy.P.Dawes 41, Lorna Dawes 34, Michael B Dawes 11, Joan L. Dawes 9.
-2 CONT Guy's occupation: Cononial Police.
+2 CONT Guy's occupation: Colonial Police.
 2 CONT Proposed Address in the UK: The Cottage, Portland Ave, Exmouth.
 2 CONT (Brother's widow lived in Exmouth)
 1 FAMC @F732@
