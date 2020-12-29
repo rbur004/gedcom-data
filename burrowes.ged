@@ -25011,8 +25011,20 @@
 1 NAME Georgine /BURROWES/
 1 SEX F
 1 BIRT
-2 DATE 1930
+2 DATE 26 Feb 1930
 2 NOTE Birth Index microfiche ref, 2564 (This had Georgina)
+1 DEAT
+2 DATE 7 June 2019
+2 SOUR NZ BDM 2019/15629
+2 NOTE CASTEL, Georgine: (Dominion Post on June 10, 2019)
+3 CONT 26.2.1930 - 7.6.2019
+3 CONT In her 90th year. The matriarch of our family was ready to join her
+3 CONT cherished husband, Maurice. Loved mother of Jennifer and Gaylene,
+3 CONT mother-in-law of Stephen, adored nannie of Emma-Kate, Lucy, Adam,
+3 CONT Joshua, Madison, Ella, Ruby, Harry and Emma.
+3 CONT A classy lady to the end.
+3 CONT A memorial service will be held at midday on Wednesday 12th June at
+3 CONT the Wellington City Salvation Army, Vivian St.
 1 FAMC @F111@
 1 FAMS @F192@
 0 @I108@ INDI
@@ -25021,6 +25033,13 @@
 1 BIRT
 2 DATE 20 Nov 1925
 2 NOTE Birth Index microfiche ref, 699
+1 DEAT
+2 DATE 9 Sep 2014
+2 PLAC Palmerston North
+2 SOUR NZ BDM 2014/23066
+1 CREM
+2 DATE 13 Sep 2014
+2 NOTE Ashes Kelvin Grove Cemetery, Palmerston North, NZL
 1 FAMC @F111@
 1 FAMS @F179@
 0 @I109@ INDI
@@ -25581,6 +25600,22 @@
 0 @I193@ INDI
 1 NAME Maurice /CASTEL/
 1 SEX M
+1 BIRT
+2 DATE 12 Feb 1933
+2 SOUR Death record
+1 DEAT
+2 DATE 19 Feb 2019
+2 SOUR Death notice
+2 NOTE CASTEL,Maurice Peter James: (Dominion Post Feb. 20, 2019)
+3 CONT 12.2.1933 - 19.2.2019
+3 CONT In his 87th year. The patriarch and rock of our family passed
+3 CONT peacefully to his eternal rest. Loved husband of Georgine, precious
+3 CONT father of Jennifer and Gaylene, father-in-law of Stephen, treasured
+3 CONT poppa of Emma- Kate, Lucy, Adam and Joshua and his adored great
+3 CONT grandchildren; Madison, Ella, Ruby, Harry and Emma. A memorial
+3 CONT service to honour Maurice's life as a fine Christian gentleman will
+3 CONT be held at 1pm on Monday the 25th of February at the Wellington City
+3 CONT Salvation Army, Vivian St.
 1 FAMS @F192@
 0 @I194@ INDI
 1 NAME Jennifer /CASTEL/
