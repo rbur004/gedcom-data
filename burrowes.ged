@@ -15167,9 +15167,23 @@
 1 SOUR @SIW1@
 1 FAMS @FW332@
 1 NAME Margaret /DEUCHRASS/
+1 NAME Margaret /DEUCHARSS/
 1 SEX F
 1 BIRT
-2 DATE 1897
+2 DATE 1896
+2 NOTE Possbily Newtown, New South Wales, Australia record 32964 
+3 CONT for Margaret Deucharss
+1 BAPM
+2 DATE 25 Oct 1896
+2 PLAC Newtown Ste Stephens, Sydney AUS
+2 NOTE Possibly our Margaret.
+3 CONT Gives parents as James and Mary DeXchrass. 
+3 CONT Gives birth as 11 Sep 1896
+3 CONT Has other baptisms on the same day for
+3 CONT Elizabeth b. 5 Jul 1889 
+3 CONT John Alexander 17 Apr 1892 or 1894
+3 CONT Agnes 5 Sep 1894
+2 SOUR Sydney, Aus, Anglican Parish Registers 1814-2011
 1 DEAT
 2 DATE 1979
 0 @IWS300@ INDI
@@ -19499,6 +19513,10 @@
 1 SOUR @SIW1@
 1 HUSB @IW414@
 1 WIFE @IWS207@
+1 MARR
+2 DATE 1935
+2 PLAC NZL
+2 SOUR NZ BDM 1935/1193
 1 CHIL @IW417@
 1 CHIL @IW418@
 0 @FW232@ FAM
@@ -20271,6 +20289,10 @@
 1 SOUR @SIW1@
 1 HUSB @IW595@
 1 WIFE @IWS299@
+1 MARR
+2 DATE 1922
+2 PLAC NZL
+2 SOUR NZ BDM 1922/8454 Has Bride as Margaret Denchrass
 1 CHIL @IW831@
 1 CHIL @IW832@
 1 CHIL @IW833@
