@@ -3453,7 +3453,7 @@
 2 DATE 22 Jul 1879
 2 PLAC Invercargill, NZL
 2 SOUR NZ BDM 1879/16361
-1 DEATH
+1 DEAT
 2 DATE 1922
 2 AGE 42Y
 2 SOUR NZ BDM 1922/2463
@@ -4752,6 +4752,8 @@
 1 DEAT
 2 DATE 2 Feb 1936
 2 PLAC Invercargill, NZL
+2 SOUR NZ DBM 1936/15723
+2 AGE 81Y
 0 @IW585@ INDI
 1 SOUR @SIW1@
 1 FAMS @FW327@
@@ -4810,6 +4812,7 @@
 1 DEAT
 2 DATE 1953
 2 PLAC Invercargill, NZL
+2 SOUR NZ BDM 1953/28907 as Thomas Pollock
 0 @IW590@ INDI
 1 SOUR @SIW1@
 1 FAMC @FW321@
@@ -4834,6 +4837,8 @@
 1 DEAT
 2 DATE 1957
 2 PLAC Dunedin, NZL
+2 SOUR NZ BDM 1957/29544
+2 AGE 87Y
 0 @IW592@ INDI
 1 SOUR @SIW1@
 1 FAMC @FW321@
@@ -5248,6 +5253,8 @@
 1 DEAT
 2 DATE 1960
 2 PLAC Invercargill, NZL
+2 AGE 69Y
+2 SOUR NZ BDM 1960/36241
 0 @IW645@ INDI
 1 SOUR @SIW1@
 1 SEX F
@@ -5670,6 +5677,10 @@
 1 BIRT
 2 DATE 1879
 1 SOUR NZ BDM 1879/3680
+1 DEAT
+2 DATE 1941
+2 AGE 62Y
+2 SOUR NZ BDM 1941/24661
 0 @IW704@ INDI
 1 SOUR @SIW1@
 1 FAMS @FW386@
@@ -5727,6 +5738,11 @@
 2 DATE 1910
 2 PLAC NZL
 2 SOUR NZ BDM 1910/5203
+1 DEAT
+2 AGE 58Y
+2 DATE 1968
+2 PLAC NZL
+2 SOUR NZ BDM 1968/38321
 0 @IW710@ INDI
 1 SOUR @SIW1@
 1 FAMC @FW390@
@@ -7739,6 +7755,8 @@
 1 DEAT
 2 DATE 22 Jan 1949
 2 PLAC Invercargill, NZL
+2 AGE 80Y
+2 SOUR NZ BDM 1949/18334
 0 @IW1002@ INDI
 1 SOUR @SIW1@
 1 FAMC @FW323@
@@ -7794,6 +7812,8 @@
 1 DEAT
 2 DATE 6 Feb 1975
 2 PLAC Invercargill, NZL
+2 SOUR NZ BDM 1975/27855
+2 AGE 74Y
 0 @IW1006@ INDI
 1 SOUR @SIW1@
 1 FAMS @FW512@
@@ -7812,8 +7832,17 @@
 2 DATE 12 Feb 1928
 2 SOUR Death record
 1 DEAT
-2 DATE 
+2 DATE 24 Jan 2015
 2 SOUR NZ BDM 2015/3416
+2 NOTE BRASS, Gordon Harold: (Manawatu Standard on Jan. 28, 201)
+3 CONT Of Bluff Road, Woodville. Passed away peacefully at home on 24th
+3 CONT January, 2015 surrounded by his loving family, aged 86 years.
+3 CONT Much loved husband of Rose for 59 years, much loved father and
+3 CONT father in law of Paul and Sharon, loved Grandad of Daniel and Sarah,
+3 CONT Hayden and Keryn, Emma and Todd and loved Old Great-grandad to
+3 CONT Cameron and Elsie. In accordance with Gordon's wishes a private
+3 CONT service has been held. 
+3 CONT (Cared for by Chester Burt Funeral Home. Ph: 06.376.8268.)
 0 @IW1008@ INDI
 1 SOUR @SIW1@
 1 FAMC @FW513@
@@ -7827,6 +7856,9 @@
 1 BIRT
 2 DATE 2 Aug 1925
 2 PLAC Invercargill, NZL
+1 DEAT
+2 DATE 2012
+2 SOUR NZ BDM 2012/18948
 0 @IW1010@ INDI
 1 SOUR @SIW1@
 1 FAMS @FW515@
@@ -7836,6 +7868,9 @@
 1 BIRT
 2 DATE 13 Feb 1928
 2 PLAC Invercargill, NZL
+1 DEAT
+2 DATE 2019
+2 SOUR NZ BDM 2019/3586 Under surname Spittle
 0 @IW1011@ INDI
 1 SOUR @SIW1@
 1 FAMS @FW516@
@@ -14771,6 +14806,12 @@
 1 FAMS @FW231@
 1 NAME Ruby Ella /McLEOD/
 1 SEX F
+1 BIRT
+2 DATE 23 September 1914
+2 SOUR Death record
+1 DEAT
+2 DATE 1998
+2 SOUR NZ BDM 1998/4609
 0 @IWS208@ INDI
 1 SOUR @SIW1@
 1 FAMS @FW232@
@@ -15217,6 +15258,9 @@
 2 PLAC Olreg
 1 DEAT
 2 PLAC Wallacetown
+2 DATE 1944
+2 AGE 82Y
+2 SOUR NZ BDM 1944/22354
 0 @IWS290@ INDI
 1 SOUR @SIW1@
 1 FAMS @FW323@
@@ -15264,6 +15308,8 @@
 1 DEAT
 2 DATE 29 Sep 1934
 2 PLAC Invercargill, NZL
+2 SOUR NZ BDM 1934/2564
+2 AGE 79Y
 0 @IWS294@ INDI
 1 SOUR @SIW1@
 1 FAMS @FW327@
@@ -15314,8 +15360,7 @@
 0 @IWS299@ INDI
 1 SOUR @SIW1@
 1 FAMS @FW332@
-1 NAME Margaret /DEUCHRASS/
-1 NAME Margaret /DEUCHARSS/
+1 NAME Margaret (Peggy) /DEUCHRASS/
 1 SEX F
 1 BIRT
 2 DATE 1896
@@ -15325,7 +15370,7 @@
 2 DATE 25 Oct 1896
 2 PLAC Newtown Ste Stephens, Sydney AUS
 2 NOTE Possibly our Margaret.
-3 CONT Gives parents as James and Mary DeXchrass. 
+3 CONT Gives parents as James and Mary Deuchrass. 
 3 CONT Gives birth as 11 Sep 1896
 3 CONT Has other baptisms on the same day for
 3 CONT Elizabeth b. 5 Jul 1889 
@@ -16260,13 +16305,36 @@
 0 @IWS463@ INDI
 1 SOUR @SIW1@
 1 FAMS @FW513@
-1 NAME Rose /UNKNOWN/
+1 NAME Rose Katherine /UNKNOWN/
 1 SEX F
+1 BIRT
+2 DATE 8 July 1930
+2 SOUR Death record
+1 DEAT
+2 DATE 14 Jun 2015
+2 SOUR NZ BDM 2015/15524
+2 NOTE BRASS, Rose Katherine: (Manawatu Standard on June 22, 2015)
+3 CONT Of Bluff Road, Woodville. Passed away peacefully on 14th June 2015,
+3 CONT aged 84 years. Much loved wife of Gordon (deceased) for 59 years,
+3 CONT much loved mother and mother in law of Paul and Sharon, loved Nana
+3 CONT of Daniel and Sarah, Hayden and Keryn, Emma and Todd and loved Old
+3 CONT Nana to Cameron and Elsie. In accordance with Rose's wishes a
+3 CONT private service has been held. 
+3 CONT (Cared for by Chester Burt Funeral Home. Ph 06 376 8268).
 0 @IWS464@ INDI
 1 SOUR @SIW1@
 1 FAMS @FW514@
-1 NAME Shirley /COOK/
+1 NAME Shirley Louisa /COOK/
 1 SEX F
+1 BIRT
+2 DATE 17 June 1930
+2 SOUR Death Record
+1 DEAT
+2 DATE 13 Mar 2012
+2 PLAC NZL
+2 SOUR NZ BDM 2012/6334
+1 NOTE Ancestry.com has parents as Andrew Cook 1887 - 1947 
+2 CONT and Alice Elizabeth Lange 1895-1979
 0 @IWS465@ INDI
 1 SOUR @SIW1@
 1 FAMS @FW515@
@@ -20498,9 +20566,10 @@
 1 HUSB @IW595@
 1 WIFE @IWS299@
 1 MARR
-2 DATE 1922
-2 PLAC NZL
+2 DATE 20 Dec 1922
+2 PLAC First Church, Dunedin, NZL
 2 SOUR NZ BDM 1922/8454 Has Bride as Margaret Denchrass
+2 NOTE Otago Daily Times 20 Jan 1923. Brass-Deuchrass notice.
 1 CHIL @IW831@
 1 CHIL @IW832@
 1 CHIL @IW833@
