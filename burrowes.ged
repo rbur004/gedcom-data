@@ -23972,7 +23972,11 @@
 1 NAME Abraham Wilberforce /RICHARDS/
 1 SEX M
 1 BIRT
-2 DATE 1841
+2 DATE 1840
+1 CHR
+2 DATE 23 Sep 1840
+2 PLAC Paul, Cornwall, England
+2 SOUR Pg 234 Cornwall Paul Baptisms, 1827-1844
 1 FAMC @F21@
 1 FAMS @F89@
 1 DEAT
@@ -23981,31 +23985,51 @@
 1 NAME Eliza Wright /RICHARDS/
 1 SEX F
 1 BIRT
-2 DATE 1843
+2 DATE 1842
+1 CHR
+2 DATE 26 Jun 1842
+2 PLAC Paul, Cornwall, England
+2 SOUR Pg 263 Cornwall Paul Baptisms, 1827-1844
 1 FAMC @F21@
 0 @I13@ INDI
 1 NAME Cyprian /RICHARDS/
 1 SEX M
 1 BIRT
 2 DATE 1844
+1 CHR
+2 DATE 28 May 1844
+2 PLAC Paul, Cornwall, England
+2 SOUR Pg1 Cornwall Paul Baptisms, 1844-1870
 1 FAMC @F21@
 0 @I14@ INDI
 1 NAME Mary Jane /RICHARDS/
 1 SEX F
 1 BIRT
-2 DATE 1846
+2 DATE 1845
+1 CHR
+2 DATE 2 Nov 1845
+2 PLAC Paul, Cornwall, England
+2 SOUR pg 31 Cornwall Paul Baptisms, 1844-1870
 1 FAMC @F21@
 0 @I15@ INDI
-1 NAME James T /RICHARDS/
+1 NAME James Thomas /RICHARDS/
 1 SEX M
 1 BIRT
-2 DATE 1848
+2 DATE 1847
+1 CHR
+2 DATE 25 Dec 1847
+2 PLAC Paul, Cornwall, England
+2 SOUR Pg 70 Cornwall Paul Baptisms, 1844-1870
 1 FAMC @F21@
 0 @I16@ INDI
-1 NAME John /RICHARDS/
+1 NAME John Richard Davey /RICHARDS/
 1 SEX M
 1 BIRT
-2 DATE 1851
+2 DATE 1850
+1 CHR
+2 DATE 3 Feb 1850
+2 PLAC Paul, Cornwall, England
+2 SOUR Pg 100 Cornwall Paul Baptisms, 1844-1870 John Richard Davey Richards
 1 FAMC @F21@
 0 @I17@ INDI
 1 NAME Francis (Frank) /RICHARDS/
@@ -24013,6 +24037,10 @@
 1 BIRT
 2 DATE 18 Dec 1853
 2 PLAC Paul Cronwell, Eng.
+1 CHR
+2 DATE 20 Aug 1854
+2 PLAC Paul, Cornwall, England
+2 SOUR Pg 186 Cornwall Paul Baptisms, 1844-1870
 1 DEAT
 2 DATE 12 Sep 1922
 2 PLAC New Plymouth, NZL
@@ -24038,15 +24066,24 @@
 2 PLAC Paul
 2 ADDR Trevithal
 2 NOTE Father James occupation Yeoman, Mother: Jane
+2 SOUR P215 Cornwall Paul Baptisms, 1844-1870
 1 FAMC @F21@
 1 FAMS @F536@
 0 @I19@ INDI
-1 NAME Samuel /RICHARDS/
+1 NAME Samuel Wright /RICHARDS/
 1 SEX M
+1 CHR
+2 DATE 10 Jul 1859
+2 PLAC Paul, Cornwall, England
+2 SOUR Pg 258 Cornwall Paul Baptisms, 1844-1870 
 1 FAMC @F21@
 0 @I20@ INDI
-1 NAME Clarinda /RICHARDS/
+1 NAME Clarinda Ellen /RICHARDS/
 1 SEX F
+1 CHR
+2 DATE 24 Sep 1861
+2 PLAC Paul, Cornwall, England
+2 SOUR Pg 289 Cornwall Paul Baptisms, 1844-1870
 1 FAMC @F21@
 0 @I22@ INDI
 1 NAME Unknown /FINIKIN/
@@ -37058,9 +37095,9 @@
 1 HUSB @I7@
 1 WIFE @I1074@
 1 MARR
-2 DATE 1810
+2 DATE 14 Apr 1810
 2 PLAC Paul, Cornwall, Eng
-2 SOUR England, Pallot's Marriage Index, 1780-1837
+2 SOUR England, Cornwall Parish Registers, 1538-2010 Pg 262
 1 CHIL @I8@
 0 @F10@ FAM
 1 HUSB @I329@
@@ -37168,6 +37205,38 @@
 2 CONT Church Town,1,James Richards,30,,Farmer,In county,
 2 CONT ,,Jane Richards,,24,,In county,
 2 CONT ,,Abraham Richards,1,,,In county,
+1 NOTE 1851 Census 	Farmer Of 40 Acres Employing 2 Labours
+2 CONT James Richards	Head	Male	40	Madron, Cornwall
+2 CONT Jane Richards	Wife	Female	31	Devonport, Devonshire
+2 CONT Abraham W Richards	Son	Male	10	Monsehole, Cornwall
+2 CONT Eliza W Richards	Daughter	Female	8	Monsehole, Cornwall
+2 CONT Cyprian Richards	Son	Male	7	Monsehole, Cornwall
+2 CONT Mary Jane Richards	Daughter	Female	5	,
+2 CONT James T Richards	Son	Male	3	,
+1 NOTE 1861 Census Res Trevithel, Paul, Cornwall.
+2 CONT Farmer Of 45 Acres Employing Inmates Only
+2 CONT Household	Role	Sex	Age	Birthplace
+2 CONT James Richards	Head	Male	50	Madron, Cornwall
+2 CONT Jane Richards	Wife	Female	44	Devonport, Devon
+2 CONT Abraham Richards	Son	Male	20	Paul, Cornwall
+2 CONT Eliza Richards	Daughter	Female	19	Paul, Cornwall
+2 CONT Mary Richards	Daughter	Female	15	Paul, Cornwall
+2 CONT Cyprian Richards	Son	Male	17	Paul, Cornwall
+2 CONT Thomas Richards	Son	Male	13	Paul, Cornwall
+2 CONT John Richards	Son	Male	11	Paul, Cornwall
+2 CONT Francis Richards	Son	Male	7	Paul, Cornwall
+2 CONT Elizabeth Richards	Daughter	Female	4	Paul, Cornwall
+2 CONT Samuel Richards	Son	Male	2	Paul, Cornwall
+2 CONT Ellen Richards	Daughter	Female	0	Paul, Cornwall
+1 NOTE 1871 Census Farmer
+2 CONT Jas Richards	Head	Male	60	Madron, Cornwall
+2 CONT Jane Richards	Wife	Female	54	Devonport, Devonshire
+2 CONT Jas T Richards	Son	Male	23	Paul, Cornwall
+2 CONT John D Richards	Son	Male	21	Paul, Cornwall
+2 CONT Francis Richards	Son	Male	17	Paul, Cornwall
+2 CONT Elizabeth Richards	Daughter	Female	14	Paul, Cornwall
+2 CONT Samuel Richards	Son	Male	12	Paul, Cornwall
+2 CONT Clarinda Richards	Daughter	Female	10	Paul, Cornwall
 0 @F27@ FAM
 1 HUSB @I22@
 1 CHIL @I23@
