@@ -23943,6 +23943,7 @@
 2 PLAC Madron Cornwell ENG
 1 CHR
 2 DATE 20 Jul 1810
+2 SOUR England, Select Births and Christenings, 1538-1975
 1 OCCU Farmer
 2 PLAC Madron Cornwell ENG
 1 DEAT
@@ -37056,6 +37057,10 @@
 0 @F9@ FAM
 1 HUSB @I7@
 1 WIFE @I1074@
+1 MARR
+2 DATE 1810
+2 PLAC Paul, Cornwall, Eng
+2 SOUR England, Pallot's Marriage Index, 1780-1837
 1 CHIL @I8@
 0 @F10@ FAM
 1 HUSB @I329@
