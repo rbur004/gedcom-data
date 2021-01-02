@@ -155,14 +155,16 @@
 1 FAMS @FW578@
 0 @IW9@ INDI
 1 SOUR @SIW1@
-1 NAME Anna Marie /TAYLOR/
+1 NAME Anna Maria /TAYLOR/
 1 SEX F
 1 BIRT
 2 DATE 17 Feb 1860
 2 PLAC Christchurch, NZL
+2 SOUR NZ BDM 1860/9678
 1 DEAT
 2 DATE 7 Jul 1930
 2 PLAC Wellington, NZL
+2 SOUR NZ BDM 1930/7007 under Anna Mary Croll
 1 FAMC @FW9@
 1 FAMS @FW4@
 0 @IW10@ INDI
@@ -275,7 +277,17 @@
 1 NAME Edward /TAYLOR/
 1 SEX M
 1 BIRT
-2 DATE 1815
+2 DATE 19 Mar 1815
+2 PLAC Stowmarket, Suffolk, England
+2 SOUR LDS
+1 CHR
+2 DATE 08 May 1815
+2 PLAC Stowmarket, Suffolk, Eng
+1 DEAT
+2 DATE 7 Oct 1900
+2 PLAC New Zealand
+2 SOUR NZ BDM 1900/6395
+2 AGE 85Y
 0 @IW19@ INDI
 1 SOUR @SIW1@
 1 FAMC @FW302@
@@ -283,7 +295,13 @@
 1 NAME Mary /ROBINSON/
 1 SEX F
 1 BIRT
-2 DATE 1822
+2 DATE 10 Jan 1822
+2 PLAC Earl Stonham, Suffolk, England, United Kingdom
+1 DEAT
+2 DATE 2 April 1876
+2 PLAC Christchurch NZL
+2 SOUR NZ BDM 1876/1943
+2 AGE 54Y
 0 @IW20@ INDI
 1 SOUR @SIW1@
 1 FAMC @FW303@
@@ -2556,27 +2574,39 @@
 0 @IW284@ INDI
 1 SOUR @SIW1@
 1 FAMC @FW9@
-1 NAME Marianne /TAYLOR/
+1 NAME Mary Anne /TAYLOR/
 1 BIRT
 2 DATE 1843
+2 PLAC Earl Stonham, Suffolk, England
 0 @IW285@ INDI
 1 SOUR @SIW1@
 1 FAMC @FW9@
 1 NAME Rachel /TAYLOR/
 1 BIRT
 2 DATE 1845
+1 DEAT
+2 DATE 24 Jul 1914
+2 PLAC Auckland, NZL
 0 @IW286@ INDI
 1 SOUR @SIW1@
 1 FAMC @FW9@
-1 NAME Pleasance /TAYLOR/
+1 NAME Pleasance Maria /TAYLOR/
 1 BIRT
 2 DATE 1847
+1 DEAT
+2 DATE 1 Jun 1865
+2 PLAC Christchurch NZL
 0 @IW287@ INDI
 1 SOUR @SIW1@
 1 FAMC @FW9@
 1 NAME Charles /TAYLOR/
 1 BIRT
 2 DATE 1853
+1 DEAT
+2 DATE 4 Jan 1869
+2 PLAC Addington, Christchurch, NZL
+2 SOUR NZ BDM 869/7248
+2 AGE 16Y
 0 @IW288@ INDI
 1 SOUR @SIW1@
 1 FAMC @FW9@
@@ -2584,6 +2614,12 @@
 1 BIRT
 2 DATE 1855
 2 PLAC At sea
+1 DEAT
+2 DATE 11 Jul 1921
+2 PLAC Auckland, NZL
+2 SOUR NZ BDM 1921/3004 as Caroline Agnes Wheatley
+1 SOUR https://www.familysearch.org/tree/person/sources/L1D8-G7G
+1 NOTE Married James William Gladstone Wheatley NZ BDM 1876/2530
 0 @IW289@ INDI
 1 SOUR @SIW1@
 1 FAMS @FW172@
@@ -4381,8 +4417,16 @@
 0 @IW535@ INDI
 1 SOUR @SIW1@
 1 FAMS @FW301@
-1 NAME /TAYLOR/
+1 FAMC @F735@
+1 NAME Isaac /TAYLOR/
 1 SEX M
+1 BIRT
+2 DATE 28 Jan 1784
+2 PLAC Stowupland, Suffolk, England
+2 SOUR LDS https://www.familysearch.org/tree/person/sources/L1DL-GS4
+1 DEAT
+2 DATE 12 Mar 1856
+2 PLAC Earl Stonham, Suffolk, England
 0 @IW536@ INDI
 1 SOUR @SIW1@
 1 FAMS @FW302@
@@ -17854,7 +17898,7 @@
 1 MARR
 2 DATE 27 Sep 1882
 2 PLAC Addington, NZL
-2 SOUR NZ BDM 1882/2107
+2 SOUR NZ BDM 1882/2107 Bride Anna Maria Taylor
 1 CHIL @IW57@
 1 CHIL @IW58@
 1 CHIL @IW59@
@@ -20300,7 +20344,13 @@
 0 @FW301@ FAM
 1 SOUR @SIW1@
 1 HUSB @IW535@
+1 WIFE @I1753@
+1 CHIL @I1756@
 1 CHIL @IW18@
+1 CHIL @I1757@
+1 CHIL @I1758@
+1 CHIL @I1759@
+1 SOUR https://www.familysearch.org/tree/person/sources/L1DL-GS4
 0 @FW302@ FAM
 1 SOUR @SIW1@
 1 HUSB @IW536@
@@ -23962,8 +24012,12 @@
 1 NAME Jane /WRIGHT/
 1 SEX F
 1 BIRT
-2 DATE 1817
+2 DATE 1816
 2 PLAC Devon, Devonport ENG
+1 CHR
+2 DATE 1 Dec 1816
+2 PLAC Stoke-Damerel, Devon, England
+2 SOUR Pg 133 Parish registry 1816
 1 DEAT
 2 DATE 1889
 1 FAMC @F308@
@@ -37033,6 +37087,57 @@
 1 NAME 	Nelson George	/Wildermoth/
 1 SEX M
 1 FAMS @F734@
+0 @I1752@ INDI
+1 NAME Mary /Unknown/
+1 SEX F
+1 SOUR Dau Baptism
+1 FAMS @F308@
+0 @I1753@ INDI
+1 NAME Norah /Emeny/
+1 SEX F
+1 FAMS @FW301@
+0 @I1754@ INDI
+1 NAME Thomas /Taylor/
+1 SEX M
+1 FAMS @F735@
+1 SOUR LDS Familysearch
+0 @I1755@ INDI
+1 NAME Rachel /Unknown/
+1 SEX F
+1 FAMS @F735@
+1 SOUR LDS Familysearch
+0 @I1756@ INDI
+1 NAME Nora /Taylor/
+1 SEX F
+1 BIRT
+2 DATE 13 July 1811
+2 PLAC Stowmarket, Suffolk, England
+1 FAMC @FW301@
+1 SOUR LDS Familysearch
+0 @I1757@ INDI
+1 NAME Isaac /Taylor/
+1 SEX M
+1 BIRT
+2 DATE 23 August 1813
+2 PLAC Stowmarket, Suffolk, England
+1 FAMC @FW301@
+1 SOUR LDS Familysearch
+0 @I1758@ INDI
+1 NAME Pleasance /Taylor/
+1 SEX F
+1 BIRT
+2 DATE 4 July 1817
+2 PLAC Stowmarket, Suffolk, England
+1 FAMC @FW301@
+1 SOUR LDS Familysearch
+0 @I1759@ INDI
+1 NAME Rachel /Unknown/
+1 SEX F
+1 BIRT
+2 DATE 1822
+2 PLAC Stowupland, Suffolk, England
+1 FAMC @FW301@
+1 SOUR LDS Familysearch
 0 @F1@ FAM
 1 HUSB @I1@
 1 WIFE @I2@
@@ -38269,6 +38374,7 @@
 1 CHIL @GAD_I117@
 0 @F308@ FAM
 1 HUSB @I436@
+1 WIFE @I1752@
 1 CHIL @I10@
 0 @F309@ FAM
 1 HUSB @I437@
@@ -41021,6 +41127,12 @@
 2 DATE 1923
 2 PLAC NZL
 2 SOUR NZBDM 1923/5735
+0 @F735@ FAM
+1 HUSB @I1754@
+1 WIFE @I1755@
+1 SOUR LDS Familysearch
+1 CHIL @IW535@
+1 SOUR LDS Family search
 0 @AG_S1@ SUBM
 1 NAME Anne /Galpin/
 1 NOTE Email May 2001 reference to Prouse Family Tree book written in 1998
