@@ -31727,6 +31727,7 @@
 2 DATE ABT 1660
 1 DEAT
 2 DATE ABT Oct 1702
+2 PLAC St James, Barbados
 2 NOTE Burrowes, James, mason
 3 CONT St James Parish, 10 Feb 1701, RB6/37, p. 515
 3 CONT Sons Robert Burrowes, James Burrowes, and John Burrowes; my wf
@@ -31736,6 +31737,8 @@
 3 CONT Thomas Payne - Gdns. Signed James (x) Burrus
 3 CONT Wit: John Bryan, John Grime
 3 CONT Proved 12 Oct 1702
+1 SOUR https://www.familysearch.org/tree/person/sources/9CXK-3D5
+1 FAMC @F736@
 1 FAMS @F517@
 0 @I999@ INDI
 1 NAME Elizabeth /Haynes/
@@ -31744,6 +31747,8 @@
 1 SEX F
 1 BIRT
 2 DATE ABT 1660
+1 SOUR https://www.familysearch.org/tree/person/sources/9CXV-1QY
+1 SOUR Husbands Will, along with all children's names
 1 FAMS @F517@
 0 @I1000@ INDI
 1 NAME James /Burrowes/
@@ -31771,7 +31776,12 @@
 1 FAMC @F517@
 0 @I1003@ INDI
 1 NAME Rebecca /Burrowes/
+1 NAME Rebeckah /Burrowes/
 1 SEX F
+1 CHR
+2 DATE 28 Nov 1697
+2 PLAC St James, Barbados
+2 SOUR https://www.familysearch.org/tree/person/sources/MTTT-XSZ
 1 FAMC @F517@
 0 @I1004@ INDI
 1 NAME Rachel /Burrowes/
@@ -37305,6 +37315,12 @@
 2 PLAC Kensington, London, Eng
 1 SOUR https://www.familysearch.org/tree/person/sources/L5RQ-3F7
 1 FAMS @F385@
+0 @I1763@ INDI
+1 NAME John Burrowes
+1 SEX M
+1 DEAT
+2 DATE 1683
+1 FAMS @F736@
 0 @F1@ FAM
 1 HUSB @I1@
 1 WIFE @I2@
@@ -41308,6 +41324,10 @@
 1 SOUR LDS Familysearch
 1 CHIL @IW535@
 1 SOUR LDS Family search
+0 @F736@ FAM
+1 HUSB @I1763@
+1 CHIL @I998@
+1 SOUR https://www.familysearch.org/tree/person/details/9CXK-3D5
 0 @AG_S1@ SUBM
 1 NAME Anne /Galpin/
 1 NOTE Email May 2001 reference to Prouse Family Tree book written in 1998
