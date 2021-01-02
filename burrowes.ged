@@ -12871,6 +12871,7 @@
 1 NAME Ada Hutchinson /CROLL/
 1 BIRT
 2 DATE 1872
+2 PLAC Ballarat, Vic, Aus
 0 @IW1713@ INDI
 1 SOUR @SIW1@
 1 FAMC @FW738@
@@ -13414,6 +13415,13 @@
 1 BIRT
 2 DATE ABT 1865
 2 SOUR NZ BDM 1865/18441
+1 DEAT
+2 DATE 5 Aug 1948
+2 AGE 82Y
+2 SOUR Grave
+1 BURI
+2 PLAC Heads Road Cemetery, Wanganui, NZL.
+2 NOTE With Daughters Evelyn Pull, Lilith Willis, little Cecil, and Wife
 1 SOUR @SIW1@
 1 SEX M
 1 FAMS @FW777@
@@ -17819,6 +17827,8 @@
 2 PLAC Wanganui NZL
 2 AGE 83
 2 SOUR BDM 1946/31377
+2 PLAC Heads Road Cemetery, Wanganui, NZL.
+2 NOTE With Daughters Evelyn Pull, Lilith Willis, little Cecil, and Husband
 1 SOUR @SIW1@
 1 SEX F
 1 FAMS @FW777@
@@ -23717,6 +23727,7 @@
 1 HUSB @IWS681@
 1 MARR
 2 DATE 1892
+2 PLAC Vic, Aus
 0 @FW750@ FAM
 1 SOUR @SIW1@
 1 WIFE @IW1714@
@@ -26752,15 +26763,30 @@
 1 BIRT
 2 DATE ABT 1892
 2 SOUR NZ BDM 1892/6140
+1 DEAT
+2 DATE 15 Aug 1949
+2 AGE 57Y
+2 SOUR Grave
+1 BURI
+2 PLAC Heads Road Cemetery, Wanganui, NZL.
+2 NOTE With Sister Lilith, little Cecil, and Parents
 1 FAMC @FW777@
 1 FAMS @F277@
 1 SOUR @IW1633@
 0 @I368@ INDI
-1 NAME Leilith Aimee (Lily) /JONES/
+1 NAME Lilith Aimee (Lily) /JONES/
 1 SEX F
 1 BIRT
 2 DATE ABT 1894
 2 SOUR NZ BDM 1894/3373
+2 PLAC Wanganui, Manawatu-Wanganui, New Zealand
+1 DEAT
+2 DATE 7 February 1919
+2 AGE 24Y 10M
+2 PLAC Wanganui, NZL
+1 BURI
+2 PLAC Heads Road Cemetery, Wanganui, NZL.
+2 NOTE With Sister Evelyn Pull, little Cecil, and Parents
 1 FAMC @FW777@
 1 FAMS @F278@
 1 SOUR @IW1633@
@@ -26778,12 +26804,12 @@
 1 FAMS @F276@
 1 SOUR @IW1633@
 0 @I371@ INDI
-1 NAME R /PULL/
+1 NAME Rupert W /PULL/
 1 SEX M
 1 FAMS @F277@
 1 SOUR @IW1633@
 0 @I372@ INDI
-1 NAME G /WILLIS/
+1 NAME George Samuel /WILLIS/
 1 SEX M
 1 FAMS @F278@
 1 SOUR @IW1633@
@@ -28823,45 +28849,81 @@
 1 SEX F
 1 FAMC @F384@
 0 @I643@ INDI
-1 NAME Oscar Whilloby /Drummond/
+1 NAME Oscar Whillouby /Drummond/
 1 SEX M
 1 BIRT
-2 DATE 1839
+2 DATE 30 December 1841
 1 DEAT
-2 DATE 1895
+2 DATE January 1897
 1 FAMS @F385@
+1 SOUR https://www.familysearch.org/tree/person/sources/L8SD-4S7
 0 @I644@ INDI
 1 NAME John /Drummond/
+1 BIRT
+2 DATE 1 March 1877
+2 PLAC Bexley, Kent, England, United Kingdom
+1 SOUR https://www.familysearch.org/tree/person/sources/LF1H-VB8
 1 SEX M
 1 FAMC @F385@
 0 @I645@ INDI
 1 NAME Annis /Drummond/
 1 SEX F
+1 BIRT
+2 DATE 26 November 1879
+2 PLAC Knightsbridge, London, England
+1 DEAT
+2 DATE 6 September 1963
+2 PLAC Surrey, England, United Kingdom
+1 SOUR https://www.familysearch.org/tree/person/sources/LBQP-3WC
 1 FAMC @F385@
 1 FAMS @F386@
 0 @I646@ INDI
 1 NAME Emily /Drummond/
 1 SEX F
+1 BIRT
+2 DATE 14 September 1886
+2 PLAC Ewell, Surrey, England
+2 SOUR https://www.familysearch.org/tree/person/sources/LR36-Y99
 1 FAMC @F385@
 1 FAMS @F387@
 0 @I647@ INDI
 1 NAME Julie /Drummond/
 1 SEX F
+1 BIRT
+2 DATE 14 September 1886
+2 PLAC Ewell, Surrey, England
+1 SOUR https://www.familysearch.org/tree/person/sources/LR36-Y99
 1 FAMC @F385@
 0 @I648@ INDI
 1 NAME Henry /Drummond/
 1 SEX M
+1 BIRT
+2 DATE 17 April 1890
+2 PLAC Lambeth, London, England, United Kingdom
+1 DEAT
+2 DATE 17 October 1950
+2 PLAC Georgetown, Demerara, Guyana
+1 SOUR https://www.familysearch.org/tree/person/sources/L8SD-WTW
 1 FAMC @F385@
 1 FAMS @F391@
 0 @I649@ INDI
-1 NAME Eddy /Drummond/
+1 NAME Edwin (Eddy) /Drummond/
 1 SEX M
+1 BIRT
+2 DATE 1897
+2 PLAC Lambeth, London, England
+1 SOUR https://www.familysearch.org/tree/person/sources/LTD3-YM7
 1 FAMC @F385@
 0 @I650@ INDI
 1 NAME Arthur /Drummond/
 1 SEX M
+1 BIRT
+2 DATE 1888
+2 PLAC Ewell, Surrey, England
+1 SOUR https://www.familysearch.org/tree/person/sources/LRW3-WKT
 1 DEAT
 2 CAUS Died young of heart problems
+2 SOUR Family
 1 FAMC @F385@
 0 @I651@ INDI
 1 NAME Unknown /Ellis/
@@ -32665,8 +32727,10 @@
 1 NAME Frederick /Barker/
 1 SEX M
 1 BIRT
-2 DATE 1832
+2 DATE 03 APR 1833
+2 PLAC Spondon,Derby,England
 2 SOUR 1841 Census
+2 SOUR https://www.familysearch.org/tree/person/sources/MC72-6YS
 1 FAMC @F560@
 0 @I1124@ INDI
 1 NAME Edward /Barker/
@@ -37222,6 +37286,24 @@
 2 SOUR NZ BDM 1875/2648
 2 AGE 3D
 1 FAMC @FW10@
+0 @I1761@ INDI
+1 NAME Leonie Alicia Lilith /Willis/
+1 SEX F
+1 BIRT
+2 DATE 5 Jan 1919
+2 PLAC NZL
+2 SOUR 1919/4485
+0 @I1762@ INDI
+1 NAME Mary Ann /Clarke/
+1 SEX F
+1 BIRT
+2 DATE Apr 1858
+2 PLAC Wantage, Berkshire, Eng
+1 DEAT
+2 DATE Dec 1925
+2 PLAC Kensington, London, Eng
+1 SOUR https://www.familysearch.org/tree/person/sources/L5RQ-3F7
+1 FAMS @F385@
 0 @F1@ FAM
 1 HUSB @I1@
 1 WIFE @I2@
@@ -38234,6 +38316,10 @@
 0 @F278@ FAM
 1 HUSB @I372@
 1 WIFE @I368@
+1 MARR
+2 DATE 1918
+2 PLAC NZL
+2 SOUR NZ BDM 1918/3535
 0 @F279@ FAM
 1 HUSB @I349@
 1 WIFE @I404@
@@ -38867,13 +38953,16 @@
 1 CHIL @I642@
 0 @F385@ FAM
 1 HUSB @I643@
+1 WIFE @I1762@
+1 MARR
+2 DATE 1891
 1 CHIL @I644@
 1 CHIL @I645@
 1 CHIL @I646@
 1 CHIL @I647@
+1 CHIL @I650@
 1 CHIL @I648@
 1 CHIL @I649@
-1 CHIL @I650@
 0 @F386@ FAM
 1 HUSB @I651@
 1 WIFE @I645@
