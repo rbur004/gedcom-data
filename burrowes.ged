@@ -28935,12 +28935,25 @@
 2 SOUR Family
 1 FAMC @F385@
 0 @I651@ INDI
-1 NAME Unknown /Ellis/
+1 NAME Alfred William /Ellis/
 1 SEX M
+1 BIRT July 1879
+2 PLAC Lambeth, London, Eng
+1 DEAT
+2 DATE Jun 1943
+2 PLAC Aldershot, Hampshire, Eng
+1 SOUR https://www.familysearch.org/tree/person/sources/LBQP-D42
 1 FAMS @F386@
 0 @I652@ INDI
-1 NAME May /Ellis/
+1 NAME Annis May /Ellis/
 1 SEX F
+1 BIRT
+2 DATE 4 Dec 1907
+2 PLAC Newington, London, England
+1 DEAT
+2 DATE Sep 1998
+2 PLAC North east Hampshire, Hampshire, England
+1 SOUR https://www.familysearch.org/tree/person/sources/LBQP-9KT
 1 FAMC @F386@
 0 @I653@ INDI
 1 NAME Aubry /Chaplin/
@@ -39089,6 +39102,9 @@
 0 @F386@ FAM
 1 HUSB @I651@
 1 WIFE @I645@
+1 MARR
+2 DATE 24 Jun 1906
+2 PLAC St Mary, Lambeth, Eng
 1 CHIL @I652@
 0 @F387@ FAM
 1 HUSB @I653@
