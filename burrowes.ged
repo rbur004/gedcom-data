@@ -5794,7 +5794,7 @@
 1 NAME Daphne Mary /BRASS/
 1 SEX F
 1 BIRT
-2 DATE 1950
+2 DATE 1905
 2 PLAC NZL
 2 SOUR NZ BDM 1905/22743
 0 @IW709@ INDI
@@ -34730,9 +34730,19 @@
 1 NAME Frances Susannah Palmer /Autridge/
 1 SEX F
 1 BIRT
-2 DATE 1863
-2 PLAC NZL
+2 DATE 04 JUN 1863
+2 PLAC New Plymouth,Taranaki,New Zealand
 2 SOUR NZ BDM 1863/9477
+1 CHR
+2 DATE 27 Aug 1863
+2 PLAC New Plymouth, Taranaki, New Zealand
+1 DEAT
+2 DATE 15 August 1899
+2 PLAC Levin, Horowhenua, Wellington, New Zealand.
+2 NOTE as Frances Walker (Married Thomas Walker 15 July 1897 NZL)
+1 BURI
+2 DATE 16 August 1899
+2 PLAC Old Levin Cemetery, Cnr. Makomako and Tiro Tiro Roads, Levin, NZL
 1 FAMC @F624@
 0 @I1388@ INDI
 1 NAME Louis Edward /Autridge/
