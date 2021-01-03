@@ -35581,7 +35581,14 @@
 1 SEX M
 1 BIRT
 2 DATE 23 Dec 1897
+2 PLAC Tinwald NZL
 2 SOUR NZ BDM 1898/2815
+1 DEAT
+2 DATE 12 JUL 1989
+2 PLAC Temuka NZL
+2 SOUR NZ BDM 1989/46760
+1 NOTE Married Ada Eleanor Gertrude Beech 25 May 1919 Swadlincote Derby, Eng
+2 CONT Children Thomas Stanley in NZL and Edward George in NZL
 1 FAMC @F662@
 0 @I1505@ INDI
 1 NAME Carl Hickman /Hansen/
@@ -35883,6 +35890,11 @@
 2 DATE 1878
 2 PLAC NZL
 2 SOUR NZ BDM 1878/17283
+1 DEAT
+2 DATE 1942
+2 PLAC New Zealand
+2 SOUR NZ BDM 1942/32343 as Mathias m. Stanley Geoffrey Mathias
+2 AGE 65Y
 1 FAMC @F674@
 0 @I1545@ INDI
 1 NAME 	Charles Richard Leader /Allard/
@@ -42388,6 +42400,12 @@
 1 NAME Hugh /POLLARD/
 1 TITL Sir
 1 SEX M
+1 BIRT
+2 DATE ABT 1552
+2 PLAC Kings Nympton, Devon, Eng
+1 DEAT
+2 DATE 1638
+2 PLAC Kings Nympton, Devon, Eng
 1 NOTE of Kings Nympton, Devon, ENG. Living there in 1568, Sheriff of Devon in 1587.
 2 CONC At the time of the Armada he was Colonel commanding 800 men of the North Division Co.,
 2 CONC (Historical MSS Commission Report 15, Appendix Part VII. Page 5). He was appointed
@@ -42412,6 +42430,13 @@
 1 SOUR @SIP1@
 1 NAME Dorothy /CHICHESTER/
 1 SEX F
+1 BIRT
+2 DATE 15 October 1556
+2 PLAC Pilton, Devon, England
+1 DEAT
+2 DATE 1 April 1604
+2 PLAC Pilton, Devon, England
+1 SOUR https://www.familysearch.org/tree/person/sources/LT34-S1T
 1 FAMC @FP2@
 1 FAMS @FP1@
 0 @IP3@ INDI
@@ -43179,6 +43204,12 @@
 1 SOUR @SIP1@
 1 NAME John /POLLARD/
 1 SEX M
+1 BIRT
+2 DATE 1682
+2 PLAC Barbados
+1 DEAT
+2 DATE BEF 3 Jan 1758
+2 SOUR Will proved on this date
 1 NOTE Mentioned in the deed of sale by his sister Elizabeth. <br>
 2 CONC Will Abstract:- To my daughter Mary Culpeper, wife of Alleyne Culpeper formerly Mary
 2 CONC Pollard. 200 pounds and my largest silver salver. To my grandson Abel Alleyne Culpeper,
@@ -44326,7 +44357,7 @@
 1 FAMS @FP71@
 0 @IP200@ INDI
 1 SOUR @SIP1@
-1 NAME Unknown /KIRTON/
+1 NAME John Linton /KIRTON/
 1 SEX M
 1 FAMS @FP70@
 0 @IP201@ INDI
@@ -45443,8 +45474,11 @@
 1 OCCU Cotton Broker
 1 FAMS @FP106g@
 0 @IP305k@ INDI
-1 NAME Elizabeth //
+1 NAME Elizabeth /Irving/
 1 SEX F
+1 BIRT
+2 DATE 1819
+2 PLAC Liverpool, Lancashire, England
 1 FAMS @FP106a@
 0 @IP305l@ INDI
 1 NAME Amy /Blackley/
@@ -45837,8 +45871,10 @@
 1 SEX M
 1 BIRT
 2 DATE ABT 1465
+2 PLAC St Giles in the Wood, Torridge District, Devon, England
 1 DEAT
-2 DATE ABT 1525
+2 DATE 21 Oct 1526
+2 PLAC Kings Nympton, North Devon District, Devon, England
 1 NOTE Kt., of Kings Nympton, Devon
 1 NOTE Of Girlston. One of the Judges of Common Pleas and one of Prince's Worthies of Devon.
 2 CONC He was called to the bar by the society of the Middle Temple, where he was reader in Lent,
@@ -45870,6 +45906,12 @@
 1 NAME Agnes /HEXT/
 1 NAME Agnes /HEXTE/
 1 SEX F
+1 BIRT
+2 DATE 1475
+2 PLAC Staverton, Devon, England
+1 DEAT
+2 DATE 4 November 1563
+2 PLAC Saint Giles in the Wood, Devon, England
 1 NOTE Pedigree for Hexte calls her Anne and married to Nicholas Pollard.
 1 SOUR Vivian. The Visitations of Devon. p. 484, 598.
 2 CONC Foss. The Judges of England. v v pp 227-228.
@@ -46001,6 +46043,12 @@
 1 NAME Lewis /POLLARD/
 1 TITL Sir
 1 SEX M
+1 BIRT
+2 DATE 1513
+2 PLAC Farringdon, Devon, England
+1 DEAT
+2 DATE 1569
+2 PLAC Kings Nympton, Devon, England
 1 NOTE Kt. Bach.<br>
 2 CONC Barrister-at-Law, Lent Reader of the Middle Temple, I Edward VI (1547-48),
 2 CONC Recorder of Exeter, 2 Edward VI (1548-49)
@@ -46119,6 +46167,9 @@
 1 SOUR @SIP1@
 1 HUSB @IP1@
 1 WIFE @IP2@
+1 MARR
+2 DATE 9 April 1576
+2 PLAC Pilton, Devon, England
 1 CHIL @IP6@
 1 CHIL @IP7@
 1 CHIL @IP10@
@@ -46660,6 +46711,10 @@
 1 SOUR @SIP1@
 1 HUSB @IP200@
 1 WIFE @IP199@
+1 MARR
+2 DATE 29 JUL 1815
+2 PLAC Saint Michael,Barbadoes,Caribbean
+2 SOUR 
 0 @FP71@ FAM
 1 SOUR @SIP1@
 1 HUSB @IP201@
