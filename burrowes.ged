@@ -33912,11 +33912,26 @@
 1 NAME Charles Sydney /Forbes/
 1 SEX M
 1 BIRT
-2 DATE ABT 1867
+2 DATE 1867
+2 PLAC Lyttelton, NZL
 2 SOUR NZ BDM 1867/25582
 1 DEAT
-2 DATE 1946
+2 DATE 10 Dec 1946
+2 PLAC Auckland, NZL
 2 SOUR NZ BDM 1946/34907
+2 NOTE Otago Daily Times. 11 Dec 1946, Pg 8
+3 CONT Obituary Mr C.S. Forbes
+3 CONT (Special) Auckland, Dec 10. The death occurred in Auckland
+3 CONT recently of Mr Charles Sydney Forbes, second son of Mr Robert
+3 CONT Forbes, of Lyttelton, and brother of the former Prime Minister,
+3 CONT Mr G.W. Forbes. Born in 1867, he trained as an engineer with
+3 CONT Scott Brothers, and after electrical experience in Australia at
+3 CONT the Coolgardie mines, he returned to New Zealand. He supervised
+3 CONT early electric tramway installations in Wellington and Dunedin, and
+3 CONT later he farmed on the Cheviot estate near the home of his brother.
+3 CONT He married Eileen Hart, younger dauer of Mrs M.B.Hart of Christchurh,
+3 CONT and is survived by his widow and two children - Mr Brennan Forbes, 
+3 CONT and Mrs Kenneth Wilkin, both of Auckland.
 1 FAMC @F596@
 1 FAMS @F607@
 0 @I1284@ INDI
@@ -37321,6 +37336,30 @@
 1 DEAT
 2 DATE 1683
 1 FAMS @F736@
+0 @I1764@ INDI
+1 NAME Graham Brennan /Forbes/
+1 SEX M
+1 BIRT
+2 DATE 1911
+2 SOUR NZ BDM 1911/5132
+1 FAMC @F607@
+1 FAMS @F738@
+0 @I1765@ INDI
+1 NAME Lorna /Forbes/
+1 SEX F
+1 BIRT
+2 DATE 1912
+2 SOUR NZ BDM 1912/8449
+1 FAMC @F607@
+1 FAMS @F737@
+0 @I1766@ INDI
+1 NAME Kenneth John /Wilkin/
+1 SEX M
+1 FAMS @F737@
+0 @I1767@ INDI
+1 NAME Doris Pretoria /Cribbs/
+1 SEX F
+1 FAMS @F738@
 0 @F1@ FAM
 1 HUSB @I1@
 1 WIFE @I2@
@@ -40477,8 +40516,16 @@
 1 HUSB @I1283@
 1 WIFE @I1325@
 1 MARR
-2 DATE ABT 1902
+2 DATE 8 Mar 1902
+2 PLAC Avonside Church, Christchurch, NZL
 2 SOUR NZ BDM 1902/345
+2 NOTE Lyttleton Time 11 March 1902
+3 CONT Forbes-Hart - March 8? at Avonside Church
+3 CONT by the Rev Canon Pascoe, Charlses Sydney, second
+3 CONT son of Robert Forbes, Lyttelton, to Aileen, youngest
+3 CONT daughter of the late Michael Brennan Hart, Christchurch
+1 CHIL @I1764@
+1 CHIL @I1765@
 0 @F608@ FAM
 1 HUSB @I1284@
 1 WIFE @I1326@
@@ -41328,6 +41375,18 @@
 1 HUSB @I1763@
 1 CHIL @I998@
 1 SOUR https://www.familysearch.org/tree/person/details/9CXK-3D5
+0 @F737@ FAM
+1 HUSB @I1766@
+1 WIFE @I1765@
+1 MARR
+2 DATE 1932
+2 SOUR NZ BDM 1932/9510
+0 @F738@ FAM
+1 HUSB @I1764@
+1 WIFE @I1767@
+1 MARR
+2 DATE 1937
+2 SOUR NZ BDM 1937/7655
 0 @AG_S1@ SUBM
 1 NAME Anne /Galpin/
 1 NOTE Email May 2001 reference to Prouse Family Tree book written in 1998
