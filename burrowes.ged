@@ -28971,11 +28971,19 @@
 0 @I656@ INDI
 1 NAME Spencer /Chaplin/
 1 SEX M
+1 BIRT
+2 DATE 1908
+2 PLAC Marylebone, Middlesex, Eng
+1 DEAT Y
+1 SOUR https://www.familysearch.org/tree/person/sources/G7DY-K8C
 1 FAMC @F387@
 1 FAMS @F388@
 0 @I657@ INDI
 1 NAME May /Chaplin/
 1 SEX F
+1 BIRT
+2 DATE 16 jan 1916
+1 DEAT Y
 1 FAMC @F387@
 1 FAMS @F389@
 1 FAMS @F390@
