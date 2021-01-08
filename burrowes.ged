@@ -28467,8 +28467,11 @@
 1 FAMC @F732@
 1 FAMS @F363@
 0 @I573@ INDI
-1 NAME Millie /Burrowes/
+1 NAME Millicent Seys (Millie) /Burrowes/
 1 SEX F
+1 BIRT
+2 DATE ABT 1877
+2 SOUR British Guiana Colonists
 1 NOTE of Guatemala (at time of HAN's death, mentioned in his obit.)
 1 FAMC @F261@
 1 FAMS @F364@
@@ -28479,7 +28482,7 @@
 1 FAMC @F261@
 1 FAMS @F365@
 0 @I575@ INDI
-1 NAME Unknown /Honiball/
+1 NAME Oscar Dunscombe II /Honiball/
 1 SEX M
 1 NOTE of Guatemala (at time of HAN's death, mentioned in his obit.)
 1 FAMS @F364@
@@ -29255,6 +29258,10 @@
 0 @I701@ INDI
 1 NAME Marianne L /Alleyne/
 1 SEX F
+1 BIRT
+2 DATE ABT 1792
+2 PLAC Barbados
+2 SOUR Britist Guiana Colonists
 1 FAMC @FB1160@
 1 FAMS @F294@
 0 @I702@ INDI
@@ -31764,7 +31771,8 @@
 3 CONT is with child; daus Elizabeth Burrowes, Ruth Burrowes, Rebecca
 3 CONT Burrowes, and Rachell Burrowes all at 18 or day of marrioge; wf
 3 CONT Elizabeth Burrowes - Xtrx and Gdn; friends Richard Jackmon and 
-3 CONT Thomas Payne - Gdns. Signed James (x) Burrus
+3 CONT Thomas Payne - Gdns. 
+3 CONT Signed James (x) Burrus
 3 CONT Wit: John Bryan, John Grime
 3 CONT Proved 12 Oct 1702
 1 SOUR https://www.familysearch.org/tree/person/sources/9CXK-3D5
@@ -37432,8 +37440,22 @@
 0 @I1763@ INDI
 1 NAME John Burrowes
 1 SEX M
+1 SOUR In familysearch.org as father, but no source given
 1 DEAT
 2 DATE 1683
+2 NOTE Could be John's will.
+3 CONT St James Parish, 7 Aug 1683, RB6/12, p. 417
+3 CONT Abraham Burrows, Mary Burrows, Rachaell Burrows, James Burrows,
+3 CONT Elizabeth Burrows, & Dorothy Burrows, the chn of son Abraham
+3 CONT Burrowes; son Jacob Burrows - land in St James bounding the lands
+3 CONT of Sir Timothy Thornhill Baronet, Rose Ramsey, & Ann Horne; dau
+3 CONT Rebecca Rabnet; dau Rachaell Jackman; dau Mary Fitt; sons James
+3 CONT Burrows & John Burrows - 
+3 CONT Xtrs; friends James Wallwyn & Josais Cox
+3 CONT Esq - Supervisors. 
+3 CONT Signed John Burrowes
+3 CONT Wit: David Ramsay, Richd: Middleton, William Sinckler, Thomas Lance
+3 CONT Proved 20 Nov 1683
 1 FAMS @F736@
 0 @I1764@ INDI
 1 NAME Graham Brennan /Forbes/
