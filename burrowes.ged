@@ -26705,23 +26705,41 @@
 1 DEAT
 2 DATE 28 Mar 2002
 2 PLAC Palmerston North Hospital, PN, NZL
+2 SOUR NZ BDM 2002/7271
 2 AGE 73
 1 CREM
 2 DATE 3 Apr 2002
 2 PLAC Kelvin Grove, Palmerston North
 2 SOUR Palmerston North City Council Cemetery Records
 2 NOTE Funeral Director: R J Cotton.
-2 NOTE Record states ashes taken away, but also has Area B, Block 003, Plot 006 (his parent's grave)
+2 NOTE Record states ashes taken away. There is a plaque, Area B, Block 003, Plot 006 (his parent's grave), Kelvin Grove Cem. 
+3 CONT His ashes were later buried with his wife Barbara on the 11 Aug 2016 at Hamilton Park Cemetery, Hamilton, New Zealand.
 1 RESI
 2 ADDR 48 Buick Cres., Palmerston North, NZL
 1 FAMC @F113@
 1 FAMS @F273@
 0 @I360@ INDI
-1 NAME Barbara /UNKNOWN/
+1 NAME Barbara Ann /Hamblyn/
 1 SEX F
+1 BIRT
+2 DATE 8 Apr 1930
+2 PLAC Whangarei,  Northland, New Zealand
+1 DEAT
+2 DATE 5 Aug 2016
+2 AGE 86
+2 PLAC Hamilton, Waikato, New Zealand
+2 SOUR Death notice and NZ BDM 2016/20623
+2 NOTE McCONACHIE, Barbara Ann (nee Hamblyn):
+3 CONT On August 5, 2016 peacefully in Hamilton, aged 86 years. Dearly beloved wife of the late Donald. 
+3 CONT Much loved mother of Rachel and grandmother of Matthew and Tamsin. Loving sister of Jan-Louise and the late Chas and John.
+3 CONT An artist and Quaker who walked gently in the lives of others.
+3 CONT A service will be held at 1.00pm on Thursday August 11, at the Hamilton Park Cemetery Chapel, 
+3 CONT 395 Morrinsville Rd and, at Barbara's request, the Forest Grove Natural Burial Area nearby.
 1 RESI
 2 ADDR 48 Buick Cres. Palmerston North, NZL
 1 NOTE Reseaching BURROWES Family in British West Indies.
+1 FAMC @F740@
+1 FAMS @F739@
 1 FAMS @F273@
 0 @I361@ INDI
 1 NAME Rachel /ADAMS/
@@ -37490,6 +37508,51 @@
 1 NAME Doris Pretoria /Cribbs/
 1 SEX F
 1 FAMS @F738@
+0 @I1768@ INDI
+1 NAME Kenneth Lowell Oliver /Gillion/
+1 SEX M
+1 BIRT
+2 DATE 8 Feb 1929
+2 PLAC Palmerston North, Manawatu, New Zealand
+1 DEAT
+2 DATE 1 Dec 1992
+2 PLAC Freshwater Beach, Sydney, NSW, AU
+1 NOTE Parents Oliver William Gillion (1902-1980) and Jessie Helen McGregor (1907-1976)
+1 OCCU University Lecturer
+1 FAMS @F739@
+0 @I1769@ INDI
+1 NAME Charles James /Hamblyn/
+1 SEX M
+1 BIRT
+2 DATE 1895
+1 DEAT
+2 DATE 1959
+1 FAMS @F740@
+0 @I1770@ INDI
+1 NAME Annie Muriel /Rea/
+1 SEX F
+1 BIRT
+2 DATE 1900
+1 DEAT
+2 DATE 1990
+1 FAMS @F740@
+0 @I1771@ INDI
+1 NAME John Anthony /Hamblyn/
+1 SEX M
+1 BIRT
+2 DATE 1934
+1 DEAT
+2 DATE 1997
+1 FAMC @F740@
+0 @I1772@ INDI
+1 NAME Chas /Hamblyn/
+1 SEX M
+1 FAMC @F740@
+0 @I1773@ INDI
+1 NAME Jan-Louise /Hamblyn/
+1 SEX F
+1 BIRT
+1 FAMC @F740@
 0 @F1@ FAM
 1 HUSB @I1@
 1 WIFE @I2@
@@ -38489,6 +38552,9 @@
 0 @F273@ FAM
 1 HUSB @I359@
 1 WIFE @I360@
+1 MARR
+2 DATE 5 Feb 1977
+2 PLAC Palmerston North, Manawatu, New Zealand
 0 @F275@ FAM
 1 HUSB @I712@
 1 CHIL @IWS669@
@@ -41530,6 +41596,26 @@
 1 MARR
 2 DATE 1937
 2 SOUR NZ BDM 1937/7655
+0 @F739@ FAM
+1 HUSB @I1768@
+1 WIFE @I360@
+1 MARR
+2 DATE 1965
+1 DIV
+2 DATE BEF 1977
+0 @F740@ FAM
+1 HUSB @I1769@
+1 WIFE @I1770@
+1 CHIL @I360@
+1 CHIL @I1771@
+1 CHIL @I1772@
+1 CHIL @I1773@
+1 MARR
+2 DATE 1925
+2 PLAC NZL
+2 NOTE James, son of James Hamblyn and Edith Mary Stock
+3 CONT Annie, daug of Charles Rea and Annie ?
+2 SOUR familysearch.org
 0 @AG_S1@ SUBM
 1 NAME Anne /Galpin/
 1 NOTE Email May 2001 reference to Prouse Family Tree book written in 1998
