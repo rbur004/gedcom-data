@@ -1,7 +1,7 @@
 #!/usr/local/bin/ruby
 require 'gedcom'
 
-["burrowes.ged"].each do |source|
+["burrowes.ged", "Burrowes2.ged", "skinner.ged"].each do |source|
   puts "parse #{source}"
   g = Gedcom.file(__dir__ + '/' + source, "r:ASCII-8BIT") #OK with LF line endings.
   g.transmissions[0].summary
