@@ -187,7 +187,7 @@
 1 FAMS @FBI13@
 0 @IBI32@ INDI
 1 NAME John /Ferall/
-2 TITL Dr.
+2 NPFX Dr.
 1 SEX M
 1 FAMS @FBI14@
 0 @IBI33@ INDI
@@ -201,7 +201,7 @@
 1 FAMC @FBI11@
 0 @IBI34@ INDI
 1 NAME John /Burrowes/
-2 TITL Rev.
+2 NPFX Rev.
 1 SEX M
 1 NOTE of Prospect (were he had a school), Curate of Monkstown, co. Dublin
 1 BIRT
@@ -338,7 +338,7 @@
 1 FAMS @FBI21@
 0 @IBI51@ INDI
 1 NAME R. /Munchin/
-2 TITL Capt.
+2 NPFX Capt.
 1 SEX M
 1 FAMS @FBI22@
 0 @IBI52@ INDI
@@ -396,7 +396,7 @@
 1 FAMS @FBI28@
 0 @IBI61@ INDI
 1 NAME Thomas /Burrowes/
-2 TITL Col.
+2 NPFX Col.
 1 SEX M
 1 NOTE of Stradone House, co. Cavan, JP (1744), High Sheriff 1743
 1 DEAT
@@ -405,7 +405,7 @@
 1 FAMS @FBI32@
 0 @IBI62@ INDI
 1 NAME James /Borowes/
-2 TITL Lieut.
+2 NPFX Lieut.
 1 SEX M
 1 NOTE Lieut. Cavan Militia 1756 High Sheriff (1769)
 1 BIRT
@@ -422,9 +422,9 @@
 1 FAMS @FBI31@
 0 @IBI64@ INDI
 1 NAME Thomas /Nesbitt/
-2 TITL Col.
+2 NPFX Col.
 1 SEX M
-2 CONT MP, of Lismore House, co. Cavan
+1 NOTE MP, of Lismore House, co. Cavan
 1 FAMS @FBI30@
 0 @IBI65@ INDI
 1 NAME Unknown /Stock/
@@ -489,7 +489,7 @@
 1 FAMS @FBI34@
 0 @IBI74@ INDI
 1 NAME Unknown /Greenland/
-2 TITL Capt.
+2 NPFX Capt.
 1 SEX M
 1 FAMS @FBI35@
 0 @IBI75@ INDI
@@ -520,13 +520,13 @@
 1 FAMS @FBI36@
 0 @IBI77@ INDI
 1 NAME Richard /Beresford/
-2 TITL Col.
+2 NPFX Col.
 1 SEX M
 1 NOTE RHG of Fenny Bentley, Ashbourne, Derbys (See Burke's Peerage, Waterford, M)
 1 FAMS @FBI37@
 0 @IBI78@ INDI
 1 NAME Frances /Beresford/
-2 TITL Hon.
+2 NPFX Hon.
 1 SEX F
 1 NOTE 4th Daughter
 1 DEAT
@@ -534,13 +534,14 @@
 1 FAMC @FBI39@
 1 FAMS @FBI38@
 0 @IBI79@ INDI
-1 NAME Unknown /Beresford/
-2 TITL Most Rev. 1st Baron Decies, Archbishop of Tuam
+1 NAME William /Beresford/
+2 NPFX Most Rev. 1st Baron Decies, Archbishop of Tuam
 1 SEX M
 1 NOTE (See Burke's Peerage)
 1 FAMS @FBI39@
 0 @IBI80@ INDI
 1 NAME William Nesbitt /Burrowes/
+2 NPFX Colonel
 1 SEX M
 1 NOTE of Dangan Castle, co. Meath, (s. his father), Lt-Col. 17th Lancers
 1 FAMC @FBI38@
@@ -554,12 +555,45 @@
 1 FAMS @FBI40@
 1 FAMS @FBI41@
 0 @IBI82@ INDI
-1 NAME Unknown /Unknown/
-2 TITL 14th Earl of Perth
+1 NAME George /Drummond/
+2 NPFX Earl
 1 SEX M
 1 NOTE See Burke's Peerage
+1 BIRT
+2 DATE 6 May 1807
+2 PLAC London
 1 DEAT
 2 DATE 28 Feb 1902
+2 NOTE Obiturary Times 1 Mar 1902
+3 CONT The Earl of Perth on Melfort.
+3 CONT We have to announce the death, which occured early yesterday morning at the Cottage, Kew,
+3 CONT of the Early of Perth and Melfort, his Majesty's most aged peer, who had lived in the five
+3 CONT reigns. George Drummond, cheif of the Clan Drummond, Viscount Melfort and Forth Baron Drummond 
+3 CONT of Cargill, Baron Drummond of Stobhall and Montifex, and Baron Drummond o Richertoun, Castlemain,
+3 CONT and Galstoun, all in the peerage of Scotland; hereditary Thane of Lennox, and hereditary Steward
+3 CONT of the Menteith and Strathearn; Duc de Melfort, Comte de Lussan and Baron de Valrose in France,
+3 CONT was born in London on May 6 1807. Educated in France and Scotland, he joined the 93rd Sutherland 
+3 CONT Highlanders in 1824, and became a captain at 18. He succeeded his uncle  in the French honours
+3 CONT in 1840, and in 1841 established before the Conseil d'Etat in France and the Tribunal de la Seine
+3 CONT his pedigree from the Earls and Dukes of Perth and Melfort and his right of succession to the 
+3 CONT French honours of Duck of Melfort and Perth, Comte de Lussan and Baron de Valrose. The Scottish
+3 CONT earldoms of Perth and Melfort were restored to him by special command and recommedation of the 
+3 CONT late Queen Victoria by an Act of Parliment, which was unanimously passed by both Houses, and
+3 CONT received the Royal assent on June 28, 1853. Lord Perth was married, first in 1831, to the
+3 CONT Baroness Albertine de Rotberg, widow of General Comte Rapp, peer of France (she died in 1842); 
+3 CONT and secondly, in 1847, to Susan Henrietta, widow of Colonal Burrowes, of Dangan Castle, Meath,
+3 CONT and daughter of Mr Thomas Bermingham Sewell, of Athenry, by Harriett, his wife, daughter of 
+3 CONT Lord Decies, Archbishop of Tuam. Lady Edith Drummond, his daughter by his second marriage,
+3 CONT succeeds to the Earldom of Melfort and the French titles, his grandson by his first marriage,
+3 CONT Lord Drummond, having died unmarried in 1887. Viscount Strathallan, his kinsman, succeeds to the
+3 CONT title of Chief of the Clan and to the Barony of Drummond of 1487, and after having been served
+3 CONT heir will succeed to the Earldom of Perth. The Drummonds, according to unvarying tradition, are
+3 CONT of Hungarian origin, Maurice, the first of the family, who settled in Scotland, having come
+3 CONT over from that country with Edgar Atheling and Margaret, his sister, afterwards Queen of Scotland.
+3 CONT For many years the Earl of Perth was engaged in litigation, but without success, to recover
+3 CONT the old family estates. The late peer, who was the 14th Earl of Perth and 6th Earl of Melfort,
+3 CONT was a major of the Victoria Middlesex Rifles (Voluntear) form 1853 to 1859.
+1 FAMS @FBI61@
 1 FAMS @FBI41@
 0 @IBI83@ INDI
 1 NAME Thomas Bermingham Daly Henry /Sewell/
@@ -569,7 +603,7 @@
 1 FAMS @FBI42@
 0 @IBI84@ INDI
 1 NAME Harriet /Beresford/
-2 TITL Hon.
+2 NPFX Hon.
 1 SEX F
 1 NOTE 3rd Daughter
 1 FAMC @FBI39@
@@ -581,17 +615,22 @@
 1 FAMS @FBI43@
 0 @IBI86@ INDI
 1 NAME Auguste /De Cetto/
-2 TITL Baron
+2 NPFX Baron
 1 SEX M
 1 NOTE Bavarian Min to Court of St. James's
 1 FAMS @FBI43@
 0 @IBI87@ INDI
-1 NAME Unknown /de Cetto/
+1 NAME Antoine /de Cetto/
+2 NPFX Baron
 1 SEX M
+1 DEAT
+2 DATE 14 Feb 1906
+2 PLAC Rome
+2 SOUR Times 20 Feb 1906. Death Eldest Son ...
 1 FAMC @FBI43@
 0 @IBI88@ INDI
 1 NAME Arnold /Burrowes/
-2 TITL Rev
+2 NPFX Rev
 1 SEX M
 1 NOTE Sr Mil Chaplain at Bombay (HEICS), d.unm.
 1 BIRT
@@ -653,14 +692,14 @@
 1 FAMS @FBI46@
 0 @IBI96@ INDI
 1 NAME John /Wilkie/
-2 TITL Capt.
+2 NPFX Capt.
 1 NOTE 45th Bengal NI
 1 SEX M
 1 FAMC @FBI48@
 1 FAMS @FBI47@
 0 @IBI97@ INDI
 1 NAME David /Wilkie/
-2 TITL Sir
+2 NPFX Sir
 1 NOTE The painter.
 1 SEX M
 1 FAMC @FBI48@
@@ -688,7 +727,7 @@
 1 FAMS @FBI50@
 0 @IBI102@ INDI
 1 NAME William /Wade/
-2 TITL Rev.
+2 NPFX Rev.
 1 SEX M
 1 NOTE Rector of Dromore, co. Tyrone
 1 FAMS @FBI49@
@@ -699,7 +738,7 @@
 1 FAMS @FBI50@
 0 @IBI104@ INDI
 1 NAME Ven Joseph /Story/
-2 TITL Archdeacon of Kilmore
+2 NPFX Archdeacon of Kilmore
 1 SEX M
 1 NOTE see 1912 Edn, STORY of Bingfield
 1 FAMS @FBI51@
@@ -710,7 +749,7 @@
 1 FAMS @FBI52@
 0 @IBI106@ INDI
 1 NAME Thomas /Burrowes/
-2 TITL Major
+2 NPFX Major
 1 SEX M
 1 NOTE of Stradone House, co. Cavan, High Sheriff 1803
 1 BIRT
@@ -730,7 +769,7 @@
 1 FAMS @FBI53@
 0 @IBI108@ INDI
 1 NAME Henry /Seward/
-2 TITL Rev
+2 NPFX Rev
 1 SEX M
 1 NOTE of Badsey, Worcs.
 1 FAMS @FBI54@
@@ -767,7 +806,7 @@
 1 FAMS @FBI56@
 0 @IBI115@ INDI
 1 NAME George /Gore/
-2 TITL Very Rev. Hon.
+2 NPFX Very Rev. Hon.
 1 SEX M
 1 NOTE 3rd Son, KP (see Burke's Peerage)
 1 DEAT
@@ -776,7 +815,7 @@
 1 FAMS @FBI57@
 0 @IBI116@ INDI
 1 NAME Unknown /Gore/
-2 TITL Earl of Arran
+2 NPFX Earl of Arran
 1 SEX M
 1 NOTE  (see Burke's Peerage)
 1 FAMS @FBI58@
@@ -797,7 +836,7 @@
 3 CONT Whose death is recorded to-day as having happend a few
 3 CONT days since at his seat in Ireland, in the 72d year of his
 3 CONT age, was the eldest son of the late Major Thomas Burrowes,
-3 CONT of Stradone, by his marriag with Susan, daughter of the
+3 CONT of Stradone, by his marriage with Susan, daughter of the
 3 CONT Rev. Henry Seward, of Badsey, Warwickshire. He war born in
 3 CONT the year 1810, and was educated at Harrow, and subsequently
 3 CONT at Magdalen College Cambridge. He was a magstrate and
@@ -819,6 +858,45 @@
 1 SEX M
 1 FAMS @FBI60@
 1 SOUR Obituary of Son inlaw Robert Burrowes
+0 @IBI121@ INDI
+1 NAME Albertine /de Rotberg-Coligny/
+2 NPFX Baroness
+1 SEX F
+1 DEAT
+2 DATE 1 Jun 1842
+2 SOUR Obituary of 2nd husband
+1 NOTE Parents Fredrich August de Rotberg and Paulette Waldner von Freund-stein-Sandersleben-Caligny de Sierentz
+1 FAMS @FBI62@
+1 FAMS @FBI61@
+0 @IBI122@ INDI
+1 NAME Jean comte /Rapp/
+2 NPFX General
+1 SEX M
+1 BIRT
+2 DATE 27 Jul 1771
+1 DEAT
+2 DATE 8 Nov 1821
+2 SOUR Obituary of 2nd wife's 2nd husband
+1 FAMS @FBI63@
+1 FAMS @FBI62@
+0 @IBI123@ INDI
+1 NAME Barbe Rosalie Josephine /Vanlerberghe de Busigny/
+1 SEX F
+1 BIRT
+2 DATE 1790
+1 DEAT
+2 DATE 1879
+1 NOTE Parents Ignance-Joseph Vanlerberghe and Barbe-Rosalie Lemaire
+1 FAMS @FBI63@
+0 @IBI124@ INDI
+1 NAME Elizabeth /FitzGibbon/
+1 SEX F
+1 BIRT
+2 DATE 1732
+1 DEAT
+2 DATE 1807
+1 NOTE Daughter of John FitzGibbon and Isabella Grove
+1 FAMS @FBI39@
 0 @FBI1@ FAM
 1 HUSB @IBI1@
 1 WIFE @IBI2@
@@ -1017,9 +1095,12 @@
 2 DATE 1797
 0 @FBI39@ FAM
 1 HUSB @IBI79@
+1 WIFE @IBI124@
 1 CHIL @IBI84@
 1 CHIL @IBI78@
-2 NOTE Only child
+1 MARR
+2 DATE 16 Jun 1763
+1 NCHI 6
 0 @FBI40@ FAM
 1 HUSB @IBI80@
 1 WIFE @IBI81@
@@ -1032,6 +1113,8 @@
 0 @FBI42@ FAM
 1 HUSB @IBI83@
 1 WIFE @IBI84@
+1 MARR
+2 DATE 25 Jan 1796
 1 CHIL @IBI81@
 0 @FBI43@ FAM
 1 HUSB @IBI86@
@@ -1107,4 +1190,19 @@
 0 @FBI60@ FAM
 1 HUSB @IBI120@
 1 CHIL @IBI119@
+0 @FBI61@ FAM
+1 HUSB @IBI82@
+1 WIFE @IBI121@
+0 @FBI62@ FAM
+1 HUSB @IBI122@
+1 WIFE @IBI121@
+1 MARR
+2 DATE 22 Jan 1816
+0 @FBI63@ FAM
+1 HUSB @IBI122@
+1 WIFE @IBI123@
+1 MARR
+2 DATE 1805
+1 DIV
+2 DATE 1811
 0 TRLR
