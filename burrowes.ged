@@ -37533,8 +37533,10 @@
 1 SEX F
 1 BIRT
 2 DATE 1900
+1 SOUR NZ BDM 1900/16128
 1 DEAT
 2 DATE 1990
+1 NOTE Likely sister Myra Josephine, NZ BDM 1897/17599
 1 FAMS @F740@
 0 @I1771@ INDI
 1 NAME John Anthony /Hamblyn/
@@ -37551,7 +37553,6 @@
 0 @I1773@ INDI
 1 NAME Jan-Louise /Hamblyn/
 1 SEX F
-1 BIRT
 1 FAMC @F740@
 0 @F1@ FAM
 1 HUSB @I1@
@@ -41614,8 +41615,8 @@
 2 DATE 1925
 2 PLAC NZL
 2 NOTE James, son of James Hamblyn and Edith Mary Stock
-3 CONT Annie, daug of Charles Rea and Annie ?
-2 SOUR familysearch.org
+3 CONT Annie, dau. of Charles Rea and Annie ?
+2 SOUR familysearch.org; also NZ BDM 1925/521
 0 @AG_S1@ SUBM
 1 NAME Anne /Galpin/
 1 NOTE Email May 2001 reference to Prouse Family Tree book written in 1998
