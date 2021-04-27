@@ -37554,6 +37554,33 @@
 1 NAME Jan-Louise /Hamblyn/
 1 SEX F
 1 FAMC @F740@
+0 @I1774@ INDI
+1 NAME Walter Douglas /McConachie/
+1 SEX
+1 BIRT
+2 DATE 3 May 1931
+2 PLAC Bulls, NZL
+1 DEAT
+2 DATE 23 Sep 2012
+2 PLAC Palmerston North, NZL
+2 NOTE McConnachie, Walter Douglas (Doug), Regt. No. 646041, L/Bdr, 16 Field Regiment K Force. -
+3 CONT Passed away, peacefully, at home, surrounded by his family, on Sunday, September 23 2012, aged
+3 CONT 81 years. Dearly beloved husband and friend of Hazel for 53 years. Cherised Dad of David and 
+3 CONT Susan (Wellington), Katrina and Michael Johnson (Australia), Heather and Alison. Loved Granddad
+3 CONT of his much adored granddaughters Sinead and Natasha (Australia). Special 'Dad' to Glenna and 
+3 CONT Michoel Lester, and Kirsty Cole (Nelson). In Lieu of flowers, donations to Arohanui Hospice and/or
+3 CONT the RSA Welfare Fund, which may be left in the Chapel foyer. Messages to Mrs H McConachie, C/- PO
+3 CONT Box 5191, Palmerston North 4414. A service for Doug will be held in the Terracehaven Chapel 697
+3 CONT Main Street, Palmerston North, on Friday September 28, 2012 at 1.30pm, followed by interment at 
+3 CONT the Kelvin Grove Cemetery. Robert J. Cotton & Sons
+2 NOTE McConachie, Walter Douglas (Doug). Beloved son of Walter and Maude (Both deceased).
+3 CONT Brother and brother in-law of Nancy and Phil Soper (deceased), Donald (deceased) and Barbara
+3 CONT (Hamilton), Colin and Bev (Auckland), Doug and Gail Bayne (Motueka), Myrtle and Brian Jones
+3 CONT (both deceased), Kevin and Coleen Bayne (Dunedin). Loved uncle and great uncle of this many
+3 CONT nieces and nephews
+1 BURI
+2 PLAC Kelvin Grove Cemetery, Palmerston North, NZL
+1 FAMC @F113@
 0 @F1@ FAM
 1 HUSB @I1@
 1 WIFE @I2@
@@ -38025,6 +38052,7 @@
 1 HUSB @I112@
 1 WIFE @I96@
 1 CHIL @I359@
+1 CHIL @I1774@
 1 MARR
 2 DATE 27 Oct 1924
 2 PLAC Residence of Edwin F. Burrowes (father), Sanson.
