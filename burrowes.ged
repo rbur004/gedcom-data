@@ -26188,7 +26188,22 @@
 1 FAMS @F255@
 0 @I259@ INDI
 1 SEX M
-1 NAME Eric Kaye /DAVEY/
+1 NAME Eric Kaye /DAVY/
+1 BIRT
+2 DATE 17 Nov 1945
+1 DEAT
+2 DATE 4 Jun 2021
+2 PLAC Nelson, NZL
+2 NOTE DAVY, Eric:
+3 CONT November 17, 1945 - June 4, 2021
+3 CONT It is with deep sorrow that we announce the sudden passing of Eric Kay Davy in Nelson on June 4, 2021, aged 76 years. 
+3 CONT Beloved husband and soulmate to Diane Davy, married for 54 years. Loving father and father-in-law to Darrin, Mark, Amanda 
+3 CONT and father-in-law Brett, Michelle, and Lina. Adored pop to Aaron, Liam, Logan, Cole, Madison, Daniel, Regan and Dylan.
+3 CONT  Eric served his community for 41 years in the Ministry of Transport in Road Policing and three terms as a Nelson City councillor
+3 CONT  - a passionate man who always wanted to help people and his community.
+3 CONT A true scholar and gentlemen, your warmth and kindness will always surround us and our special memories will 
+3 CONT forever be in our hearts. Family and friends are invited to a celebration of Eric's life that will be 
+3 CONT held at the Headingly Centre, 2 Headingly Lane, Richmond, on Saturday, June 12, 2021 at 1.30pm. 
 1 FAMS @F255@
 0 @I300@ INDI
 1 NAME Sheryle Kay /HORRIDGE/
@@ -26920,17 +26935,17 @@
 1 FAMS @F283@
 1 NOTE This is guess work
 0 @I380@ INDI
-1 NAME Mark /DAVEY/
+1 NAME Mark /DAVY/
 1 SEX M
 1 FAMC @F255@
 1 FAMS @F285@
 0 @I381@ INDI
-1 NAME Daren /DAVEY/
+1 NAME Daren /DAVY/
 1 SEX M
 1 FAMC @F255@
 1 FAMS @F286@
 0 @I382@ INDI
-1 NAME Amanda /DAVEY/
+1 NAME Amanda /DAVY/
 1 SEX F
 1 ADOP
 1 FAMC @F255@
